@@ -1,7 +1,52 @@
 {
   "date": "2026-11-02",
-  "updated": "13:55",
+  "updated": "15:02",
   "items": [
+    {
+      "title": "PS & B - ESTATE MANAGEMENT LIMITED – winding up orders made",
+      "link": "https://www.gov.uk/government/news/ps-b-estate-management-limited-winding-up-order-made",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:50",
+      "ts": "2026-11-02T14:50:42+05:30"
+    },
+    {
+      "title": "MHRA launches patient safety essay competition for MedSafetyWeek",
+      "link": "https://www.gov.uk/government/news/mhra-launches-patient-safety-essay-competition-for-medsafetyweek",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:44",
+      "ts": "2026-11-02T14:44:33+05:30"
+    },
+    {
+      "title": "IPO campaign launched as toxins found in counterfeit beauty products",
+      "link": "https://www.gov.uk/government/news/ipo-campaign-launched-as-toxins-found-in-counterfeit-beauty-products",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-02T14:30:04+05:30"
+    },
+    {
+      "title": "Appointments to the Northern Ireland Food Advisory Committee",
+      "link": "https://www.gov.uk/government/news/appointments-to-the-northern-ireland-food-advisory-committee",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-02T14:30:03+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने भारत के स्वच्छ ऊर्जा परिवर्तन में सौर ऊर्जा की भूमिका पर एक लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331502",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:04",
+      "ts": "2026-11-02T13:04:00+05:30"
+    },
     {
       "title": "वायु सेना के स्कूलों ने बच्चों की डिजिटल सुरक्षा के लिए कार्यक्रम को अपनाया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331467",
@@ -10,6 +55,15 @@
       "category": "Government",
       "time": "12:54",
       "ts": "2026-11-02T12:54:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने दृढ़ संकल्प और निरंतर प्रयासों के महत्व को रेखांकित करने वाले संस्कृत सुभाषित को साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331498",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:35",
+      "ts": "2026-11-02T12:35:00+05:30"
     },
     {
       "title": "डीपीआईआईटी ने कार्यालयों में स्वच्छता को संस्थागत रूप देने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 का क्रियान्वयन किया",
@@ -55,6 +109,15 @@
       "ts": "2026-11-02T10:47:00+05:30"
     },
     {
+      "title": "भगवान बुद्ध के पवित्र अवशेष तवांग मठ पहुंचे; यह प्रदर्शनी अरुणाचल प्रदेश की बौद्ध विरासत में विशेष अवसर है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331499",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:37",
+      "ts": "2026-11-02T09:37:00+05:30"
+    },
+    {
       "title": "वाणिज्य सचिव श्री राजेश अग्रवाल ने ब्रुसेल्स में यूरोपीय आयोग के अधिकारियों और उद्योग प्रतिनिधियों के साथ उच्च स्तरीय बैठकें कीं",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331382",
       "source": "PIB (Govt. of India) - English",
@@ -93,7 +156,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 11,
       "note": ""
     },
     {
@@ -132,7 +195,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 107,
+      "entries": 109,
       "today": 0,
       "note": ""
     },
@@ -149,7 +212,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 6,
       "note": ""
     },
     {
@@ -244,6 +307,34 @@
       "category": "Government",
       "time": "11:37",
       "ts": "2026-11-02T11:37:00+05:30"
-    }
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331502": {
+      "title": "प्रधानमंत्री ने भारत के स्वच्छ ऊर्जा परिवर्तन में सौर ऊर्जा की भूमिका पर एक लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331502",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:04",
+      "ts": "2026-11-02T13:04:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331498": {
+      "title": "प्रधानमंत्री ने दृढ़ संकल्प और निरंतर प्रयासों के महत्व को रेखांकित करने वाले संस्कृत सुभाषित को साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331498",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:35",
+      "ts": "2026-11-02T12:35:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331499": {
+      "title": "भगवान बुद्ध के पवित्र अवशेष तवांग मठ पहुंचे; यह प्रदर्शनी अरुणाचल प्रदेश की बौद्ध विरासत में विशेष अवसर है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331499",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:37",
+      "ts": "2026-11-02T09:37:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331486": null
   }
 }
