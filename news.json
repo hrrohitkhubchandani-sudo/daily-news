@@ -1,7 +1,43 @@
 {
   "date": "2026-11-02",
-  "updated": "12:29",
+  "updated": "13:55",
   "items": [
+    {
+      "title": "वायु सेना के स्कूलों ने बच्चों की डिजिटल सुरक्षा के लिए कार्यक्रम को अपनाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331467",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:54",
+      "ts": "2026-11-02T12:54:00+05:30"
+    },
+    {
+      "title": "डीपीआईआईटी ने कार्यालयों में स्वच्छता को संस्थागत रूप देने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 का क्रियान्वयन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331462",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:17",
+      "ts": "2026-11-02T12:17:00+05:30"
+    },
+    {
+      "title": "आत्मनिर्भर भारत: रक्षा मंत्रालय ने भारतीय नौसेना के लिए 8 नेक्स्ट",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331461",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:53",
+      "ts": "2026-11-02T11:53:00+05:30"
+    },
+    {
+      "title": "अक्टूबर 2026 में कैप्टिव और वाणिज्यिक कोयला खदानों से उत्पादन एवं प्रेषण में वृद्धि",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331446",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:37",
+      "ts": "2026-11-02T11:37:00+05:30"
+    },
     {
       "title": "ग्रामीण विकास मंत्रालय ने वीबी-जी राम जी अधिनियम के तहत शिकायत निवारण नियम, 2026 अधिसूचित किए",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331400",
@@ -57,7 +93,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 8,
       "note": ""
     },
     {
@@ -96,7 +132,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 109,
+      "entries": 107,
       "today": 0,
       "note": ""
     },
@@ -172,6 +208,42 @@
       "category": "Government",
       "time": "11:16",
       "ts": "2026-11-02T11:16:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331467": {
+      "title": "वायु सेना के स्कूलों ने बच्चों की डिजिटल सुरक्षा के लिए कार्यक्रम को अपनाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331467",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:54",
+      "ts": "2026-11-02T12:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331462": {
+      "title": "डीपीआईआईटी ने कार्यालयों में स्वच्छता को संस्थागत रूप देने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 का क्रियान्वयन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331462",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:17",
+      "ts": "2026-11-02T12:17:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331461": {
+      "title": "आत्मनिर्भर भारत: रक्षा मंत्रालय ने भारतीय नौसेना के लिए 8 नेक्स्ट",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331461",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:53",
+      "ts": "2026-11-02T11:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331446": {
+      "title": "अक्टूबर 2026 में कैप्टिव और वाणिज्यिक कोयला खदानों से उत्पादन एवं प्रेषण में वृद्धि",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331446",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:37",
+      "ts": "2026-11-02T11:37:00+05:30"
     }
   }
 }
