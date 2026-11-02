@@ -1,7 +1,25 @@
 {
   "date": "2026-11-02",
-  "updated": "20:26",
+  "updated": "21:20",
   "items": [
+    {
+      "title": "The Secretary of State Extends Transitional Provision",
+      "link": "https://www.gov.uk/government/news/the-secretary-of-state-extends-transitional-provision",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:16",
+      "ts": "2026-11-02T21:16:18+05:30"
+    },
+    {
+      "title": "New COOs appointed by government agency",
+      "link": "https://www.gov.uk/government/news/new-coos-appointed-by-government-agency",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:07",
+      "ts": "2026-11-02T21:07:58+05:30"
+    },
     {
       "title": "Suspended prison sentence for rogue skip hire operator",
       "link": "https://www.gov.uk/government/news/suspended-prison-sentence-for-rogue-skip-hire-operator",
@@ -37,6 +55,15 @@
       "category": "Government",
       "time": "19:32",
       "ts": "2026-11-02T19:32:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने भारत नवीकरणीय ऊर्जा शिखर सम्मेलन एवं एक्सपो 2026 का उद्घाटन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331787",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:15",
+      "ts": "2026-11-02T19:15:00+05:30"
     },
     {
       "title": "UK-Morocco Association Council 2025: Joint Communique",
@@ -327,24 +354,6 @@
       "ts": "2026-11-02T15:36:00+05:30"
     },
     {
-      "title": "Elective home education and children missing education data collection: grant determination",
-      "link": "https://www.gov.uk/government/publications/elective-home-education-and-children-missing-education-data-collection-grant-determination",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:30",
-      "ts": "2026-11-02T15:30:01+05:30"
-    },
-    {
-      "title": "Shamonda virus detected in livestock in Great Britain for first time",
-      "link": "https://www.gov.uk/government/news/shamonda-virus-detected-in-livestock-in-great-britain-for-first-time",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:30",
-      "ts": "2026-11-02T15:30:01+05:30"
-    },
-    {
       "title": "लोक सभा अध्यक्ष ने जनप्रतिनिधियों से लोकतंत्र की मजबूती के लिए असहमति का सम्मान करने का आह्वान किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331584",
       "source": "PIB, Government of India (Hindi)",
@@ -361,15 +370,6 @@
       "category": "Government",
       "time": "14:59",
       "ts": "2026-11-02T14:59:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने राजस्थान के झुंझुनू में हुए हादसे में लोगों की मृत्यु पर शोक जताया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331518",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:32",
-      "ts": "2026-11-02T14:32:00+05:30"
     }
   ],
   "health": [
@@ -764,6 +764,15 @@
       "category": "Government",
       "time": "16:50",
       "ts": "2026-11-02T16:50:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331787": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने भारत नवीकरणीय ऊर्जा शिखर सम्मेलन एवं एक्सपो 2026 का उद्घाटन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331787",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:15",
+      "ts": "2026-11-02T19:15:00+05:30"
     }
   }
 }
