@@ -1,0 +1,86 @@
+{
+  "_help": "Each source needs: id, name, country, category, url, domains, date_mode. date_mode is 'feed' if the feed has dates, or 'page' if the script must open each page to read its date. Set enabled to false to switch a source off.",
+  "sources": [
+    {
+      "id": "pib-hi",
+      "name": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3",
+      "domains": ["pib.gov.in"],
+      "date_mode": "page"
+    },
+    {
+      "id": "un-top",
+      "name": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "domains": ["news.un.org", "un.org"],
+      "date_mode": "feed"
+    },
+    {
+      "id": "un-health",
+      "name": "UN News: Health",
+      "country": "World",
+      "category": "Health",
+      "url": "https://news.un.org/feed/subscribe/en/news/topic/health/feed/rss.xml",
+      "domains": ["news.un.org", "un.org"],
+      "date_mode": "feed"
+    },
+    {
+      "id": "un-climate",
+      "name": "UN News: Climate change",
+      "country": "World",
+      "category": "Climate",
+      "url": "https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml",
+      "domains": ["news.un.org", "un.org"],
+      "date_mode": "feed"
+    },
+    {
+      "id": "un-peace",
+      "name": "UN News: Peace and security",
+      "country": "World",
+      "category": "Security",
+      "url": "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml",
+      "domains": ["news.un.org", "un.org"],
+      "date_mode": "feed"
+    },
+    {
+      "id": "who",
+      "name": "World Health Organization: News",
+      "country": "World",
+      "category": "Health",
+      "url": "https://www.who.int/rss-feeds/news-english.xml",
+      "domains": ["who.int"],
+      "date_mode": "feed"
+    },
+    {
+      "id": "usgs-quakes",
+      "name": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.atom",
+      "domains": ["earthquake.usgs.gov", "usgs.gov"],
+      "date_mode": "feed"
+    },
+    {
+      "id": "uk-gov",
+      "name": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "url": "https://www.gov.uk/search/news-and-communications.atom",
+      "domains": ["gov.uk"],
+      "date_mode": "feed"
+    },
+    {
+      "id": "us-fed",
+      "name": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "domains": ["federalreserve.gov"],
+      "date_mode": "feed"
+    }
+  ]
+}
