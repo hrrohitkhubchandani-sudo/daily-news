@@ -1,37 +1,31 @@
 """
-Fetches headlines ONLY from an allowlist of official sources.
-PIB's feed has no dates, so for every new item we open the official
-release page and read its "Posted On" date. Only items confirmed as
-posted TODAY (India time) are kept. Nothing is written by AI.
+Worldwide official-news collector.
+Reads sources.json (an allowlist of official sources), keeps only items
+published TODAY (India time), and writes news.json. Nothing is written
+by AI: each item is the source's own headline plus a link to the original.
 """
 import json
-import os
 import re
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timezone
 from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
 import feedparser
 
 IST = ZoneInfo("Asia/Kolkata")
-MAX_NEW_PAGES_PER_RUN = 60
+MAX_PER_SOURCE = 30          # newest items kept per source per day
+MAX_NEW_PAGES_PER_RUN = 60   # polite limit for sources that need page-opening
 
-SOURCES = [
-    {
-        "name": "PIB (Govt. of India) - English",
-        "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-        "domains": ["pib.gov.in"],
-    },
-    {
-        "name": "PIB (Govt. of India) - Hindi",
-        "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=2&Regid=3",
-        "domains": ["pib.gov.in"],
-    },
-]
-
-# Matches e.g. "02 NOV 2026 10:45AM" or "2 Nov 2026 10:45 AM"
 DATE_RE = re.compile(r"(\d{1,2})\s+([A-Za-z]{3})\s+(\d{4})\s+(\d{1,2}):(\d{2})\s*([AaPp][Mm])")
+
+
+def load_json(path):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
 
 
 def domain_ok(link, allowed):
@@ -46,7 +40,6 @@ def get_page(url):
 
 
 def posted_time(html):
-    """Return the first 'DD MON YYYY HH:MMAM' found on the page, as an IST datetime."""
     m = DATE_RE.search(html)
     if not m:
         return None
@@ -59,64 +52,89 @@ def posted_time(html):
     return dt.replace(tzinfo=IST)
 
 
-def load_old(path="news.json"):
-    try:
-        with open(path, encoding="utf-8") as f:
-            return json.load(f)
-    except Exception:
-        return {}
+def make_item(src, title, link, when):
+    return {"title": title, "link": link, "source": src["name"], "country": src["country"],
+            "category": src["category"], "time": when.strftime("%H:%M"), "ts": when.isoformat()}
 
 
-def collect(now_ist=None, fetch=get_page, old=None):
+def collect(now_ist=None, fetch=get_page, old=None, sources=None):
     now_ist = now_ist or datetime.now(IST)
     today = now_ist.date().isoformat()
-    old = old if old is not None else load_old()
-    # Remember pages already checked today (link -> item dict, or None if not today)
+    old = old if old is not None else load_json("news.json")
+    sources = sources if sources is not None else load_json("sources.json").get("sources", [])
     checked = old.get("checked", {}) if old.get("date") == today else {}
 
-    errors, entries = [], []
-    for src in SOURCES:
-        feed = feedparser.parse(src["url"], agent="DailyOfficialNews/1.0")
-        if not feed.entries:
-            errors.append(f"No entries from {src['name']}")
+    items, health, pages_fetched = [], [], 0
+    for src in sources:
+        if src.get("enabled", True) is False:
             continue
+        h = {"name": src["name"], "country": src["country"], "ok": False, "entries": 0, "today": 0, "note": ""}
+        try:
+            feed = feedparser.parse(src["url"], agent="DailyOfficialNews/1.0")
+        except Exception as ex:
+            h["note"] = f"error: {ex}"
+            health.append(h)
+            continue
+        if not feed.entries:
+            h["note"] = "no entries returned (address may be wrong or blocked)"
+            health.append(h)
+            continue
+        h["ok"], h["entries"] = True, len(feed.entries)
+        found, undated = [], 0
+
         for e in feed.entries:
             title = (e.get("title") or "").strip()
             link = (e.get("link") or "").strip()
-            if title and link and domain_ok(link, src["domains"]):
-                entries.append((src["name"], title, link))
+            if not title or not link or not domain_ok(link, src["domains"]):
+                continue
+            if src.get("date_mode") == "page":
+                if link not in checked:
+                    if pages_fetched >= MAX_NEW_PAGES_PER_RUN:
+                        continue
+                    pages_fetched += 1
+                    try:
+                        when = posted_time(fetch(link))
+                    except Exception:
+                        continue                       # try again next run
+                    if when and when.date().isoformat() == today:
+                        checked[link] = make_item(src, title, link, when)
+                    else:
+                        checked[link] = None
+                        if when is None:
+                            undated += 1
+                if checked.get(link):
+                    found.append(checked[link])
+            else:
+                stamp = e.get("published_parsed") or e.get("updated_parsed")
+                if not stamp:
+                    undated += 1
+                    continue
+                when = datetime(*stamp[:6], tzinfo=timezone.utc).astimezone(IST)
+                if when.date().isoformat() == today:
+                    found.append(make_item(src, title, link, when))
 
-    fetched, no_date = 0, 0
-    for name, title, link in entries:
-        if link in checked:
-            continue
-        if fetched >= MAX_NEW_PAGES_PER_RUN:
-            break
-        fetched += 1
-        try:
-            when = posted_time(fetch(link))
-        except Exception as ex:
-            errors.append(f"Could not open {link}: {ex}")
-            continue                          # try again next run
-        if when is None:
-            no_date += 1
-            checked[link] = None              # date not found = never shown
-        elif when.date().isoformat() == today:
-            checked[link] = {"title": title, "link": link, "source": name,
-                             "time": when.strftime("%H:%M"), "ts": when.isoformat()}
-        else:
-            checked[link] = None              # older than today = never shown
+        found.sort(key=lambda i: i["ts"], reverse=True)
+        found = found[:MAX_PER_SOURCE]
+        h["today"] = len(found)
+        if undated:
+            h["note"] = f"{undated} items had no readable date and were skipped"
+        items.extend(found)
+        health.append(h)
 
-    if no_date:
-        errors.append(f"{no_date} pages had no readable date and were skipped")
-
-    items = sorted([v for v in checked.values() if v], key=lambda i: i["ts"], reverse=True)
-    return {"date": today, "updated": now_ist.strftime("%H:%M"),
-            "items": items, "errors": errors, "checked": checked}
+    seen, unique = set(), []
+    for i in sorted(items, key=lambda i: i["ts"], reverse=True):
+        if i["link"] not in seen:
+            seen.add(i["link"])
+            unique.append(i)
+    return {"date": today, "updated": now_ist.strftime("%H:%M"), "items": unique,
+            "health": health, "checked": checked}
 
 
 if __name__ == "__main__":
     data = collect()
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"{len(data['items'])} items for {data['date']}; errors: {data['errors']}")
+    ok = sum(1 for h in data["health"] if h["ok"])
+    print(f"{len(data['items'])} items for {data['date']}; {ok}/{len(data['health'])} sources reachable")
+    for h in data["health"]:
+        print(("OK  " if h["ok"] else "FAIL"), h["name"], h["today"], h["note"])
