@@ -1,7 +1,34 @@
 {
   "date": "2026-11-02",
-  "updated": "21:20",
+  "updated": "22:21",
   "items": [
+    {
+      "title": "Home Secretary unveils new rules for migrants settling in the UK",
+      "link": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:56",
+      "ts": "2026-11-02T21:56:00+05:30"
+    },
+    {
+      "title": "Government announces new commissioner and interim chair to the Social Mobility Commission",
+      "link": "https://www.gov.uk/government/news/government-announces-new-commissioner-and-interim-chair-to-the-social-mobility-commission",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:39",
+      "ts": "2026-11-02T21:39:56+05:30"
+    },
+    {
+      "title": "HM Land Registry publishes new avoidable requisitions data to help cut delays",
+      "link": "https://www.gov.uk/government/news/hm-land-registry-publishes-new-avoidable-requisitions-data-to-help-cut-delays",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:24",
+      "ts": "2026-11-02T21:24:27+05:30"
+    },
     {
       "title": "The Secretary of State Extends Transitional Provision",
       "link": "https://www.gov.uk/government/news/the-secretary-of-state-extends-transitional-provision",
@@ -21,6 +48,24 @@
       "ts": "2026-11-02T21:07:58+05:30"
     },
     {
+      "title": "संघ लोक सेवा आयोग संयुक्त रक्षा सेवा परीक्षा (I), 2026 — का अंतिम परिणाम घोषित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331828",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:27",
+      "ts": "2026-11-02T20:27:00+05:30"
+    },
+    {
+      "title": "कोयला मंत्रालय ने स्टार रेटिंग प्रोग्राम (वित्त वर्ष-2024-25) के तहत कोयला खदानों के उत्कृष्ट प्रदर्शन को सराहा; 50 खदानों को फाइव-स्टार रेटिंग प्राप्त हुई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331826",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:19",
+      "ts": "2026-11-02T20:19:00+05:30"
+    },
+    {
       "title": "Suspended prison sentence for rogue skip hire operator",
       "link": "https://www.gov.uk/government/news/suspended-prison-sentence-for-rogue-skip-hire-operator",
       "source": "GOV.UK: News and communications",
@@ -28,6 +73,15 @@
       "category": "Government",
       "time": "20:18",
       "ts": "2026-11-02T20:18:34+05:30"
+    },
+    {
+      "title": "माय भारत के विकसित भारत युवा संवाद: अपना वोट जानें अभियान के तहत 20 राज्यों और केंद्रशासित प्रदेशों में 60 कार्यक्रमों के माध्यम से 11,800 से अधिक युवा जुड़े",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331825",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:16",
+      "ts": "2026-11-02T20:16:00+05:30"
     },
     {
       "title": "UK moves closer to launching first digitally native government bond",
@@ -46,6 +100,24 @@
       "category": "Government",
       "time": "20:06",
       "ts": "2026-11-02T20:06:58+05:30"
+    },
+    {
+      "title": "एमएसडीई ने 19 संस्थानों को कौशल उत्कृष्टता केंद्रों के रूप में पैनलबद्ध किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331823",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:03",
+      "ts": "2026-11-02T20:03:00+05:30"
+    },
+    {
+      "title": "भारी उद्योग मंत्रालय तथा उसके केंद्रीय सार्वजनिक क्षेत्र के उद्यमों और स्वायत्त निकायों में बकाया मामलों के निपटान के लिए ‘विशेष अभियान 6’ संपन्न",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331824",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:56",
+      "ts": "2026-11-02T19:56:00+05:30"
     },
     {
       "title": "केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने की देश में कृषि क्षेत्र की स्थिति की समग्र समीक्षा, किसानों को समय पर हरसंभव मदद के दिए निर्देश",
@@ -73,6 +145,15 @@
       "category": "Government",
       "time": "19:11",
       "ts": "2026-11-02T19:11:27+05:30"
+    },
+    {
+      "title": "“लैंगिक आंकड़े और सांख्यिकी: साक्ष्य से नीतिगत अंतर्दृष्टि तक” विषय पर राष्ट्रीय सम्मेलन | एमओएसपीआई और यूएन विमेन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331822",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:04",
+      "ts": "2026-11-02T19:04:00+05:30"
     },
     {
       "title": "‘No Place for Knives’ campaign launches in knife crime hotspots",
@@ -273,24 +354,6 @@
       "ts": "2026-11-02T16:17:00+05:30"
     },
     {
-      "title": "अखिल विश्व गायत्री परिवार शताब्दी समारोह में नशामुक्त भारत के लिए सामूहिक संकल्प",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331675",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:16",
-      "ts": "2026-11-02T16:16:00+05:30"
-    },
-    {
-      "title": "संस्कृति मंत्रालय ने स्वच्छता को संस्थागत रूप देने और कार्यालयों में लंबित मामलों को कम करने पर केंद्रित विशेष अभियान 6.0 पूरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331641",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:07",
-      "ts": "2026-11-02T16:07:00+05:30"
-    },
-    {
       "title": "VICH consultation relating to validation of analytical methods used in residue depletion studies",
       "link": "https://www.gov.uk/government/news/vich-consultation-relating-to-validation-of-analytical-methods-used-in-residue-depletion-studies",
       "source": "GOV.UK: News and communications",
@@ -307,69 +370,6 @@
       "category": "Government",
       "time": "16:00",
       "ts": "2026-11-02T16:00:05+05:30"
-    },
-    {
-      "title": "Driver Welfare, Safety and Compliance: A Traffic Commissioners’ View",
-      "link": "https://www.gov.uk/government/news/driver-welfare-safety-and-compliance-a-traffic-commissioners-view",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:00",
-      "ts": "2026-11-02T16:00:05+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री 3 नवंबर को लगभग 21,800 करोड़ रुपये की पुणे मेट्रो परियोजनाओं का उद्घाटन और शिलान्यास करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331617",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:58",
-      "ts": "2026-11-02T15:58:00+05:30"
-    },
-    {
-      "title": "Online retailers: including mandatory delivery fees in the total price",
-      "link": "https://www.gov.uk/government/publications/online-retailers-including-mandatory-delivery-fees-in-the-total-price",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:37",
-      "ts": "2026-11-02T15:37:18+05:30"
-    },
-    {
-      "title": "सिक्किम के सोरेंग में पीएम मत्‍स्‍य सम्‍पदा योहना के अंतर्गत देश का पहला अधिसूचित जैविक मत्स्य पालन क्लस्टर; केंद्रीय मंत्री ने पूर्वोत्तर में मत्स्य पालन के जैविक प्रमाणीकरण के लिए मानक संचालन प्रक्रिया का शुभारंभ किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331669",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:37",
-      "ts": "2026-11-02T15:37:00+05:30"
-    },
-    {
-      "title": "UK and Kenya work together on jobs, trade and security on the coast",
-      "link": "https://www.gov.uk/government/news/uk-and-kenya-work-together-on-jobs-trade-and-security-on-the-coast",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:36",
-      "ts": "2026-11-02T15:36:00+05:30"
-    },
-    {
-      "title": "लोक सभा अध्यक्ष ने जनप्रतिनिधियों से लोकतंत्र की मजबूती के लिए असहमति का सम्मान करने का आह्वान किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331584",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:20",
-      "ts": "2026-11-02T15:20:00+05:30"
-    },
-    {
-      "title": "कोल इंडिया का विकास इंजन बनकर उभरी वेस्‍टर्न कोलफील्‍ड्स लिमिटेड; उत्पादन, उठाव और ओवरबर्डन हटाने में दर्ज की शानदार वृद्धि",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331613",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:59",
-      "ts": "2026-11-02T14:59:00+05:30"
     }
   ],
   "health": [
@@ -773,6 +773,60 @@
       "category": "Government",
       "time": "19:15",
       "ts": "2026-11-02T19:15:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331828": {
+      "title": "संघ लोक सेवा आयोग संयुक्त रक्षा सेवा परीक्षा (I), 2026 — का अंतिम परिणाम घोषित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331828",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:27",
+      "ts": "2026-11-02T20:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331826": {
+      "title": "कोयला मंत्रालय ने स्टार रेटिंग प्रोग्राम (वित्त वर्ष-2024-25) के तहत कोयला खदानों के उत्कृष्ट प्रदर्शन को सराहा; 50 खदानों को फाइव-स्टार रेटिंग प्राप्त हुई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331826",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:19",
+      "ts": "2026-11-02T20:19:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331825": {
+      "title": "माय भारत के विकसित भारत युवा संवाद: अपना वोट जानें अभियान के तहत 20 राज्यों और केंद्रशासित प्रदेशों में 60 कार्यक्रमों के माध्यम से 11,800 से अधिक युवा जुड़े",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331825",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:16",
+      "ts": "2026-11-02T20:16:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331823": {
+      "title": "एमएसडीई ने 19 संस्थानों को कौशल उत्कृष्टता केंद्रों के रूप में पैनलबद्ध किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331823",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:03",
+      "ts": "2026-11-02T20:03:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331824": {
+      "title": "भारी उद्योग मंत्रालय तथा उसके केंद्रीय सार्वजनिक क्षेत्र के उद्यमों और स्वायत्त निकायों में बकाया मामलों के निपटान के लिए ‘विशेष अभियान 6’ संपन्न",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331824",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:56",
+      "ts": "2026-11-02T19:56:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331822": {
+      "title": "“लैंगिक आंकड़े और सांख्यिकी: साक्ष्य से नीतिगत अंतर्दृष्टि तक” विषय पर राष्ट्रीय सम्मेलन | एमओएसपीआई और यूएन विमेन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331822",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:04",
+      "ts": "2026-11-02T19:04:00+05:30"
     }
   }
 }
