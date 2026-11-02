@@ -1,7 +1,25 @@
 {
   "date": "2026-11-02",
-  "updated": "22:21",
+  "updated": "23:17",
   "items": [
+    {
+      "title": "Earned settlement",
+      "link": "https://www.gov.uk/government/speeches/home-secretary-earned-settlement-statement",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:23",
+      "ts": "2026-11-02T22:23:00+05:30"
+    },
+    {
+      "title": "Building transport resilience",
+      "link": "https://www.gov.uk/government/speeches/building-transport-resilience",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:22",
+      "ts": "2026-11-02T22:22:00+05:30"
+    },
     {
       "title": "Home Secretary unveils new rules for migrants settling in the UK",
       "link": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk",
@@ -28,6 +46,15 @@
       "category": "Government",
       "time": "21:24",
       "ts": "2026-11-02T21:24:27+05:30"
+    },
+    {
+      "title": "सीएसआईआर-राष्‍ट्रीय विज्ञान संचार एवं नीति अनुसंधान संस्‍थान (सीएसआईआर-निस्‍पर) ने पारंपरिक ज्ञान के संचार एवं प्रसार पर तीसरे संस्करण (सीडीटीके) 2026 का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331852",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:19",
+      "ts": "2026-11-02T21:19:00+05:30"
     },
     {
       "title": "The Secretary of State Extends Transitional Provision",
@@ -343,33 +370,6 @@
       "category": "Government",
       "time": "16:23",
       "ts": "2026-11-02T16:23:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी के नेतृत्व में सरकार विदेशी नागरिकों के प्रबंधन के लिए विदेशी क्षेत्रीय पंजीकरण कार्यालयों (FRROs) के विस्तार से संस्थागत ढांचे को मजबूत कर रही है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331567",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:17",
-      "ts": "2026-11-02T16:17:00+05:30"
-    },
-    {
-      "title": "VICH consultation relating to validation of analytical methods used in residue depletion studies",
-      "link": "https://www.gov.uk/government/news/vich-consultation-relating-to-validation-of-analytical-methods-used-in-residue-depletion-studies",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:04",
-      "ts": "2026-11-02T16:04:16+05:30"
-    },
-    {
-      "title": "Five things you need to know ahead of Making Tax Digital for Income Tax quarterly deadline",
-      "link": "https://www.gov.uk/government/news/five-things-you-need-to-know-ahead-of-making-tax-digital-for-income-tax-quarterly-deadline",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:00",
-      "ts": "2026-11-02T16:00:05+05:30"
     }
   ],
   "health": [
@@ -827,6 +827,15 @@
       "category": "Government",
       "time": "19:04",
       "ts": "2026-11-02T19:04:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331852": {
+      "title": "सीएसआईआर-राष्‍ट्रीय विज्ञान संचार एवं नीति अनुसंधान संस्‍थान (सीएसआईआर-निस्‍पर) ने पारंपरिक ज्ञान के संचार एवं प्रसार पर तीसरे संस्करण (सीडीटीके) 2026 का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331852",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:19",
+      "ts": "2026-11-02T21:19:00+05:30"
     }
   }
 }
