@@ -1,7 +1,16 @@
 {
   "date": "2026-11-02",
-  "updated": "11:26",
+  "updated": "11:40",
   "items": [
+    {
+      "title": "ग्रामीण विकास मंत्रालय ने वीबी-जी राम जी अधिनियम के तहत शिकायत निवारण नियम, 2026 अधिसूचित किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331400",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:16",
+      "ts": "2026-11-02T11:16:00+05:30"
+    },
     {
       "title": "खेत बचाओ अभियान - रबी 2026",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331387",
@@ -22,9 +31,100 @@
       "source": "PIB (Govt. of India) - English",
       "time": "06:39",
       "ts": "2026-11-02T06:39:00+05:30"
+    },
+    {
+      "title": "Mayors and local leaders work with No10 North to drive search for 'top 10' biggest strategic investment sites across country",
+      "link": "https://www.gov.uk/government/news/mayors-and-local-leaders-work-with-no10-north-to-drive-search-for-top-10-biggest-strategic-investment-sites-across-country",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-02T05:31:00+05:30"
+    },
+    {
+      "title": "‘No Place for Knives’ campaign launches in London hotspots",
+      "link": "https://www.gov.uk/government/news/no-place-for-knives-campaign-launches-in-london-hotspots",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-02T05:31:00+05:30"
     }
   ],
-  "errors": [],
+  "health": [
+    {
+      "name": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "ok": true,
+      "entries": 20,
+      "today": 4,
+      "note": ""
+    },
+    {
+      "name": "UN News: Top stories",
+      "country": "World",
+      "ok": true,
+      "entries": 30,
+      "today": 0,
+      "note": ""
+    },
+    {
+      "name": "UN News: Health",
+      "country": "World",
+      "ok": true,
+      "entries": 30,
+      "today": 0,
+      "note": ""
+    },
+    {
+      "name": "UN News: Climate change",
+      "country": "World",
+      "ok": true,
+      "entries": 30,
+      "today": 0,
+      "note": ""
+    },
+    {
+      "name": "UN News: Peace and security",
+      "country": "World",
+      "ok": true,
+      "entries": 30,
+      "today": 0,
+      "note": ""
+    },
+    {
+      "name": "World Health Organization: News",
+      "country": "World",
+      "ok": true,
+      "entries": 109,
+      "today": 0,
+      "note": ""
+    },
+    {
+      "name": "USGS: Significant earthquakes",
+      "country": "World",
+      "ok": false,
+      "entries": 0,
+      "today": 0,
+      "note": "no entries returned (address may be wrong or blocked)"
+    },
+    {
+      "name": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "ok": true,
+      "entries": 20,
+      "today": 2,
+      "note": ""
+    },
+    {
+      "name": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "ok": true,
+      "entries": 20,
+      "today": 0,
+      "note": ""
+    }
+  ],
   "checked": {
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331387": {
       "title": "खेत बचाओ अभियान - रबी 2026",
@@ -63,6 +163,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331231": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331194": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331226": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331205": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331205": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331400": {
+      "title": "ग्रामीण विकास मंत्रालय ने वीबी-जी राम जी अधिनियम के तहत शिकायत निवारण नियम, 2026 अधिसूचित किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331400",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:16",
+      "ts": "2026-11-02T11:16:00+05:30"
+    }
   }
 }
