@@ -1,7 +1,17 @@
 {
   "date": "2026-11-03",
-  "updated": "01:14",
-  "items": [],
+  "updated": "02:06",
+  "items": [
+    {
+      "title": "UK Germany Defence Ministerial Council Joint Statement",
+      "link": "https://www.gov.uk/government/news/uk-germany-defence-ministerial-council-joint-statement--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "01:20",
+      "ts": "2026-11-03T01:20:01+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -47,7 +57,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 99,
+      "entries": 105,
       "today": 0,
       "note": ""
     },
@@ -64,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
