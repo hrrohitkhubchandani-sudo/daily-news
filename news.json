@@ -1,6 +1,6 @@
 {
   "date": "2026-11-02",
-  "updated": "16:18",
+  "updated": "17:12",
   "items": [
     {
       "title": "Six in seven journalist murders go unpunished,  UNESCO reports",
@@ -10,6 +10,42 @@
       "category": "World",
       "time": "17:30",
       "ts": "2026-11-02T17:30:00+05:30"
+    },
+    {
+      "title": "New Chair appointed of the Leasehold Advisory Service",
+      "link": "https://www.gov.uk/government/news/new-chair-appointed-of-the-leasehold-advisory-service",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:00",
+      "ts": "2026-11-02T17:00:03+05:30"
+    },
+    {
+      "title": "National Housing Bank invests up to £70 million in Fiera Real Estate and Packaged Living",
+      "link": "https://www.gov.uk/government/news/national-housing-bank-invests-up-to-70-million-in-fiera-real-estate-and-packaged-living",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:45",
+      "ts": "2026-11-02T16:45:56+05:30"
+    },
+    {
+      "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
+      "link": "https://www.gov.uk/government/news/uk-helps-pakistani-climate-businesses-seek-us51-million-in-investment",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:41",
+      "ts": "2026-11-02T16:41:51+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी के नेतृत्व में सरकार विदेशी नागरिकों के प्रबंधन के लिए विदेशी क्षेत्रीय पंजीकरण कार्यालयों (FRROs) के विस्तार से संस्थागत ढांचे को मजबूत कर रही है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331567",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:17",
+      "ts": "2026-11-02T16:17:00+05:30"
     },
     {
       "title": "VICH consultation relating to validation of analytical methods used in residue depletion studies",
@@ -39,6 +75,15 @@
       "ts": "2026-11-02T16:00:05+05:30"
     },
     {
+      "title": "प्रधानमंत्री 3 नवंबर को लगभग 21,800 करोड़ रुपये की पुणे मेट्रो परियोजनाओं का उद्घाटन और शिलान्यास करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331617",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:58",
+      "ts": "2026-11-02T15:58:00+05:30"
+    },
+    {
       "title": "Online retailers: including mandatory delivery fees in the total price",
       "link": "https://www.gov.uk/government/publications/online-retailers-including-mandatory-delivery-fees-in-the-total-price",
       "source": "GOV.UK: News and communications",
@@ -54,7 +99,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "15:36",
-      "ts": "2026-11-02T15:36:13+05:30"
+      "ts": "2026-11-02T15:36:00+05:30"
     },
     {
       "title": "Elective home education and children missing education data collection: grant determination",
@@ -82,6 +127,24 @@
       "category": "Government",
       "time": "15:27",
       "ts": "2026-11-02T15:27:32+05:30"
+    },
+    {
+      "title": "लोक सभा अध्यक्ष ने जनप्रतिनिधियों से लोकतंत्र की मजबूती के लिए असहमति का सम्मान करने का आह्वान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331584",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:20",
+      "ts": "2026-11-02T15:20:00+05:30"
+    },
+    {
+      "title": "कोल इंडिया का विकास इंजन बनकर उभरी वेस्‍टर्न कोलफील्‍ड्स लिमिटेड; उत्पादन, उठाव और ओवरबर्डन हटाने में दर्ज की शानदार वृद्धि",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331613",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:59",
+      "ts": "2026-11-02T14:59:00+05:30"
     },
     {
       "title": "PS & B - ESTATE MANAGEMENT LIMITED – winding up orders made",
@@ -273,7 +336,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 15,
+      "today": 19,
       "note": ""
     },
     {
@@ -312,7 +375,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 109,
+      "entries": 100,
       "today": 0,
       "note": ""
     },
@@ -329,7 +392,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 14,
+      "today": 17,
       "note": ""
     },
     {
@@ -488,6 +551,42 @@
       "category": "Government",
       "time": "11:28",
       "ts": "2026-11-02T11:28:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331567": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी के नेतृत्व में सरकार विदेशी नागरिकों के प्रबंधन के लिए विदेशी क्षेत्रीय पंजीकरण कार्यालयों (FRROs) के विस्तार से संस्थागत ढांचे को मजबूत कर रही है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331567",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:17",
+      "ts": "2026-11-02T16:17:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331617": {
+      "title": "प्रधानमंत्री 3 नवंबर को लगभग 21,800 करोड़ रुपये की पुणे मेट्रो परियोजनाओं का उद्घाटन और शिलान्यास करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331617",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:58",
+      "ts": "2026-11-02T15:58:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331584": {
+      "title": "लोक सभा अध्यक्ष ने जनप्रतिनिधियों से लोकतंत्र की मजबूती के लिए असहमति का सम्मान करने का आह्वान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331584",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:20",
+      "ts": "2026-11-02T15:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331613": {
+      "title": "कोल इंडिया का विकास इंजन बनकर उभरी वेस्‍टर्न कोलफील्‍ड्स लिमिटेड; उत्पादन, उठाव और ओवरबर्डन हटाने में दर्ज की शानदार वृद्धि",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331613",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:59",
+      "ts": "2026-11-02T14:59:00+05:30"
     }
   }
 }
