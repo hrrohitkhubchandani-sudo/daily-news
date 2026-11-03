@@ -1,7 +1,70 @@
 {
   "date": "2026-11-03",
-  "updated": "16:49",
+  "updated": "17:41",
   "items": [
+    {
+      "title": "Buffer stop collision at Liverpool Street station",
+      "link": "https://www.gov.uk/government/news/buffer-stop-collision-at-liverpool-street-station",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:27",
+      "ts": "2026-11-03T17:27:02+05:30"
+    },
+    {
+      "title": "Charity regulator appoints interim managers to Wirral community transport charity amidst ongoing investigation",
+      "link": "https://www.gov.uk/government/news/charity-regulator-appoints-interim-managers-to-wirral-community-transport-charity-amidst-ongoing-investigation",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:13",
+      "ts": "2026-11-03T17:13:21+05:30"
+    },
+    {
+      "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
+      "link": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:06",
+      "ts": "2026-11-03T17:06:48+05:30"
+    },
+    {
+      "title": "एपीडा ने कुल्लू से दुबई तक 1.3 मीट्रिक टन सिंदूरी अनार के निर्यात में मदद की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332126",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:42",
+      "ts": "2026-11-03T16:42:00+05:30"
+    },
+    {
+      "title": "एपीईडीए ने अरुणाचल प्रदेश की 1.5 मीट्रिक टन कीवी का दुबई के लिए प्रायोगिक निर्यात कराया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332104",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:39",
+      "ts": "2026-11-03T16:39:00+05:30"
+    },
+    {
+      "title": "पेंशन एवं पेंशनभोगी कल्याण विभाग ने 5वें राष्ट्रव्यापी डिजिटल जीवन प्रमाणपत्र अभियान के दायरे में सभी पेंशनभोगियों को लाने का आह्वान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332132",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:33",
+      "ts": "2026-11-03T16:33:00+05:30"
+    },
+    {
+      "title": "समग्र उपचार पद्धति में उत्कृष्ट योगदान के लिए राष्ट्रीय सोवा-रिग्पा संस्थान के निदेशक डॉ. पद्मा गुरमेत को वेलनेस विजनरी पुरस्‍कार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332096",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:11",
+      "ts": "2026-11-03T16:11:00+05:30"
+    },
     {
       "title": "UKHSA launches human biomonitoring study",
       "link": "https://www.gov.uk/government/news/ukhsa-launches-human-biomonitoring-study",
@@ -10,6 +73,24 @@
       "category": "Government",
       "time": "16:00",
       "ts": "2026-11-03T16:00:04+05:30"
+    },
+    {
+      "title": "लंबित मामलों के निपटान के लिए विशेष अभियान 6 का समापन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332098",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:57",
+      "ts": "2026-11-03T15:57:00+05:30"
+    },
+    {
+      "title": "सार्वजनिक धन के एक-एक रुपये का हिसाब होना चाहिए और उसका उपयोग उसके वांछित उद्देश्य के लिए किया जाना चाहिए: लोकसभा अध्यक्ष",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332124",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:51",
+      "ts": "2026-11-03T15:51:00+05:30"
     },
     {
       "title": "Maritime Big Play showcases the strength of UKDI investment in AUKUS innovation",
@@ -46,6 +127,15 @@
       "category": "Government",
       "time": "14:54",
       "ts": "2026-11-03T14:54:39+05:30"
+    },
+    {
+      "title": "भारत अंताल्या में आयोजित यूएनएफसीसीसी सीओपी31 में समाधान-उन्मुख और न्यायसंगत जलवायु कार्रवाई को आगे बढ़ाएगा: श्री भूपेंद्र यादव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332130",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:54",
+      "ts": "2026-11-03T14:54:00+05:30"
     },
     {
       "title": "New plans “resurrect” genuine pensions for millions of private sector workers",
@@ -100,6 +190,24 @@
       "category": "Government",
       "time": "14:29",
       "ts": "2026-11-03T14:29:00+05:30"
+    },
+    {
+      "title": "ग्रामीण कृषक परिवार की पृष्ठभूमि से वैश्विक शिक्षा तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332087",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:25",
+      "ts": "2026-11-03T14:25:00+05:30"
+    },
+    {
+      "title": "वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने युवाओं से 2047 तक भारत को विकसित राष्ट्र बनाने की यात्रा का नेतृत्व करने का आह्वान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332086",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:09",
+      "ts": "2026-11-03T14:09:00+05:30"
     },
     {
       "title": "शराब की लत छोड़कर स्वस्थ जीवन की ओर",
@@ -201,33 +309,6 @@
       "ts": "2026-11-03T09:54:00+05:30"
     },
     {
-      "title": "भारतीय नौसेना ने सोमालिया के तट के पास अपहृत मछली पकड़ने वाला जहाज ‘अजिनी’ को सफलतापूर्वक समुद्री लुटेरों से मुक्त कराया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331903",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "08:45",
-      "ts": "2026-11-03T08:45:00+05:30"
-    },
-    {
-      "title": "ई-कोर्ट मिशन मोड परियोजना के अंतर्गत एक पहल ‘ई-फाइलिंग 3.0: प्रक्रिया से व्यवहार तक’ विषय पर कार्यशाला",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331878",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "08:38",
-      "ts": "2026-11-03T08:38:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने एक संस्कृत सुभाषितम् साझा किया, जिसमें संयमित वाणी और मन, तप, आत्म-त्याग और सत्यनिष्ठा के महत्व पर प्रकाश डाला गया है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331896",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "08:26",
-      "ts": "2026-11-03T08:26:00+05:30"
-    },
-    {
       "title": "One million more scans to help catch cancer sooner",
       "link": "https://www.gov.uk/government/news/one-million-more-scans-to-help-catch-cancer-sooner",
       "source": "GOV.UK: News and communications",
@@ -237,15 +318,6 @@
       "ts": "2026-11-03T05:35:07+05:30"
     },
     {
-      "title": "UK to lead multinational military training exercise to prepare for peace in Ukraine",
-      "link": "https://www.gov.uk/government/news/uk-to-lead-multinational-military-training-exercise-to-prepare-for-peace-in-ukraine--2",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-03T05:31:03+05:30"
-    },
-    {
       "title": "Care workers, women returning to employment and builders to gain practical AI skills",
       "link": "https://www.gov.uk/government/news/care-workers-women-returning-to-employment-and-builders-to-gain-practical-ai-skills",
       "source": "GOV.UK: News and communications",
@@ -253,6 +325,15 @@
       "category": "Government",
       "time": "05:31",
       "ts": "2026-11-03T05:31:03+05:30"
+    },
+    {
+      "title": "UK to lead multinational military training exercise to prepare for peace in Ukraine",
+      "link": "https://www.gov.uk/government/news/uk-to-lead-multinational-military-training-exercise-to-prepare-for-peace-in-ukraine--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-03T05:31:00+05:30"
     },
     {
       "title": "UK Germany Defence Ministerial Council Joint Statement",
@@ -270,7 +351,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 14,
+      "today": 20,
       "note": ""
     },
     {
@@ -309,7 +390,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 99,
+      "entries": 83,
       "today": 0,
       "note": ""
     },
@@ -326,7 +407,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 15,
+      "today": 18,
       "note": ""
     },
     {
@@ -491,6 +572,87 @@
       "category": "Government",
       "time": "12:17",
       "ts": "2026-11-03T12:17:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332126": {
+      "title": "एपीडा ने कुल्लू से दुबई तक 1.3 मीट्रिक टन सिंदूरी अनार के निर्यात में मदद की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332126",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:42",
+      "ts": "2026-11-03T16:42:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332104": {
+      "title": "एपीईडीए ने अरुणाचल प्रदेश की 1.5 मीट्रिक टन कीवी का दुबई के लिए प्रायोगिक निर्यात कराया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332104",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:39",
+      "ts": "2026-11-03T16:39:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332132": {
+      "title": "पेंशन एवं पेंशनभोगी कल्याण विभाग ने 5वें राष्ट्रव्यापी डिजिटल जीवन प्रमाणपत्र अभियान के दायरे में सभी पेंशनभोगियों को लाने का आह्वान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332132",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:33",
+      "ts": "2026-11-03T16:33:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332096": {
+      "title": "समग्र उपचार पद्धति में उत्कृष्ट योगदान के लिए राष्ट्रीय सोवा-रिग्पा संस्थान के निदेशक डॉ. पद्मा गुरमेत को वेलनेस विजनरी पुरस्‍कार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332096",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:11",
+      "ts": "2026-11-03T16:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332098": {
+      "title": "लंबित मामलों के निपटान के लिए विशेष अभियान 6 का समापन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332098",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:57",
+      "ts": "2026-11-03T15:57:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332124": {
+      "title": "सार्वजनिक धन के एक-एक रुपये का हिसाब होना चाहिए और उसका उपयोग उसके वांछित उद्देश्य के लिए किया जाना चाहिए: लोकसभा अध्यक्ष",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332124",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:51",
+      "ts": "2026-11-03T15:51:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332130": {
+      "title": "भारत अंताल्या में आयोजित यूएनएफसीसीसी सीओपी31 में समाधान-उन्मुख और न्यायसंगत जलवायु कार्रवाई को आगे बढ़ाएगा: श्री भूपेंद्र यादव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332130",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:54",
+      "ts": "2026-11-03T14:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332087": {
+      "title": "ग्रामीण कृषक परिवार की पृष्ठभूमि से वैश्विक शिक्षा तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332087",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:25",
+      "ts": "2026-11-03T14:25:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332086": {
+      "title": "वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने युवाओं से 2047 तक भारत को विकसित राष्ट्र बनाने की यात्रा का नेतृत्व करने का आह्वान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332086",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:09",
+      "ts": "2026-11-03T14:09:00+05:30"
     }
   }
 }
