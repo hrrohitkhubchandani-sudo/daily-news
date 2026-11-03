@@ -1,7 +1,17 @@
 {
   "date": "2026-11-04",
-  "updated": "00:07",
-  "items": [],
+  "updated": "01:11",
+  "items": [
+    {
+      "title": "UK judge takes on key role in upholding international law at International Court of Justice",
+      "link": "https://www.gov.uk/government/news/uk-judge-takes-on-key-role-in-upholding-international-law-at-international-court-of-justice",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "00:11",
+      "ts": "2026-11-04T00:11:21+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -64,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
