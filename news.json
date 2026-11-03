@@ -1,7 +1,34 @@
 {
   "date": "2026-11-03",
-  "updated": "13:32",
+  "updated": "14:45",
   "items": [
+    {
+      "title": "Raj Jethwa reappointed as a member of the Prison Service Pay Review Body",
+      "link": "https://www.gov.uk/government/news/raj-jethwa-reappointed-as-a-member-of-the-prison-service-pay-review-body",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-03T14:30:03+05:30"
+    },
+    {
+      "title": "New Co-Chair for Nuclear Decommissioning Authority NGO Forum",
+      "link": "https://www.gov.uk/government/news/new-co-chair-for-nuclear-decommissioning-authority-ngo-forum",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:29",
+      "ts": "2026-11-03T14:29:25+05:30"
+    },
+    {
+      "title": "पुणे मेट्रो परियोजनाओं के शिलान्यास समारोह में प्रधानमंत्री के संबोधन का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332005",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:29",
+      "ts": "2026-11-03T14:29:00+05:30"
+    },
     {
       "title": "PM meeting with Prime Minister Mottley of Barbados: 2 November 2026",
       "link": "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-mottley-of-barbados-2-november-2026",
@@ -19,6 +46,15 @@
       "category": "Government",
       "time": "13:17",
       "ts": "2026-11-03T13:17:16+05:30"
+    },
+    {
+      "title": "ट्राई ने “दूरसंचार इंटरकनेक्शन (तीसरा संशोधन) विनियम, 2026” जारी किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331991",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:37",
+      "ts": "2026-11-03T12:37:00+05:30"
     },
     {
       "title": "New Government-backed cyber security protections could save UK businesses thousands",
@@ -126,7 +162,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 8,
       "note": ""
     },
     {
@@ -165,7 +201,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 99,
+      "entries": 83,
       "today": 0,
       "note": ""
     },
@@ -182,7 +218,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 9,
       "note": ""
     },
     {
@@ -274,6 +310,24 @@
       "category": "Government",
       "time": "11:02",
       "ts": "2026-11-03T11:02:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332005": {
+      "title": "पुणे मेट्रो परियोजनाओं के शिलान्यास समारोह में प्रधानमंत्री के संबोधन का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332005",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:29",
+      "ts": "2026-11-03T14:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331991": {
+      "title": "ट्राई ने “दूरसंचार इंटरकनेक्शन (तीसरा संशोधन) विनियम, 2026” जारी किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331991",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:37",
+      "ts": "2026-11-03T12:37:00+05:30"
     }
   }
 }
