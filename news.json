@@ -1,7 +1,16 @@
 {
   "date": "2026-11-04",
-  "updated": "02:06",
+  "updated": "03:02",
   "items": [
+    {
+      "title": "PM meeting with Ghanaian President John Dramani Mahama: 3 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-meeting-with-ghanaian-president-john-dramani-mahama-3-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "02:49",
+      "ts": "2026-11-04T02:49:05+05:30"
+    },
     {
       "title": "UK judge takes on key role in upholding international law at International Court of Justice",
       "link": "https://www.gov.uk/government/news/uk-judge-takes-on-key-role-in-upholding-international-law-at-international-court-of-justice",
@@ -74,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
