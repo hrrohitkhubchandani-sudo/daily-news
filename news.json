@@ -1,7 +1,16 @@
 {
   "date": "2026-11-03",
-  "updated": "09:10",
+  "updated": "10:11",
   "items": [
+    {
+      "title": "ई-कोर्ट मिशन मोड परियोजना के अंतर्गत एक पहल ‘ई-फाइलिंग 3.0: प्रक्रिया से व्यवहार तक’ विषय पर कार्यशाला",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331878",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:38",
+      "ts": "2026-11-03T08:38:00+05:30"
+    },
     {
       "title": "One million more scans to help catch cancer sooner",
       "link": "https://www.gov.uk/government/news/one-million-more-scans-to-help-catch-cancer-sooner",
@@ -45,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -136,6 +145,17 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331741": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331874": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331871": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331873": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331873": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331878": {
+      "title": "ई-कोर्ट मिशन मोड परियोजना के अंतर्गत एक पहल ‘ई-फाइलिंग 3.0: प्रक्रिया से व्यवहार तक’ विषय पर कार्यशाला",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331878",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:38",
+      "ts": "2026-11-03T08:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331877": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331876": null
   }
 }
