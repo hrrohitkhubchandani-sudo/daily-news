@@ -1,7 +1,16 @@
 {
   "date": "2026-11-03",
-  "updated": "15:49",
+  "updated": "16:49",
   "items": [
+    {
+      "title": "UKHSA launches human biomonitoring study",
+      "link": "https://www.gov.uk/government/news/ukhsa-launches-human-biomonitoring-study",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:00",
+      "ts": "2026-11-03T16:00:04+05:30"
+    },
     {
       "title": "Maritime Big Play showcases the strength of UKDI investment in AUKUS innovation",
       "link": "https://www.gov.uk/government/news/maritime-big-play-showcases-the-strength-of-ukdi-investment-in-aukus-innovation",
@@ -48,6 +57,24 @@
       "ts": "2026-11-03T14:49:43+05:30"
     },
     {
+      "title": "आईएनएस सह्याद्रि ने बुसान में भारत-कोरिया गणराज्य नौसेना द्विपक्षीय अभ्यास संपन्न किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332081",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:46",
+      "ts": "2026-11-03T14:46:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने लगभग 21,800 करोड़ रुपये की लागत वाली पुणे मेट्रो परियोजनाओं का उद्घाटन किया और आधारशिला रखी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332079",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:43",
+      "ts": "2026-11-03T14:43:00+05:30"
+    },
+    {
       "title": "Raj Jethwa reappointed as a member of the Prison Service Pay Review Body",
       "link": "https://www.gov.uk/government/news/raj-jethwa-reappointed-as-a-member-of-the-prison-service-pay-review-body",
       "source": "GOV.UK: News and communications",
@@ -84,6 +111,15 @@
       "ts": "2026-11-03T13:59:00+05:30"
     },
     {
+      "title": "सुविकल्प- खदान पुनर्प्रयोजन उपकरण, बंद और परित्यक्त खदानों का उत्पादक संपत्ति में बदलाव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332042",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:30",
+      "ts": "2026-11-03T13:30:00+05:30"
+    },
+    {
       "title": "PM meeting with Prime Minister Mottley of Barbados: 2 November 2026",
       "link": "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-mottley-of-barbados-2-november-2026",
       "source": "GOV.UK: News and communications",
@@ -102,6 +138,15 @@
       "ts": "2026-11-03T13:17:16+05:30"
     },
     {
+      "title": "रक्षा मंत्री ने जैसलमेर में ‘भारतीय रक्षा बलों के आधुनिकीकरण’ पर रक्षा मंत्रालय की सलाहकार समिति की बैठक की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332046",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:08",
+      "ts": "2026-11-03T13:08:00+05:30"
+    },
+    {
       "title": "ट्राई ने “दूरसंचार इंटरकनेक्शन (तीसरा संशोधन) विनियम, 2026” जारी किए",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331991",
       "source": "PIB, Government of India (Hindi)",
@@ -109,6 +154,15 @@
       "category": "Government",
       "time": "12:37",
       "ts": "2026-11-03T12:37:00+05:30"
+    },
+    {
+      "title": "आदित्य-एल1 पर लगे वीएलईसी से सौर विस्फोट के असमान फैलाव का पता चला है जो अंतरिक्ष के वातावरण पर असर डाल सकता है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332044",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:17",
+      "ts": "2026-11-03T12:17:00+05:30"
     },
     {
       "title": "New Government-backed cyber security protections could save UK businesses thousands",
@@ -216,7 +270,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 9,
+      "today": 14,
       "note": ""
     },
     {
@@ -272,7 +326,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 14,
+      "today": 15,
       "note": ""
     },
     {
@@ -392,6 +446,51 @@
       "time": "13:59",
       "ts": "2026-11-03T13:59:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332022": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332022": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332081": {
+      "title": "आईएनएस सह्याद्रि ने बुसान में भारत-कोरिया गणराज्य नौसेना द्विपक्षीय अभ्यास संपन्न किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332081",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:46",
+      "ts": "2026-11-03T14:46:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332079": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने लगभग 21,800 करोड़ रुपये की लागत वाली पुणे मेट्रो परियोजनाओं का उद्घाटन किया और आधारशिला रखी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332079",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:43",
+      "ts": "2026-11-03T14:43:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332042": {
+      "title": "सुविकल्प- खदान पुनर्प्रयोजन उपकरण, बंद और परित्यक्त खदानों का उत्पादक संपत्ति में बदलाव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332042",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:30",
+      "ts": "2026-11-03T13:30:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332046": {
+      "title": "रक्षा मंत्री ने जैसलमेर में ‘भारतीय रक्षा बलों के आधुनिकीकरण’ पर रक्षा मंत्रालय की सलाहकार समिति की बैठक की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332046",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:08",
+      "ts": "2026-11-03T13:08:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332044": {
+      "title": "आदित्य-एल1 पर लगे वीएलईसी से सौर विस्फोट के असमान फैलाव का पता चला है जो अंतरिक्ष के वातावरण पर असर डाल सकता है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332044",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:17",
+      "ts": "2026-11-03T12:17:00+05:30"
+    }
   }
 }
