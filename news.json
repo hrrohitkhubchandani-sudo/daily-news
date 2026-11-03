@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updated": "08:09",
+  "updated": "09:10",
   "items": [
     {
       "title": "One million more scans to help catch cancer sooner",
@@ -84,7 +84,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 105,
+      "entries": 99,
       "today": 0,
       "note": ""
     },
@@ -133,6 +133,9 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331768": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331677": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331688": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331741": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331741": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331874": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331871": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331873": null
   }
 }
