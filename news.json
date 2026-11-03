@@ -1,7 +1,34 @@
 {
   "date": "2026-11-03",
-  "updated": "11:12",
+  "updated": "12:20",
   "items": [
+    {
+      "title": "New Government-backed cyber security protections could save UK businesses thousands",
+      "link": "https://www.gov.uk/government/news/new-government-backed-cyber-security-protections-could-save-uk-businesses-thousands",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "11:30",
+      "ts": "2026-11-03T11:30:00+05:30"
+    },
+    {
+      "title": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्रालय ने दवाओं, चिकित्सा उपकरणों और सौंदर्य प्रसाधनों के लिए अधिकृत आयात गेटवे के विस्तार का प्रस्ताव रखा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331915",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:54",
+      "ts": "2026-11-03T09:54:00+05:30"
+    },
+    {
+      "title": "भारतीय नौसेना ने सोमालिया के तट के पास अपहृत मछली पकड़ने वाला जहाज ‘अजिनी’ को सफलतापूर्वक समुद्री लुटेरों से मुक्त कराया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331903",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:45",
+      "ts": "2026-11-03T08:45:00+05:30"
+    },
     {
       "title": "ई-कोर्ट मिशन मोड परियोजना के अंतर्गत एक पहल ‘ई-फाइलिंग 3.0: प्रक्रिया से व्यवहार तक’ विषय पर कार्यशाला",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331878",
@@ -63,7 +90,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
@@ -119,7 +146,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 5,
       "note": ""
     },
     {
@@ -175,6 +202,24 @@
       "time": "08:26",
       "ts": "2026-11-03T08:26:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331895": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331895": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331915": {
+      "title": "केंद्रीय स्वास्थ्य और परिवार कल्याण मंत्रालय ने दवाओं, चिकित्सा उपकरणों और सौंदर्य प्रसाधनों के लिए अधिकृत आयात गेटवे के विस्तार का प्रस्ताव रखा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331915",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:54",
+      "ts": "2026-11-03T09:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331903": {
+      "title": "भारतीय नौसेना ने सोमालिया के तट के पास अपहृत मछली पकड़ने वाला जहाज ‘अजिनी’ को सफलतापूर्वक समुद्री लुटेरों से मुक्त कराया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331903",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:45",
+      "ts": "2026-11-03T08:45:00+05:30"
+    }
   }
 }
