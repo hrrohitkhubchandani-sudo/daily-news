@@ -1,7 +1,16 @@
 {
   "date": "2026-11-03",
-  "updated": "21:07",
+  "updated": "22:13",
   "items": [
+    {
+      "title": "Commonwealth Heads of Government 2026 statement between the UK and Australia",
+      "link": "https://www.gov.uk/government/news/commonwealth-heads-of-government-2026-statement-between-the-uk-and-australia",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:30",
+      "ts": "2026-11-03T21:30:01+05:30"
+    },
     {
       "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज रायपुर में छत्तीसगढ़ राज्योत्सव के समापन समारोह को संबोधित किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332278",
@@ -10,6 +19,24 @@
       "category": "Government",
       "time": "20:35",
       "ts": "2026-11-03T20:35:00+05:30"
+    },
+    {
+      "title": "सर्बानंद सोनोवाल ने 2047 तक तटीय और जलमार्ग माल ढुलाई (फ्रेट) हिस्सेदारी को दोगुना करके 12% करने की योजना प्रस्तुत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332287",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:04",
+      "ts": "2026-11-03T20:04:00+05:30"
+    },
+    {
+      "title": "शिल्प समागम मेला 2026 में पारंपरिक कला, हस्तशिल्प और सांस्कृतिक प्रस्तुतियों के माध्यम से भारत की सांस्कृतिक विविधता का उत्सव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332290",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:01",
+      "ts": "2026-11-03T20:01:00+05:30"
     },
     {
       "title": "डीएएचडी विशेष अभियान 6.0 सफलतापूर्वक संपन्न हुआ",
@@ -64,6 +91,15 @@
       "category": "Government",
       "time": "18:30",
       "ts": "2026-11-03T18:30:00+05:30"
+    },
+    {
+      "title": "आईपीआरडी-2026 का नई दिल्ली में शुभारंभ; वैज्ञानिक प्रगति को क्षेत्रीय सहयोग में रूपांतरित करने पर जोर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332291",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:18",
+      "ts": "2026-11-03T18:18:00+05:30"
     },
     {
       "title": "केंद्रीय स्वास्थ्य मंत्रालय की सचिव, श्रीमती पुण्य सलिला श्रीवास्तव ने राष्ट्रीय दंत चिकित्सा आयोग अधिनियम, 2023 के तहत निर्धारित प्रक्रिया के अनुसार ड्रॉ ऑफ लॉट्स के माध्यम से राष्ट्रीय दंत चिकित्सा आयोग और उसके स्वायत्त बोर्डों के अंशकालिक सदस्यों का चयन किया",
@@ -138,6 +174,15 @@
       "ts": "2026-11-03T17:36:00+05:30"
     },
     {
+      "title": "Gender equality pays off for business – so why are companies pulling back?",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168726",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-03T17:30:00+05:30"
+    },
+    {
       "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168724",
       "source": "UN News: Top stories",
@@ -174,6 +219,15 @@
       "ts": "2026-11-03T17:13:21+05:30"
     },
     {
+      "title": "एनएलएमसी ने नई दिल्ली में एचआईएल (इंडिया) लिमिटेड की 5.119 एकड़ भूमि की ई-नीलामी हेतु बोली से पहले बैठक का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332289",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:11",
+      "ts": "2026-11-03T17:11:00+05:30"
+    },
+    {
       "title": "Supply chain Adjudicator urges farmers to speak up over unfair supply contracts",
       "link": "https://www.gov.uk/government/news/supply-chain-adjudicator-urges-farmers-to-speak-up-over-unfair-supply-contracts",
       "source": "GOV.UK: News and communications",
@@ -190,42 +244,6 @@
       "category": "Government",
       "time": "16:54",
       "ts": "2026-11-03T16:54:00+05:30"
-    },
-    {
-      "title": "एपीडा ने कुल्लू से दुबई तक 1.3 मीट्रिक टन सिंदूरी अनार के निर्यात में मदद की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332126",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:42",
-      "ts": "2026-11-03T16:42:00+05:30"
-    },
-    {
-      "title": "एपीईडीए ने अरुणाचल प्रदेश की 1.5 मीट्रिक टन कीवी का दुबई के लिए प्रायोगिक निर्यात कराया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332104",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:39",
-      "ts": "2026-11-03T16:39:00+05:30"
-    },
-    {
-      "title": "पेंशन एवं पेंशनभोगी कल्याण विभाग ने 5वें राष्ट्रव्यापी डिजिटल जीवन प्रमाणपत्र अभियान के दायरे में सभी पेंशनभोगियों को लाने का आह्वान किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332132",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:33",
-      "ts": "2026-11-03T16:33:00+05:30"
-    },
-    {
-      "title": "श्री प्रह्लाद जोशी ने बीआरई शिखर सम्मेलन एवं एक्सपो 2026 के दौरान वैश्विक सौर सहयोग के प्रति प्रतिबद्धता दोहराई",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332206",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:31",
-      "ts": "2026-11-03T16:31:00+05:30"
     },
     {
       "title": "UKHSA launches human biomonitoring study",
@@ -377,7 +395,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -425,7 +443,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 19,
+      "today": 20,
       "note": ""
     },
     {
@@ -833,6 +851,42 @@
       "category": "Government",
       "time": "18:14",
       "ts": "2026-11-03T18:14:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332287": {
+      "title": "सर्बानंद सोनोवाल ने 2047 तक तटीय और जलमार्ग माल ढुलाई (फ्रेट) हिस्सेदारी को दोगुना करके 12% करने की योजना प्रस्तुत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332287",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:04",
+      "ts": "2026-11-03T20:04:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332290": {
+      "title": "शिल्प समागम मेला 2026 में पारंपरिक कला, हस्तशिल्प और सांस्कृतिक प्रस्तुतियों के माध्यम से भारत की सांस्कृतिक विविधता का उत्सव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332290",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:01",
+      "ts": "2026-11-03T20:01:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332291": {
+      "title": "आईपीआरडी-2026 का नई दिल्ली में शुभारंभ; वैज्ञानिक प्रगति को क्षेत्रीय सहयोग में रूपांतरित करने पर जोर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332291",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:18",
+      "ts": "2026-11-03T18:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332289": {
+      "title": "एनएलएमसी ने नई दिल्ली में एचआईएल (इंडिया) लिमिटेड की 5.119 एकड़ भूमि की ई-नीलामी हेतु बोली से पहले बैठक का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332289",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:11",
+      "ts": "2026-11-03T17:11:00+05:30"
     }
   }
 }
