@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "updated": "10:11",
+  "updated": "11:12",
   "items": [
     {
       "title": "ई-कोर्ट मिशन मोड परियोजना के अंतर्गत एक पहल ‘ई-फाइलिंग 3.0: प्रक्रिया से व्यवहार तक’ विषय पर कार्यशाला",
@@ -10,6 +10,15 @@
       "category": "Government",
       "time": "08:38",
       "ts": "2026-11-03T08:38:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने एक संस्कृत सुभाषितम् साझा किया, जिसमें संयमित वाणी और मन, तप, आत्म-त्याग और सत्यनिष्ठा के महत्व पर प्रकाश डाला गया है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331896",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:26",
+      "ts": "2026-11-03T08:26:00+05:30"
     },
     {
       "title": "One million more scans to help catch cancer sooner",
@@ -54,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -156,6 +165,16 @@
       "ts": "2026-11-03T08:38:00+05:30"
     },
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331877": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331876": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331876": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331896": {
+      "title": "प्रधानमंत्री ने एक संस्कृत सुभाषितम् साझा किया, जिसमें संयमित वाणी और मन, तप, आत्म-त्याग और सत्यनिष्ठा के महत्व पर प्रकाश डाला गया है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331896",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:26",
+      "ts": "2026-11-03T08:26:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331895": null
   }
 }
