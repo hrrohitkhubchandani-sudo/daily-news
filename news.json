@@ -1,7 +1,52 @@
 {
   "date": "2026-11-03",
-  "updated": "14:45",
+  "updated": "15:49",
   "items": [
+    {
+      "title": "Maritime Big Play showcases the strength of UKDI investment in AUKUS innovation",
+      "link": "https://www.gov.uk/government/news/maritime-big-play-showcases-the-strength-of-ukdi-investment-in-aukus-innovation",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:14",
+      "ts": "2026-11-03T15:14:17+05:30"
+    },
+    {
+      "title": "Clinical trials for medicines: Inclusion and Diversity Plan pilot findings published",
+      "link": "https://www.gov.uk/government/news/clinical-trials-for-medicines-inclusion-and-diversity-plan-pilot-findings-published",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-03T15:00:19+05:30"
+    },
+    {
+      "title": "RSH launches independent inquiry into social housing landlord",
+      "link": "https://www.gov.uk/government/news/rsh-launches-independent-inquiry-into-social-housing-landlord",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-03T15:00:03+05:30"
+    },
+    {
+      "title": "Giant 12-tonne box lowered into place for fusion upgrade",
+      "link": "https://www.gov.uk/government/news/giant-12-tonne-box-lowered-into-place-for-fusion-upgrade",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:54",
+      "ts": "2026-11-03T14:54:39+05:30"
+    },
+    {
+      "title": "New plans “resurrect” genuine pensions for millions of private sector workers",
+      "link": "https://www.gov.uk/government/news/new-plans-resurrect-genuine-pensions-for-millions-of-private-sector-workers",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:49",
+      "ts": "2026-11-03T14:49:43+05:30"
+    },
     {
       "title": "Raj Jethwa reappointed as a member of the Prison Service Pay Review Body",
       "link": "https://www.gov.uk/government/news/raj-jethwa-reappointed-as-a-member-of-the-prison-service-pay-review-body",
@@ -28,6 +73,15 @@
       "category": "Government",
       "time": "14:29",
       "ts": "2026-11-03T14:29:00+05:30"
+    },
+    {
+      "title": "शराब की लत छोड़कर स्वस्थ जीवन की ओर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332014",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:59",
+      "ts": "2026-11-03T13:59:00+05:30"
     },
     {
       "title": "PM meeting with Prime Minister Mottley of Barbados: 2 November 2026",
@@ -162,7 +216,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 9,
       "note": ""
     },
     {
@@ -201,7 +255,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 83,
+      "entries": 99,
       "today": 0,
       "note": ""
     },
@@ -218,7 +272,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 9,
+      "today": 14,
       "note": ""
     },
     {
@@ -328,6 +382,16 @@
       "category": "Government",
       "time": "12:37",
       "ts": "2026-11-03T12:37:00+05:30"
-    }
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332014": {
+      "title": "शराब की लत छोड़कर स्वस्थ जीवन की ओर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332014",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:59",
+      "ts": "2026-11-03T13:59:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332022": null
   }
 }
