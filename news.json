@@ -1,7 +1,34 @@
 {
   "date": "2026-11-03",
-  "updated": "05:32",
+  "updated": "07:04",
   "items": [
+    {
+      "title": "One million more scans to help catch cancer sooner",
+      "link": "https://www.gov.uk/government/news/one-million-more-scans-to-help-catch-cancer-sooner",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:35",
+      "ts": "2026-11-03T05:35:07+05:30"
+    },
+    {
+      "title": "UK to lead multinational military training exercise to prepare for peace in Ukraine",
+      "link": "https://www.gov.uk/government/news/uk-to-lead-multinational-military-training-exercise-to-prepare-for-peace-in-ukraine--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-03T05:31:03+05:30"
+    },
+    {
+      "title": "Care workers, women returning to employment and builders to gain practical AI skills",
+      "link": "https://www.gov.uk/government/news/care-workers-women-returning-to-employment-and-builders-to-gain-practical-ai-skills",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-03T05:31:03+05:30"
+    },
     {
       "title": "UK Germany Defence Ministerial Council Joint Statement",
       "link": "https://www.gov.uk/government/news/uk-germany-defence-ministerial-council-joint-statement--2",
@@ -57,7 +84,7 @@
       "name": "World Health Organization: News",
       "country": "World",
       "ok": true,
-      "entries": 107,
+      "entries": 99,
       "today": 0,
       "note": ""
     },
@@ -74,7 +101,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 4,
       "note": ""
     },
     {
