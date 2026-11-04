@@ -1,7 +1,79 @@
 {
   "date": "2026-11-04",
-  "updated": "14:53",
+  "updated": "16:32",
   "items": [
+    {
+      "title": "New Ukrainian GCSE to help young people preserve their heritage",
+      "link": "https://www.gov.uk/government/news/new-ukrainian-gcse-to-help-young-people-preserve-their-heritage",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:27",
+      "ts": "2026-11-04T16:27:12+05:30"
+    },
+    {
+      "title": "Manchester company which took advantage of struggling businesses shut down",
+      "link": "https://www.gov.uk/government/news/manchester-company-which-took-advantage-of-struggling-businesses-shut-down",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:52",
+      "ts": "2026-11-04T15:52:20+05:30"
+    },
+    {
+      "title": "Joint Statement by the UK and Netherlands Defence Ministers",
+      "link": "https://www.gov.uk/government/news/joint-statement-by-the-uk-and-netherlands-defence-ministers",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:42",
+      "ts": "2026-11-04T15:42:55+05:30"
+    },
+    {
+      "title": "Small for-profit landlord fails to meet RSH's regulatory standards",
+      "link": "https://www.gov.uk/government/news/small-for-profit-landlord-fails-to-meet-rshs-regulatory-standards",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-04T15:00:07+05:30"
+    },
+    {
+      "title": "Protecting the world’s most biodiverse coral reef ecosystems",
+      "link": "https://www.gov.uk/government/case-studies/protecting-the-worlds-most-biodiverse-coral-reef-ecosystems",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-04T15:00:06+05:30"
+    },
+    {
+      "title": "Bringing clean solar power to communities in Bangladesh",
+      "link": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-04T15:00:06+05:30"
+    },
+    {
+      "title": "53rd Universal Periodic Review of human rights: UK Statement on Suriname",
+      "link": "https://www.gov.uk/government/news/53rd-universal-periodic-review-of-human-rights-uk-statement-on-suriname",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:58",
+      "ts": "2026-11-04T14:58:10+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री 5 नवंबर को एशियाई पैरा खेल 2026 में भाग लेने वाले भारतीय दल के साथ परस्‍पर बातचीत करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332499",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:53",
+      "ts": "2026-11-04T14:53:00+05:30"
+    },
     {
       "title": "Turkmenistan officials explore UK expertise on reducing methane emissions",
       "link": "https://www.gov.uk/government/news/turkmenistan-officials-explore-uk-expertise-on-reducing-methane-emissions",
@@ -10,6 +82,15 @@
       "category": "Government",
       "time": "14:18",
       "ts": "2026-11-04T14:18:18+05:30"
+    },
+    {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने डब्ल्यूएचओ के दिशा-निर्देशों के अनुरूप ग्रेड-ए क्षेत्रों में सूक्ष्मजीव निगरानी संबंधी आवश्यकताओं को निर्धारित करने के लिए अनुसूची-एम में संशोधन का प्रस्ताव रखा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332494",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:15",
+      "ts": "2026-11-04T14:15:00+05:30"
     },
     {
       "title": "New NHS blood test trial to help spot cancers earlier",
@@ -126,7 +207,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 8,
       "note": ""
     },
     {
@@ -182,7 +263,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 14,
       "note": ""
     },
     {
@@ -274,6 +355,24 @@
       "category": "Government",
       "time": "10:20",
       "ts": "2026-11-04T10:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332499": {
+      "title": "प्रधानमंत्री 5 नवंबर को एशियाई पैरा खेल 2026 में भाग लेने वाले भारतीय दल के साथ परस्‍पर बातचीत करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332499",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:53",
+      "ts": "2026-11-04T14:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332494": {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने डब्ल्यूएचओ के दिशा-निर्देशों के अनुरूप ग्रेड-ए क्षेत्रों में सूक्ष्मजीव निगरानी संबंधी आवश्यकताओं को निर्धारित करने के लिए अनुसूची-एम में संशोधन का प्रस्ताव रखा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332494",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:15",
+      "ts": "2026-11-04T14:15:00+05:30"
     }
   }
 }
