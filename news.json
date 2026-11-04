@@ -1,7 +1,16 @@
 {
   "date": "2026-11-04",
-  "updated": "17:17",
+  "updated": "18:15",
   "items": [
+    {
+      "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168725",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-04T17:30:00+05:30"
+    },
     {
       "title": "CMA publishes decision in strategic review of market remedies",
       "link": "https://www.gov.uk/government/news/cma-publishes-decision-in-strategic-review-of-market-remedies",
@@ -28,6 +37,15 @@
       "category": "Government",
       "time": "16:57",
       "ts": "2026-11-04T16:57:08+05:30"
+    },
+    {
+      "title": "श्रम संवाद: इंदौर एवं धार क्षेत्र में श्रम संहिताओं पर क्षेत्रीय क्षमता निर्माण एवं जागरूकता कार्यक्रम",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332652",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:54",
+      "ts": "2026-11-04T16:54:00+05:30"
     },
     {
       "title": "Designers to get stronger and simpler protection in major reforms",
@@ -57,6 +75,24 @@
       "ts": "2026-11-04T16:27:12+05:30"
     },
     {
+      "title": "नशे की लत से मुक्ति पाकर स्वस्थ और अधिक स्थिर जीवन की ओर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332638",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:24",
+      "ts": "2026-11-04T16:24:00+05:30"
+    },
+    {
+      "title": "भारतीय दूरसंचार नियामक प्राधिकरण (टीआरएआई) ने 'नेटवर्क अनुभव' प्लेटफॉर्म का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332618",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:21",
+      "ts": "2026-11-04T16:21:00+05:30"
+    },
+    {
       "title": "भारत की संसद तथा राज्य/संघ राज्य क्षेत्र विधानमंडलों की लोक लेखा समितियों के सभापतियों के सम्मेलन में पारित संकल्प",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332564",
       "source": "PIB, Government of India (Hindi)",
@@ -64,6 +100,24 @@
       "category": "Government",
       "time": "16:20",
       "ts": "2026-11-04T16:20:00+05:30"
+    },
+    {
+      "title": "मंत्रिमंडल ने सभी अग्निवीरों को रक्षा बलों में समाहित किए जाने का मार्ग प्रशस्त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332667",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:14",
+      "ts": "2026-11-04T16:14:00+05:30"
+    },
+    {
+      "title": "डीओपीपीडब्‍ल्‍यू ने रेलवे के प्रयागराज मंडल में डीएलसी-5 जागरूकता शिविर के जरिए पेंशनभोगियों के डिजिटल सशक्तीकरण को बढ़ावा दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332626",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:13",
+      "ts": "2026-11-04T16:13:00+05:30"
     },
     {
       "title": "लोक सभा अध्यक्ष ने संसद की तर्ज पर राज्य विधानमंडलों के लिए डिजिटल ऑडिट मॉनिटरिंग प्लेटफॉर्म विकसित करने का आह्वान किया",
@@ -82,6 +136,33 @@
       "category": "Government",
       "time": "15:52",
       "ts": "2026-11-04T15:52:20+05:30"
+    },
+    {
+      "title": "व्यावसायिक जोखिमों से सुरक्षित और गरिमापूर्ण कार्य परिस्थितियों की ओर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332594",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:46",
+      "ts": "2026-11-04T15:46:00+05:30"
+    },
+    {
+      "title": "केंद्रीय मंत्रिमंडल ने दुष्‍कर्म और पॉक्सो (यौन अपराधों से बच्चों का संरक्षण) अधिनियम के मामलों की त्वरित सुनवाई हेतु फास्ट ट्रैक विशेष न्यायालयों (एफटीएससी) के लिए केंद्र प्रायोजित योजना को पांच वर्ष की अवधि (वित्त वर्ष 2026-27 से वित्त वर्ष 2030-31) के लिए जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332624",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:45",
+      "ts": "2026-11-04T15:45:00+05:30"
+    },
+    {
+      "title": "केन्द्रीय मंत्रिमंडल ने वर्ष 2026-27 से 2030-31 की अवधि के लिए विकसित भारत पहल – सांख्यिकीय परिवर्तन, विश्लेषण एवं अनुसंधान योजना (वीआईएसटीएआर) को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332656",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:43",
+      "ts": "2026-11-04T15:43:00+05:30"
     },
     {
       "title": "Joint Statement by the UK and Netherlands Defence Ministers",
@@ -111,6 +192,24 @@
       "ts": "2026-11-04T15:38:00+05:30"
     },
     {
+      "title": "केंद्रीय मंत्रिमंडल ने दुष्‍कर्म और पॉक्सो (यौन अपराधों से बच्चों का संरक्षण) अधिनियम के मामलों की त्वरित सुनवाई हेतु फास्ट ट्रैक विशेष न्यायालयों (एफटीएससी) के लिए केंद्र प्रायोजित योजना को पांच वर्ष की अवधि (वित्त वर्ष 2026-27 से वित्त वर्ष 2030-31) के लिए जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332621",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:34",
+      "ts": "2026-11-04T15:34:00+05:30"
+    },
+    {
+      "title": "केन्द्रीय मंत्रिमंडल ने वर्ष 2026-27 से 2030-31 की अवधि के लिए विकसित भारत पहल – सांख्यिकीय परिवर्तन, विश्लेषण एवं अनुसंधान योजना (वीआईएसटीएआर) को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332654",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:31",
+      "ts": "2026-11-04T15:31:00+05:30"
+    },
+    {
       "title": "केंद्रीय मंत्रिमंडल ने लिथियम और निकेल प्रसंस्करण को बढ़ावा देने के लिए 2,814 करोड़ रुपये के परिव्यय वाली पूंजीगत व्यय सहायता योजना को मंजूरी दी",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332544",
       "source": "PIB, Government of India (Hindi)",
@@ -136,6 +235,15 @@
       "category": "Government",
       "time": "15:23",
       "ts": "2026-11-04T15:23:00+05:30"
+    },
+    {
+      "title": "खेल विभाग ने भारत के खेल पारितंत्र के प्रति जागरूकता बढ़ाने के लिए माई भारत पोर्टल पर खेलो भारत: विनिर्माण से लेकर पोडियम तक का सफर प्रश्नोत्तरी शुरू की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332662",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:20",
+      "ts": "2026-11-04T15:20:00+05:30"
     },
     {
       "title": "Small for-profit landlord fails to meet RSH's regulatory standards",
@@ -183,6 +291,15 @@
       "ts": "2026-11-04T14:53:00+05:30"
     },
     {
+      "title": "मुख्य श्रम आयुक्त (केंद्रीय) ने श्रम संहिताओं के कार्यान्वयन को मजबूत करने और हितधारकों के साथ परामर्श को बढ़ाने के लिए रेलवे बोर्ड के साथ बैठक की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332596",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:41",
+      "ts": "2026-11-04T14:41:00+05:30"
+    },
+    {
       "title": "Turkmenistan officials explore UK expertise on reducing methane emissions",
       "link": "https://www.gov.uk/government/news/turkmenistan-officials-explore-uk-expertise-on-reducing-methane-emissions",
       "source": "GOV.UK: News and communications",
@@ -190,15 +307,6 @@
       "category": "Government",
       "time": "14:18",
       "ts": "2026-11-04T14:18:18+05:30"
-    },
-    {
-      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने डब्ल्यूएचओ के दिशा-निर्देशों के अनुरूप ग्रेड-ए क्षेत्रों में सूक्ष्मजीव निगरानी संबंधी आवश्यकताओं को निर्धारित करने के लिए अनुसूची-एम में संशोधन का प्रस्ताव रखा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332494",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:15",
-      "ts": "2026-11-04T14:15:00+05:30"
     },
     {
       "title": "New NHS blood test trial to help spot cancers earlier",
@@ -217,60 +325,6 @@
       "category": "Government",
       "time": "13:11",
       "ts": "2026-11-04T13:11:11+05:30"
-    },
-    {
-      "title": "सीएसआईआर और दक्षिण-आरआईएस विकासशील देशों में विज्ञान, प्रौद्योगिकी और नवाचार को आगे बढ़ाने पर सहमत",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332449",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:07",
-      "ts": "2026-11-04T12:07:00+05:30"
-    },
-    {
-      "title": "धनतेरस पर स्वास्थ्य को दें प्राथमिकता, स्वस्थ जीवनशैली अपनाएं: प्रतापराव जाधव",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332383",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:51",
-      "ts": "2026-11-04T11:51:00+05:30"
-    },
-    {
-      "title": "एनएलएमसी ने 3 नवंबर, 2026 को विशाखापत्तनम में आरआईएनएल भूमि ई-नीलामी का दूसरा चरण सफलतापूर्वक संपन्न किया, 218 करोड़ रुपये प्राप्त हुए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332447",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:48",
-      "ts": "2026-11-04T11:48:00+05:30"
-    },
-    {
-      "title": "भारतीय रेल ने अक्टूबर 2026 में 145.07 मिलियन टन माल ढुलाई की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332450",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:30",
-      "ts": "2026-11-04T11:30:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने आत्म-साक्षात्कार और आत्‍मबल के महत्व पर जोर देते हुए संस्कृत सुभाषितम् साझा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332452",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:22",
-      "ts": "2026-11-04T11:22:00+05:30"
-    },
-    {
-      "title": "वाणिज्य एवं उद्योग राज्य मंत्री श्री जितिन प्रसाद ने पोलैंड का दौरा किया; द्विपक्षीय व्यापार, निवेश और प्रौद्योगिकी सहयोग को मजबूत करने पर चर्चा की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332451",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:20",
-      "ts": "2026-11-04T10:20:00+05:30"
     },
     {
       "title": "Secretary of State hails PSNI anniversary as a 'major milestone'",
@@ -315,7 +369,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 15,
+      "today": 20,
       "note": ""
     },
     {
@@ -323,7 +377,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -544,6 +598,114 @@
       "category": "Government",
       "time": "15:23",
       "ts": "2026-11-04T15:23:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332652": {
+      "title": "श्रम संवाद: इंदौर एवं धार क्षेत्र में श्रम संहिताओं पर क्षेत्रीय क्षमता निर्माण एवं जागरूकता कार्यक्रम",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332652",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:54",
+      "ts": "2026-11-04T16:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332638": {
+      "title": "नशे की लत से मुक्ति पाकर स्वस्थ और अधिक स्थिर जीवन की ओर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332638",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:24",
+      "ts": "2026-11-04T16:24:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332618": {
+      "title": "भारतीय दूरसंचार नियामक प्राधिकरण (टीआरएआई) ने 'नेटवर्क अनुभव' प्लेटफॉर्म का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332618",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:21",
+      "ts": "2026-11-04T16:21:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332667": {
+      "title": "मंत्रिमंडल ने सभी अग्निवीरों को रक्षा बलों में समाहित किए जाने का मार्ग प्रशस्त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332667",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:14",
+      "ts": "2026-11-04T16:14:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332626": {
+      "title": "डीओपीपीडब्‍ल्‍यू ने रेलवे के प्रयागराज मंडल में डीएलसी-5 जागरूकता शिविर के जरिए पेंशनभोगियों के डिजिटल सशक्तीकरण को बढ़ावा दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332626",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:13",
+      "ts": "2026-11-04T16:13:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332594": {
+      "title": "व्यावसायिक जोखिमों से सुरक्षित और गरिमापूर्ण कार्य परिस्थितियों की ओर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332594",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:46",
+      "ts": "2026-11-04T15:46:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332624": {
+      "title": "केंद्रीय मंत्रिमंडल ने दुष्‍कर्म और पॉक्सो (यौन अपराधों से बच्चों का संरक्षण) अधिनियम के मामलों की त्वरित सुनवाई हेतु फास्ट ट्रैक विशेष न्यायालयों (एफटीएससी) के लिए केंद्र प्रायोजित योजना को पांच वर्ष की अवधि (वित्त वर्ष 2026-27 से वित्त वर्ष 2030-31) के लिए जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332624",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:45",
+      "ts": "2026-11-04T15:45:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332656": {
+      "title": "केन्द्रीय मंत्रिमंडल ने वर्ष 2026-27 से 2030-31 की अवधि के लिए विकसित भारत पहल – सांख्यिकीय परिवर्तन, विश्लेषण एवं अनुसंधान योजना (वीआईएसटीएआर) को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332656",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:43",
+      "ts": "2026-11-04T15:43:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332621": {
+      "title": "केंद्रीय मंत्रिमंडल ने दुष्‍कर्म और पॉक्सो (यौन अपराधों से बच्चों का संरक्षण) अधिनियम के मामलों की त्वरित सुनवाई हेतु फास्ट ट्रैक विशेष न्यायालयों (एफटीएससी) के लिए केंद्र प्रायोजित योजना को पांच वर्ष की अवधि (वित्त वर्ष 2026-27 से वित्त वर्ष 2030-31) के लिए जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332621",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:34",
+      "ts": "2026-11-04T15:34:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332654": {
+      "title": "केन्द्रीय मंत्रिमंडल ने वर्ष 2026-27 से 2030-31 की अवधि के लिए विकसित भारत पहल – सांख्यिकीय परिवर्तन, विश्लेषण एवं अनुसंधान योजना (वीआईएसटीएआर) को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332654",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:31",
+      "ts": "2026-11-04T15:31:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332662": {
+      "title": "खेल विभाग ने भारत के खेल पारितंत्र के प्रति जागरूकता बढ़ाने के लिए माई भारत पोर्टल पर खेलो भारत: विनिर्माण से लेकर पोडियम तक का सफर प्रश्नोत्तरी शुरू की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332662",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:20",
+      "ts": "2026-11-04T15:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332596": {
+      "title": "मुख्य श्रम आयुक्त (केंद्रीय) ने श्रम संहिताओं के कार्यान्वयन को मजबूत करने और हितधारकों के साथ परामर्श को बढ़ाने के लिए रेलवे बोर्ड के साथ बैठक की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332596",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:41",
+      "ts": "2026-11-04T14:41:00+05:30"
     }
   }
 }
