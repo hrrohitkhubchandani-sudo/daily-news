@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "updated": "04:46",
+  "updated": "05:30",
   "items": [
     {
       "title": "PM meeting with Ghanaian President John Dramani Mahama: 3 November 2026",
@@ -89,10 +89,10 @@
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     }
   ],
   "checked": {
