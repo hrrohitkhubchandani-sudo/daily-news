@@ -1,7 +1,34 @@
 {
   "date": "2026-11-04",
-  "updated": "21:15",
+  "updated": "22:14",
   "items": [
+    {
+      "title": "The UK is deeply concerned by the growing threats to information integrity: UK Statement at the UN Fourth Committee",
+      "link": "https://www.gov.uk/government/speeches/the-uk-is-deeply-concerned-by-the-growing-threats-to-information-integrity-uk-statement-at-the-un-fourth-committee--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:28",
+      "ts": "2026-11-04T21:28:42+05:30"
+    },
+    {
+      "title": "Major upgrades at Beacon Barracks now underway",
+      "link": "https://www.gov.uk/government/news/major-upgrades-at-beacon-barracks-now-underway",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:21",
+      "ts": "2026-11-04T21:21:16+05:30"
+    },
+    {
+      "title": "Stronger laws for police using facial recognition technology",
+      "link": "https://www.gov.uk/government/news/stronger-laws-for-police-using-facial-recognition-technology",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:21",
+      "ts": "2026-11-04T21:21:04+05:30"
+    },
     {
       "title": "MHRA guidance on its assessment of non-clinical data generated outside OECD system",
       "link": "https://www.gov.uk/government/news/mhra-guidance-on-its-assessment-of-non-clinical-data-generated-outside-oecd-system",
@@ -9,7 +36,16 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "20:53",
-      "ts": "2026-11-04T20:53:20+05:30"
+      "ts": "2026-11-04T20:53:00+05:30"
+    },
+    {
+      "title": "बनारस हिंदू विश्वविद्यालय, वाराणसी में उच्च स्तरीय बैठक में काशी तमिल संगमम 5.0 की तैयारियों की समीक्षा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332805",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:06",
+      "ts": "2026-11-04T20:06:00+05:30"
     },
     {
       "title": "Recovery of £59,000 for five IT Agency Workers",
@@ -37,6 +73,15 @@
       "category": "Government",
       "time": "19:23",
       "ts": "2026-11-04T19:23:00+05:30"
+    },
+    {
+      "title": "सशस्त्र बल चिकित्सा सेवाओं ने रायरंगपुर मेगा मल्टी-स्पेशियलिटी चिकित्सा शिविर में 4,000 से अधिक मरीजों का इलाज किया और और दृष्टि लौटाने वाली 365 सर्जरी कीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332803",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:10",
+      "ts": "2026-11-04T19:10:00+05:30"
     },
     {
       "title": "DCMS letters to Sky and ITV plc regarding decision to refer to Phase 1",
@@ -73,6 +118,15 @@
       "category": "Government",
       "time": "19:02",
       "ts": "2026-11-04T19:02:00+05:30"
+    },
+    {
+      "title": "दिल्ली हाट में शिल्प समागम मेला 2026 ने जीवंत सांस्कृतिक प्रस्तुतियों और पारंपरिक हस्तशिल्प के माध्यम से आगंतुकों को किया मंत्रमुग्ध",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332801",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:59",
+      "ts": "2026-11-04T18:59:00+05:30"
     },
     {
       "title": "New visitor levy powers to put money back into local communities",
@@ -300,33 +354,6 @@
       "ts": "2026-11-04T16:21:00+05:30"
     },
     {
-      "title": "भारत की संसद तथा राज्य/संघ राज्य क्षेत्र विधानमंडलों की लोक लेखा समितियों के सभापतियों के सम्मेलन में पारित संकल्प",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332564",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:20",
-      "ts": "2026-11-04T16:20:00+05:30"
-    },
-    {
-      "title": "मंत्रिमंडल ने सभी अग्निवीरों को रक्षा बलों में समाहित किए जाने का मार्ग प्रशस्त किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332667",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:14",
-      "ts": "2026-11-04T16:14:00+05:30"
-    },
-    {
-      "title": "डीओपीपीडब्‍ल्‍यू ने रेलवे के प्रयागराज मंडल में डीएलसी-5 जागरूकता शिविर के जरिए पेंशनभोगियों के डिजिटल सशक्तीकरण को बढ़ावा दिया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332626",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:13",
-      "ts": "2026-11-04T16:13:00+05:30"
-    },
-    {
       "title": "Manchester company which took advantage of struggling businesses shut down",
       "link": "https://www.gov.uk/government/news/manchester-company-which-took-advantage-of-struggling-businesses-shut-down",
       "source": "GOV.UK: News and communications",
@@ -352,33 +379,6 @@
       "category": "Government",
       "time": "15:00",
       "ts": "2026-11-04T15:00:07+05:30"
-    },
-    {
-      "title": "Protecting the world’s most biodiverse coral reef ecosystems",
-      "link": "https://www.gov.uk/government/case-studies/protecting-the-worlds-most-biodiverse-coral-reef-ecosystems",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:00",
-      "ts": "2026-11-04T15:00:06+05:30"
-    },
-    {
-      "title": "Bringing clean solar power to communities in Bangladesh",
-      "link": "https://www.gov.uk/government/case-studies/bringing-clean-solar-power-to-communities-in-bangladesh",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:00",
-      "ts": "2026-11-04T15:00:06+05:30"
-    },
-    {
-      "title": "53rd Universal Periodic Review of human rights: UK Statement on Suriname",
-      "link": "https://www.gov.uk/government/news/53rd-universal-periodic-review-of-human-rights-uk-statement-on-suriname",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:58",
-      "ts": "2026-11-04T14:58:10+05:30"
     }
   ],
   "health": [
@@ -850,6 +850,33 @@
       "category": "Government",
       "time": "16:44",
       "ts": "2026-11-04T16:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332805": {
+      "title": "बनारस हिंदू विश्वविद्यालय, वाराणसी में उच्च स्तरीय बैठक में काशी तमिल संगमम 5.0 की तैयारियों की समीक्षा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332805",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:06",
+      "ts": "2026-11-04T20:06:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332803": {
+      "title": "सशस्त्र बल चिकित्सा सेवाओं ने रायरंगपुर मेगा मल्टी-स्पेशियलिटी चिकित्सा शिविर में 4,000 से अधिक मरीजों का इलाज किया और और दृष्टि लौटाने वाली 365 सर्जरी कीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332803",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:10",
+      "ts": "2026-11-04T19:10:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332801": {
+      "title": "दिल्ली हाट में शिल्प समागम मेला 2026 ने जीवंत सांस्कृतिक प्रस्तुतियों और पारंपरिक हस्तशिल्प के माध्यम से आगंतुकों को किया मंत्रमुग्ध",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332801",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:59",
+      "ts": "2026-11-04T18:59:00+05:30"
     }
   }
 }
