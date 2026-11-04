@@ -1,7 +1,25 @@
 {
   "date": "2026-11-04",
-  "updated": "05:30",
+  "updated": "07:04",
   "items": [
+    {
+      "title": "Secretary of State hails PSNI anniversary as a 'major milestone'",
+      "link": "https://www.gov.uk/government/news/secretary-of-state-hails-psni-anniversary-as-a-major-milestone",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-04T05:31:07+05:30"
+    },
+    {
+      "title": "“We must keep up the pressure”: Environment Secretary forms new Waste Crime Crackdown Group",
+      "link": "https://www.gov.uk/government/news/we-must-keep-up-the-pressure-environment-secretary-forms-new-waste-crime-crackdown-group",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-04T05:31:07+05:30"
+    },
     {
       "title": "PM meeting with Ghanaian President John Dramani Mahama: 3 November 2026",
       "link": "https://www.gov.uk/government/news/pm-meeting-with-ghanaian-president-john-dramani-mahama-3-november-2026",
@@ -83,7 +101,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
