@@ -1,7 +1,25 @@
 {
   "date": "2026-11-04",
-  "updated": "12:23",
+  "updated": "13:40",
   "items": [
+    {
+      "title": "PM meeting with the Prime Minister of Antigua and Barbuda, Gaston Browne: 3 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-meeting-with-the-prime-minister-of-antigua-and-barbuda-gaston-browne-3-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "13:11",
+      "ts": "2026-11-04T13:11:11+05:30"
+    },
+    {
+      "title": "धनतेरस पर स्वास्थ्य को दें प्राथमिकता, स्वस्थ जीवनशैली अपनाएं: प्रतापराव जाधव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332383",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:51",
+      "ts": "2026-11-04T11:51:00+05:30"
+    },
     {
       "title": "Secretary of State hails PSNI anniversary as a 'major milestone'",
       "link": "https://www.gov.uk/government/news/secretary-of-state-hails-psni-anniversary-as-a-major-milestone",
@@ -43,10 +61,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": false,
-      "entries": 0,
-      "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "ok": true,
+      "entries": 20,
+      "today": 1,
+      "note": ""
     },
     {
       "name": "UN News: Top stories",
@@ -101,7 +119,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 5,
       "note": ""
     },
     {
@@ -138,6 +156,16 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332347": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332349": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332350": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332358": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332358": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332383": {
+      "title": "धनतेरस पर स्वास्थ्य को दें प्राथमिकता, स्वस्थ जीवनशैली अपनाएं: प्रतापराव जाधव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332383",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:51",
+      "ts": "2026-11-04T11:51:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332374": null
   }
 }
