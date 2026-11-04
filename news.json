@@ -1,7 +1,16 @@
 {
   "date": "2026-11-04",
-  "updated": "22:14",
+  "updated": "23:12",
   "items": [
+    {
+      "title": "'First Dates' maître d's charity unveils new restaurant in Staffordshire women's prison",
+      "link": "https://www.gov.uk/government/news/first-dates-maitre-ds-charity-unveils-new-restaurant-in-staffordshire-womens-prison",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:58",
+      "ts": "2026-11-04T22:58:30+05:30"
+    },
     {
       "title": "The UK is deeply concerned by the growing threats to information integrity: UK Statement at the UN Fourth Committee",
       "link": "https://www.gov.uk/government/speeches/the-uk-is-deeply-concerned-by-the-growing-threats-to-information-integrity-uk-statement-at-the-un-fourth-committee--2",
@@ -273,15 +282,6 @@
       "ts": "2026-11-04T17:00:00+05:30"
     },
     {
-      "title": "Dr Ewan Kirk appointed MOD’s Director Innovation",
-      "link": "https://www.gov.uk/government/news/dr-ewan-kirk-appointed-mods-director-innovation",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:57",
-      "ts": "2026-11-04T16:57:38+05:30"
-    },
-    {
       "title": "Anti-fraud lessons rolled out across schools in England",
       "link": "https://www.gov.uk/government/news/anti-fraud-lessons-rolled-out-across-schools-in-england",
       "source": "GOV.UK: News and communications",
@@ -289,6 +289,15 @@
       "category": "Government",
       "time": "16:57",
       "ts": "2026-11-04T16:57:08+05:30"
+    },
+    {
+      "title": "Dr Ewan Kirk appointed MOD’s Director Innovation",
+      "link": "https://www.gov.uk/government/news/dr-ewan-kirk-appointed-mods-director-innovation",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:57",
+      "ts": "2026-11-04T16:57:00+05:30"
     },
     {
       "title": "श्रम संवाद: इंदौर एवं धार क्षेत्र में श्रम संहिताओं पर क्षेत्रीय क्षमता निर्माण एवं जागरूकता कार्यक्रम",
@@ -370,15 +379,6 @@
       "category": "Government",
       "time": "15:42",
       "ts": "2026-11-04T15:42:55+05:30"
-    },
-    {
-      "title": "Small for-profit landlord fails to meet RSH's regulatory standards",
-      "link": "https://www.gov.uk/government/news/small-for-profit-landlord-fails-to-meet-rshs-regulatory-standards",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:00",
-      "ts": "2026-11-04T15:00:07+05:30"
     }
   ],
   "health": [
