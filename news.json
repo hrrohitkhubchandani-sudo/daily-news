@@ -1,7 +1,43 @@
 {
   "date": "2026-11-05",
-  "updated": "13:44",
+  "updated": "14:58",
   "items": [
+    {
+      "title": "Government announces up to £15 million to bring the joy of reading to 300,000 more young children",
+      "link": "https://www.gov.uk/government/news/government-announces-up-to-15-million-to-bring-the-joy-of-reading-to-300000-more-young-children",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:56",
+      "ts": "2026-11-05T14:56:59+05:30"
+    },
+    {
+      "title": "अंतर-मंत्रालयी समूह ने कैबिनेट द्वारा प्रत्यायोजित वैकल्पिक तंत्र द्वारा अनुमोदन के लिए 1,100 करोड़ रुपये से अधिक के परिसंपत्ति मुद्रीकरण प्रस्तावों की सिफारिश की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333009",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:16",
+      "ts": "2026-11-05T13:16:00+05:30"
+    },
+    {
+      "title": "केंद्रीय स्वास्थ्य एवं परिवार कल्याण मंत्रालय ने विशेष अभियान 6 के तहत शत प्रतिशत लक्ष्य हासिल किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333014",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:12",
+      "ts": "2026-11-05T13:12:00+05:30"
+    },
+    {
+      "title": "एनआरए, आईसीएआर-एनबीएसएस और एलयूपी और डीओएलआर ने विज्ञान आधारित वाटरशेड प्रबंधन को मजबूत करने के लिए राष्ट्रीय स्तर के परामर्श का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333002",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:19",
+      "ts": "2026-11-05T12:19:00+05:30"
+    },
     {
       "title": "एनएचआरसी के हस्तक्षेप से हैदराबाद के केंद्रीय कारागार में विविध लैंगिक पहचान और अभिव्यक्ति वाले लोगों के लिए लिंग-तटस्थ प्रकोष्ठ की स्थापना की गई",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332922",
@@ -39,24 +75,6 @@
       "ts": "2026-11-05T09:01:00+05:30"
     },
     {
-      "title": "Plan to drive down homelessness for young people leaving care",
-      "link": "https://www.gov.uk/government/news/plan-to-drive-down-homelessness-for-young-people-leaving-care",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-05T05:31:02+05:30"
-    },
-    {
-      "title": "Communities to get a stronger say over billions of pounds of water investment",
-      "link": "https://www.gov.uk/government/news/communities-to-get-a-stronger-say-over-billions-of-pounds-of-water-investment",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-05T05:31:02+05:30"
-    },
-    {
       "title": "Veteran support centre network to more than double across the UK",
       "link": "https://www.gov.uk/government/news/veteran-support-centre-network-to-more-than-double-across-the-uk",
       "source": "GOV.UK: News and communications",
@@ -84,6 +102,24 @@
       "ts": "2026-11-05T05:31:02+05:30"
     },
     {
+      "title": "Plan to drive down homelessness for young people leaving care",
+      "link": "https://www.gov.uk/government/news/plan-to-drive-down-homelessness-for-young-people-leaving-care",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-05T05:31:00+05:30"
+    },
+    {
+      "title": "Communities to get a stronger say over billions of pounds of water investment",
+      "link": "https://www.gov.uk/government/news/communities-to-get-a-stronger-say-over-billions-of-pounds-of-water-investment",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-05T05:31:00+05:30"
+    },
+    {
       "title": "Foreign Secretary speech at the 'Blue Finance and Innovation' event at the Commonwealth Heads of Government Meeting (CHOGM)",
       "link": "https://www.gov.uk/government/speeches/foreign-secretary-speech-at-the-blue-finance-and-innovation-event-at-the-commonwealth-heads-of-government-meeting-chogm",
       "source": "GOV.UK: News and communications",
@@ -99,7 +135,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 7,
       "note": ""
     },
     {
@@ -155,7 +191,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 7,
       "note": ""
     },
     {
@@ -232,6 +268,33 @@
       "category": "Government",
       "time": "11:41",
       "ts": "2026-11-05T11:41:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333009": {
+      "title": "अंतर-मंत्रालयी समूह ने कैबिनेट द्वारा प्रत्यायोजित वैकल्पिक तंत्र द्वारा अनुमोदन के लिए 1,100 करोड़ रुपये से अधिक के परिसंपत्ति मुद्रीकरण प्रस्तावों की सिफारिश की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333009",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:16",
+      "ts": "2026-11-05T13:16:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333014": {
+      "title": "केंद्रीय स्वास्थ्य एवं परिवार कल्याण मंत्रालय ने विशेष अभियान 6 के तहत शत प्रतिशत लक्ष्य हासिल किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333014",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:12",
+      "ts": "2026-11-05T13:12:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333002": {
+      "title": "एनआरए, आईसीएआर-एनबीएसएस और एलयूपी और डीओएलआर ने विज्ञान आधारित वाटरशेड प्रबंधन को मजबूत करने के लिए राष्ट्रीय स्तर के परामर्श का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333002",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:19",
+      "ts": "2026-11-05T12:19:00+05:30"
     }
   }
 }
