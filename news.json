@@ -1,7 +1,16 @@
 {
   "date": "2026-11-05",
-  "updated": "11:19",
+  "updated": "12:25",
   "items": [
+    {
+      "title": "प्रधानमंत्री ने सत्य, ज्ञान और सदाचार के महत्व पर जोर देते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332885",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:40",
+      "ts": "2026-11-05T11:40:00+05:30"
+    },
     {
       "title": "विकसित भारत-जी राम जी के अंतर्गत चारा उत्पादन बढ़ाने, पशुधन संबंधी बुनियादी सुविधाओं को मजबूत करने के लिए ग्रामीण विकास विभाग एवं पशुपालन और डेयरी विभाग (डीएएचडी) की संयुक्त पहल",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332845",
@@ -81,7 +90,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -196,6 +205,15 @@
     },
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332846": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332848": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332852": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332852": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332885": {
+      "title": "प्रधानमंत्री ने सत्य, ज्ञान और सदाचार के महत्व पर जोर देते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332885",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:40",
+      "ts": "2026-11-05T11:40:00+05:30"
+    }
   }
 }
