@@ -1,7 +1,16 @@
 {
   "date": "2026-11-06",
-  "updated": "03:05",
+  "updated": "04:08",
   "items": [
+    {
+      "title": "New ‘say what you pay’ law to help young people into work",
+      "link": "https://www.gov.uk/government/news/new-say-what-you-pay-law-to-help-young-people-into-work",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-06T04:00:04+05:30"
+    },
     {
       "title": "UK citizen returned from DRC for specialist Ebola care",
       "link": "https://www.gov.uk/government/news/uk-citizen-returned-from-drc-for-specialist-ebola-care",
@@ -56,10 +65,10 @@
     {
       "name": "World Health Organization: News",
       "country": "World",
-      "ok": true,
-      "entries": 83,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "USGS: Significant earthquakes",
@@ -74,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
