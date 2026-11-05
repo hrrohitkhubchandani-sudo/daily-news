@@ -1,7 +1,17 @@
 {
   "date": "2026-11-06",
-  "updated": "01:13",
-  "items": [],
+  "updated": "02:08",
+  "items": [
+    {
+      "title": "UK citizen returned from DRC for specialist Ebola care",
+      "link": "https://www.gov.uk/government/news/uk-citizen-returned-from-drc-for-specialist-ebola-care",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "01:17",
+      "ts": "2026-11-06T01:17:15+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -46,10 +56,10 @@
     {
       "name": "World Health Organization: News",
       "country": "World",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 83,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     },
     {
       "name": "USGS: Significant earthquakes",
@@ -64,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
