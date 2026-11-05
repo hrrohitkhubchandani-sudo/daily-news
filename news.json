@@ -1,15 +1,69 @@
 {
   "date": "2026-11-05",
-  "updated": "21:18",
+  "updated": "22:27",
   "items": [
     {
-      "title": "UK veteran support centre network to more than double",
+      "title": "Man who murdered Henry Nowak has sentence increased",
+      "link": "https://www.gov.uk/government/news/man-who-murdered-henry-nowak-has-sentence-increased",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:52",
+      "ts": "2026-11-05T21:52:45+05:30"
+    },
+    {
+      "title": "Continued violations of Abyei’s demilitarised status are unacceptable: UK statement at the UN Security Council",
+      "link": "https://www.gov.uk/government/speeches/continued-violations-of-abyeis-demilitarised-status-are-unacceptable-uk-statement-at-the-un-security-council",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:41",
+      "ts": "2026-11-05T21:41:59+05:30"
+    },
+    {
+      "title": "53rd Universal Periodic Review of human rights: UK Statement on Tanzania",
+      "link": "https://www.gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-tanzania",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:35",
+      "ts": "2026-11-05T21:35:07+05:30"
+    },
+    {
+      "title": "Investigation over risk to multi-million pound charity property",
+      "link": "https://www.gov.uk/government/news/investigation-over-risk-to-multi-million-pound-charity-property",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:31",
+      "ts": "2026-11-05T21:31:43+05:30"
+    },
+    {
+      "title": "MHRA sets out approach to strengthen patient and public involvement and engagement in medicines and medical device regulation",
+      "link": "https://www.gov.uk/government/news/mhra-sets-out-approach-to-strengthen-patient-and-public-involvement-and-engagement-in-medicines-and-medical-device-regulation",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:30",
+      "ts": "2026-11-05T21:30:04+05:30"
+    },
+    {
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "source": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "time": "21:30",
+      "ts": "2026-11-05T21:30:00+05:30"
+    },
+    {
+      "title": "New veteran support centre confirmed for Scotland",
       "link": "https://www.gov.uk/government/news/uk-veteran-support-centre-network-to-more-than-double",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
       "time": "20:25",
-      "ts": "2026-11-05T20:25:37+05:30"
+      "ts": "2026-11-05T20:25:00+05:30"
     },
     {
       "title": "Joint Statement by the Informal Group of Friends of Safety of Journalists, November 2026",
@@ -19,6 +73,15 @@
       "category": "Government",
       "time": "20:07",
       "ts": "2026-11-05T20:07:02+05:30"
+    },
+    {
+      "title": "रेल मंत्रालय ने वंदे मातरम् के 150 वर्ष पूरे होने के उपलक्ष्य में साल भर चले समारोह का समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333369",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:59",
+      "ts": "2026-11-05T19:59:00+05:30"
     },
     {
       "title": "'नशा मुक्त युवा, विकसित भारत प्रश्नोत्तरी में 16,517 से अधिक नागरिकों ने भाग लिया",
@@ -32,6 +95,15 @@
     {
       "title": "राष्ट्रीय रक्षा अकादमी और नौसेना अकादमी परीक्षा (I), 2026 – अंतिम परिणाम की घोषणा",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333327",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:52",
+      "ts": "2026-11-05T19:52:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई पैरा गेम्स 2026 में भाग लेने वाले भारतीय दल से बातचीत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333368",
       "source": "PIB, Government of India (Hindi)",
       "country": "India",
       "category": "Government",
@@ -66,6 +138,15 @@
       "ts": "2026-11-05T19:46:06+05:30"
     },
     {
+      "title": "सिविल सेवा (मुख्य) परीक्षा, 2026 – लिखित परीक्षा का परिणाम",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333373",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:43",
+      "ts": "2026-11-05T19:43:00+05:30"
+    },
+    {
       "title": "History cannot justify changing borders by force: UK statement to the OSCE",
       "link": "https://www.gov.uk/government/speeches/history-cannot-justify-changing-borders-by-force-uk-statement-to-the-osce",
       "source": "GOV.UK: News and communications",
@@ -73,6 +154,15 @@
       "category": "Government",
       "time": "19:38",
       "ts": "2026-11-05T19:38:19+05:30"
+    },
+    {
+      "title": "संस्कृति मंत्रालय ने भारत की सांस्कृतिक विरासत का डिजिटलीकरण करने एवं उसे साझा करने के लिए 'गूगल आर्ट्स एंड कल्चर' के साथ एक समझौता ज्ञापन पर हस्ताक्षर किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333341",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:33",
+      "ts": "2026-11-05T19:33:00+05:30"
     },
     {
       "title": "DBS supports Wales National Safeguarding Week 2026",
@@ -255,13 +345,13 @@
       "ts": "2026-11-05T17:40:00+05:30"
     },
     {
-      "title": "भारतीय खगोलविदों के एक दल ने 'यूबीसी 63' नामक तारा समूह को एक 'दोहरे तारा समूह’ के रूप में फिर से परिभाषित किया है; इसकी पहचान इसके बहुत निकट से गुजरने के दौरान हुई",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333265",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:38",
-      "ts": "2026-11-05T17:38:00+05:30"
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-05T17:30:00+05:30"
     },
     {
       "title": "Two new Ebola vaccines to join DR Congo clinical trial",
@@ -271,33 +361,6 @@
       "category": "World",
       "time": "17:30",
       "ts": "2026-11-05T17:30:00+05:30"
-    },
-    {
-      "title": "भारतीय विशिष्ट पहचान प्राधिकरण (यूआईडीएआई) ने 300 ऑफलाइन सत्यापन चाहने वाली संस्थाओं (ओवीएसई) को ऑनबोर्ड किया, इससे आधार ऑफलाइन सत्यापन प्रणाली विस्तारित हुई",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333257",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:29",
-      "ts": "2026-11-05T17:29:00+05:30"
-    },
-    {
-      "title": "बीआरई समिट एवं एक्सपो 2026 ने नवीकरणीय ऊर्जा के क्षेत्र में एक प्रमुख वैश्विक शक्ति के रूप में भारत की स्थिति को और सुदृढ़ किया: केंद्रीय नवीन एवं नवीकरणीय ऊर्जा मंत्री श्री प्रल्हाद जोशी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333322",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:19",
-      "ts": "2026-11-05T17:19:00+05:30"
-    },
-    {
-      "title": "ट्राई ने मुंबई में मोबाइल नेटवर्क की गुणवत्ता का आकलन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333253",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:09",
-      "ts": "2026-11-05T17:09:00+05:30"
     },
     {
       "title": "Russia must show the evidence behind its claims: UK statement to the OSCE",
@@ -325,51 +388,6 @@
       "category": "Government",
       "time": "16:04",
       "ts": "2026-11-05T16:04:44+05:30"
-    },
-    {
-      "title": "Law Officers mark 25 years of Pro Bono Week",
-      "link": "https://www.gov.uk/government/news/law-officers-mark-25-years-of-pro-bono-week",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:04",
-      "ts": "2026-11-05T16:04:39+05:30"
-    },
-    {
-      "title": "What will childhood look like in 2040?",
-      "link": "https://www.gov.uk/government/case-studies/what-will-childhood-look-like-in-2040",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:00",
-      "ts": "2026-11-05T16:00:00+05:30"
-    },
-    {
-      "title": "Reappointments to the Agriculture and Horticulture Development Board",
-      "link": "https://www.gov.uk/government/news/reappointments-to-the-agriculture-and-horticulture-development-board",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:59",
-      "ts": "2026-11-05T15:59:51+05:30"
-    },
-    {
-      "title": "53rd Universal Periodic Review of human rights: UK Statement on Hungary",
-      "link": "https://www.gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-hungary",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:54",
-      "ts": "2026-11-05T15:54:17+05:30"
-    },
-    {
-      "title": "Unlocking capital for nature: Office for Investment convenes investors, government and local leaders to drive delivery",
-      "link": "https://www.gov.uk/government/news/unlocking-capital-for-nature-office-for-investment-convenes-investors-government-and-local-leaders-to-drive-delivery",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:51",
-      "ts": "2026-11-05T15:51:15+05:30"
     }
   ],
   "health": [
@@ -386,7 +404,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -410,7 +428,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -442,7 +460,7 @@
       "country": "United States",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     }
   ],
@@ -880,6 +898,42 @@
       "category": "Government",
       "time": "17:19",
       "ts": "2026-11-05T17:19:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333369": {
+      "title": "रेल मंत्रालय ने वंदे मातरम् के 150 वर्ष पूरे होने के उपलक्ष्य में साल भर चले समारोह का समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333369",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:59",
+      "ts": "2026-11-05T19:59:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333368": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एशियाई पैरा गेम्स 2026 में भाग लेने वाले भारतीय दल से बातचीत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333368",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:52",
+      "ts": "2026-11-05T19:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333373": {
+      "title": "सिविल सेवा (मुख्य) परीक्षा, 2026 – लिखित परीक्षा का परिणाम",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333373",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:43",
+      "ts": "2026-11-05T19:43:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333341": {
+      "title": "संस्कृति मंत्रालय ने भारत की सांस्कृतिक विरासत का डिजिटलीकरण करने एवं उसे साझा करने के लिए 'गूगल आर्ट्स एंड कल्चर' के साथ एक समझौता ज्ञापन पर हस्ताक्षर किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333341",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:33",
+      "ts": "2026-11-05T19:33:00+05:30"
     }
   }
 }
