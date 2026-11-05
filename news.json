@@ -1,7 +1,16 @@
 {
   "date": "2026-11-05",
-  "updated": "12:25",
+  "updated": "13:44",
   "items": [
+    {
+      "title": "एनएचआरसी के हस्तक्षेप से हैदराबाद के केंद्रीय कारागार में विविध लैंगिक पहचान और अभिव्यक्ति वाले लोगों के लिए लिंग-तटस्थ प्रकोष्ठ की स्थापना की गई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332922",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:41",
+      "ts": "2026-11-05T11:41:00+05:30"
+    },
     {
       "title": "प्रधानमंत्री ने सत्य, ज्ञान और सदाचार के महत्व पर जोर देते हुए एक संस्कृत सुभाषितम् साझा किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332885",
@@ -90,7 +99,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 4,
       "note": ""
     },
     {
@@ -214,6 +223,15 @@
       "category": "Government",
       "time": "11:40",
       "ts": "2026-11-05T11:40:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332922": {
+      "title": "एनएचआरसी के हस्तक्षेप से हैदराबाद के केंद्रीय कारागार में विविध लैंगिक पहचान और अभिव्यक्ति वाले लोगों के लिए लिंग-तटस्थ प्रकोष्ठ की स्थापना की गई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332922",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:41",
+      "ts": "2026-11-05T11:41:00+05:30"
     }
   }
 }
