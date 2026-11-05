@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updated": "04:08",
+  "updated": "05:05",
   "items": [
     {
       "title": "New ‘say what you pay’ law to help young people into work",
@@ -65,10 +65,10 @@
     {
       "name": "World Health Organization: News",
       "country": "World",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 83,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     },
     {
       "name": "USGS: Significant earthquakes",
