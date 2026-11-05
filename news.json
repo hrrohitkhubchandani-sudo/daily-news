@@ -1,7 +1,25 @@
 {
   "date": "2026-11-05",
-  "updated": "10:18",
+  "updated": "11:19",
   "items": [
+    {
+      "title": "विकसित भारत-जी राम जी के अंतर्गत चारा उत्पादन बढ़ाने, पशुधन संबंधी बुनियादी सुविधाओं को मजबूत करने के लिए ग्रामीण विकास विभाग एवं पशुपालन और डेयरी विभाग (डीएएचडी) की संयुक्त पहल",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332845",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:22",
+      "ts": "2026-11-05T10:22:00+05:30"
+    },
+    {
+      "title": "खनन मंत्रियों का चौथा सम्मेलन 5-6 नवंबर, 2026 को गोवा में आयोजित होगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332847",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:01",
+      "ts": "2026-11-05T09:01:00+05:30"
+    },
     {
       "title": "Plan to drive down homelessness for young people leaving care",
       "link": "https://www.gov.uk/government/news/plan-to-drive-down-homelessness-for-young-people-leaving-care",
@@ -63,7 +81,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -157,6 +175,27 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332836": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332835": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332833": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332834": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332834": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332845": {
+      "title": "विकसित भारत-जी राम जी के अंतर्गत चारा उत्पादन बढ़ाने, पशुधन संबंधी बुनियादी सुविधाओं को मजबूत करने के लिए ग्रामीण विकास विभाग एवं पशुपालन और डेयरी विभाग (डीएएचडी) की संयुक्त पहल",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332845",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:22",
+      "ts": "2026-11-05T10:22:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332847": {
+      "title": "खनन मंत्रियों का चौथा सम्मेलन 5-6 नवंबर, 2026 को गोवा में आयोजित होगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332847",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:01",
+      "ts": "2026-11-05T09:01:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332846": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332848": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2332852": null
   }
 }
