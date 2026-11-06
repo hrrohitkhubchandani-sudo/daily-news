@@ -1,7 +1,52 @@
 {
   "date": "2026-11-06",
-  "updated": "13:38",
+  "updated": "14:52",
   "items": [
+    {
+      "title": "53rd Universal Periodic Review of human rights: UK Statement Tajikistan",
+      "link": "https://www.gov.uk/government/news/53rd-universal-periodic-review-of-human-rights-uk-statement-tajikistan",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:45",
+      "ts": "2026-11-06T14:45:53+05:30"
+    },
+    {
+      "title": "MOJ circular: Child abduction and pornography offences",
+      "link": "https://www.gov.uk/government/publications/moj-circular-child-abduction-and-pornography-offences",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-06T14:30:00+05:30"
+    },
+    {
+      "title": "कैंसर की सस्ती दवाएं : नए सीमित मार्जिन का मरीजों पर क्या होगा असर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333539",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:03",
+      "ts": "2026-11-06T14:03:00+05:30"
+    },
+    {
+      "title": "पर्यटन मंत्रालय ने लंबित मामलों के निपटान और स्वच्छता के लिए विशेष अभियान 6.0 सफलतापूर्वक संपन्न किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333534",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:12",
+      "ts": "2026-11-06T13:12:00+05:30"
+    },
+    {
+      "title": "राष्ट्रीय अभ्यास 'वज्र-सैट' का बेंगलुरु में समापन, यह मवेशियों में खुरपका और मुंहपका रोग के लिए भारत की तैयारियों को मजबूत करता है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333543",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:56",
+      "ts": "2026-11-06T12:56:00+05:30"
+    },
     {
       "title": "अखिल भारतीय सैनिक स्कूल राष्ट्रीय खेल (एआईएसएसएनजी) सैनिक स्कूल बीजापुर में 03 से 07 नवंबर 2026 तक चलेंगे",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333506",
@@ -84,6 +129,15 @@
       "ts": "2026-11-06T09:14:00+05:30"
     },
     {
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह उर्फ ललन सिंह ने राष्ट्रीय मत्स्य विकास बोर्ड के शासी निकाय की 13वीं बैठक की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333546",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:26",
+      "ts": "2026-11-06T08:26:00+05:30"
+    },
+    {
       "title": "New ‘say what you pay’ law to help young people into work",
       "link": "https://www.gov.uk/government/news/new-say-what-you-pay-law-to-help-young-people-into-work",
       "source": "GOV.UK: News and communications",
@@ -108,7 +162,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 11,
       "note": ""
     },
     {
@@ -164,7 +218,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 6,
       "note": ""
     },
     {
@@ -265,6 +319,42 @@
       "category": "Government",
       "time": "09:14",
       "ts": "2026-11-06T09:14:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333539": {
+      "title": "कैंसर की सस्ती दवाएं : नए सीमित मार्जिन का मरीजों पर क्या होगा असर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333539",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:03",
+      "ts": "2026-11-06T14:03:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333534": {
+      "title": "पर्यटन मंत्रालय ने लंबित मामलों के निपटान और स्वच्छता के लिए विशेष अभियान 6.0 सफलतापूर्वक संपन्न किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333534",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:12",
+      "ts": "2026-11-06T13:12:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333543": {
+      "title": "राष्ट्रीय अभ्यास 'वज्र-सैट' का बेंगलुरु में समापन, यह मवेशियों में खुरपका और मुंहपका रोग के लिए भारत की तैयारियों को मजबूत करता है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333543",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:56",
+      "ts": "2026-11-06T12:56:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333546": {
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह उर्फ ललन सिंह ने राष्ट्रीय मत्स्य विकास बोर्ड के शासी निकाय की 13वीं बैठक की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333546",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:26",
+      "ts": "2026-11-06T08:26:00+05:30"
     }
   }
 }
