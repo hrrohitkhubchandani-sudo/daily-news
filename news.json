@@ -1,7 +1,25 @@
 {
   "date": "2026-11-06",
-  "updated": "15:57",
+  "updated": "16:53",
   "items": [
+    {
+      "title": "Statement on the sentencing of Joshua Wong",
+      "link": "https://www.gov.uk/government/news/statement-on-the-sentencing-of-joshua-wong",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:28",
+      "ts": "2026-11-06T16:28:48+05:30"
+    },
+    {
+      "title": "Shriti Vadera appointed as External Adviser to the Chancellor",
+      "link": "https://www.gov.uk/government/news/shriti-vadera-appointed-as-external-adviser-to-the-chancellor",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:00",
+      "ts": "2026-11-06T16:00:00+05:30"
+    },
     {
       "title": "Parole Board Open Management Committee meeting on 3 December 2026",
       "link": "https://www.gov.uk/government/news/parole-board-open-management-committee-meeting-on-3-december-2026",
@@ -55,6 +73,24 @@
       "category": "Government",
       "time": "15:00",
       "ts": "2026-11-06T15:00:03+05:30"
+    },
+    {
+      "title": "सरकारी भवनों में सौर ऊर्जा संयंत्र लगाने में अग्रणी भूमिका निभाने के लिए वित्त सेवा विभाग ‘पीएम सूर्य घर उत्कृष्टता पुरस्कार’ से सम्मानित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333628",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:54",
+      "ts": "2026-11-06T14:54:00+05:30"
+    },
+    {
+      "title": "वैज्ञानिक और औद्योगिक अनुसंधान विभाग ने 'विशेष अभियान 6' के तहत शत प्रतिशत लक्ष्य हासिल किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333616",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:48",
+      "ts": "2026-11-06T14:48:00+05:30"
     },
     {
       "title": "53rd Universal Periodic Review of human rights: UK Statement Tajikistan",
@@ -237,6 +273,15 @@
       "ts": "2026-11-06T08:26:00+05:30"
     },
     {
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह ने विशेष रूप से पूर्वोत्तर भारत में आनुवंशिक सुधार में तेजी लाने और आजीविका बढ़ाने के लिए \"सूअरों में तरल वीर्य का उपयोग करके कृत्रिम गर्भाधान के लिए वीर्य उत्पादन के लिए न्यूनतम मानक प्रोटोकॉल और मानक संचालन प्रक्रियाएं\" शीर्षक से पुस्तिका जारी की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333624",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "07:17",
+      "ts": "2026-11-06T07:17:00+05:30"
+    },
+    {
       "title": "New ‘say what you pay’ law to help young people into work",
       "link": "https://www.gov.uk/government/news/new-say-what-you-pay-law-to-help-young-people-into-work",
       "source": "GOV.UK: News and communications",
@@ -261,7 +306,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 17,
+      "today": 20,
       "note": ""
     },
     {
@@ -317,7 +362,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 11,
+      "today": 13,
       "note": ""
     },
     {
@@ -508,6 +553,33 @@
       "category": "Government",
       "time": "08:45",
       "ts": "2026-11-06T08:45:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333628": {
+      "title": "सरकारी भवनों में सौर ऊर्जा संयंत्र लगाने में अग्रणी भूमिका निभाने के लिए वित्त सेवा विभाग ‘पीएम सूर्य घर उत्कृष्टता पुरस्कार’ से सम्मानित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333628",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:54",
+      "ts": "2026-11-06T14:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333616": {
+      "title": "वैज्ञानिक और औद्योगिक अनुसंधान विभाग ने 'विशेष अभियान 6' के तहत शत प्रतिशत लक्ष्य हासिल किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333616",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:48",
+      "ts": "2026-11-06T14:48:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333624": {
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह ने विशेष रूप से पूर्वोत्तर भारत में आनुवंशिक सुधार में तेजी लाने और आजीविका बढ़ाने के लिए \"सूअरों में तरल वीर्य का उपयोग करके कृत्रिम गर्भाधान के लिए वीर्य उत्पादन के लिए न्यूनतम मानक प्रोटोकॉल और मानक संचालन प्रक्रियाएं\" शीर्षक से पुस्तिका जारी की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333624",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "07:17",
+      "ts": "2026-11-06T07:17:00+05:30"
     }
   }
 }
