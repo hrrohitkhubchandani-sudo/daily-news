@@ -1,7 +1,25 @@
 {
   "date": "2026-11-06",
-  "updated": "17:45",
+  "updated": "19:07",
   "items": [
+    {
+      "title": "HMRC interest rates update",
+      "link": "https://www.gov.uk/government/news/hmrc-interest-rates-update--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "18:52",
+      "ts": "2026-11-06T18:52:28+05:30"
+    },
+    {
+      "title": "53rd Universal Periodic Review of human rights: UK statement on Antigua and Barbuda",
+      "link": "https://www.gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-antigua-and-barbuda",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "18:11",
+      "ts": "2026-11-06T18:11:06+05:30"
+    },
     {
       "title": "Christmas and New Year courts and tribunals opening times 2026",
       "link": "https://www.gov.uk/government/news/christmas-and-new-year-courts-and-tribunals-opening-times-2026",
@@ -21,33 +39,6 @@
       "ts": "2026-11-06T17:26:43+05:30"
     },
     {
-      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज देहरादून में उत्तराखंड राज्योत्सव समारोह को संबोधित किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333675",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:23",
-      "ts": "2026-11-06T17:23:00+05:30"
-    },
-    {
-      "title": "तमिलनाडु के राज्यपाल ने प्रधानमंत्री से मुलाकात की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333686",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:50",
-      "ts": "2026-11-06T16:50:00+05:30"
-    },
-    {
-      "title": "सरकार ने 2026-27 के लिए OMSS (D) के तहत चावल की बिक्री का लक्ष्य 25 LMT से दोगुना करके 50 LMT किया, 31 अक्टूबर 2026 तक ई-नीलामी के ज़रिए 25 LMT चावल पहले ही बेचा जा चुका है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333687",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:41",
-      "ts": "2026-11-06T16:41:00+05:30"
-    },
-    {
       "title": "Statement on the sentencing of Joshua Wong",
       "link": "https://www.gov.uk/government/news/statement-on-the-sentencing-of-joshua-wong",
       "source": "GOV.UK: News and communications",
@@ -55,15 +46,6 @@
       "category": "Government",
       "time": "16:28",
       "ts": "2026-11-06T16:28:48+05:30"
-    },
-    {
-      "title": "श्री जी. किशन रेड्डी ने खनिज अन्वेषण कार्यों में तेजी लाने और केंद्र-राज्य समन्वय को सुदृढ़ करने की अपील की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333677",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:22",
-      "ts": "2026-11-06T16:22:00+05:30"
     },
     {
       "title": "Shriti Vadera appointed as External Adviser to the Chancellor",
@@ -82,24 +64,6 @@
       "category": "Government",
       "time": "15:45",
       "ts": "2026-11-06T15:45:29+05:30"
-    },
-    {
-      "title": "वाणिज्य और उद्योग राज्य मंत्री श्री जितिन प्रसाद ने व्यापार, निवेश और प्रौद्योगिकी में द्विपक्षीय सहयोग को मजबूत करने के लिए हंगरी की यात्रा की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333644",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:44",
-      "ts": "2026-11-06T15:44:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने भारतीय क्रिकेटर सूर्यकुमार यादव और उनके परिवार के साथ बिताए एक स्नेहपूर्ण क्षण साझा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333646",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:43",
-      "ts": "2026-11-06T15:43:00+05:30"
     },
     {
       "title": "Landmark agreement between National Housing Bank and Greater Manchester Combined Authority unlocks up to £500m for new homes and regeneration",
@@ -129,24 +93,6 @@
       "ts": "2026-11-06T15:30:09+05:30"
     },
     {
-      "title": "नेशनल ओवरसीज स्कॉलरशिप के माध्यम से अकादमिक आकांक्षाओं से लेकर वैश्विक शोध के अवसरों तक",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333645",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:17",
-      "ts": "2026-11-06T15:17:00+05:30"
-    },
-    {
-      "title": "राष्ट्रीय अनुसूचित जाति विद्यार्थी फैलोशिप से शैक्षणिक उत्कृष्टता की ओर अग्रसर एक प्रेरक सफर",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333642",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:15",
-      "ts": "2026-11-06T15:15:00+05:30"
-    },
-    {
       "title": "Tees Valley Combined Authority: Best Value Inspector appointment letters",
       "link": "https://www.gov.uk/government/publications/tees-valley-combined-authority-best-value-inspector-appointment-letter",
       "source": "GOV.UK: News and communications",
@@ -165,24 +111,6 @@
       "ts": "2026-11-06T15:00:03+05:30"
     },
     {
-      "title": "सरकारी भवनों में सौर ऊर्जा संयंत्र लगाने में अग्रणी भूमिका निभाने के लिए वित्त सेवा विभाग ‘पीएम सूर्य घर उत्कृष्टता पुरस्कार’ से सम्मानित",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333628",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:54",
-      "ts": "2026-11-06T14:54:00+05:30"
-    },
-    {
-      "title": "वैज्ञानिक और औद्योगिक अनुसंधान विभाग ने 'विशेष अभियान 6' के तहत शत प्रतिशत लक्ष्य हासिल किए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333616",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:48",
-      "ts": "2026-11-06T14:48:00+05:30"
-    },
-    {
       "title": "53rd Universal Periodic Review of human rights: UK Statement Tajikistan",
       "link": "https://www.gov.uk/government/news/53rd-universal-periodic-review-of-human-rights-uk-statement-tajikistan",
       "source": "GOV.UK: News and communications",
@@ -190,96 +118,6 @@
       "category": "Government",
       "time": "14:45",
       "ts": "2026-11-06T14:45:53+05:30"
-    },
-    {
-      "title": "ट्राई ने ‘इंटरकनेक्ट समझौतों का रजिस्टर (चौथा संशोधन) विनियमन, 2026’ जारी किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333648",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:22",
-      "ts": "2026-11-06T14:22:00+05:30"
-    },
-    {
-      "title": "कैंसर की सस्ती दवाएं : नए सीमित मार्जिन का मरीजों पर क्या होगा असर",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333539",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:03",
-      "ts": "2026-11-06T14:03:00+05:30"
-    },
-    {
-      "title": "भारत - अमरीकी त्रि-सैन्‍य मानवीय सहायता एवं आपदा राहत अभ्यास, टाइगर ट्रायम्फ 2026 समारोह पूर्वक संपन्‍न",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333636",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:59",
-      "ts": "2026-11-06T13:59:00+05:30"
-    },
-    {
-      "title": "सूचना और प्रसारण मंत्रालय ने 1.63 लाख किलोग्राम से अधिक स्क्रैप का निपटान करने और 40,278 वर्ग फुट कार्यालय स्थान खाली करने के साथ विशेष अभियान 6.0 का सफलतापूर्वक समापन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333576",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:55",
-      "ts": "2026-11-06T13:55:00+05:30"
-    },
-    {
-      "title": "उपराष्ट्रपति श्री सी.पी. राधाकृष्णन 7 नवंबर को अयोध्या में दीपोत्सव 2026 में शामिल होंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333569",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:53",
-      "ts": "2026-11-06T13:53:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने आयुर्वेद और निवारक स्वास्थ्य सेवाओं के महत्व पर एक लेख साझा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333552",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:50",
-      "ts": "2026-11-06T13:50:00+05:30"
-    },
-    {
-      "title": "डीएआरई-आईसीएआर ने विशेष अभियान 6.0 पूरा किया, देश भर में लगभग 8,000 स्‍थानों की सफाई की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333574",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:24",
-      "ts": "2026-11-06T13:24:00+05:30"
-    },
-    {
-      "title": "पर्यटन मंत्रालय ने लंबित मामलों के निपटान और स्वच्छता के लिए विशेष अभियान 6.0 सफलतापूर्वक संपन्न किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333534",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:12",
-      "ts": "2026-11-06T13:12:00+05:30"
-    },
-    {
-      "title": "राष्ट्रीय अभ्यास 'वज्र-सैट' का बेंगलुरु में समापन, यह मवेशियों में खुरपका और मुंहपका रोग के लिए भारत की तैयारियों को मजबूत करता है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333543",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:56",
-      "ts": "2026-11-06T12:56:00+05:30"
-    },
-    {
-      "title": "'विशेष अभियान 6' देशव्यापी ई-कचरा जागरूकता और संग्रह अभियान के साथ संपन्न",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333572",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:43",
-      "ts": "2026-11-06T12:43:00+05:30"
     },
     {
       "title": "UK partnership opens more opportunities for Pakistanis to study in Britain",
@@ -322,10 +160,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": true,
-      "entries": 20,
-      "today": 20,
-      "note": ""
+      "ok": false,
+      "entries": 0,
+      "today": 0,
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "UN News: Top stories",
@@ -380,7 +218,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 15,
+      "today": 17,
       "note": ""
     },
     {
