@@ -1,7 +1,34 @@
 {
   "date": "2026-11-06",
-  "updated": "21:08",
+  "updated": "22:10",
   "items": [
+    {
+      "title": "Adviser Finder and Adviser Register temporarily unavailable",
+      "link": "https://www.gov.uk/government/news/adviser-finder-and-adviser-register-temporarily-unavailable",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:32",
+      "ts": "2026-11-06T21:32:36+05:30"
+    },
+    {
+      "title": "Better access to public services central to new Class Unit agenda",
+      "link": "https://www.gov.uk/government/news/better-access-to-public-services-central-to-new-class-unit-agenda",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:11",
+      "ts": "2026-11-06T21:11:41+05:30"
+    },
+    {
+      "title": "Major boost for young people in Luton as Youth Hub opens to support them towards work",
+      "link": "https://www.gov.uk/government/news/major-boost-for-young-people-in-luton-as-youth-hub-opens-to-support-them-towards-work",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:08",
+      "ts": "2026-11-06T21:08:01+05:30"
+    },
     {
       "title": "Flood risk reduced for Severn Stoke ahead of winter months",
       "link": "https://www.gov.uk/government/news/flood-risk-reduced-for-severn-stoke-ahead-of-winter-months",
@@ -111,6 +138,15 @@
       "ts": "2026-11-06T18:10:00+05:30"
     },
     {
+      "title": "केंद्रीय मंत्री श्री अश्विनी वैष्णव ने सेमीकॉन 2.0 वेब एप्लिकेशन पोर्टल लॉन्च किया और इलेक्ट्रॉनिक्स कंपोनेंट्स मैन्युफैक्चरिंग स्कीम के तहत 12 स्वीकृत आवेदकों की घोषणा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333813",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:05",
+      "ts": "2026-11-06T18:05:00+05:30"
+    },
+    {
       "title": "विधि और न्याय मंत्रालय के न्याय विभाग ने सरकारी कार्यालयों में स्वच्छता को बढ़ावा देने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 सफलतापूर्वक पूरा किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333780",
       "source": "PIB, Government of India (Hindi)",
@@ -138,11 +174,29 @@
       "ts": "2026-11-06T17:42:00+05:30"
     },
     {
+      "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-06T17:30:00+05:30"
+    },
+    {
       "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168752",
       "source": "UN News: Top stories",
       "country": "World",
       "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-06T17:30:00+05:30"
+    },
+    {
+      "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+      "source": "UN News: Climate change",
+      "country": "World",
+      "category": "Climate",
       "time": "17:30",
       "ts": "2026-11-06T17:30:00+05:30"
     },
@@ -226,15 +280,6 @@
       "category": "Government",
       "time": "16:38",
       "ts": "2026-11-06T16:38:00+05:30"
-    },
-    {
-      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने राज्यों और केंद्रशासित प्रदेशों के साथ आयुष्मान भारत-प्रधानमंत्री जन आरोग्य योजना और आयुष्मान भारत डिजिटल मिशन की प्रगति की समीक्षा की; इनके कार्यान्वयन और अधिक मजबूत बनाने हेतु कार्ययोजना",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333725",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:34",
-      "ts": "2026-11-06T16:34:00+05:30"
     },
     {
       "title": "Statement on the sentencing of Joshua Wong",
@@ -334,24 +379,6 @@
       "category": "Government",
       "time": "11:31",
       "ts": "2026-11-06T11:31:45+05:30"
-    },
-    {
-      "title": "New ‘say what you pay’ law to help young people into work",
-      "link": "https://www.gov.uk/government/news/new-say-what-you-pay-law-to-help-young-people-into-work",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "04:00",
-      "ts": "2026-11-06T04:00:04+05:30"
-    },
-    {
-      "title": "UK citizen returned from DRC for specialist Ebola care",
-      "link": "https://www.gov.uk/government/news/uk-citizen-returned-from-drc-for-specialist-ebola-care",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "01:17",
-      "ts": "2026-11-06T01:17:00+05:30"
     }
   ],
   "health": [
@@ -368,7 +395,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -384,7 +411,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -416,16 +443,16 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 19,
+      "today": 20,
       "note": ""
     },
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     }
   ],
   "checked": {
@@ -868,6 +895,15 @@
       "category": "Government",
       "time": "17:58",
       "ts": "2026-11-06T17:58:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333813": {
+      "title": "केंद्रीय मंत्री श्री अश्विनी वैष्णव ने सेमीकॉन 2.0 वेब एप्लिकेशन पोर्टल लॉन्च किया और इलेक्ट्रॉनिक्स कंपोनेंट्स मैन्युफैक्चरिंग स्कीम के तहत 12 स्वीकृत आवेदकों की घोषणा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333813",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:05",
+      "ts": "2026-11-06T18:05:00+05:30"
     }
   }
 }
