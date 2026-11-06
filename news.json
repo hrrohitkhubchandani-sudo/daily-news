@@ -1,7 +1,61 @@
 {
   "date": "2026-11-06",
-  "updated": "14:52",
+  "updated": "15:57",
   "items": [
+    {
+      "title": "Parole Board Open Management Committee meeting on 3 December 2026",
+      "link": "https://www.gov.uk/government/news/parole-board-open-management-committee-meeting-on-3-december-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:45",
+      "ts": "2026-11-06T15:45:29+05:30"
+    },
+    {
+      "title": "Landmark agreement between National Housing Bank and Greater Manchester Combined Authority unlocks up to £500m for new homes and regeneration",
+      "link": "https://www.gov.uk/government/news/landmark-agreement-between-national-housing-bank-and-greater-manchester-combined-authority-unlocks-up-to-500m-for-new-homes-and-regeneration",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:42",
+      "ts": "2026-11-06T15:42:07+05:30"
+    },
+    {
+      "title": "MOJ circular: Child abduction and pornography offences",
+      "link": "https://www.gov.uk/government/publications/moj-circular-child-abduction-and-pornography-offences",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:41",
+      "ts": "2026-11-06T15:41:28+05:30"
+    },
+    {
+      "title": "De Aston School (Lincolnshire): warning notice",
+      "link": "https://www.gov.uk/government/publications/de-aston-school-lincolnshire-warning-notice",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:30",
+      "ts": "2026-11-06T15:30:09+05:30"
+    },
+    {
+      "title": "Tees Valley Combined Authority: Best Value Inspector appointment letters",
+      "link": "https://www.gov.uk/government/publications/tees-valley-combined-authority-best-value-inspector-appointment-letter",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-06T15:00:16+05:30"
+    },
+    {
+      "title": "Procurement of Civil Legal Aid Services: Inquests",
+      "link": "https://www.gov.uk/government/news/procurement-of-civil-legal-aid-services-inquests",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-06T15:00:03+05:30"
+    },
     {
       "title": "53rd Universal Periodic Review of human rights: UK Statement Tajikistan",
       "link": "https://www.gov.uk/government/news/53rd-universal-periodic-review-of-human-rights-uk-statement-tajikistan",
@@ -12,15 +66,6 @@
       "ts": "2026-11-06T14:45:53+05:30"
     },
     {
-      "title": "MOJ circular: Child abduction and pornography offences",
-      "link": "https://www.gov.uk/government/publications/moj-circular-child-abduction-and-pornography-offences",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:30",
-      "ts": "2026-11-06T14:30:00+05:30"
-    },
-    {
       "title": "कैंसर की सस्ती दवाएं : नए सीमित मार्जिन का मरीजों पर क्या होगा असर",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333539",
       "source": "PIB, Government of India (Hindi)",
@@ -28,6 +73,42 @@
       "category": "Government",
       "time": "14:03",
       "ts": "2026-11-06T14:03:00+05:30"
+    },
+    {
+      "title": "सूचना और प्रसारण मंत्रालय ने 1.63 लाख किलोग्राम से अधिक स्क्रैप का निपटान करने और 40,278 वर्ग फुट कार्यालय स्थान खाली करने के साथ विशेष अभियान 6.0 का सफलतापूर्वक समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333576",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:55",
+      "ts": "2026-11-06T13:55:00+05:30"
+    },
+    {
+      "title": "उपराष्ट्रपति श्री सी.पी. राधाकृष्णन 7 नवंबर को अयोध्या में दीपोत्सव 2026 में शामिल होंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333569",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:53",
+      "ts": "2026-11-06T13:53:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने आयुर्वेद और निवारक स्वास्थ्य सेवाओं के महत्व पर एक लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333552",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:50",
+      "ts": "2026-11-06T13:50:00+05:30"
+    },
+    {
+      "title": "डीएआरई-आईसीएआर ने विशेष अभियान 6.0 पूरा किया, देश भर में लगभग 8,000 स्‍थानों की सफाई की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333574",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:24",
+      "ts": "2026-11-06T13:24:00+05:30"
     },
     {
       "title": "पर्यटन मंत्रालय ने लंबित मामलों के निपटान और स्वच्छता के लिए विशेष अभियान 6.0 सफलतापूर्वक संपन्न किया",
@@ -46,6 +127,15 @@
       "category": "Government",
       "time": "12:56",
       "ts": "2026-11-06T12:56:00+05:30"
+    },
+    {
+      "title": "'विशेष अभियान 6' देशव्यापी ई-कचरा जागरूकता और संग्रह अभियान के साथ संपन्न",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333572",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:43",
+      "ts": "2026-11-06T12:43:00+05:30"
     },
     {
       "title": "अखिल भारतीय सैनिक स्कूल राष्ट्रीय खेल (एआईएसएसएनजी) सैनिक स्कूल बीजापुर में 03 से 07 नवंबर 2026 तक चलेंगे",
@@ -129,6 +219,15 @@
       "ts": "2026-11-06T09:14:00+05:30"
     },
     {
+      "title": "माय भारत का 'विकसित भारत युवा संवाद: अपना वोट जानें' अभियान का समापन, 31 राज्यों/केंद्र शासित प्रदेशों में 536 कार्यक्रमों के माध्यम से एक लाख से अधिक युवाओं तक पहुंच बनाई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333567",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:45",
+      "ts": "2026-11-06T08:45:00+05:30"
+    },
+    {
       "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह उर्फ ललन सिंह ने राष्ट्रीय मत्स्य विकास बोर्ड के शासी निकाय की 13वीं बैठक की अध्यक्षता की",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333546",
       "source": "PIB, Government of India (Hindi)",
@@ -162,7 +261,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 11,
+      "today": 17,
       "note": ""
     },
     {
@@ -218,7 +317,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 11,
       "note": ""
     },
     {
@@ -355,6 +454,60 @@
       "category": "Government",
       "time": "08:26",
       "ts": "2026-11-06T08:26:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333576": {
+      "title": "सूचना और प्रसारण मंत्रालय ने 1.63 लाख किलोग्राम से अधिक स्क्रैप का निपटान करने और 40,278 वर्ग फुट कार्यालय स्थान खाली करने के साथ विशेष अभियान 6.0 का सफलतापूर्वक समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333576",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:55",
+      "ts": "2026-11-06T13:55:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333569": {
+      "title": "उपराष्ट्रपति श्री सी.पी. राधाकृष्णन 7 नवंबर को अयोध्या में दीपोत्सव 2026 में शामिल होंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333569",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:53",
+      "ts": "2026-11-06T13:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333552": {
+      "title": "प्रधानमंत्री ने आयुर्वेद और निवारक स्वास्थ्य सेवाओं के महत्व पर एक लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333552",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:50",
+      "ts": "2026-11-06T13:50:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333574": {
+      "title": "डीएआरई-आईसीएआर ने विशेष अभियान 6.0 पूरा किया, देश भर में लगभग 8,000 स्‍थानों की सफाई की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333574",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:24",
+      "ts": "2026-11-06T13:24:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333572": {
+      "title": "'विशेष अभियान 6' देशव्यापी ई-कचरा जागरूकता और संग्रह अभियान के साथ संपन्न",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333572",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:43",
+      "ts": "2026-11-06T12:43:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333567": {
+      "title": "माय भारत का 'विकसित भारत युवा संवाद: अपना वोट जानें' अभियान का समापन, 31 राज्यों/केंद्र शासित प्रदेशों में 536 कार्यक्रमों के माध्यम से एक लाख से अधिक युवाओं तक पहुंच बनाई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333567",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:45",
+      "ts": "2026-11-06T08:45:00+05:30"
     }
   }
 }
