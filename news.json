@@ -1,7 +1,34 @@
 {
   "date": "2026-11-06",
-  "updated": "11:18",
+  "updated": "12:25",
   "items": [
+    {
+      "title": "UK partnership opens more opportunities for Pakistanis to study in Britain",
+      "link": "https://www.gov.uk/government/news/uk-partnership-opens-more-opportunities-for-pakistanis-to-study-in-britain",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:17",
+      "ts": "2026-11-06T12:17:26+05:30"
+    },
+    {
+      "title": "BII launches new investment strategy for growth in Kenya",
+      "link": "https://www.gov.uk/government/news/bii-launches-new-investment-strategy-for-growth-in-kenya",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "11:31",
+      "ts": "2026-11-06T11:31:45+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने झारखंड के खूंटी में हुए हादसे में लोगों की मौत पर दुख जताया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333449",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:12",
+      "ts": "2026-11-06T10:12:00+05:30"
+    },
     {
       "title": "New ‘say what you pay’ law to help young people into work",
       "link": "https://www.gov.uk/government/news/new-say-what-you-pay-law-to-help-young-people-into-work",
@@ -27,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -83,7 +110,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
@@ -121,6 +148,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333405": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333409": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333410": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333407": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333407": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333449": {
+      "title": "प्रधानमंत्री ने झारखंड के खूंटी में हुए हादसे में लोगों की मौत पर दुख जताया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333449",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:12",
+      "ts": "2026-11-06T10:12:00+05:30"
+    }
   }
 }
