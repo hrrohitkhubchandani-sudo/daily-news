@@ -1,15 +1,25 @@
 {
   "date": "2026-11-08",
-  "updated": "00:04",
-  "items": [],
+  "updated": "01:02",
+  "items": [
+    {
+      "title": "No one who has served our country should sleep rough on our streets",
+      "link": "https://www.gov.uk/government/news/no-one-who-has-served-our-country-should-sleep-rough-on-our-streets",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "00:51",
+      "ts": "2026-11-08T00:51:00+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "UN News: Top stories",
@@ -64,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
