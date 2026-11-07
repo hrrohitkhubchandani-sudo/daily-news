@@ -1,7 +1,26 @@
 {
   "date": "2026-11-07",
-  "updated": "05:29",
-  "items": [],
+  "updated": "06:23",
+  "items": [
+    {
+      "title": "Digital Veteran Card passes 23,000 downloads as veterans encouraged to discover its benefits",
+      "link": "https://www.gov.uk/government/news/digital-veteran-card-passes-23000-downloads-as-veterans-encouraged-to-discover-its-benefits",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-07T05:31:00+05:30"
+    },
+    {
+      "title": "UK military satellite Titania launches into orbit following £3bn space investment into defence of space",
+      "link": "https://www.gov.uk/government/news/uk-military-satellite-titania-launches-into-orbit-following-3bn-space-investment-into-defence-of-space",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-07T05:31:00+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -64,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
