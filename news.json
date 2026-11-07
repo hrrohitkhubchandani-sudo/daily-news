@@ -1,7 +1,16 @@
 {
   "date": "2026-11-07",
-  "updated": "10:10",
+  "updated": "11:08",
   "items": [
+    {
+      "title": "भारत का रसायन और पेट्रोकेमिकल सेक्टर: औद्योगिक विकास का आधार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333895",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:47",
+      "ts": "2026-11-07T10:47:00+05:30"
+    },
     {
       "title": "Digital Veteran Card passes 23,000 downloads as veterans encouraged to discover its benefits",
       "link": "https://www.gov.uk/government/news/digital-veteran-card-passes-23000-downloads-as-veterans-encouraged-to-discover-its-benefits",
@@ -27,7 +36,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -116,6 +125,16 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333687": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333722": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333874": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333877": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333877": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333895": {
+      "title": "भारत का रसायन और पेट्रोकेमिकल सेक्टर: औद्योगिक विकास का आधार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333895",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:47",
+      "ts": "2026-11-07T10:47:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333883": null
   }
 }
