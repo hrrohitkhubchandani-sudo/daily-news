@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "updated": "16:00",
+  "updated": "16:55",
   "items": [
     {
       "title": "रक्षा बलों को उभरते खतरों से निपटने के लिए सर्वोच्च स्तर की परिचालन तैयारी बनाए रखनी चाहिए। इसके लिए सभी क्षेत्रों की स्थिति पर सतत निगरानी, साइबर सुरक्षा और सूचना की विश्वसनीयता एवं अखंडता सुनिश्चित करने पर विशेष जोर दिया जाए: बागडोगरा वायुसेना स्टेशन पर रक्षा मंत्री का वक्तव्य",
@@ -10,6 +10,24 @@
       "category": "Government",
       "time": "13:44",
       "ts": "2026-11-07T13:44:00+05:30"
+    },
+    {
+      "title": "पीएसयू तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल तय गुणवत्ता मानकों को पूरा करता है; 27 राज्यों और केंद्र शासित प्रदेशों से लिए गए 893 नमूने मानकों के अनुरूप पाए गए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333951",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:18",
+      "ts": "2026-11-07T13:18:00+05:30"
+    },
+    {
+      "title": "वेवएक्स ने आईएफएफआई गोवा 2026 के वेव्स बाज़ार में भाग लेने के लिए स्टार्टअप कंपनियों को आमंत्रित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333954",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:53",
+      "ts": "2026-11-07T11:53:00+05:30"
     },
     {
       "title": "विधायी विभाग ने शुरू की संवाद श्रृंखला; पहला सत्र नेतृत्व में मूल्यों और व्यक्तिगत प्रभावशीलता में सुधार पर केंद्रित",
@@ -63,7 +81,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 6,
       "note": ""
     },
     {
@@ -190,6 +208,24 @@
       "category": "Government",
       "time": "13:44",
       "ts": "2026-11-07T13:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333951": {
+      "title": "पीएसयू तेल विपणन कंपनियों द्वारा आपूर्ति किया जाने वाला ई20 पेट्रोल तय गुणवत्ता मानकों को पूरा करता है; 27 राज्यों और केंद्र शासित प्रदेशों से लिए गए 893 नमूने मानकों के अनुरूप पाए गए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333951",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:18",
+      "ts": "2026-11-07T13:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333954": {
+      "title": "वेवएक्स ने आईएफएफआई गोवा 2026 के वेव्स बाज़ार में भाग लेने के लिए स्टार्टअप कंपनियों को आमंत्रित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333954",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:53",
+      "ts": "2026-11-07T11:53:00+05:30"
     }
   }
 }
