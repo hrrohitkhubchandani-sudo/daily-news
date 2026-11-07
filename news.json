@@ -1,7 +1,16 @@
 {
   "date": "2026-11-07",
-  "updated": "12:10",
+  "updated": "13:19",
   "items": [
+    {
+      "title": "भारत-यूरोपीय संघ ने होराइज़न यूरोप कार्यक्रम से जुड़ने के लिए वार्ताएँ संपन्न कीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333911",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:26",
+      "ts": "2026-11-07T11:26:00+05:30"
+    },
     {
       "title": "भारत का रसायन और पेट्रोकेमिकल सेक्टर: औद्योगिक विकास का आधार",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333895",
@@ -36,7 +45,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -135,6 +144,16 @@
       "time": "10:47",
       "ts": "2026-11-07T10:47:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333883": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333883": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333911": {
+      "title": "भारत-यूरोपीय संघ ने होराइज़न यूरोप कार्यक्रम से जुड़ने के लिए वार्ताएँ संपन्न कीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333911",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:26",
+      "ts": "2026-11-07T11:26:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333918": null
   }
 }
