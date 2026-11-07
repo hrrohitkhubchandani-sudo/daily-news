@@ -1,7 +1,16 @@
 {
   "date": "2026-11-07",
-  "updated": "13:19",
+  "updated": "14:10",
   "items": [
+    {
+      "title": "विधायी विभाग ने शुरू की संवाद श्रृंखला; पहला सत्र नेतृत्व में मूल्यों और व्यक्तिगत प्रभावशीलता में सुधार पर केंद्रित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333921",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:45",
+      "ts": "2026-11-07T11:45:00+05:30"
+    },
     {
       "title": "भारत-यूरोपीय संघ ने होराइज़न यूरोप कार्यक्रम से जुड़ने के लिए वार्ताएँ संपन्न कीं",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333911",
@@ -45,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -154,6 +163,15 @@
       "time": "11:26",
       "ts": "2026-11-07T11:26:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333918": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333918": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333921": {
+      "title": "विधायी विभाग ने शुरू की संवाद श्रृंखला; पहला सत्र नेतृत्व में मूल्यों और व्यक्तिगत प्रभावशीलता में सुधार पर केंद्रित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333921",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:45",
+      "ts": "2026-11-07T11:45:00+05:30"
+    }
   }
 }
