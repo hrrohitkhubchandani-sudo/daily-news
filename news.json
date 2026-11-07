@@ -1,7 +1,16 @@
 {
   "date": "2026-11-07",
-  "updated": "16:55",
+  "updated": "17:33",
   "items": [
+    {
+      "title": "इस्पात मंत्रालय ने लंबित मामलों के निपटान के लिए विशेष अभियान (एससीडीपीएम) 6 सफलतापूर्वक संपन्न किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333962",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:49",
+      "ts": "2026-11-07T13:49:00+05:30"
+    },
     {
       "title": "रक्षा बलों को उभरते खतरों से निपटने के लिए सर्वोच्च स्तर की परिचालन तैयारी बनाए रखनी चाहिए। इसके लिए सभी क्षेत्रों की स्थिति पर सतत निगरानी, साइबर सुरक्षा और सूचना की विश्वसनीयता एवं अखंडता सुनिश्चित करने पर विशेष जोर दिया जाए: बागडोगरा वायुसेना स्टेशन पर रक्षा मंत्री का वक्तव्य",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333947",
@@ -81,7 +90,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 7,
       "note": ""
     },
     {
@@ -226,6 +235,15 @@
       "category": "Government",
       "time": "11:53",
       "ts": "2026-11-07T11:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333962": {
+      "title": "इस्पात मंत्रालय ने लंबित मामलों के निपटान के लिए विशेष अभियान (एससीडीपीएम) 6 सफलतापूर्वक संपन्न किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333962",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:49",
+      "ts": "2026-11-07T13:49:00+05:30"
     }
   }
 }
