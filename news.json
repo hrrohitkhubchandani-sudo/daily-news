@@ -1,7 +1,25 @@
 {
   "date": "2026-11-07",
-  "updated": "18:52",
+  "updated": "19:41",
   "items": [
+    {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज अहमदाबाद में उच्च स्तरीय बैठक में गुजरात की कानून-व्यवस्था एवं आंतरिक सुरक्षा की समीक्षा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334011",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:24",
+      "ts": "2026-11-07T19:24:00+05:30"
+    },
+    {
+      "title": "दीपावली की पूर्व संध्या पर भारत की राष्ट्रपति की शुभकामनाएं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333993",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:50",
+      "ts": "2026-11-07T18:50:00+05:30"
+    },
     {
       "title": "लोकसभा अध्यक्ष ने दीपावली, गोवर्धन पूजा और भाई दूज की शुभकामनाएँ दीं",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333988",
@@ -10,6 +28,15 @@
       "category": "Government",
       "time": "18:32",
       "ts": "2026-11-07T18:32:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने नागरिकों को दिवाली की शुभकामनाएं दीं और कहा कि यह पर्व अंधकार पर विजय पाने के संकल्प का प्रतीक है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333997",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-07T17:31:00+05:30"
     },
     {
       "title": "प्रधानमंत्री ने उपराष्ट्रपति थिरु सी. पी. राधाकृष्णन से मुलाकात की और उन्हें दिवाली की शुभकामनाएं दीं",
@@ -117,7 +144,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 10,
+      "today": 13,
       "note": ""
     },
     {
@@ -298,6 +325,33 @@
       "category": "Government",
       "time": "15:51",
       "ts": "2026-11-07T15:51:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334011": {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज अहमदाबाद में उच्च स्तरीय बैठक में गुजरात की कानून-व्यवस्था एवं आंतरिक सुरक्षा की समीक्षा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334011",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:24",
+      "ts": "2026-11-07T19:24:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333993": {
+      "title": "दीपावली की पूर्व संध्या पर भारत की राष्ट्रपति की शुभकामनाएं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333993",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:50",
+      "ts": "2026-11-07T18:50:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333997": {
+      "title": "प्रधानमंत्री ने नागरिकों को दिवाली की शुभकामनाएं दीं और कहा कि यह पर्व अंधकार पर विजय पाने के संकल्प का प्रतीक है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333997",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-07T17:31:00+05:30"
     }
   }
 }
