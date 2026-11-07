@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated": "01:02",
+  "updated": "01:55",
   "items": [
     {
       "title": "No one who has served our country should sleep rough on our streets",
@@ -16,10 +16,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     },
     {
       "name": "UN News: Top stories",
