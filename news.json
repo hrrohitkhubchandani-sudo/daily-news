@@ -1,7 +1,16 @@
 {
   "date": "2026-11-08",
-  "updated": "15:06",
+  "updated": "16:01",
   "items": [
+    {
+      "title": "Curriculum overhaul to re-engage pupils in vital early secondary years",
+      "link": "https://www.gov.uk/government/news/curriculum-overhaul-to-re-engage-pupils-in-vital-early-secondary-years",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:59",
+      "ts": "2026-11-08T15:59:31+05:30"
+    },
     {
       "title": "छत्तीसगढ़ के बस्तर में सुरक्षा बलों के साथ बातचीत के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334109",
@@ -10,6 +19,33 @@
       "category": "Government",
       "time": "14:53",
       "ts": "2026-11-08T14:53:00+05:30"
+    },
+    {
+      "title": "अरुणाचल प्रदेश के तवांग में 31,000 श्रद्धालुओं ने शाक्यमुनि बुद्ध के पवित्र अवशेषों के दर्शन किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334131",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:44",
+      "ts": "2026-11-08T11:44:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री बस्तर में सुरक्षाकर्मियों के साथ दीपावली मनाएंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334130",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:22",
+      "ts": "2026-11-08T10:22:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने किसानों के साथ दीपावली मनाने के महाराष्ट्र के मुख्यमंत्री श्री देवेंद्र फडणवीस के संवेदनशील कदम की सराहना की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334120",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:20",
+      "ts": "2026-11-08T10:20:00+05:30"
     },
     {
       "title": "श्रम संवाद: मध्य प्रदेश के देवास में श्रम संहिता पर जिला स्तरीय क्षमता निर्माण और जागरूकता कार्यक्रम आयोजित किया गया",
@@ -28,6 +64,15 @@
       "category": "Government",
       "time": "09:07",
       "ts": "2026-11-08T09:07:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने सभी देशवासियों को दीपावली की शुभकामनाएँ दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334118",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "06:55",
+      "ts": "2026-11-08T06:55:00+05:30"
     },
     {
       "title": "The King to lead nation in silence on Remembrance Sunday",
@@ -54,7 +99,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 7,
       "note": ""
     },
     {
@@ -110,7 +155,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -172,6 +217,43 @@
       "category": "Government",
       "time": "14:53",
       "ts": "2026-11-08T14:53:00+05:30"
-    }
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334131": {
+      "title": "अरुणाचल प्रदेश के तवांग में 31,000 श्रद्धालुओं ने शाक्यमुनि बुद्ध के पवित्र अवशेषों के दर्शन किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334131",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:44",
+      "ts": "2026-11-08T11:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334130": {
+      "title": "प्रधानमंत्री बस्तर में सुरक्षाकर्मियों के साथ दीपावली मनाएंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334130",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:22",
+      "ts": "2026-11-08T10:22:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334120": {
+      "title": "प्रधानमंत्री ने किसानों के साथ दीपावली मनाने के महाराष्ट्र के मुख्यमंत्री श्री देवेंद्र फडणवीस के संवेदनशील कदम की सराहना की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334120",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:20",
+      "ts": "2026-11-08T10:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334118": {
+      "title": "प्रधानमंत्री ने सभी देशवासियों को दीपावली की शुभकामनाएँ दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334118",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "06:55",
+      "ts": "2026-11-08T06:55:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334125": null
   }
 }
