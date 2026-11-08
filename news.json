@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated": "16:56",
+  "updated": "17:35",
   "items": [
     {
       "title": "Curriculum overhaul to re-engage pupils in vital early secondary years",
@@ -10,6 +10,15 @@
       "category": "Government",
       "time": "15:59",
       "ts": "2026-11-08T15:59:31+05:30"
+    },
+    {
+      "title": "रक्षा मंत्री ने सिक्किम के अग्रिम मोर्चों पर तैनात सैनिकों के साथ दीपावली मनाई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334152",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:08",
+      "ts": "2026-11-08T15:08:00+05:30"
     },
     {
       "title": "छत्तीसगढ़ के बस्तर में सुरक्षा बलों के साथ बातचीत के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
@@ -99,7 +108,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 8,
       "note": ""
     },
     {
@@ -254,6 +263,15 @@
       "time": "06:55",
       "ts": "2026-11-08T06:55:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334125": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334125": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334152": {
+      "title": "रक्षा मंत्री ने सिक्किम के अग्रिम मोर्चों पर तैनात सैनिकों के साथ दीपावली मनाई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334152",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:08",
+      "ts": "2026-11-08T15:08:00+05:30"
+    }
   }
 }
