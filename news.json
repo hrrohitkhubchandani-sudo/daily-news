@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "updated": "19:40",
+  "updated": "20:33",
   "items": [
     {
       "title": "Scottish Secretary honours armed forces at Remembrance service",
@@ -19,6 +19,15 @@
       "category": "Government",
       "time": "19:04",
       "ts": "2026-11-08T19:04:08+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने बस्तर, छत्तीसगढ़ के करनपुर स्थित कोबरा ऑपरेशंस बेस पर सुरक्षा बलों के साथ दिवाली मनाई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334181",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:04",
+      "ts": "2026-11-08T16:04:00+05:30"
     },
     {
       "title": "रक्षा मंत्री ने सिक्किम के अग्रिम मोर्चों पर तैनात सैनिकों के साथ दीपावली मनाई",
@@ -117,7 +126,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 9,
       "note": ""
     },
     {
@@ -281,6 +290,15 @@
       "category": "Government",
       "time": "15:08",
       "ts": "2026-11-08T15:08:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334181": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने बस्तर, छत्तीसगढ़ के करनपुर स्थित कोबरा ऑपरेशंस बेस पर सुरक्षा बलों के साथ दिवाली मनाई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334181",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:04",
+      "ts": "2026-11-08T16:04:00+05:30"
     }
   }
 }
