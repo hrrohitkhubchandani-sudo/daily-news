@@ -1,7 +1,16 @@
 {
   "date": "2026-11-08",
-  "updated": "14:10",
+  "updated": "15:06",
   "items": [
+    {
+      "title": "छत्तीसगढ़ के बस्तर में सुरक्षा बलों के साथ बातचीत के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334109",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:53",
+      "ts": "2026-11-08T14:53:00+05:30"
+    },
     {
       "title": "श्रम संवाद: मध्य प्रदेश के देवास में श्रम संहिता पर जिला स्तरीय क्षमता निर्माण और जागरूकता कार्यक्रम आयोजित किया गया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334092",
@@ -45,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -154,6 +163,15 @@
       "category": "Government",
       "time": "09:11",
       "ts": "2026-11-08T09:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334109": {
+      "title": "छत्तीसगढ़ के बस्तर में सुरक्षा बलों के साथ बातचीत के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334109",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:53",
+      "ts": "2026-11-08T14:53:00+05:30"
     }
   }
 }
