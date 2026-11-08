@@ -1,7 +1,16 @@
 {
   "date": "2026-11-08",
-  "updated": "12:12",
+  "updated": "13:20",
   "items": [
+    {
+      "title": "श्रम संवाद: मध्य प्रदेश के देवास में श्रम संहिता पर जिला स्तरीय क्षमता निर्माण और जागरूकता कार्यक्रम आयोजित किया गया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334092",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:11",
+      "ts": "2026-11-08T09:11:00+05:30"
+    },
     {
       "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने भारत रत्न श्री लाल कृष्ण आडवाणी जी को अपने जीवन के 100वें वर्ष में प्रवेश करने पर बधाई दी",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334087",
@@ -36,7 +45,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -136,6 +145,15 @@
       "category": "Government",
       "time": "09:07",
       "ts": "2026-11-08T09:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334092": {
+      "title": "श्रम संवाद: मध्य प्रदेश के देवास में श्रम संहिता पर जिला स्तरीय क्षमता निर्माण और जागरूकता कार्यक्रम आयोजित किया गया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334092",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:11",
+      "ts": "2026-11-08T09:11:00+05:30"
     }
   }
 }
