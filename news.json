@@ -1,7 +1,16 @@
 {
   "date": "2026-11-08",
-  "updated": "11:08",
+  "updated": "12:12",
   "items": [
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने भारत रत्न श्री लाल कृष्ण आडवाणी जी को अपने जीवन के 100वें वर्ष में प्रवेश करने पर बधाई दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334087",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:07",
+      "ts": "2026-11-08T09:07:00+05:30"
+    },
     {
       "title": "The King to lead nation in silence on Remembrance Sunday",
       "link": "https://www.gov.uk/government/news/the-king-to-lead-nation-in-silence-on-remembrance-sunday",
@@ -27,7 +36,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -118,6 +127,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333792": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334081": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334077": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334080": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334080": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334087": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने भारत रत्न श्री लाल कृष्ण आडवाणी जी को अपने जीवन के 100वें वर्ष में प्रवेश करने पर बधाई दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334087",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:07",
+      "ts": "2026-11-08T09:07:00+05:30"
+    }
   }
 }
