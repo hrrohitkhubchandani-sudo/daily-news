@@ -1,7 +1,17 @@
 {
   "date": "2026-11-09",
-  "updated": "01:55",
-  "items": [],
+  "updated": "02:32",
+  "items": [
+    {
+      "title": "PM call with President Stubb of Finland: 8 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-call-with-president-stubb-of-finland-8-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "02:23",
+      "ts": "2026-11-09T02:23:40+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -64,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
