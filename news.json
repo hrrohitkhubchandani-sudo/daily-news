@@ -1,7 +1,16 @@
 {
   "date": "2026-11-08",
-  "updated": "05:03",
+  "updated": "06:06",
   "items": [
+    {
+      "title": "The King to lead nation in silence on Remembrance Sunday",
+      "link": "https://www.gov.uk/government/news/the-king-to-lead-nation-in-silence-on-remembrance-sunday",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-08T05:31:01+05:30"
+    },
     {
       "title": "No one who has served our country should sleep rough on our streets",
       "link": "https://www.gov.uk/government/news/no-one-who-has-served-our-country-should-sleep-rough-on-our-streets",
@@ -74,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
