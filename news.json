@@ -1,15 +1,24 @@
 {
   "date": "2026-11-08",
-  "updated": "18:52",
+  "updated": "19:40",
   "items": [
+    {
+      "title": "Scottish Secretary honours armed forces at Remembrance service",
+      "link": "https://www.gov.uk/government/news/scottish-secretary-honours-armed-forces-at-remembrance-service",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:29",
+      "ts": "2026-11-08T19:29:42+05:30"
+    },
     {
       "title": "Curriculum overhaul to re-engage pupils in vital early secondary years",
       "link": "https://www.gov.uk/government/news/curriculum-overhaul-to-re-engage-pupils-in-vital-early-secondary-years",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
-      "time": "15:59",
-      "ts": "2026-11-08T15:59:31+05:30"
+      "time": "19:04",
+      "ts": "2026-11-08T19:04:08+05:30"
     },
     {
       "title": "रक्षा मंत्री ने सिक्किम के अग्रिम मोर्चों पर तैनात सैनिकों के साथ दीपावली मनाई",
@@ -164,7 +173,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 4,
       "note": ""
     },
     {
