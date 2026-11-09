@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "updated": "11:23",
+  "updated": "12:35",
   "items": [
     {
       "title": "M 6.4 - 30 km WSW of Lata, Solomon Islands",
@@ -8,8 +8,26 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "11:11",
-      "ts": "2026-11-09T11:11:28+05:30"
+      "time": "12:23",
+      "ts": "2026-11-09T12:23:42+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने उत्तराखंड के लोगों को राज्य स्थापना दिवस पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334274",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:06",
+      "ts": "2026-11-09T10:06:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने निष्पक्षता, निस्वार्थता और न्याय के गुणों पर बल देते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334271",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:04",
+      "ts": "2026-11-09T10:04:00+05:30"
     },
     {
       "title": "UK Government awards £1 million to Northern Ireland community group forum",
@@ -36,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -124,6 +142,24 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334077": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334080": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334011": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333993": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2333993": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334274": {
+      "title": "प्रधानमंत्री ने उत्तराखंड के लोगों को राज्य स्थापना दिवस पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334274",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:06",
+      "ts": "2026-11-09T10:06:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334271": {
+      "title": "प्रधानमंत्री ने निष्पक्षता, निस्वार्थता और न्याय के गुणों पर बल देते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334271",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:04",
+      "ts": "2026-11-09T10:04:00+05:30"
+    }
   }
 }
