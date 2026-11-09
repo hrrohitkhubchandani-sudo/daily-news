@@ -1,7 +1,16 @@
 {
   "date": "2026-11-09",
-  "updated": "05:28",
+  "updated": "06:23",
   "items": [
+    {
+      "title": "UK Government awards £1 million to Northern Ireland community group forum",
+      "link": "https://www.gov.uk/government/news/uk-government-awards-1-million-to-northern-ireland-community-group-forum",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-09T05:31:00+05:30"
+    },
     {
       "title": "PM call with President Stubb of Finland: 8 November 2026",
       "link": "https://www.gov.uk/government/news/pm-call-with-president-stubb-of-finland-8-november-2026",
@@ -74,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
