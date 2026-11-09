@@ -1,7 +1,16 @@
 {
   "date": "2026-11-09",
-  "updated": "16:17",
+  "updated": "17:15",
   "items": [
+    {
+      "title": "New cameras and sensors to help protect fish stocks & marine life in English waters",
+      "link": "https://www.gov.uk/government/news/new-cameras-and-sensors-to-help-protect-fish-stocks-marine-life-in-english-waters",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:30",
+      "ts": "2026-11-09T16:30:23+05:30"
+    },
     {
       "title": "Joint statement on the closure of Novaya Gazeta in Russia",
       "link": "https://www.gov.uk/government/news/joint-statement-on-the-closure-of-novaya-gazeta-in-russia",
@@ -21,13 +30,13 @@
       "ts": "2026-11-09T15:32:47+05:30"
     },
     {
-      "title": "Lt Gen Phil Prosser joins as Chief of Defence Logistics & Support",
+      "title": "Lt Gen Phil Prosser joins as CDLS",
       "link": "https://www.gov.uk/government/news/lt-gen-phil-prosser-joins-as-chief-of-defence-logistics-support",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
       "time": "15:30",
-      "ts": "2026-11-09T15:30:01+05:30"
+      "ts": "2026-11-09T15:30:00+05:30"
     },
     {
       "title": "Report 12/2026: Collision between a passenger train and a van at Bax level crossing",
@@ -245,7 +254,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 11,
+      "today": 12,
       "note": ""
     },
     {
