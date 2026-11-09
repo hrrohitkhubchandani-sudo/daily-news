@@ -1,7 +1,70 @@
 {
   "date": "2026-11-09",
-  "updated": "17:15",
+  "updated": "18:22",
   "items": [
+    {
+      "title": "APHA brings together scientists to tackle disease threats and protect Britain’s animals and plants",
+      "link": "https://www.gov.uk/government/news/apha-brings-together-scientists-to-tackle-disease-threats-and-protect-britains-animals-and-plants",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "18:17",
+      "ts": "2026-11-09T18:17:24+05:30"
+    },
+    {
+      "title": "Martyn's Law: working together to prepare",
+      "link": "https://www.gov.uk/government/news/martyns-law-working-together-to-prepare",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:51",
+      "ts": "2026-11-09T17:51:15+05:30"
+    },
+    {
+      "title": "New tools to support preparation for Martyn's Law",
+      "link": "https://www.gov.uk/government/news/new-tools-to-support-preparation-for-martyns-law",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:48",
+      "ts": "2026-11-09T17:48:00+05:30"
+    },
+    {
+      "title": "‘Exceptional’ extreme temperatures to continue into next year, UN reports",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168760",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-09T17:30:00+05:30"
+    },
+    {
+      "title": "दिल्ली में पहली यमुना रिवर क्रूज सेवा शुरू होगी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334409",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:11",
+      "ts": "2026-11-09T17:11:00+05:30"
+    },
+    {
+      "title": "विद्युत मंत्रालय ने लंबित मामलों के निपटान और स्वच्छता अभियान के लिए विशेष अभियान 6 का सफलतापूर्वक समाप्‍त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334408",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:40",
+      "ts": "2026-11-09T16:40:00+05:30"
+    },
+    {
+      "title": "नवीन और नवीकरणीय ऊर्जा मंत्रालय ने विशेष अभियान 6 का सफलतापूर्वक समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334404",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:38",
+      "ts": "2026-11-09T16:38:00+05:30"
+    },
     {
       "title": "New cameras and sensors to help protect fish stocks & marine life in English waters",
       "link": "https://www.gov.uk/government/news/new-cameras-and-sensors-to-help-protect-fish-stocks-marine-life-in-english-waters",
@@ -10,6 +73,15 @@
       "category": "Government",
       "time": "16:30",
       "ts": "2026-11-09T16:30:23+05:30"
+    },
+    {
+      "title": "भारतीय दूरसंचार विनियामक प्राधिकरण ने दूरसंचार इंटरकनेक्शन (पोर्ट शुल्क) (तृतीय संशोधन) विनियम 2026 जारी किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334405",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:24",
+      "ts": "2026-11-09T16:24:00+05:30"
     },
     {
       "title": "Joint statement on the closure of Novaya Gazeta in Russia",
@@ -90,7 +162,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "14:10",
-      "ts": "2026-11-09T14:10:54+05:30"
+      "ts": "2026-11-09T14:10:00+05:30"
     },
     {
       "title": "NRS completes largest land remediation project at Harwell",
@@ -198,7 +270,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 12,
       "note": ""
     },
     {
@@ -206,7 +278,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -254,7 +326,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 12,
+      "today": 15,
       "note": ""
     },
     {
@@ -358,6 +430,42 @@
       "category": "Government",
       "time": "14:13",
       "ts": "2026-11-09T14:13:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334409": {
+      "title": "दिल्ली में पहली यमुना रिवर क्रूज सेवा शुरू होगी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334409",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:11",
+      "ts": "2026-11-09T17:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334408": {
+      "title": "विद्युत मंत्रालय ने लंबित मामलों के निपटान और स्वच्छता अभियान के लिए विशेष अभियान 6 का सफलतापूर्वक समाप्‍त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334408",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:40",
+      "ts": "2026-11-09T16:40:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334404": {
+      "title": "नवीन और नवीकरणीय ऊर्जा मंत्रालय ने विशेष अभियान 6 का सफलतापूर्वक समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334404",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:38",
+      "ts": "2026-11-09T16:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334405": {
+      "title": "भारतीय दूरसंचार विनियामक प्राधिकरण ने दूरसंचार इंटरकनेक्शन (पोर्ट शुल्क) (तृतीय संशोधन) विनियम 2026 जारी किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334405",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:24",
+      "ts": "2026-11-09T16:24:00+05:30"
     }
   }
 }
