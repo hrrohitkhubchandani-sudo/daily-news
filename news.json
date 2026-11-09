@@ -1,7 +1,52 @@
 {
   "date": "2026-11-09",
-  "updated": "15:19",
+  "updated": "16:17",
   "items": [
+    {
+      "title": "Joint statement on the closure of Novaya Gazeta in Russia",
+      "link": "https://www.gov.uk/government/news/joint-statement-on-the-closure-of-novaya-gazeta-in-russia",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:02",
+      "ts": "2026-11-09T16:02:03+05:30"
+    },
+    {
+      "title": "Intertrade UK correspondence",
+      "link": "https://www.gov.uk/government/publications/intertrade-uk-correspondence",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:32",
+      "ts": "2026-11-09T15:32:47+05:30"
+    },
+    {
+      "title": "Lt Gen Phil Prosser joins as Chief of Defence Logistics & Support",
+      "link": "https://www.gov.uk/government/news/lt-gen-phil-prosser-joins-as-chief-of-defence-logistics-support",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:30",
+      "ts": "2026-11-09T15:30:01+05:30"
+    },
+    {
+      "title": "Report 12/2026: Collision between a passenger train and a van at Bax level crossing",
+      "link": "https://www.gov.uk/government/news/report-122026-collision-between-a-passenger-train-and-a-van-at-bax-level-crossing",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:26",
+      "ts": "2026-11-09T15:26:37+05:30"
+    },
+    {
+      "title": "आईएनएस सूरत ओमान के मस्कट पहुंचा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334358",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-09T15:00:00+05:30"
+    },
     {
       "title": "Applications open for bass authorisations",
       "link": "https://www.gov.uk/government/news/applications-open-for-bass-authorisations",
@@ -19,6 +64,15 @@
       "category": "Government",
       "time": "14:30",
       "ts": "2026-11-09T14:30:00+05:30"
+    },
+    {
+      "title": "विधि कार्य विभाग ने 'विशेष अभियान 6' के तहत महत्वपूर्ण उपलब्धियां हासिल की; 27,000 से अधिक भौतिक फाइलों की समीक्षा की, 15,679 फाइल हटाए गए और कबाड़ के निपटान से 4.71 लाख रुपये की कमाई की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334347",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:13",
+      "ts": "2026-11-09T14:13:00+05:30"
     },
     {
       "title": "£40 million for GPs to keep vulnerable patients out of hospital this winter",
@@ -135,7 +189,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 8,
       "note": ""
     },
     {
@@ -191,7 +245,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 11,
       "note": ""
     },
     {
@@ -277,6 +331,24 @@
       "category": "Government",
       "time": "10:38",
       "ts": "2026-11-09T10:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334358": {
+      "title": "आईएनएस सूरत ओमान के मस्कट पहुंचा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334358",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-09T15:00:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334347": {
+      "title": "विधि कार्य विभाग ने 'विशेष अभियान 6' के तहत महत्वपूर्ण उपलब्धियां हासिल की; 27,000 से अधिक भौतिक फाइलों की समीक्षा की, 15,679 फाइल हटाए गए और कबाड़ के निपटान से 4.71 लाख रुपये की कमाई की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334347",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:13",
+      "ts": "2026-11-09T14:13:00+05:30"
     }
   }
 }
