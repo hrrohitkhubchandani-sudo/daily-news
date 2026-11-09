@@ -1,7 +1,52 @@
 {
   "date": "2026-11-09",
-  "updated": "19:38",
+  "updated": "20:51",
   "items": [
+    {
+      "title": "£600,000 boost for Windrush compensation support",
+      "link": "https://www.gov.uk/government/news/600000-boost-for-windrush-compensation-support",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:25",
+      "ts": "2026-11-09T20:25:39+05:30"
+    },
+    {
+      "title": "Railways Bill veterans and service personnel amendment",
+      "link": "https://www.gov.uk/government/speeches/railways-bill-veterans-and-service-personnel-amendment",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:24",
+      "ts": "2026-11-09T20:24:38+05:30"
+    },
+    {
+      "title": "Sensor sensibility: new Themed Competition launch",
+      "link": "https://www.gov.uk/government/news/sensor-sensibility-new-themed-competition-launch",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:08",
+      "ts": "2026-11-09T20:08:49+05:30"
+    },
+    {
+      "title": "Change of His Majesty’s Ambassador to Chad",
+      "link": "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-chad",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:07",
+      "ts": "2026-11-09T20:07:51+05:30"
+    },
+    {
+      "title": "वित्तीय चुनौतियों से वैश्विक अनुसंधान के अवसरों तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334467",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:41",
+      "ts": "2026-11-09T19:41:00+05:30"
+    },
     {
       "title": "How to submit applications and complaints to the CAC",
       "link": "https://www.gov.uk/government/news/applications-and-complaints",
@@ -10,6 +55,33 @@
       "category": "Government",
       "time": "19:23",
       "ts": "2026-11-09T19:23:01+05:30"
+    },
+    {
+      "title": "नशे की लत से मुक्ति",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334454",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:11",
+      "ts": "2026-11-09T19:11:00+05:30"
+    },
+    {
+      "title": "एनएफएससी फैलोशिप के माध्यम से शैक्षणिक सहायता से अकादमिक उत्कृष्टता तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334461",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:10",
+      "ts": "2026-11-09T19:10:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने राष्ट्रपति वोलोदिमीर जेलेंस्की से बात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334459",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:59",
+      "ts": "2026-11-09T18:59:00+05:30"
     },
     {
       "title": "UK Statement at the Global International Humanitarian Law Dialogue",
@@ -307,33 +379,6 @@
       "category": "Government",
       "time": "10:06",
       "ts": "2026-11-09T10:06:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने निष्पक्षता, निस्वार्थता और न्याय के गुणों पर बल देते हुए एक संस्कृत सुभाषितम् साझा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334271",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:04",
-      "ts": "2026-11-09T10:04:00+05:30"
-    },
-    {
-      "title": "UK Government awards £1 million to Northern Ireland community group forum",
-      "link": "https://www.gov.uk/government/news/uk-government-awards-1-million-to-northern-ireland-community-group-forum",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-09T05:31:00+05:30"
-    },
-    {
-      "title": "PM call with President Stubb of Finland: 8 November 2026",
-      "link": "https://www.gov.uk/government/news/pm-call-with-president-stubb-of-finland-8-november-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "02:23",
-      "ts": "2026-11-09T02:23:40+05:30"
     }
   ],
   "health": [
@@ -342,7 +387,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 17,
+      "today": 20,
       "note": ""
     },
     {
@@ -398,7 +443,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 18,
+      "today": 20,
       "note": ""
     },
     {
@@ -583,6 +628,42 @@
       "category": "Government",
       "time": "16:20",
       "ts": "2026-11-09T16:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334467": {
+      "title": "वित्तीय चुनौतियों से वैश्विक अनुसंधान के अवसरों तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334467",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:41",
+      "ts": "2026-11-09T19:41:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334454": {
+      "title": "नशे की लत से मुक्ति",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334454",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:11",
+      "ts": "2026-11-09T19:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334461": {
+      "title": "एनएफएससी फैलोशिप के माध्यम से शैक्षणिक सहायता से अकादमिक उत्कृष्टता तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334461",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:10",
+      "ts": "2026-11-09T19:10:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334459": {
+      "title": "प्रधानमंत्री ने राष्ट्रपति वोलोदिमीर जेलेंस्की से बात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334459",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:59",
+      "ts": "2026-11-09T18:59:00+05:30"
     }
   }
 }
