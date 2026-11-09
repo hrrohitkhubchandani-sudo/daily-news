@@ -1,7 +1,16 @@
 {
   "date": "2026-11-09",
-  "updated": "09:14",
+  "updated": "10:22",
   "items": [
+    {
+      "title": "M 6.4 - 30 km WSW of Lata, Solomon Islands",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "09:38",
+      "ts": "2026-11-09T09:38:33+05:30"
+    },
     {
       "title": "UK Government awards £1 million to Northern Ireland community group forum",
       "link": "https://www.gov.uk/government/news/uk-government-awards-1-million-to-northern-ireland-community-group-forum",
@@ -73,10 +82,10 @@
     {
       "name": "USGS: Significant earthquakes",
       "country": "World",
-      "ok": false,
-      "entries": 0,
-      "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "ok": true,
+      "entries": 1,
+      "today": 1,
+      "note": ""
     },
     {
       "name": "GOV.UK: News and communications",
