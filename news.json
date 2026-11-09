@@ -1,7 +1,34 @@
 {
   "date": "2026-11-09",
-  "updated": "21:59",
+  "updated": "23:00",
   "items": [
+    {
+      "title": "PM call with President Macron of France: 9 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-call-with-president-macron-of-france-9-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:48",
+      "ts": "2026-11-09T22:48:32+05:30"
+    },
+    {
+      "title": "Jocelyn Ledward KC appointed to lead Treasury Counsel",
+      "link": "https://www.gov.uk/government/news/jocelyn-ledward-kc-appointed-to-lead-treasury-counsel",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:40",
+      "ts": "2026-11-09T22:40:49+05:30"
+    },
+    {
+      "title": "Along with our partners we will stand with Ukraine for as long as it takes: UK statement at the UN Security Council",
+      "link": "https://www.gov.uk/government/speeches/along-with-our-partners-we-will-stand-with-ukraine-for-as-long-as-it-takes-uk-statement-at-the-un-security-council",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:57",
+      "ts": "2026-11-09T21:57:31+05:30"
+    },
     {
       "title": "COP31: what it is and the UK’s priorities",
       "link": "https://www.gov.uk/government/news/cop31-what-it-is-and-the-uks-priorities",
@@ -192,6 +219,15 @@
       "ts": "2026-11-09T17:48:00+05:30"
     },
     {
+      "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168762",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-09T17:30:00+05:30"
+    },
+    {
       "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
       "source": "UN News: Top stories",
@@ -300,15 +336,6 @@
       "ts": "2026-11-09T15:30:00+05:30"
     },
     {
-      "title": "Report 12/2026: Collision between a passenger train and a van at Bax level crossing",
-      "link": "https://www.gov.uk/government/news/report-122026-collision-between-a-passenger-train-and-a-van-at-bax-level-crossing",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:26",
-      "ts": "2026-11-09T15:26:37+05:30"
-    },
-    {
       "title": "आईएनएस सूरत ओमान के मस्कट पहुंचा",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334358",
       "source": "PIB, Government of India (Hindi)",
@@ -316,24 +343,6 @@
       "category": "Government",
       "time": "15:00",
       "ts": "2026-11-09T15:00:00+05:30"
-    },
-    {
-      "title": "Applications open for bass authorisations",
-      "link": "https://www.gov.uk/government/news/applications-open-for-bass-authorisations",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:30",
-      "ts": "2026-11-09T14:30:00+05:30"
-    },
-    {
-      "title": "Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway",
-      "link": "https://www.gov.uk/government/news/investigational-treatments-for-lung-cancer-huntingtons-disease-and-alzheimers-gain-innovation-passports-through-the-innovative-licensing-and-access-pa",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:30",
-      "ts": "2026-11-09T14:30:00+05:30"
     },
     {
       "title": "विधि कार्य विभाग ने 'विशेष अभियान 6' के तहत महत्वपूर्ण उपलब्धियां हासिल की; 27,000 से अधिक भौतिक फाइलों की समीक्षा की, 15,679 फाइल हटाए गए और कबाड़ के निपटान से 4.71 लाख रुपये की कमाई की",
@@ -404,7 +413,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
