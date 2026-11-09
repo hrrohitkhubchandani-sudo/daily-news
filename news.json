@@ -1,7 +1,25 @@
 {
   "date": "2026-11-09",
-  "updated": "20:51",
+  "updated": "21:59",
   "items": [
+    {
+      "title": "COP31: what it is and the UK’s priorities",
+      "link": "https://www.gov.uk/government/news/cop31-what-it-is-and-the-uks-priorities",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:35",
+      "ts": "2026-11-09T21:35:58+05:30"
+    },
+    {
+      "title": "Adviser Finder and Adviser Register temporarily unavailable",
+      "link": "https://www.gov.uk/government/news/adviser-finder-and-adviser-register-temporarily-unavailable",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:51",
+      "ts": "2026-11-09T20:51:10+05:30"
+    },
     {
       "title": "£600,000 boost for Windrush compensation support",
       "link": "https://www.gov.uk/government/news/600000-boost-for-windrush-compensation-support",
@@ -19,6 +37,15 @@
       "category": "Government",
       "time": "20:24",
       "ts": "2026-11-09T20:24:38+05:30"
+    },
+    {
+      "title": "केंद्रीय अल्पसंख्यक कार्य और संसदीय कार्य मंत्री श्री किरेन रिजिजू ने सऊदी अरब की यात्रा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334477",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:19",
+      "ts": "2026-11-09T20:19:00+05:30"
     },
     {
       "title": "Sensor sensibility: new Themed Competition launch",
@@ -165,6 +192,15 @@
       "ts": "2026-11-09T17:48:00+05:30"
     },
     {
+      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168761",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-09T17:30:00+05:30"
+    },
+    {
       "title": "‘Exceptional’ extreme temperatures to continue into next year, UN reports",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168760",
       "source": "UN News: Top stories",
@@ -309,24 +345,6 @@
       "ts": "2026-11-09T14:13:00+05:30"
     },
     {
-      "title": "£40 million for GPs to keep vulnerable patients out of hospital this winter",
-      "link": "https://www.gov.uk/government/news/40-million-for-gps-to-keep-vulnerable-patients-out-of-hospital-this-winter",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:10",
-      "ts": "2026-11-09T14:10:00+05:30"
-    },
-    {
-      "title": "NRS completes largest land remediation project at Harwell",
-      "link": "https://www.gov.uk/government/news/nrs-completes-largest-land-remediation-project-at-harwell",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:08",
-      "ts": "2026-11-09T14:08:27+05:30"
-    },
-    {
       "title": "राष्ट्रपति द्रौपदी मुर्मु 10वें स्वच्छ सर्वेक्षण 2025-26 पुरस्कार प्रदान करेंगी",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334339",
       "source": "PIB, Government of India (Hindi)",
@@ -370,15 +388,6 @@
       "category": "Government",
       "time": "10:38",
       "ts": "2026-11-09T10:38:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने उत्तराखंड के लोगों को राज्य स्थापना दिवस पर शुभकामनाएं दीं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334274",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:06",
-      "ts": "2026-11-09T10:06:00+05:30"
     }
   ],
   "health": [
@@ -395,7 +404,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -419,7 +428,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -664,6 +673,15 @@
       "category": "Government",
       "time": "18:59",
       "ts": "2026-11-09T18:59:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334477": {
+      "title": "केंद्रीय अल्पसंख्यक कार्य और संसदीय कार्य मंत्री श्री किरेन रिजिजू ने सऊदी अरब की यात्रा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334477",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:19",
+      "ts": "2026-11-09T20:19:00+05:30"
     }
   }
 }
