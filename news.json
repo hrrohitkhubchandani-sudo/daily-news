@@ -1,7 +1,16 @@
 {
   "date": "2026-11-10",
-  "updated": "02:10",
+  "updated": "03:09",
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "source": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "time": "02:30",
+      "ts": "2026-11-10T02:30:00+05:30"
+    },
     {
       "title": "PM call with President El-Sisi of Egypt: 9 November 2026",
       "link": "https://www.gov.uk/government/news/pm-call-with-president-el-sisi-of-egypt-9-november-2026",
@@ -91,7 +100,7 @@
       "country": "United States",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     }
   ],
