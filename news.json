@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated": "08:10",
+  "updated": "09:09",
   "items": [
     {
       "title": "Major clean-up begins at notorious illegal waste site in Wigan",
@@ -28,15 +28,6 @@
       "category": "Government",
       "time": "01:12",
       "ts": "2026-11-10T01:12:12+05:30"
-    },
-    {
-      "title": "M 6.4 - 30 km WSW of Lata, Solomon Islands",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "00:51",
-      "ts": "2026-11-10T00:51:09+05:30"
     }
   ],
   "health": [
@@ -91,10 +82,10 @@
     {
       "name": "USGS: Significant earthquakes",
       "country": "World",
-      "ok": true,
-      "entries": 1,
-      "today": 1,
-      "note": ""
+      "ok": false,
+      "entries": 0,
+      "today": 0,
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "GOV.UK: News and communications",
