@@ -1,7 +1,97 @@
 {
   "date": "2026-11-10",
-  "updated": "14:46",
+  "updated": "15:49",
   "items": [
+    {
+      "title": "Stay on top of your finances, start your Self Assessment today",
+      "link": "https://www.gov.uk/government/news/stay-on-top-of-your-finances-start-your-self-assessment-today",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:41",
+      "ts": "2026-11-10T15:41:17+05:30"
+    },
+    {
+      "title": "Appointment of Dean of Exeter: 10 November 2026",
+      "link": "https://www.gov.uk/government/news/appointment-of-dean-of-exeter-10-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:30",
+      "ts": "2026-11-10T15:30:04+05:30"
+    },
+    {
+      "title": "भारतीय पुलिस सेवा के परिवीक्षाधीन अधिकारियों ने राष्‍ट्रपति से मुलाकात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334628",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:21",
+      "ts": "2026-11-10T15:21:00+05:30"
+    },
+    {
+      "title": "Mine water heat network wins national award",
+      "link": "https://www.gov.uk/government/news/mine-water-heat-network-wins-national-award",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:15",
+      "ts": "2026-11-10T15:15:37+05:30"
+    },
+    {
+      "title": "उपराष्ट्रपति तमिलनाडु के तूतीकोरिन का दौरा करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334637",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:13",
+      "ts": "2026-11-10T15:13:00+05:30"
+    },
+    {
+      "title": "आयुष मंत्रालय ने विशेष अभियान 6.0 के तहत महत्वपूर्ण प्रगति की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334639",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:07",
+      "ts": "2026-11-10T15:07:00+05:30"
+    },
+    {
+      "title": "Fair Work Agency recovers over £100,000 in unpaid mileage",
+      "link": "https://www.gov.uk/government/news/fair-work-agency-recovers-over-100000-in-unpaid-mileage",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-10T15:00:02+05:30"
+    },
+    {
+      "title": "खेल विभाग ने स्वच्छता को बढ़ावा देने और लंबित मामलों के निपटारे के लिए विशेष अभियान 6.0 में भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334635",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:52",
+      "ts": "2026-11-10T13:52:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने अनुज श्रीवत्री को भारत का 100वां शतरंज ग्रैंडमास्टर बनने पर बधाई दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334606",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:46",
+      "ts": "2026-11-10T13:46:00+05:30"
+    },
+    {
+      "title": "भारत ने तुर्किए के अंताल्या में आयोजित यूएनएफसीसीसी कॉप31 में जलवायु बहुपक्षवाद और निष्पक्ष एवं महत्वाकांक्षी परिणाम को लेकर अपनी प्रतिबद्धता की पुष्टि की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334608",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:11",
+      "ts": "2026-11-10T13:11:00+05:30"
+    },
     {
       "title": "मेरा युवा भारत ने 100-सप्ताह के नशामुक्ति अभियान के अंतर्गत देशव्यापी दीपोत्सव और नेबरहुड यूथ पार्लियामेंट का आयोजन किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334598",
@@ -99,7 +189,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 13,
       "note": ""
     },
     {
@@ -155,7 +245,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 6,
       "note": ""
     },
     {
@@ -252,6 +342,60 @@
       "time": "10:06",
       "ts": "2026-11-10T10:06:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334604": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334604": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334628": {
+      "title": "भारतीय पुलिस सेवा के परिवीक्षाधीन अधिकारियों ने राष्‍ट्रपति से मुलाकात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334628",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:21",
+      "ts": "2026-11-10T15:21:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334637": {
+      "title": "उपराष्ट्रपति तमिलनाडु के तूतीकोरिन का दौरा करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334637",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:13",
+      "ts": "2026-11-10T15:13:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334639": {
+      "title": "आयुष मंत्रालय ने विशेष अभियान 6.0 के तहत महत्वपूर्ण प्रगति की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334639",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:07",
+      "ts": "2026-11-10T15:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334635": {
+      "title": "खेल विभाग ने स्वच्छता को बढ़ावा देने और लंबित मामलों के निपटारे के लिए विशेष अभियान 6.0 में भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334635",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:52",
+      "ts": "2026-11-10T13:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334606": {
+      "title": "प्रधानमंत्री ने अनुज श्रीवत्री को भारत का 100वां शतरंज ग्रैंडमास्टर बनने पर बधाई दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334606",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:46",
+      "ts": "2026-11-10T13:46:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334608": {
+      "title": "भारत ने तुर्किए के अंताल्या में आयोजित यूएनएफसीसीसी कॉप31 में जलवायु बहुपक्षवाद और निष्पक्ष एवं महत्वाकांक्षी परिणाम को लेकर अपनी प्रतिबद्धता की पुष्टि की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334608",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:11",
+      "ts": "2026-11-10T13:11:00+05:30"
+    }
   }
 }
