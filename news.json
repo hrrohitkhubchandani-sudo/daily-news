@@ -1,7 +1,16 @@
 {
   "date": "2026-11-11",
-  "updated": "04:00",
+  "updated": "04:56",
   "items": [
+    {
+      "title": "General Sir Gwyn Jenkins addresses the International Sea Power Conference",
+      "link": "https://www.gov.uk/government/speeches/general-sir-gwyn-jenkins-addresses-the-international-sea-power-conference",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:30",
+      "ts": "2026-11-11T04:30:16+05:30"
+    },
     {
       "title": "REWIRING THE STATE AND THE FUTURE CIVIL SERVICE",
       "link": "https://www.gov.uk/government/speeches/rewiring-the-state-and-the-future-civil-service",
@@ -83,7 +92,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
