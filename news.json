@@ -1,7 +1,16 @@
 {
   "date": "2026-11-10",
-  "updated": "20:13",
+  "updated": "21:06",
   "items": [
+    {
+      "title": "How to submit applications and complaints to the CAC",
+      "link": "https://www.gov.uk/government/news/applications-and-complaints",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:43",
+      "ts": "2026-11-10T20:43:49+05:30"
+    },
     {
       "title": "Current inspections",
       "link": "https://www.gov.uk/government/news/current-inspections",
@@ -75,6 +84,15 @@
       "ts": "2026-11-10T18:28:38+05:30"
     },
     {
+      "title": "ओडिशा ने मोटे अनाज आधारित कृषि परिवर्तन के लिए एक राष्ट्रीय रोडमैप तैयार किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334836",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:18",
+      "ts": "2026-11-10T18:18:00+05:30"
+    },
+    {
       "title": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (एमएसएमई) ने एससी/एसटी सूक्ष्म और लघु उद्यमों से खरीद बढ़ाने के लिए सीपीएसई के साथ एक गोलमेज चर्चा का आयोजन किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334795",
       "source": "PIB, Government of India (Hindi)",
@@ -100,6 +118,15 @@
       "category": "Government",
       "time": "18:07",
       "ts": "2026-11-10T18:07:00+05:30"
+    },
+    {
+      "title": "नए एम्स में 2021-22 से अब तक 6 करोड़ से अधिक ओपीडी परामर्श, देशभर में विशेषज्ञतापूर्ण तृतीयक स्वास्थ्य सेवाओं की पहुंच का विस्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334829",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:05",
+      "ts": "2026-11-10T18:05:00+05:30"
     },
     {
       "title": "MMO highlights the importance of marine mammal bycatch reporting",
@@ -138,11 +165,47 @@
       "ts": "2026-11-10T17:34:00+05:30"
     },
     {
+      "title": "रक्षा उत्पादन विभाग ने विशेष अभियान 6.0 सफलतापूर्वक पूरा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334828",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-10T17:31:00+05:30"
+    },
+    {
+      "title": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168772",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-10T17:30:00+05:30"
+    },
+    {
+      "title": "Sudan war: First suicide bombers, now long-range drone strikes are the norm",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168771",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-10T17:30:00+05:30"
+    },
+    {
       "title": "Climate crisis could push 141 million more women into extreme poverty",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168770",
       "source": "UN News: Top stories",
       "country": "World",
       "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-10T17:30:00+05:30"
+    },
+    {
+      "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168774",
+      "source": "UN News: Peace and security",
+      "country": "World",
+      "category": "Security",
       "time": "17:30",
       "ts": "2026-11-10T17:30:00+05:30"
     },
@@ -318,15 +381,6 @@
       "ts": "2026-11-10T15:21:00+05:30"
     },
     {
-      "title": "डीआरआई ने कोलकाता एयरपोर्ट पर भारत से बाहर विदेशी मुद्रा की तस्करी के प्रयास को नाकाम किया; 3.5 करोड़ रुपये के बराबर विदेशी मुद्रा जब्त की गई और सात गिरफ्तार किए गए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334654",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:17",
-      "ts": "2026-11-10T15:17:00+05:30"
-    },
-    {
       "title": "Mine water heat network wins national award",
       "link": "https://www.gov.uk/government/news/mine-water-heat-network-wins-national-award",
       "source": "GOV.UK: News and communications",
@@ -336,24 +390,6 @@
       "ts": "2026-11-10T15:15:00+05:30"
     },
     {
-      "title": "असम में डीआरआई ने वन्यजीव तस्करी के अवैध प्रयास को विफल किया; सशस्त्र संदिग्धों की खतरनाक लक्ष्य का पीछा करने के दौरान 3.7 किलोग्राम वजन के दो हाथी दांत बरामद किए गए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334651",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:14",
-      "ts": "2026-11-10T15:14:00+05:30"
-    },
-    {
-      "title": "उपराष्ट्रपति तमिलनाडु के तूतीकोरिन का दौरा करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334637",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:13",
-      "ts": "2026-11-10T15:13:00+05:30"
-    },
-    {
       "title": "Fair Work Agency recovers over £100,000 in unpaid mileage",
       "link": "https://www.gov.uk/government/news/fair-work-agency-recovers-over-100000-in-unpaid-mileage",
       "source": "GOV.UK: News and communications",
@@ -361,15 +397,6 @@
       "category": "Government",
       "time": "15:00",
       "ts": "2026-11-10T15:00:02+05:30"
-    },
-    {
-      "title": "Major clean-up begins at notorious illegal waste site in Wigan",
-      "link": "https://www.gov.uk/government/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-10T05:31:06+05:30"
     },
     {
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
@@ -395,7 +422,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 3,
       "note": ""
     },
     {
@@ -419,7 +446,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -783,6 +810,33 @@
       "category": "Government",
       "time": "17:27",
       "ts": "2026-11-10T17:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334836": {
+      "title": "ओडिशा ने मोटे अनाज आधारित कृषि परिवर्तन के लिए एक राष्ट्रीय रोडमैप तैयार किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334836",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:18",
+      "ts": "2026-11-10T18:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334829": {
+      "title": "नए एम्स में 2021-22 से अब तक 6 करोड़ से अधिक ओपीडी परामर्श, देशभर में विशेषज्ञतापूर्ण तृतीयक स्वास्थ्य सेवाओं की पहुंच का विस्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334829",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:05",
+      "ts": "2026-11-10T18:05:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334828": {
+      "title": "रक्षा उत्पादन विभाग ने विशेष अभियान 6.0 सफलतापूर्वक पूरा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334828",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-10T17:31:00+05:30"
     }
   }
 }
