@@ -1,420 +1,15 @@
 {
-  "date": "2026-11-10",
-  "updated": "23:08",
+  "date": "2026-11-11",
+  "updated": "00:06",
   "items": [
     {
-      "title": "South Sudan's authorities must allow UNMISS to operate without obstruction: UK statement at the UN Security Council",
-      "link": "https://www.gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
+      "title": "New Royal Navy-Led Northern Navies Initiative",
+      "link": "https://www.gov.uk/government/news/new-royal-navy-led-northern-navies-initiative",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
-      "time": "22:34",
-      "ts": "2026-11-10T22:34:02+05:30"
-    },
-    {
-      "title": "UK-France Nuclear Steering Group Advances Progress Under Northwood Declaration",
-      "link": "https://www.gov.uk/government/news/uk-france-nuclear-steering-group-advances-progress-under-northwood-declaration",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "22:30",
-      "ts": "2026-11-10T22:30:00+05:30"
-    },
-    {
-      "title": "RAF handed keys to new facilities at RAF Leeming",
-      "link": "https://www.gov.uk/government/news/raf-handed-keys-to-new-facilities-at-raf-leeming",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "21:55",
-      "ts": "2026-11-10T21:55:27+05:30"
-    },
-    {
-      "title": "Joint Statement on the Withdrawal Agreement Joint Committee, 10 November 2026",
-      "link": "https://www.gov.uk/government/news/joint-statement-on-the-withdrawal-agreement-joint-committee-10-november-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "21:30",
-      "ts": "2026-11-10T21:30:02+05:30"
-    },
-    {
-      "title": "How to submit applications and complaints to the CAC",
-      "link": "https://www.gov.uk/government/news/applications-and-complaints",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "20:43",
-      "ts": "2026-11-10T20:43:49+05:30"
-    },
-    {
-      "title": "दिल्ली हाट में आयोजित ‘शिल्प समागम मेला 2026’ में कुल 64.52 लाख रुपये से अधिक की बिक्री हुई, जो लोगों की शानदार प्रतिक्रिया और कारीगरों के लिए बाजार के बढ़ते अवसरों को दर्शाती है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334869",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "19:27",
-      "ts": "2026-11-10T19:27:00+05:30"
-    },
-    {
-      "title": "Current inspections",
-      "link": "https://www.gov.uk/government/news/current-inspections",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "19:15",
-      "ts": "2026-11-10T19:15:33+05:30"
-    },
-    {
-      "title": "Inspection report published: An inspection of the UK-France Agreement on the Prevention of Dangerous Journeys (Operation Hillmore) (March – June 2026)",
-      "link": "https://www.gov.uk/government/news/inspection-report-published-an-inspection-of-the-uk-france-agreement-on-the-prevention-of-dangerous-journeys-operation-hillmore-march-june-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "19:12",
-      "ts": "2026-11-10T19:12:02+05:30"
-    },
-    {
-      "title": "UKHSA issues first cold-health alert of winter 2026/27",
-      "link": "https://www.gov.uk/government/news/ukhsa-issues-first-cold-health-alert-of-winter-202627",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "19:07",
-      "ts": "2026-11-10T19:07:00+05:30"
-    },
-    {
-      "title": "Compensation: Kraków terror attack, Poland",
-      "link": "https://www.gov.uk/government/news/compensation-krakow-terror-attack-poland",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "18:56",
-      "ts": "2026-11-10T18:56:54+05:30"
-    },
-    {
-      "title": "आर्थिक तंगी से लेकर वैश्विक स्तर की शिक्षा के अवसर तक का सफर",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334818",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:55",
-      "ts": "2026-11-10T18:55:00+05:30"
-    },
-    {
-      "title": "व्यावसायिक जोखिम से सुरक्षित आजीविका तक",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334805",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:45",
-      "ts": "2026-11-10T18:45:00+05:30"
-    },
-    {
-      "title": "सैन्य मामलों के विभाग ने विशेष अभियान के छठे चरण को सफलतापूर्वक पूरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334847",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:32",
-      "ts": "2026-11-10T18:32:00+05:30"
-    },
-    {
-      "title": "चिकित्सा उपकरणों के उत्पादन से जुड़ी प्रोत्साहन योजना के तहत नए आवेदन आमंत्रित",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334792",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:30",
-      "ts": "2026-11-10T18:30:00+05:30"
-    },
-    {
-      "title": "Minister Alison McGovern speech at the Youth Access Conference",
-      "link": "https://www.gov.uk/government/speeches/minister-alison-mcgovern-speech-at-the-youth-access-conference",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "18:28",
-      "ts": "2026-11-10T18:28:38+05:30"
-    },
-    {
-      "title": "ओडिशा ने मोटे अनाज आधारित कृषि परिवर्तन के लिए एक राष्ट्रीय रोडमैप तैयार किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334836",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:18",
-      "ts": "2026-11-10T18:18:00+05:30"
-    },
-    {
-      "title": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (एमएसएमई) ने एससी/एसटी सूक्ष्म और लघु उद्यमों से खरीद बढ़ाने के लिए सीपीएसई के साथ एक गोलमेज चर्चा का आयोजन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334795",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:13",
-      "ts": "2026-11-10T18:13:00+05:30"
-    },
-    {
-      "title": "Strengthened guidance to take the next leap to phone-free schools",
-      "link": "https://www.gov.uk/government/news/strengthened-guidance-to-take-the-next-leap-to-phone-free-schools",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "18:11",
-      "ts": "2026-11-10T18:11:13+05:30"
-    },
-    {
-      "title": "‘नशा मुक्त युवा, विकसित भारत क्विज़’ में 25 हजार 607 से अधिक लोग शामिल हुए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334789",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:07",
-      "ts": "2026-11-10T18:07:00+05:30"
-    },
-    {
-      "title": "नए एम्स में 2021-22 से अब तक 6 करोड़ से अधिक ओपीडी परामर्श, देशभर में विशेषज्ञतापूर्ण तृतीयक स्वास्थ्य सेवाओं की पहुंच का विस्तार",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334829",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:05",
-      "ts": "2026-11-10T18:05:00+05:30"
-    },
-    {
-      "title": "MMO highlights the importance of marine mammal bycatch reporting",
-      "link": "https://www.gov.uk/government/news/mmo-highlights-the-importance-of-marine-mammal-bycatch-reporting",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "18:03",
-      "ts": "2026-11-10T18:03:00+05:30"
-    },
-    {
-      "title": "यमुना मनोरंजक क्रूज़ सेवा के शुभारंभ के साथ दिल्ली में रिवर टूरिज्म यानी नदी पर्यटन की शुरुआत",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334784",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:47",
-      "ts": "2026-11-10T17:47:00+05:30"
-    },
-    {
-      "title": "Minister for Defence Readiness and Industry Luke Pollard MP's speech at ISPC 2026",
-      "link": "https://www.gov.uk/government/speeches/minister-for-defence-readiness-and-industry-luke-pollard-mps-speech-at-ispc-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "17:43",
-      "ts": "2026-11-10T17:43:55+05:30"
-    },
-    {
-      "title": "सम्मिलित रक्षा सेवा परीक्षा (I), 2026, अंतिम परिणाम की घोषणा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334722",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:34",
-      "ts": "2026-11-10T17:34:00+05:30"
-    },
-    {
-      "title": "रक्षा उत्पादन विभाग ने विशेष अभियान 6.0 सफलतापूर्वक पूरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334828",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:31",
-      "ts": "2026-11-10T17:31:00+05:30"
-    },
-    {
-      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168775",
-      "source": "UN News: Top stories",
-      "country": "World",
-      "category": "World",
-      "time": "17:30",
-      "ts": "2026-11-10T17:30:00+05:30"
-    },
-    {
-      "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168774",
-      "source": "UN News: Top stories",
-      "country": "World",
-      "category": "World",
-      "time": "17:30",
-      "ts": "2026-11-10T17:30:00+05:30"
-    },
-    {
-      "title": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168772",
-      "source": "UN News: Top stories",
-      "country": "World",
-      "category": "World",
-      "time": "17:30",
-      "ts": "2026-11-10T17:30:00+05:30"
-    },
-    {
-      "title": "Sudan war: First suicide bombers, now long-range drone strikes are the norm",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168771",
-      "source": "UN News: Top stories",
-      "country": "World",
-      "category": "World",
-      "time": "17:30",
-      "ts": "2026-11-10T17:30:00+05:30"
-    },
-    {
-      "title": "Climate crisis could push 141 million more women into extreme poverty",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168770",
-      "source": "UN News: Top stories",
-      "country": "World",
-      "category": "World",
-      "time": "17:30",
-      "ts": "2026-11-10T17:30:00+05:30"
-    },
-    {
-      "title": "Asset Purchase Facility (APF) ceiling, November 2026",
-      "link": "https://www.gov.uk/government/publications/asset-purchase-facility-apf-ceiling-november-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "17:30",
-      "ts": "2026-11-10T17:30:00+05:30"
-    },
-    {
-      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने ईएसएससी की सामान्य निकाय बैठक की अध्यक्षता की, भारत की वैज्ञानिक उपलब्धियों को प्रदर्शित करने के लिए नागरिक-केंद्रित विज्ञान संचार पर बल दिया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334782",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:27",
-      "ts": "2026-11-10T17:27:00+05:30"
-    },
-    {
-      "title": "केंद्रीय कृषि एवं किसान कल्याण राज्य मंत्री श्री रामनाथ ठाकुर ने उत्तर 24 परगना में खेत बचाओ अभियान में भाग लिया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334790",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:27",
-      "ts": "2026-11-10T17:27:00+05:30"
-    },
-    {
-      "title": "जैव प्रौद्योगिकी अनुसंधान एवं नवाचार परिषद का तीसरा स्थापना दिवस राष्ट्रीय प्रतिरक्षा विज्ञान संस्थान में आयोजित",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334776",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:24",
-      "ts": "2026-11-10T17:24:00+05:30"
-    },
-    {
-      "title": "आर्थिक बाधाओं से शैक्षणिक प्रगति तक",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334774",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:21",
-      "ts": "2026-11-10T17:21:00+05:30"
-    },
-    {
-      "title": "भारतीय डाक और इंडिगो ने मिलकर 15 उड़ानों में डिजिटल डिटॉक्स द्वितीय चरण संचालित किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334760",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:17",
-      "ts": "2026-11-10T17:17:00+05:30"
-    },
-    {
-      "title": "गृह मंत्रालय ने विशेष अभियान 6 को सफलतापूर्वक पूरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:10",
-      "ts": "2026-11-10T17:10:00+05:30"
-    },
-    {
-      "title": "£90 million investment for new drones and sensors to protect undersea cables and hunt Russian submarines",
-      "link": "https://www.gov.uk/government/news/90-million-investment-for-new-drones-and-sensors-to-protect-undersea-cables-and-hunt-russian-submarines",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:50",
-      "ts": "2026-11-10T16:50:28+05:30"
-    },
-    {
-      "title": "CMA response to consultation on equal pay and pay discrimination",
-      "link": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:30",
-      "ts": "2026-11-10T16:30:41+05:30"
-    },
-    {
-      "title": "Intertrade UK brings together business leaders to discuss Great Britain - Northern Ireland trade",
-      "link": "https://www.gov.uk/government/news/intertrade-uk-brings-together-business-leaders-to-discuss-great-britain-northern-ireland-trade",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:30",
-      "ts": "2026-11-10T16:30:01+05:30"
-    },
-    {
-      "title": "37,500 करोड़ रुपये की कोयला/लिग्नाइट सतह आधारित गैसीकरण परियोजनाओं को बढ़ावा देने की योजना का दूसरा चरण सम्‍पन्‍न; एनटीपीसी लिमिटेड की ओर से दो आवेदन प्राप्त, तीसरा चरण आज से आरम्‍भ",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:29",
-      "ts": "2026-11-10T16:29:00+05:30"
-    },
-    {
-      "title": "53rd Universal Periodic Review of human rights: UK Statement on Thailand",
-      "link": "https://www.gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-thailand",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:11",
-      "ts": "2026-11-10T16:11:04+05:30"
-    },
-    {
-      "title": "UK Statement regarding conviction of Tanzanian Opposition Leader Tundu Lissu",
-      "link": "https://www.gov.uk/government/news/uk-statement-regarding-conviction-of-tanzanian-opposition-leader-tundu-lissu",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:02",
-      "ts": "2026-11-10T16:02:25+05:30"
-    },
-    {
-      "title": "आवधिक श्रम बल सर्वेक्षण (पीएलएफएस) त्रैमासिक बुलेटिन जुलाई-सितंबर 2026 पर प्रेस नोट",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:00",
-      "ts": "2026-11-10T16:00:00+05:30"
-    },
-    {
-      "title": "Safety the focus as Maritime and Coastguard Agency seeks feedback on pleasure vessel definition",
-      "link": "https://www.gov.uk/government/news/safety-the-focus-as-maritime-and-coastguard-agency-seeks-feedback-on-pleasure-vessel-definition",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:58",
-      "ts": "2026-11-10T15:58:49+05:30"
-    },
-    {
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "source": "US Federal Reserve: Press releases",
-      "country": "United States",
-      "category": "Economy",
-      "time": "02:30",
-      "ts": "2026-11-10T02:30:00+05:30"
+      "time": "00:02",
+      "ts": "2026-11-11T00:02:08+05:30"
     }
   ],
   "health": [
@@ -423,7 +18,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 20,
+      "today": 0,
       "note": ""
     },
     {
@@ -431,7 +26,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 5,
+      "today": 0,
       "note": ""
     },
     {
@@ -439,7 +34,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 0,
       "note": ""
     },
     {
@@ -447,7 +42,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 0,
       "note": ""
     },
     {
@@ -455,7 +50,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 2,
+      "today": 0,
       "note": ""
     },
     {
@@ -479,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 20,
+      "today": 1,
       "note": ""
     },
     {
@@ -487,383 +82,30 @@
       "country": "United States",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 0,
       "note": ""
     }
   ],
   "checked": {
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334477": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334467": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334454": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334461": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334459": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334428": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334441": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334431": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334409": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334419": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334408": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334404": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334405": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334423": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334358": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334347": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334339": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334325": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334323": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334326": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334520": {
-      "title": "जहाँ मशरूम जड़ें जमाते हैं, वहाँ आजीविका आकार लेती है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334520",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:17",
-      "ts": "2026-11-10T10:17:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334517": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334544": {
-      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने नूतन वर्ष के अवसर पर शुभकामनाएं दीं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334544",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "09:16",
-      "ts": "2026-11-10T09:16:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334540": {
-      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने गोवर्धन पूजा पर देशवासियों को शुभकामनाएं दीं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334540",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "09:13",
-      "ts": "2026-11-10T09:13:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334598": {
-      "title": "मेरा युवा भारत ने 100-सप्ताह के नशामुक्ति अभियान के अंतर्गत देशव्यापी दीपोत्सव और नेबरहुड यूथ पार्लियामेंट का आयोजन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334598",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:46",
-      "ts": "2026-11-10T12:46:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334572": {
-      "title": "शाक्यमुनि बुद्ध के पवित्र अवशेष अरुणाचल प्रदेश के बोमडिला में आस्था और समर्पण की भावना जगा रहे हैं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334572",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:58",
-      "ts": "2026-11-10T11:58:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334564": {
-      "title": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई) ने विशेष अभियान 6 का सफलतापूर्वक समापन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334564",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:38",
-      "ts": "2026-11-10T11:38:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334561": {
-      "title": "देश की नीली अर्थव्यवस्था को बढावा देने में द्वीपीय मत्स्य पालन की अहम भूमिका",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334561",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:06",
-      "ts": "2026-11-10T10:06:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334604": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334628": {
-      "title": "भारतीय पुलिस सेवा के परिवीक्षाधीन अधिकारियों ने राष्‍ट्रपति से मुलाकात की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334628",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:21",
-      "ts": "2026-11-10T15:21:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334637": {
-      "title": "उपराष्ट्रपति तमिलनाडु के तूतीकोरिन का दौरा करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334637",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:13",
-      "ts": "2026-11-10T15:13:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334639": {
-      "title": "आयुष मंत्रालय ने विशेष अभियान 6.0 के तहत महत्वपूर्ण प्रगति की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334639",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:07",
-      "ts": "2026-11-10T15:07:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334635": {
-      "title": "खेल विभाग ने स्वच्छता को बढ़ावा देने और लंबित मामलों के निपटारे के लिए विशेष अभियान 6.0 में भाग लिया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334635",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:52",
-      "ts": "2026-11-10T13:52:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334606": {
-      "title": "प्रधानमंत्री ने अनुज श्रीवत्री को भारत का 100वां शतरंज ग्रैंडमास्टर बनने पर बधाई दी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334606",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:46",
-      "ts": "2026-11-10T13:46:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334608": {
-      "title": "भारत ने तुर्किए के अंताल्या में आयोजित यूएनएफसीसीसी कॉप31 में जलवायु बहुपक्षवाद और निष्पक्ष एवं महत्वाकांक्षी परिणाम को लेकर अपनी प्रतिबद्धता की पुष्टि की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334608",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:11",
-      "ts": "2026-11-10T13:11:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334654": {
-      "title": "डीआरआई ने कोलकाता एयरपोर्ट पर भारत से बाहर विदेशी मुद्रा की तस्करी के प्रयास को नाकाम किया; 3.5 करोड़ रुपये के बराबर विदेशी मुद्रा जब्त की गई और सात गिरफ्तार किए गए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334654",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:17",
-      "ts": "2026-11-10T15:17:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334651": {
-      "title": "असम में डीआरआई ने वन्यजीव तस्करी के अवैध प्रयास को विफल किया; सशस्त्र संदिग्धों की खतरनाक लक्ष्य का पीछा करने के दौरान 3.7 किलोग्राम वजन के दो हाथी दांत बरामद किए गए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334651",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:14",
-      "ts": "2026-11-10T15:14:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334659": {
-      "title": "राजस्व खुफिया निदेशालय ने भोपाल में 6.642 किलोग्राम एम्फेटामाइन जब्त किया; ड्रग तस्कर गिरफ्तार",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334659",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:12",
-      "ts": "2026-11-10T15:12:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334658": {
-      "title": "राजस्व खुफिया निदेशालय ने जवाहरलाल नेहरू पोर्ट अथॉरिटी बंदरगाह पर 4 करोड़ रुपये से अधिक मूल्य की लगभग 13 हजार ई-सिगरेट जब्त कीं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334658",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:09",
-      "ts": "2026-11-10T15:09:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334641": {
-      "title": "एनएलएमसी ने प्रयागराज के तीन प्रमुख स्थानों पर स्थित 11 सरकारी आवासीय फ्लैटों की ई-नीलामी के लिए आरएफपी जारी किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334641",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:14",
-      "ts": "2026-11-10T14:14:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334722": {
-      "title": "सम्मिलित रक्षा सेवा परीक्षा (I), 2026, अंतिम परिणाम की घोषणा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334722",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:34",
-      "ts": "2026-11-10T17:34:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708": {
-      "title": "गृह मंत्रालय ने विशेष अभियान 6 को सफलतापूर्वक पूरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:10",
-      "ts": "2026-11-10T17:10:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719": {
-      "title": "37,500 करोड़ रुपये की कोयला/लिग्नाइट सतह आधारित गैसीकरण परियोजनाओं को बढ़ावा देने की योजना का दूसरा चरण सम्‍पन्‍न; एनटीपीसी लिमिटेड की ओर से दो आवेदन प्राप्त, तीसरा चरण आज से आरम्‍भ",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:29",
-      "ts": "2026-11-10T16:29:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334784": {
-      "title": "यमुना मनोरंजक क्रूज़ सेवा के शुभारंभ के साथ दिल्ली में रिवर टूरिज्म यानी नदी पर्यटन की शुरुआत",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334784",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:47",
-      "ts": "2026-11-10T17:47:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334782": {
-      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने ईएसएससी की सामान्य निकाय बैठक की अध्यक्षता की, भारत की वैज्ञानिक उपलब्धियों को प्रदर्शित करने के लिए नागरिक-केंद्रित विज्ञान संचार पर बल दिया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334782",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:27",
-      "ts": "2026-11-10T17:27:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334776": {
-      "title": "जैव प्रौद्योगिकी अनुसंधान एवं नवाचार परिषद का तीसरा स्थापना दिवस राष्ट्रीय प्रतिरक्षा विज्ञान संस्थान में आयोजित",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334776",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:24",
-      "ts": "2026-11-10T17:24:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334774": {
-      "title": "आर्थिक बाधाओं से शैक्षणिक प्रगति तक",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334774",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:21",
-      "ts": "2026-11-10T17:21:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334760": {
-      "title": "भारतीय डाक और इंडिगो ने मिलकर 15 उड़ानों में डिजिटल डिटॉक्स द्वितीय चरण संचालित किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334760",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:17",
-      "ts": "2026-11-10T17:17:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749": {
-      "title": "आवधिक श्रम बल सर्वेक्षण (पीएलएफएस) त्रैमासिक बुलेटिन जुलाई-सितंबर 2026 पर प्रेस नोट",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:00",
-      "ts": "2026-11-10T16:00:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334750": {
-      "title": "केंद्रीय कृषि राज्य मंत्री श्री रामनाथ ठाकुर ने आईसीएआर-सीआईएफई के कोलकाता केंद्र का दौरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334750",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:44",
-      "ts": "2026-11-10T15:44:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334818": {
-      "title": "आर्थिक तंगी से लेकर वैश्विक स्तर की शिक्षा के अवसर तक का सफर",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334818",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:55",
-      "ts": "2026-11-10T18:55:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334805": {
-      "title": "व्यावसायिक जोखिम से सुरक्षित आजीविका तक",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334805",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:45",
-      "ts": "2026-11-10T18:45:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334792": {
-      "title": "चिकित्सा उपकरणों के उत्पादन से जुड़ी प्रोत्साहन योजना के तहत नए आवेदन आमंत्रित",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334792",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:30",
-      "ts": "2026-11-10T18:30:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334795": {
-      "title": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (एमएसएमई) ने एससी/एसटी सूक्ष्म और लघु उद्यमों से खरीद बढ़ाने के लिए सीपीएसई के साथ एक गोलमेज चर्चा का आयोजन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334795",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:13",
-      "ts": "2026-11-10T18:13:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334789": {
-      "title": "‘नशा मुक्त युवा, विकसित भारत क्विज़’ में 25 हजार 607 से अधिक लोग शामिल हुए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334789",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:07",
-      "ts": "2026-11-10T18:07:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334790": {
-      "title": "केंद्रीय कृषि एवं किसान कल्याण राज्य मंत्री श्री रामनाथ ठाकुर ने उत्तर 24 परगना में खेत बचाओ अभियान में भाग लिया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334790",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:27",
-      "ts": "2026-11-10T17:27:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334836": {
-      "title": "ओडिशा ने मोटे अनाज आधारित कृषि परिवर्तन के लिए एक राष्ट्रीय रोडमैप तैयार किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334836",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:18",
-      "ts": "2026-11-10T18:18:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334829": {
-      "title": "नए एम्स में 2021-22 से अब तक 6 करोड़ से अधिक ओपीडी परामर्श, देशभर में विशेषज्ञतापूर्ण तृतीयक स्वास्थ्य सेवाओं की पहुंच का विस्तार",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334829",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:05",
-      "ts": "2026-11-10T18:05:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334828": {
-      "title": "रक्षा उत्पादन विभाग ने विशेष अभियान 6.0 सफलतापूर्वक पूरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334828",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:31",
-      "ts": "2026-11-10T17:31:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334869": {
-      "title": "दिल्ली हाट में आयोजित ‘शिल्प समागम मेला 2026’ में कुल 64.52 लाख रुपये से अधिक की बिक्री हुई, जो लोगों की शानदार प्रतिक्रिया और कारीगरों के लिए बाजार के बढ़ते अवसरों को दर्शाती है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334869",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "19:27",
-      "ts": "2026-11-10T19:27:00+05:30"
-    },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334847": {
-      "title": "सैन्य मामलों के विभाग ने विशेष अभियान के छठे चरण को सफलतापूर्वक पूरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334847",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:32",
-      "ts": "2026-11-10T18:32:00+05:30"
-    }
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334869": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334818": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334805": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334847": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334792": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334836": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334795": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334789": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334829": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334784": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334722": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334828": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334782": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334790": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334776": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334774": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334760": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749": null
   }
 }
