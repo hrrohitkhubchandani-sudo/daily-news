@@ -1,34 +1,7 @@
 {
   "date": "2026-11-10",
-  "updated": "12:20",
+  "updated": "13:31",
   "items": [
-    {
-      "title": "जहाँ मशरूम जड़ें जमाते हैं, वहाँ आजीविका आकार लेती है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334520",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:17",
-      "ts": "2026-11-10T10:17:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने नूतन वर्ष के अवसर पर शुभकामनाएं दीं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334544",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "09:16",
-      "ts": "2026-11-10T09:16:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने गोवर्धन पूजा पर देशवासियों को शुभकामनाएं दीं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334540",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "09:13",
-      "ts": "2026-11-10T09:13:00+05:30"
-    },
     {
       "title": "Major clean-up begins at notorious illegal waste site in Wigan",
       "link": "https://www.gov.uk/government/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan",
@@ -61,10 +34,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": true,
-      "entries": 20,
-      "today": 3,
-      "note": ""
+      "ok": false,
+      "entries": 0,
+      "today": 0,
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "UN News: Top stories",
