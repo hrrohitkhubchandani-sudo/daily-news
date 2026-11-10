@@ -1,7 +1,70 @@
 {
   "date": "2026-11-10",
-  "updated": "13:31",
+  "updated": "14:46",
   "items": [
+    {
+      "title": "मेरा युवा भारत ने 100-सप्ताह के नशामुक्ति अभियान के अंतर्गत देशव्यापी दीपोत्सव और नेबरहुड यूथ पार्लियामेंट का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334598",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:46",
+      "ts": "2026-11-10T12:46:00+05:30"
+    },
+    {
+      "title": "शाक्यमुनि बुद्ध के पवित्र अवशेष अरुणाचल प्रदेश के बोमडिला में आस्था और समर्पण की भावना जगा रहे हैं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334572",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:58",
+      "ts": "2026-11-10T11:58:00+05:30"
+    },
+    {
+      "title": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई) ने विशेष अभियान 6 का सफलतापूर्वक समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334564",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-10T11:38:00+05:30"
+    },
+    {
+      "title": "जहाँ मशरूम जड़ें जमाते हैं, वहाँ आजीविका आकार लेती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334520",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:17",
+      "ts": "2026-11-10T10:17:00+05:30"
+    },
+    {
+      "title": "देश की नीली अर्थव्यवस्था को बढावा देने में द्वीपीय मत्स्य पालन की अहम भूमिका",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334561",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:06",
+      "ts": "2026-11-10T10:06:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने नूतन वर्ष के अवसर पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334544",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:16",
+      "ts": "2026-11-10T09:16:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने गोवर्धन पूजा पर देशवासियों को शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334540",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:13",
+      "ts": "2026-11-10T09:13:00+05:30"
+    },
     {
       "title": "Major clean-up begins at notorious illegal waste site in Wigan",
       "link": "https://www.gov.uk/government/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan",
@@ -34,10 +97,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": false,
-      "entries": 0,
-      "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "ok": true,
+      "entries": 20,
+      "today": 7,
+      "note": ""
     },
     {
       "name": "UN News: Top stories",
@@ -152,6 +215,43 @@
       "category": "Government",
       "time": "09:13",
       "ts": "2026-11-10T09:13:00+05:30"
-    }
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334598": {
+      "title": "मेरा युवा भारत ने 100-सप्ताह के नशामुक्ति अभियान के अंतर्गत देशव्यापी दीपोत्सव और नेबरहुड यूथ पार्लियामेंट का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334598",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:46",
+      "ts": "2026-11-10T12:46:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334572": {
+      "title": "शाक्यमुनि बुद्ध के पवित्र अवशेष अरुणाचल प्रदेश के बोमडिला में आस्था और समर्पण की भावना जगा रहे हैं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334572",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:58",
+      "ts": "2026-11-10T11:58:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334564": {
+      "title": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (एमओएसपीआई) ने विशेष अभियान 6 का सफलतापूर्वक समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334564",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-10T11:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334561": {
+      "title": "देश की नीली अर्थव्यवस्था को बढावा देने में द्वीपीय मत्स्य पालन की अहम भूमिका",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334561",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:06",
+      "ts": "2026-11-10T10:06:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334604": null
   }
 }
