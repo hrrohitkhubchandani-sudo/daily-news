@@ -1,7 +1,25 @@
 {
   "date": "2026-11-10",
-  "updated": "22:10",
+  "updated": "23:08",
   "items": [
+    {
+      "title": "South Sudan's authorities must allow UNMISS to operate without obstruction: UK statement at the UN Security Council",
+      "link": "https://www.gov.uk/government/speeches/south-sudans-authorities-must-allow-unmiss-to-operate-without-obstruction-uk-statement-at-the-un-security-council",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:34",
+      "ts": "2026-11-10T22:34:02+05:30"
+    },
+    {
+      "title": "UK-France Nuclear Steering Group Advances Progress Under Northwood Declaration",
+      "link": "https://www.gov.uk/government/news/uk-france-nuclear-steering-group-advances-progress-under-northwood-declaration",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:30",
+      "ts": "2026-11-10T22:30:00+05:30"
+    },
     {
       "title": "RAF handed keys to new facilities at RAF Leeming",
       "link": "https://www.gov.uk/government/news/raf-handed-keys-to-new-facilities-at-raf-leeming",
@@ -210,6 +228,15 @@
       "ts": "2026-11-10T17:31:00+05:30"
     },
     {
+      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168775",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-10T17:30:00+05:30"
+    },
+    {
       "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168774",
       "source": "UN News: Top stories",
@@ -381,24 +408,6 @@
       "ts": "2026-11-10T15:58:49+05:30"
     },
     {
-      "title": "Stay on top of your finances, start your Self Assessment today",
-      "link": "https://www.gov.uk/government/news/stay-on-top-of-your-finances-start-your-self-assessment-today",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:41",
-      "ts": "2026-11-10T15:41:17+05:30"
-    },
-    {
-      "title": "Appointment of Dean of Exeter: 10 November 2026",
-      "link": "https://www.gov.uk/government/news/appointment-of-dean-of-exeter-10-november-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:30",
-      "ts": "2026-11-10T15:30:04+05:30"
-    },
-    {
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
       "source": "US Federal Reserve: Press releases",
@@ -422,7 +431,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 4,
+      "today": 5,
       "note": ""
     },
     {
@@ -430,7 +439,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
