@@ -1,7 +1,16 @@
 {
   "date": "2026-11-10",
-  "updated": "04:59",
+  "updated": "05:36",
   "items": [
+    {
+      "title": "Major clean-up begins at notorious illegal waste site in Wigan",
+      "link": "https://www.gov.uk/government/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-10T05:31:06+05:30"
+    },
     {
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
@@ -92,7 +101,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
