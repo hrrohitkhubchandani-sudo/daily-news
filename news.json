@@ -1,7 +1,16 @@
 {
   "date": "2026-11-10",
-  "updated": "10:11",
+  "updated": "11:13",
   "items": [
+    {
+      "title": "जहाँ मशरूम जड़ें जमाते हैं, वहाँ आजीविका आकार लेती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334520",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:17",
+      "ts": "2026-11-10T10:17:00+05:30"
+    },
     {
       "title": "Major clean-up begins at notorious illegal waste site in Wigan",
       "link": "https://www.gov.uk/government/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan",
@@ -10,6 +19,15 @@
       "category": "Government",
       "time": "05:31",
       "ts": "2026-11-10T05:31:06+05:30"
+    },
+    {
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "source": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "time": "02:30",
+      "ts": "2026-11-10T02:30:00+05:30"
     },
     {
       "title": "PM call with President El-Sisi of Egypt: 9 November 2026",
@@ -27,7 +45,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -89,10 +107,10 @@
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": false,
-      "entries": 0,
-      "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "ok": true,
+      "entries": 20,
+      "today": 1,
+      "note": ""
     }
   ],
   "checked": {
@@ -115,6 +133,16 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334339": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334325": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334323": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334326": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334326": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334520": {
+      "title": "जहाँ मशरूम जड़ें जमाते हैं, वहाँ आजीविका आकार लेती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334520",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:17",
+      "ts": "2026-11-10T10:17:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334517": null
   }
 }
