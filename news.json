@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated": "05:36",
+  "updated": "07:03",
   "items": [
     {
       "title": "Major clean-up begins at notorious illegal waste site in Wigan",
@@ -43,10 +43,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "UN News: Top stories",
