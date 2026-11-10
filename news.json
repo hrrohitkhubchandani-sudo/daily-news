@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated": "09:09",
+  "updated": "10:11",
   "items": [
     {
       "title": "Major clean-up begins at notorious illegal waste site in Wigan",
@@ -10,15 +10,6 @@
       "category": "Government",
       "time": "05:31",
       "ts": "2026-11-10T05:31:06+05:30"
-    },
-    {
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "source": "US Federal Reserve: Press releases",
-      "country": "United States",
-      "category": "Economy",
-      "time": "02:30",
-      "ts": "2026-11-10T02:30:00+05:30"
     },
     {
       "title": "PM call with President El-Sisi of Egypt: 9 November 2026",
@@ -98,10 +89,10 @@
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": true,
-      "entries": 20,
-      "today": 1,
-      "note": ""
+      "ok": false,
+      "entries": 0,
+      "today": 0,
+      "note": "no entries returned (address may be wrong or blocked)"
     }
   ],
   "checked": {
