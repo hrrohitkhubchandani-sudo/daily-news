@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated": "11:13",
+  "updated": "12:20",
   "items": [
     {
       "title": "जहाँ मशरूम जड़ें जमाते हैं, वहाँ आजीविका आकार लेती है",
@@ -10,6 +10,24 @@
       "category": "Government",
       "time": "10:17",
       "ts": "2026-11-10T10:17:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने नूतन वर्ष के अवसर पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334544",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:16",
+      "ts": "2026-11-10T09:16:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने गोवर्धन पूजा पर देशवासियों को शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334540",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:13",
+      "ts": "2026-11-10T09:13:00+05:30"
     },
     {
       "title": "Major clean-up begins at notorious illegal waste site in Wigan",
@@ -45,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 3,
       "note": ""
     },
     {
@@ -143,6 +161,24 @@
       "time": "10:17",
       "ts": "2026-11-10T10:17:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334517": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334517": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334544": {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने नूतन वर्ष के अवसर पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334544",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:16",
+      "ts": "2026-11-10T09:16:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334540": {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने गोवर्धन पूजा पर देशवासियों को शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334540",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:13",
+      "ts": "2026-11-10T09:13:00+05:30"
+    }
   }
 }
