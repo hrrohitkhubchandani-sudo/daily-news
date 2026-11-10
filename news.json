@@ -1,7 +1,52 @@
 {
   "date": "2026-11-10",
-  "updated": "16:45",
+  "updated": "17:42",
   "items": [
+    {
+      "title": "सम्मिलित रक्षा सेवा परीक्षा (I), 2026, अंतिम परिणाम की घोषणा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334722",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:34",
+      "ts": "2026-11-10T17:34:00+05:30"
+    },
+    {
+      "title": "Climate crisis could push 141 million more women into extreme poverty",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168770",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-10T17:30:00+05:30"
+    },
+    {
+      "title": "Asset Purchase Facility (APF) ceiling, November 2026",
+      "link": "https://www.gov.uk/government/publications/asset-purchase-facility-apf-ceiling-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:30",
+      "ts": "2026-11-10T17:30:00+05:30"
+    },
+    {
+      "title": "गृह मंत्रालय ने विशेष अभियान 6 को सफलतापूर्वक पूरा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:10",
+      "ts": "2026-11-10T17:10:00+05:30"
+    },
+    {
+      "title": "£90 million investment for new drones and sensors to protect undersea cables and hunt Russian submarines",
+      "link": "https://www.gov.uk/government/news/90-million-investment-for-new-drones-and-sensors-to-protect-undersea-cables-and-hunt-russian-submarines",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:50",
+      "ts": "2026-11-10T16:50:28+05:30"
+    },
     {
       "title": "CMA response to consultation on equal pay and pay discrimination",
       "link": "https://www.gov.uk/government/publications/cma-response-to-consultation-on-equal-pay-and-pay-discrimination",
@@ -19,6 +64,15 @@
       "category": "Government",
       "time": "16:30",
       "ts": "2026-11-10T16:30:01+05:30"
+    },
+    {
+      "title": "37,500 करोड़ रुपये की कोयला/लिग्नाइट सतह आधारित गैसीकरण परियोजनाओं को बढ़ावा देने की योजना का दूसरा चरण सम्‍पन्‍न; एनटीपीसी लिमिटेड की ओर से दो आवेदन प्राप्त, तीसरा चरण आज से आरम्‍भ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:29",
+      "ts": "2026-11-10T16:29:00+05:30"
     },
     {
       "title": "53rd Universal Periodic Review of human rights: UK Statement on Thailand",
@@ -237,15 +291,6 @@
       "ts": "2026-11-10T09:16:00+05:30"
     },
     {
-      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने गोवर्धन पूजा पर देशवासियों को शुभकामनाएं दीं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334540",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "09:13",
-      "ts": "2026-11-10T09:13:00+05:30"
-    },
-    {
       "title": "Major clean-up begins at notorious illegal waste site in Wigan",
       "link": "https://www.gov.uk/government/news/major-clean-up-begins-at-notorious-illegal-waste-site-in-wigan",
       "source": "GOV.UK: News and communications",
@@ -279,7 +324,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 18,
+      "today": 20,
       "note": ""
     },
     {
@@ -287,7 +332,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -303,7 +348,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -335,7 +380,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 11,
+      "today": 13,
       "note": ""
     },
     {
@@ -531,6 +576,33 @@
       "category": "Government",
       "time": "14:14",
       "ts": "2026-11-10T14:14:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334722": {
+      "title": "सम्मिलित रक्षा सेवा परीक्षा (I), 2026, अंतिम परिणाम की घोषणा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334722",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:34",
+      "ts": "2026-11-10T17:34:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708": {
+      "title": "गृह मंत्रालय ने विशेष अभियान 6 को सफलतापूर्वक पूरा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:10",
+      "ts": "2026-11-10T17:10:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719": {
+      "title": "37,500 करोड़ रुपये की कोयला/लिग्नाइट सतह आधारित गैसीकरण परियोजनाओं को बढ़ावा देने की योजना का दूसरा चरण सम्‍पन्‍न; एनटीपीसी लिमिटेड की ओर से दो आवेदन प्राप्त, तीसरा चरण आज से आरम्‍भ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:29",
+      "ts": "2026-11-10T16:29:00+05:30"
     }
   }
 }
