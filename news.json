@@ -1,7 +1,34 @@
 {
   "date": "2026-11-11",
-  "updated": "22:13",
+  "updated": "23:16",
   "items": [
+    {
+      "title": "We’re hiring – looking for scientific experts for high-profile roles",
+      "link": "https://www.gov.uk/government/news/were-hiring-looking-for-scientific-experts-for-high-profile-roles",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:52",
+      "ts": "2026-11-11T22:52:58+05:30"
+    },
+    {
+      "title": "Government to stamp illegal deforestation out of UK supply chains",
+      "link": "https://www.gov.uk/government/news/government-to-stamp-illegal-deforestation-out-of-uk-supply-chains",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:30",
+      "ts": "2026-11-11T22:30:10+05:30"
+    },
+    {
+      "title": "MHRA approves Retifanlimab (ZYNYZ) for the treatment of advanced anal cancer",
+      "link": "https://www.gov.uk/government/news/mhra-approves-retifanlimab-zynyz-for-the-treatment-of-advanced-anal-cancer",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:09",
+      "ts": "2026-11-11T22:09:21+05:30"
+    },
     {
       "title": "Government steps in to reduce packaging costs for British businesses and pubs",
       "link": "https://www.gov.uk/government/news/government-steps-in-to-reduce-packaging-costs-for-british-businessesand-pubs",
@@ -291,6 +318,24 @@
       "ts": "2026-11-11T17:43:00+05:30"
     },
     {
+      "title": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168784",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-11T17:30:00+05:30"
+    },
+    {
+      "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168783",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-11T17:30:00+05:30"
+    },
+    {
       "title": "प्रधानमंत्री श्री नरेन्द्र मोदी 13-14 नवंबर को कर्नाटक और गुजरात का दौरा करेंगे",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335161",
       "source": "PIB, Government of India (Hindi)",
@@ -318,15 +363,6 @@
       "ts": "2026-11-11T16:57:08+05:30"
     },
     {
-      "title": "Reception quality webinar series",
-      "link": "https://www.gov.uk/government/case-studies/reception-quality-webinar-series",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:56",
-      "ts": "2026-11-11T16:56:47+05:30"
-    },
-    {
       "title": "सड़क उपयोगकर्ता के साथ दुर्व्यवहार करने पर भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) ने बिजवासन उपयोगकर्ता शुल्क संग्रहण एजेंसी को एक महीने के लिए प्रतिबंधित कर दिया है",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335090",
       "source": "PIB, Government of India (Hindi)",
@@ -336,15 +372,6 @@
       "ts": "2026-11-11T16:33:00+05:30"
     },
     {
-      "title": "Security Minister speech at the IPCO Conference",
-      "link": "https://www.gov.uk/government/speeches/security-minister-speech-at-the-ipco-conference",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:26",
-      "ts": "2026-11-11T16:26:21+05:30"
-    },
-    {
       "title": "विशेष अभियान 6.0 का समापन: पेयजल एवं स्वच्छता विभाग में स्वच्छता को संस्थागत रूप देने और लंबित मामलों के निपटारे में मिली महत्वपूर्ण सफलता",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335100",
       "source": "PIB, Government of India (Hindi)",
@@ -352,15 +379,6 @@
       "category": "Government",
       "time": "16:09",
       "ts": "2026-11-11T16:09:00+05:30"
-    },
-    {
-      "title": "National Housing Order declared to protect birds from Avian Influenza",
-      "link": "https://www.gov.uk/government/news/national-housing-order-declared-to-protect-birds-from-avian-influenza",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:49",
-      "ts": "2026-11-11T15:49:23+05:30"
     }
   ],
   "health": [
@@ -377,7 +395,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
