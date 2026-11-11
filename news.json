@@ -1,7 +1,43 @@
 {
   "date": "2026-11-11",
-  "updated": "19:11",
+  "updated": "20:14",
   "items": [
+    {
+      "title": "Current inspections",
+      "link": "https://www.gov.uk/government/news/current-inspections",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:59",
+      "ts": "2026-11-11T19:59:26+05:30"
+    },
+    {
+      "title": "New e-Bike Conversion Kit Guidance Clarifies Safety Rules",
+      "link": "https://www.gov.uk/government/news/new-e-bike-conversion-kit-guidance-clarifies-safety-rules",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:40",
+      "ts": "2026-11-11T19:40:02+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी जी के नेतृत्व और केन्द्रीय गृह मंत्री श्री अमित शाह के मार्गदर्शन में भारत सरकार ने भारतीय वीजा व्यवस्था को और सरल बनाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335185",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:39",
+      "ts": "2026-11-11T19:39:00+05:30"
+    },
+    {
+      "title": "सशक्त और अधिक समृद्ध भारत के निर्माण के लिए प्रभावी संस्थाओं और लोक सेवकों की आवश्यकता है: लोक सभा अध्यक्ष",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335180",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:35",
+      "ts": "2026-11-11T19:35:00+05:30"
+    },
     {
       "title": "DfE Update 11 November 2026",
       "link": "https://www.gov.uk/government/publications/dfe-update-11-november-2026",
@@ -21,6 +57,33 @@
       "ts": "2026-11-11T18:30:03+05:30"
     },
     {
+      "title": "हाशिए से नेतृत्व तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335181",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:30",
+      "ts": "2026-11-11T18:30:00+05:30"
+    },
+    {
+      "title": "वित्तीय रुकावटों से वैश्विक शैक्षणिक उत्कृष्टता तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335183",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:28",
+      "ts": "2026-11-11T18:28:00+05:30"
+    },
+    {
+      "title": "थल सेनाध्यक्ष ने यंत्रीकृत सैन्य संगोष्ठी 2026 में कैवलरी स्मृति व्याख्यान दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335195",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:27",
+      "ts": "2026-11-11T18:27:00+05:30"
+    },
+    {
       "title": "Colleges put at heart of drive to get young people learning",
       "link": "https://www.gov.uk/government/news/colleges-put-at-heart-of-drive-to-get-young-people-learning",
       "source": "GOV.UK: News and communications",
@@ -28,6 +91,15 @@
       "category": "Government",
       "time": "18:26",
       "ts": "2026-11-11T18:26:18+05:30"
+    },
+    {
+      "title": "सरकार ने 4-जी संतृप्त परियोजना' के माध्यम से ग्रामीण क्षेत्रों में 4-जी कनेक्टिविटी को मज़बूत किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335171",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:25",
+      "ts": "2026-11-11T18:25:00+05:30"
     },
     {
       "title": "Speech at Association of Colleges conference",
@@ -48,13 +120,13 @@
       "ts": "2026-11-11T18:12:15+05:30"
     },
     {
-      "title": "Official warning issued to mosque for “inflammatory” comments",
+      "title": "Official warning issued to charity  for “inflammatory” comments",
       "link": "https://www.gov.uk/government/news/official-warning-issued-to-mosque-for-inflammatory-comments",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
       "time": "18:09",
-      "ts": "2026-11-11T18:09:48+05:30"
+      "ts": "2026-11-11T18:09:00+05:30"
     },
     {
       "title": "New woodland centre takes shape at East Dartmoor and Heaths National Nature Reserve",
@@ -64,6 +136,15 @@
       "category": "Government",
       "time": "17:57",
       "ts": "2026-11-11T17:57:33+05:30"
+    },
+    {
+      "title": "नशे पर निर्भरता से आत्मनिर्भरता तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335169",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:46",
+      "ts": "2026-11-11T17:46:00+05:30"
     },
     {
       "title": "UK Security Minister visits Pakistan to strengthen security partnership",
@@ -237,69 +318,6 @@
       "ts": "2026-11-11T15:15:00+05:30"
     },
     {
-      "title": "केन्‍द्रीय मंत्रिमंडल ने सूक्ष्म इकाइयों के लिए ऋण गारंटी निधि को जारी रखने की मंजूरी दी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335005",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:14",
-      "ts": "2026-11-11T15:14:00+05:30"
-    },
-    {
-      "title": "कैबिनेट ने फॉस्फेट और पोटाश (पीएंडके) उर्वरकों पर रबी 2026-27 (01.10.2026 से 31.03.2027 तक) के लिए पोषक तत्व आधारित सब्सिडी (एनबीएस) दरों को मंजूरी दी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334984",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:13",
-      "ts": "2026-11-11T15:13:00+05:30"
-    },
-    {
-      "title": "कैबिनेट ने फॉस्फेट और पोटाश (पीएंडके) उर्वरकों पर रबी 2026-27 (01.10.2026 से 31.03.2027 तक) के लिए पोषक तत्व आधारित सब्सिडी (एनबीएस) दरों को मंजूरी दी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334983",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:11",
-      "ts": "2026-11-11T15:11:00+05:30"
-    },
-    {
-      "title": "केंद्रीय मंत्रिमंडल ने नोएडा सेक्टर-51 से ग्रेटर नोएडा सेक्टर-04 तक एक्वा लाइन मेट्रो रेल कॉरिडोर के विस्तार को मंजूरी दी, 8.449 किलोमीटर लंबे मार्ग में 5 स्टेशन होंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335034",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:10",
-      "ts": "2026-11-11T15:10:00+05:30"
-    },
-    {
-      "title": "केंद्रीय मंत्रिमंडल ने नोएडा सेक्टर-51 से ग्रेटर नोएडा सेक्टर-04 तक एक्वा लाइन मेट्रो रेल कॉरिडोर के विस्तार को मंजूरी दी, 8.449 किलोमीटर लंबे मार्ग में 5 स्टेशन होंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335032",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:08",
-      "ts": "2026-11-11T15:08:00+05:30"
-    },
-    {
-      "title": "केन्‍द्रीय मंत्रिमंडल ने नई दिल्ली स्थित नॉर्थ और साउथ ब्लॉक परिसर में ‘युगे युगीन भारत म्‍यूजियम’ के विकास को मंजूरी दी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335025",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:07",
-      "ts": "2026-11-11T15:07:00+05:30"
-    },
-    {
-      "title": "लोकसभा अध्यक्ष ने मौलाना अबुल कलाम आज़ाद को पुष्पांजलि अर्पित की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334970",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:06",
-      "ts": "2026-11-11T15:06:00+05:30"
-    },
-    {
       "title": "RSH finds serious failings at Bury Metropolitan Borough Council",
       "link": "https://www.gov.uk/government/news/rsh-finds-serious-failings-at-bury-metropolitan-borough-council",
       "source": "GOV.UK: News and communications",
@@ -343,24 +361,6 @@
       "category": "Government",
       "time": "12:49",
       "ts": "2026-11-11T12:49:00+05:30"
-    },
-    {
-      "title": "Prime Minister hails major investment in UK renewables",
-      "link": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "11:40",
-      "ts": "2026-11-11T11:40:18+05:30"
-    },
-    {
-      "title": "General Sir Gwyn Jenkins addresses the International Sea Power Conference",
-      "link": "https://www.gov.uk/government/speeches/general-sir-gwyn-jenkins-addresses-the-international-sea-power-conference",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "04:30",
-      "ts": "2026-11-11T04:30:16+05:30"
     }
   ],
   "health": [
@@ -701,6 +701,69 @@
       "category": "Government",
       "time": "17:05",
       "ts": "2026-11-11T17:05:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335185": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी जी के नेतृत्व और केन्द्रीय गृह मंत्री श्री अमित शाह के मार्गदर्शन में भारत सरकार ने भारतीय वीजा व्यवस्था को और सरल बनाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335185",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:39",
+      "ts": "2026-11-11T19:39:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335180": {
+      "title": "सशक्त और अधिक समृद्ध भारत के निर्माण के लिए प्रभावी संस्थाओं और लोक सेवकों की आवश्यकता है: लोक सभा अध्यक्ष",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335180",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:35",
+      "ts": "2026-11-11T19:35:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335181": {
+      "title": "हाशिए से नेतृत्व तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335181",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:30",
+      "ts": "2026-11-11T18:30:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335183": {
+      "title": "वित्तीय रुकावटों से वैश्विक शैक्षणिक उत्कृष्टता तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335183",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:28",
+      "ts": "2026-11-11T18:28:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335195": {
+      "title": "थल सेनाध्यक्ष ने यंत्रीकृत सैन्य संगोष्ठी 2026 में कैवलरी स्मृति व्याख्यान दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335195",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:27",
+      "ts": "2026-11-11T18:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335171": {
+      "title": "सरकार ने 4-जी संतृप्त परियोजना' के माध्यम से ग्रामीण क्षेत्रों में 4-जी कनेक्टिविटी को मज़बूत किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335171",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:25",
+      "ts": "2026-11-11T18:25:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335169": {
+      "title": "नशे पर निर्भरता से आत्मनिर्भरता तक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335169",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:46",
+      "ts": "2026-11-11T17:46:00+05:30"
     }
   }
 }
