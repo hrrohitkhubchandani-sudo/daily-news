@@ -1,7 +1,61 @@
 {
   "date": "2026-11-11",
-  "updated": "14:51",
+  "updated": "15:54",
   "items": [
+    {
+      "title": "National Housing Order declared to protect birds from Avian Influenza",
+      "link": "https://www.gov.uk/government/news/national-housing-order-declared-to-protect-birds-from-avian-influenza",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:49",
+      "ts": "2026-11-11T15:49:23+05:30"
+    },
+    {
+      "title": "53rd Universal Periodic Review of human rights: UK Statement on Ireland",
+      "link": "https://www.gov.uk/government/speeches/53rd-universal-periodic-review-of-human-rights-uk-statement-on-ireland",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:33",
+      "ts": "2026-11-11T15:33:11+05:30"
+    },
+    {
+      "title": "कैबिनेट ने फॉस्फेट और पोटाश (पीएंडके) उर्वरकों पर रबी 2026-27 (01.10.2026 से 31.03.2027 तक) के लिए पोषक तत्व आधारित सब्सिडी (एनबीएस) दरों को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334984",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:13",
+      "ts": "2026-11-11T15:13:00+05:30"
+    },
+    {
+      "title": "कैबिनेट ने फॉस्फेट और पोटाश (पीएंडके) उर्वरकों पर रबी 2026-27 (01.10.2026 से 31.03.2027 तक) के लिए पोषक तत्व आधारित सब्सिडी (एनबीएस) दरों को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334983",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:11",
+      "ts": "2026-11-11T15:11:00+05:30"
+    },
+    {
+      "title": "लोकसभा अध्यक्ष ने मौलाना अबुल कलाम आज़ाद को पुष्पांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334970",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:06",
+      "ts": "2026-11-11T15:06:00+05:30"
+    },
+    {
+      "title": "RSH finds serious failings at Bury Metropolitan Borough Council",
+      "link": "https://www.gov.uk/government/news/rsh-finds-serious-failings-at-bury-metropolitan-borough-council",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-11T15:00:02+05:30"
+    },
     {
       "title": "MOD showcases UK industry at EuroNaval exhibition",
       "link": "https://www.gov.uk/government/news/mod-showcases-uk-industry-at-euronaval-exhibition",
@@ -19,6 +73,15 @@
       "category": "Government",
       "time": "14:27",
       "ts": "2026-11-11T14:27:18+05:30"
+    },
+    {
+      "title": "रक्षा मंत्रालय ने आईएनएस बेतवा पोत की सामान्य मरम्मत एवं पुनर्संचालन के लिए लगभग 500 करोड़ रुपये के अनुबंध पर हस्ताक्षर किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334973",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:54",
+      "ts": "2026-11-11T13:54:00+05:30"
     },
     {
       "title": "Cameroon: UK strengthens partnerships in South-West region",
@@ -46,6 +109,15 @@
       "category": "Government",
       "time": "11:40",
       "ts": "2026-11-11T11:40:18+05:30"
+    },
+    {
+      "title": "भारत और नॉर्वे ने सतत निर्माण के लिए औद्योगिक अपशिष्ट को संसाधनों में बदलने हेतु संयुक्त प्रौद्योगिकियों की संभावनाओं पर चर्चा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334982",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:38",
+      "ts": "2026-11-11T10:38:00+05:30"
     },
     {
       "title": "भारत में संबद्ध एवं स्वास्थ्य सेवा पेशे को सशक्त बनाने के लिए एनसीएएचपी ने नई पंजीकरण रूपरेखा का प्रस्ताव किया",
@@ -108,7 +180,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 8,
       "note": ""
     },
     {
@@ -164,7 +236,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 11,
       "note": ""
     },
     {
@@ -224,6 +296,51 @@
       "category": "Government",
       "time": "09:56",
       "ts": "2026-11-11T09:56:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334984": {
+      "title": "कैबिनेट ने फॉस्फेट और पोटाश (पीएंडके) उर्वरकों पर रबी 2026-27 (01.10.2026 से 31.03.2027 तक) के लिए पोषक तत्व आधारित सब्सिडी (एनबीएस) दरों को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334984",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:13",
+      "ts": "2026-11-11T15:13:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334983": {
+      "title": "कैबिनेट ने फॉस्फेट और पोटाश (पीएंडके) उर्वरकों पर रबी 2026-27 (01.10.2026 से 31.03.2027 तक) के लिए पोषक तत्व आधारित सब्सिडी (एनबीएस) दरों को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334983",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:11",
+      "ts": "2026-11-11T15:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334970": {
+      "title": "लोकसभा अध्यक्ष ने मौलाना अबुल कलाम आज़ाद को पुष्पांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334970",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:06",
+      "ts": "2026-11-11T15:06:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334973": {
+      "title": "रक्षा मंत्रालय ने आईएनएस बेतवा पोत की सामान्य मरम्मत एवं पुनर्संचालन के लिए लगभग 500 करोड़ रुपये के अनुबंध पर हस्ताक्षर किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334973",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:54",
+      "ts": "2026-11-11T13:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334982": {
+      "title": "भारत और नॉर्वे ने सतत निर्माण के लिए औद्योगिक अपशिष्ट को संसाधनों में बदलने हेतु संयुक्त प्रौद्योगिकियों की संभावनाओं पर चर्चा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334982",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:38",
+      "ts": "2026-11-11T10:38:00+05:30"
     }
   }
 }
