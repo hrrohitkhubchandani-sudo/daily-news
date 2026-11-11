@@ -1,7 +1,34 @@
 {
   "date": "2026-11-11",
-  "updated": "11:17",
+  "updated": "12:23",
   "items": [
+    {
+      "title": "Prime Minister hails major investment in UK renewables",
+      "link": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "11:40",
+      "ts": "2026-11-11T11:40:18+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने एक प्रगतिशील देश के सामर्थ्य और शक्ति के आधार को दर्शाने वाले संस्कृत सुभाषितम् को साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334899",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:39",
+      "ts": "2026-11-11T08:39:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने भाई दूज के अवसर पर देशवासियों को शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334898",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:37",
+      "ts": "2026-11-11T08:37:00+05:30"
+    },
     {
       "title": "General Sir Gwyn Jenkins addresses the International Sea Power Conference",
       "link": "https://www.gov.uk/government/speeches/general-sir-gwyn-jenkins-addresses-the-international-sea-power-conference",
@@ -36,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -92,7 +119,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 4,
       "note": ""
     },
     {
@@ -125,6 +152,24 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334708": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334719": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334749": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334875": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334875": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334899": {
+      "title": "प्रधानमंत्री ने एक प्रगतिशील देश के सामर्थ्य और शक्ति के आधार को दर्शाने वाले संस्कृत सुभाषितम् को साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334899",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:39",
+      "ts": "2026-11-11T08:39:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334898": {
+      "title": "प्रधानमंत्री ने भाई दूज के अवसर पर देशवासियों को शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334898",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:37",
+      "ts": "2026-11-11T08:37:00+05:30"
+    }
   }
 }
