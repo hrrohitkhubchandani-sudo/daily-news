@@ -1,7 +1,25 @@
 {
   "date": "2026-11-11",
-  "updated": "13:40",
+  "updated": "14:51",
   "items": [
+    {
+      "title": "MOD showcases UK industry at EuroNaval exhibition",
+      "link": "https://www.gov.uk/government/news/mod-showcases-uk-industry-at-euronaval-exhibition",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:28",
+      "ts": "2026-11-11T14:28:31+05:30"
+    },
+    {
+      "title": "First Sea Lord Opening Remarks at International Sea Power Conference 2026.",
+      "link": "https://www.gov.uk/government/speeches/first-sea-lord-opening-remarks-at-international-sea-power-conference-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:27",
+      "ts": "2026-11-11T14:27:18+05:30"
+    },
     {
       "title": "Cameroon: UK strengthens partnerships in South-West region",
       "link": "https://www.gov.uk/government/news/cameroon-uk-strengthens-partnerships-in-south-west-region",
@@ -28,6 +46,15 @@
       "category": "Government",
       "time": "11:40",
       "ts": "2026-11-11T11:40:18+05:30"
+    },
+    {
+      "title": "भारत में संबद्ध एवं स्वास्थ्य सेवा पेशे को सशक्त बनाने के लिए एनसीएएचपी ने नई पंजीकरण रूपरेखा का प्रस्ताव किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334941",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:56",
+      "ts": "2026-11-11T09:56:00+05:30"
     },
     {
       "title": "प्रधानमंत्री ने एक प्रगतिशील देश के सामर्थ्य और शक्ति के आधार को दर्शाने वाले संस्कृत सुभाषितम् को साझा किया",
@@ -81,7 +108,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -137,7 +164,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 8,
       "note": ""
     },
     {
@@ -188,6 +215,15 @@
       "category": "Government",
       "time": "08:37",
       "ts": "2026-11-11T08:37:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334941": {
+      "title": "भारत में संबद्ध एवं स्वास्थ्य सेवा पेशे को सशक्त बनाने के लिए एनसीएएचपी ने नई पंजीकरण रूपरेखा का प्रस्ताव किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334941",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:56",
+      "ts": "2026-11-11T09:56:00+05:30"
     }
   }
 }
