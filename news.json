@@ -1,7 +1,16 @@
 {
   "date": "2026-11-11",
-  "updated": "15:54",
+  "updated": "16:52",
   "items": [
+    {
+      "title": "Security Minister speech at the IPCO Conference",
+      "link": "https://www.gov.uk/government/speeches/security-minister-speech-at-the-ipco-conference",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:26",
+      "ts": "2026-11-11T16:26:21+05:30"
+    },
     {
       "title": "National Housing Order declared to protect birds from Avian Influenza",
       "link": "https://www.gov.uk/government/news/national-housing-order-declared-to-protect-birds-from-avian-influenza",
@@ -19,6 +28,42 @@
       "category": "Government",
       "time": "15:33",
       "ts": "2026-11-11T15:33:11+05:30"
+    },
+    {
+      "title": "कैबिनेट ने स्टैंड-अप इंडिया योजना को जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335026",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:18",
+      "ts": "2026-11-11T15:18:00+05:30"
+    },
+    {
+      "title": "कैबिनेट ने स्टैंड-अप इंडिया योजना को जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335024",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:17",
+      "ts": "2026-11-11T15:17:00+05:30"
+    },
+    {
+      "title": "केन्‍द्रीय मंत्रिमंडल ने सूक्ष्म इकाइयों के लिए ऋण गारंटी निधि को जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335009",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:15",
+      "ts": "2026-11-11T15:15:00+05:30"
+    },
+    {
+      "title": "केन्‍द्रीय मंत्रिमंडल ने सूक्ष्म इकाइयों के लिए ऋण गारंटी निधि को जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335005",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:14",
+      "ts": "2026-11-11T15:14:00+05:30"
     },
     {
       "title": "कैबिनेट ने फॉस्फेट और पोटाश (पीएंडके) उर्वरकों पर रबी 2026-27 (01.10.2026 से 31.03.2027 तक) के लिए पोषक तत्व आधारित सब्सिडी (एनबीएस) दरों को मंजूरी दी",
@@ -39,6 +84,33 @@
       "ts": "2026-11-11T15:11:00+05:30"
     },
     {
+      "title": "केंद्रीय मंत्रिमंडल ने नोएडा सेक्टर-51 से ग्रेटर नोएडा सेक्टर-04 तक एक्वा लाइन मेट्रो रेल कॉरिडोर के विस्तार को मंजूरी दी, 8.449 किलोमीटर लंबे मार्ग में 5 स्टेशन होंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335034",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:10",
+      "ts": "2026-11-11T15:10:00+05:30"
+    },
+    {
+      "title": "केंद्रीय मंत्रिमंडल ने नोएडा सेक्टर-51 से ग्रेटर नोएडा सेक्टर-04 तक एक्वा लाइन मेट्रो रेल कॉरिडोर के विस्तार को मंजूरी दी, 8.449 किलोमीटर लंबे मार्ग में 5 स्टेशन होंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335032",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:08",
+      "ts": "2026-11-11T15:08:00+05:30"
+    },
+    {
+      "title": "केन्‍द्रीय मंत्रिमंडल ने नई दिल्ली स्थित नॉर्थ और साउथ ब्लॉक परिसर में ‘युगे युगीन भारत म्‍यूजियम’ के विकास को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335025",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:07",
+      "ts": "2026-11-11T15:07:00+05:30"
+    },
+    {
       "title": "लोकसभा अध्यक्ष ने मौलाना अबुल कलाम आज़ाद को पुष्पांजलि अर्पित की",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2334970",
       "source": "PIB, Government of India (Hindi)",
@@ -48,6 +120,15 @@
       "ts": "2026-11-11T15:06:00+05:30"
     },
     {
+      "title": "केन्‍द्रीय मंत्रिमंडल ने नई दिल्ली स्थित नॉर्थ और साउथ ब्लॉक परिसर में ‘युगे युगीन भारत म्‍यूजियम’ के विकास को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335023",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:05",
+      "ts": "2026-11-11T15:05:00+05:30"
+    },
+    {
       "title": "RSH finds serious failings at Bury Metropolitan Borough Council",
       "link": "https://www.gov.uk/government/news/rsh-finds-serious-failings-at-bury-metropolitan-borough-council",
       "source": "GOV.UK: News and communications",
@@ -55,6 +136,15 @@
       "category": "Government",
       "time": "15:00",
       "ts": "2026-11-11T15:00:02+05:30"
+    },
+    {
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह इटली के लिए रवाना; यूरोप के साथ भारत के वैज्ञानिक सहयोग को मजबूत करने के लिए 3 दिवसीय दौरे पर भारतीय प्रतिनिधिमंडल का नेतृत्व करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335018",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:38",
+      "ts": "2026-11-11T14:38:00+05:30"
     },
     {
       "title": "MOD showcases UK industry at EuroNaval exhibition",
@@ -180,7 +270,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 17,
       "note": ""
     },
     {
@@ -236,7 +326,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 11,
+      "today": 12,
       "note": ""
     },
     {
@@ -341,6 +431,87 @@
       "category": "Government",
       "time": "10:38",
       "ts": "2026-11-11T10:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335026": {
+      "title": "कैबिनेट ने स्टैंड-अप इंडिया योजना को जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335026",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:18",
+      "ts": "2026-11-11T15:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335024": {
+      "title": "कैबिनेट ने स्टैंड-अप इंडिया योजना को जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335024",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:17",
+      "ts": "2026-11-11T15:17:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335009": {
+      "title": "केन्‍द्रीय मंत्रिमंडल ने सूक्ष्म इकाइयों के लिए ऋण गारंटी निधि को जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335009",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:15",
+      "ts": "2026-11-11T15:15:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335005": {
+      "title": "केन्‍द्रीय मंत्रिमंडल ने सूक्ष्म इकाइयों के लिए ऋण गारंटी निधि को जारी रखने की मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335005",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:14",
+      "ts": "2026-11-11T15:14:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335034": {
+      "title": "केंद्रीय मंत्रिमंडल ने नोएडा सेक्टर-51 से ग्रेटर नोएडा सेक्टर-04 तक एक्वा लाइन मेट्रो रेल कॉरिडोर के विस्तार को मंजूरी दी, 8.449 किलोमीटर लंबे मार्ग में 5 स्टेशन होंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335034",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:10",
+      "ts": "2026-11-11T15:10:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335032": {
+      "title": "केंद्रीय मंत्रिमंडल ने नोएडा सेक्टर-51 से ग्रेटर नोएडा सेक्टर-04 तक एक्वा लाइन मेट्रो रेल कॉरिडोर के विस्तार को मंजूरी दी, 8.449 किलोमीटर लंबे मार्ग में 5 स्टेशन होंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335032",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:08",
+      "ts": "2026-11-11T15:08:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335025": {
+      "title": "केन्‍द्रीय मंत्रिमंडल ने नई दिल्ली स्थित नॉर्थ और साउथ ब्लॉक परिसर में ‘युगे युगीन भारत म्‍यूजियम’ के विकास को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335025",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:07",
+      "ts": "2026-11-11T15:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335023": {
+      "title": "केन्‍द्रीय मंत्रिमंडल ने नई दिल्ली स्थित नॉर्थ और साउथ ब्लॉक परिसर में ‘युगे युगीन भारत म्‍यूजियम’ के विकास को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335023",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:05",
+      "ts": "2026-11-11T15:05:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335018": {
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह इटली के लिए रवाना; यूरोप के साथ भारत के वैज्ञानिक सहयोग को मजबूत करने के लिए 3 दिवसीय दौरे पर भारतीय प्रतिनिधिमंडल का नेतृत्व करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335018",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:38",
+      "ts": "2026-11-11T14:38:00+05:30"
     }
   }
 }
