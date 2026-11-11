@@ -1,7 +1,17 @@
 {
   "date": "2026-11-12",
-  "updated": "03:54",
-  "items": [],
+  "updated": "04:46",
+  "items": [
+    {
+      "title": "Flat owners handed massive boost to fight rip-off service charges",
+      "link": "https://www.gov.uk/government/news/flat-owners-handed-massive-boost-to-fight-rip-off-service-charges",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-12T04:00:05+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -64,16 +74,16 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     }
   ],
   "checked": {
