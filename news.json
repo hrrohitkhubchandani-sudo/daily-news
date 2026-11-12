@@ -1,7 +1,34 @@
 {
   "date": "2026-11-12",
-  "updated": "04:46",
+  "updated": "05:41",
   "items": [
+    {
+      "title": "New report shows progress in cutting levels of ‘forever chemicals’ in England’s rivers",
+      "link": "https://www.gov.uk/government/news/new-report-shows-progress-in-cutting-levels-of-forever-chemicals-in-englands-rivers",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-12T05:31:02+05:30"
+    },
+    {
+      "title": "More familiar carers and less travel under new social care plans",
+      "link": "https://www.gov.uk/government/news/more-familiar-carers-and-less-travel-under-new-social-care-plans",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-12T05:31:02+05:30"
+    },
+    {
+      "title": "Major changes to Blue Plaque schemes will see more of England’s ‘hidden heroes’ celebrated",
+      "link": "https://www.gov.uk/government/news/major-changes-to-blue-plaque-schemes-will-see-more-of-englands-hidden-heroes-celebrated",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-12T05:31:02+05:30"
+    },
     {
       "title": "Flat owners handed massive boost to fight rip-off service charges",
       "link": "https://www.gov.uk/government/news/flat-owners-handed-massive-boost-to-fight-rip-off-service-charges",
@@ -74,16 +101,16 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 4,
       "note": ""
     },
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     }
   ],
   "checked": {
