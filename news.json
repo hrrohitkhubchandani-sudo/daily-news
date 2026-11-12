@@ -1,7 +1,52 @@
 {
   "date": "2026-11-12",
-  "updated": "17:52",
+  "updated": "19:13",
   "items": [
+    {
+      "title": "New proposals to stop childhood crimes closing doors for life",
+      "link": "https://www.gov.uk/government/news/new-proposals-to-stop-childhood-crimes-closing-doors-for-life",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:09",
+      "ts": "2026-11-12T19:09:15+05:30"
+    },
+    {
+      "title": "Ukraine set to be focus of EPC summit as UK sanctions Russia's top ten oil producers",
+      "link": "https://www.gov.uk/government/news/ukraine-set-to-be-focus-of-epc-summit-as-uk-sanctions-russias-top-ten-oil-producers",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:08",
+      "ts": "2026-11-12T19:08:51+05:30"
+    },
+    {
+      "title": "IBCA Community Update, 12 November 2026",
+      "link": "https://www.gov.uk/government/publications/ibca-community-update-12-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:00",
+      "ts": "2026-11-12T19:00:03+05:30"
+    },
+    {
+      "title": "डीआरआई ने चेन्नई बंदरगाह पर लाल चंदन की तस्करी करने वाले गिरोह का भंडाफोड़ किया; 7.72 करोड़ रुपये मूल्य का लगभग 13,000 किलोग्राम लाल चंदन जब्त किया; तीन लोग गिरफ्तार किए गए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335556",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:03",
+      "ts": "2026-11-12T18:03:00+05:30"
+    },
+    {
+      "title": "राजस्व खुफिया निदेशालय के अधिकारियों ने सिएरा लियोन से नई दिल्ली पहुंची एक महिला यात्री के कब्ज़े से 22 किलोग्राम कोकीन जब्त की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335557",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:49",
+      "ts": "2026-11-12T17:49:00+05:30"
+    },
     {
       "title": "Written ministerial statement on laying the departmental minute for the new contingent liability arrangements for space activities in orbit",
       "link": "https://www.gov.uk/government/news/written-ministerial-statement-on-laying-the-departmental-minute-for-the-new-contingent-liability-arrangements-for-space-activities-in-orbit",
@@ -10,6 +55,24 @@
       "category": "Government",
       "time": "17:31",
       "ts": "2026-11-12T17:31:04+05:30"
+    },
+    {
+      "title": "भारत के राष्ट्रपति ने राष्ट्रपति भवन में एकलव्य आदर्श आवासीय विद्यालय के मेधावी विद्यार्थियों से संवाद किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335571",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-12T17:31:00+05:30"
+    },
+    {
+      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-12T17:30:00+05:30"
     },
     {
       "title": "Safe to Breathe: New competition for rapid toxic gas detection innovation",
@@ -21,6 +84,33 @@
       "ts": "2026-11-12T17:29:40+05:30"
     },
     {
+      "title": "केंद्रीय पर्यावरण मंत्री ने लीडआईटी के उद्योग सदस्यों और परियोजना के भागीदारों से बातचीत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335563",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:29",
+      "ts": "2026-11-12T17:29:00+05:30"
+    },
+    {
+      "title": "अनुसूचित जाति के विद्यार्थियों के लिए राष्ट्रीय फैलोशिप से शोधार्थी ने आनुवंशिकी एवं पादप प्रजनन में पीएच.डी. पूरी की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335539",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:27",
+      "ts": "2026-11-12T17:27:00+05:30"
+    },
+    {
+      "title": "सीसीआरएएस-सीएआरआई और दिल्ली विश्वविद्यालय ने डीयू के नॉर्थ कैंपस में औषधीय पौधों की विविधता का दस्तावेजीकरण करने के लिए समझौता ज्ञापन पर हस्ताक्षर किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335523",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:25",
+      "ts": "2026-11-12T17:25:00+05:30"
+    },
+    {
       "title": "We’re hiring – looking for scientific experts for high-profile roles",
       "link": "https://www.gov.uk/government/news/were-hiring-looking-for-scientific-experts-for-high-profile-roles",
       "source": "GOV.UK: News and communications",
@@ -28,6 +118,15 @@
       "category": "Government",
       "time": "17:17",
       "ts": "2026-11-12T17:17:20+05:30"
+    },
+    {
+      "title": "रक्षा राज्य मंत्री श्री संजय सेठ ने संशोधित गैलेंट्री अवार्ड (वीरता पुरस्कार) पोर्टल का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335517",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:07",
+      "ts": "2026-11-12T17:07:00+05:30"
     },
     {
       "title": "Upcoming Publication: Infected Blood Memorial Committee's Report",
@@ -39,6 +138,15 @@
       "ts": "2026-11-12T16:49:12+05:30"
     },
     {
+      "title": "डॉ. पी. के. मिश्रा ने पीपीवीएफआरए के 22वें स्थापना दिवस और प्लांट जीनोम सेवियर पुरस्कार समारोह को संबोधित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335573",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:42",
+      "ts": "2026-11-12T16:42:00+05:30"
+    },
+    {
       "title": "MMO statement: Boulder positions in the Southern North Sea",
       "link": "https://www.gov.uk/government/news/mmo-statement-boulder-positions-in-the-southern-north-sea",
       "source": "GOV.UK: News and communications",
@@ -46,6 +154,15 @@
       "category": "Government",
       "time": "16:22",
       "ts": "2026-11-12T16:22:39+05:30"
+    },
+    {
+      "title": "नशा मुक्त भारत अभियान के तहत अब तक 35.88 करोड़ से अधिक लोगों को जागरूकता अभियान का लाभ; 14.35 करोड़ से अधिक युवाओं और 11.33 करोड़ महिलाओं को किया गया जागरूक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335521",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:13",
+      "ts": "2026-11-12T16:13:00+05:30"
     },
     {
       "title": "केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल 13 नवंबर को 45वें भारत अंतरराष्ट्रीय व्यापार मेले का उद्घाटन करेंगे",
@@ -237,24 +354,6 @@
       "ts": "2026-11-12T14:04:00+05:30"
     },
     {
-      "title": "PM speech at COP31 climate summit: 12 November 2026",
-      "link": "https://www.gov.uk/government/speeches/pm-speech-at-cop31-climate-summit-12-november-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "13:54",
-      "ts": "2026-11-12T13:54:06+05:30"
-    },
-    {
-      "title": "Water bosses must not be rewarded for failure by another name, says Environment Secretary",
-      "link": "https://www.gov.uk/government/news/water-bosses-must-not-be-rewarded-for-failure-by-another-name-says-environment-secretary",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "13:00",
-      "ts": "2026-11-12T13:00:25+05:30"
-    },
-    {
       "title": "आईएफएफआई (इफ्फी) गोवा 2026 में वेवएक्स स्टार्टअप पवेलियन के लिए पंजीकरण कल बंद हो जाएगा",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335350",
       "source": "PIB, Government of India (Hindi)",
@@ -271,60 +370,6 @@
       "category": "Government",
       "time": "12:58",
       "ts": "2026-11-12T12:58:00+05:30"
-    },
-    {
-      "title": "टीडीबी-डीएसटी ने सॉवरेन स्पेस-आधारित एआई-एएलआईएनटी तारामंडल विकसित करने के लिए 64.05 करोड़ रुपये की आरडीआई सहायता के लिए एस्ट्रोम के साथ समझौते पर हस्ताक्षर किए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335352",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:56",
-      "ts": "2026-11-12T12:56:00+05:30"
-    },
-    {
-      "title": "प्राकृतिक चिकित्सा दिवस 2026: वैज्ञानिक अनुसंधान ने भारत की प्रकृति-आधारित स्वास्थ्य सेवा प्रणाली को सशक्त बनाया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335356",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:12",
-      "ts": "2026-11-12T12:12:00+05:30"
-    },
-    {
-      "title": "एक राष्‍ट्र, एक राशन कार्ड",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335308",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:48",
-      "ts": "2026-11-12T11:48:00+05:30"
-    },
-    {
-      "title": "शाक्यमुनि बुद्ध के पवित्र अवशेषों को अब तक अरुणाचल प्रदेश में लगभग 50,000 भक्तों ने धर्मनिष्ठा के साथ श्रद्धांजलि अर्पित की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335355",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:42",
-      "ts": "2026-11-12T11:42:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने संस्कृत सुभाषितम् साझा करते हुए, सज्जन व्यक्तियों की दूसरों के कल्याण के प्रति निःस्वार्थ समर्पण भावना को दर्शाया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335282",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "08:13",
-      "ts": "2026-11-12T08:13:00+05:30"
-    },
-    {
-      "title": "New report shows progress in cutting levels of ‘forever chemicals’ in England’s rivers",
-      "link": "https://www.gov.uk/government/news/new-report-shows-progress-in-cutting-levels-of-forever-chemicals-in-englands-rivers",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-12T05:31:02+05:30"
     }
   ],
   "health": [
@@ -333,7 +378,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 16,
+      "today": 20,
       "note": ""
     },
     {
@@ -341,7 +386,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -569,6 +614,87 @@
       "category": "Government",
       "time": "15:55",
       "ts": "2026-11-12T15:55:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335556": {
+      "title": "डीआरआई ने चेन्नई बंदरगाह पर लाल चंदन की तस्करी करने वाले गिरोह का भंडाफोड़ किया; 7.72 करोड़ रुपये मूल्य का लगभग 13,000 किलोग्राम लाल चंदन जब्त किया; तीन लोग गिरफ्तार किए गए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335556",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:03",
+      "ts": "2026-11-12T18:03:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335557": {
+      "title": "राजस्व खुफिया निदेशालय के अधिकारियों ने सिएरा लियोन से नई दिल्ली पहुंची एक महिला यात्री के कब्ज़े से 22 किलोग्राम कोकीन जब्त की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335557",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:49",
+      "ts": "2026-11-12T17:49:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335571": {
+      "title": "भारत के राष्ट्रपति ने राष्ट्रपति भवन में एकलव्य आदर्श आवासीय विद्यालय के मेधावी विद्यार्थियों से संवाद किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335571",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-12T17:31:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335563": {
+      "title": "केंद्रीय पर्यावरण मंत्री ने लीडआईटी के उद्योग सदस्यों और परियोजना के भागीदारों से बातचीत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335563",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:29",
+      "ts": "2026-11-12T17:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335539": {
+      "title": "अनुसूचित जाति के विद्यार्थियों के लिए राष्ट्रीय फैलोशिप से शोधार्थी ने आनुवंशिकी एवं पादप प्रजनन में पीएच.डी. पूरी की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335539",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:27",
+      "ts": "2026-11-12T17:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335523": {
+      "title": "सीसीआरएएस-सीएआरआई और दिल्ली विश्वविद्यालय ने डीयू के नॉर्थ कैंपस में औषधीय पौधों की विविधता का दस्तावेजीकरण करने के लिए समझौता ज्ञापन पर हस्ताक्षर किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335523",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:25",
+      "ts": "2026-11-12T17:25:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335517": {
+      "title": "रक्षा राज्य मंत्री श्री संजय सेठ ने संशोधित गैलेंट्री अवार्ड (वीरता पुरस्कार) पोर्टल का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335517",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:07",
+      "ts": "2026-11-12T17:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335573": {
+      "title": "डॉ. पी. के. मिश्रा ने पीपीवीएफआरए के 22वें स्थापना दिवस और प्लांट जीनोम सेवियर पुरस्कार समारोह को संबोधित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335573",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:42",
+      "ts": "2026-11-12T16:42:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335521": {
+      "title": "नशा मुक्त भारत अभियान के तहत अब तक 35.88 करोड़ से अधिक लोगों को जागरूकता अभियान का लाभ; 14.35 करोड़ से अधिक युवाओं और 11.33 करोड़ महिलाओं को किया गया जागरूक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335521",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:13",
+      "ts": "2026-11-12T16:13:00+05:30"
     }
   }
 }
