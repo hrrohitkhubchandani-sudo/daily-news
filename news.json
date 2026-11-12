@@ -1,7 +1,16 @@
 {
   "date": "2026-11-12",
-  "updated": "09:12",
+  "updated": "10:17",
   "items": [
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने संस्कृत सुभाषितम् साझा करते हुए, सज्जन व्यक्तियों की दूसरों के कल्याण के प्रति निःस्वार्थ समर्पण भावना को दर्शाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335282",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:13",
+      "ts": "2026-11-12T08:13:00+05:30"
+    },
     {
       "title": "New report shows progress in cutting levels of ‘forever chemicals’ in England’s rivers",
       "link": "https://www.gov.uk/government/news/new-report-shows-progress-in-cutting-levels-of-forever-chemicals-in-englands-rivers",
@@ -45,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -136,6 +145,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335100": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335270": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335269": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335273": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335273": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335282": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने संस्कृत सुभाषितम् साझा करते हुए, सज्जन व्यक्तियों की दूसरों के कल्याण के प्रति निःस्वार्थ समर्पण भावना को दर्शाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335282",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:13",
+      "ts": "2026-11-12T08:13:00+05:30"
+    }
   }
 }
