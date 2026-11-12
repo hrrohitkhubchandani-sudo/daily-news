@@ -1,7 +1,16 @@
 {
   "date": "2026-11-12",
-  "updated": "11:20",
+  "updated": "12:26",
   "items": [
+    {
+      "title": "एक राष्‍ट्र, एक राशन कार्ड",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335308",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:48",
+      "ts": "2026-11-12T11:48:00+05:30"
+    },
     {
       "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने संस्कृत सुभाषितम् साझा करते हुए, सज्जन व्यक्तियों की दूसरों के कल्याण के प्रति निःस्वार्थ समर्पण भावना को दर्शाया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335282",
@@ -54,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -155,6 +164,15 @@
       "time": "08:13",
       "ts": "2026-11-12T08:13:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335294": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335294": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335308": {
+      "title": "एक राष्‍ट्र, एक राशन कार्ड",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335308",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:48",
+      "ts": "2026-11-12T11:48:00+05:30"
+    }
   }
 }
