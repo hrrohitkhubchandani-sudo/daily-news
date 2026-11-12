@@ -1,7 +1,34 @@
 {
   "date": "2026-11-13",
-  "updated": "02:09",
+  "updated": "03:07",
   "items": [
+    {
+      "title": "PM meeting with President of the European Commission Ursula von der Leyen: 12 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-meeting-with-president-of-the-european-commission-ursula-von-der-leyen-12-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "03:03",
+      "ts": "2026-11-13T03:03:26+05:30"
+    },
+    {
+      "title": "PM meeting with Prime Minister Meloni of Italy: 12 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-meloni-of-italy-12-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "02:52",
+      "ts": "2026-11-13T02:52:29+05:30"
+    },
+    {
+      "title": "This resolution demonstrates this Council’s determination to take decisive action against reckless attacks by the Houthis in Yemen: UK Explanation of Vote at the UN Security Council",
+      "link": "https://www.gov.uk/government/speeches/this-resolution-demonstrates-this-councils-determination-to-take-decisive-action-against-reckless-attacks-by-the-houthis-in-yemen-uk-explanation-of-vo",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "02:23",
+      "ts": "2026-11-13T02:23:40+05:30"
+    },
     {
       "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
@@ -74,7 +101,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 3,
       "note": ""
     },
     {
