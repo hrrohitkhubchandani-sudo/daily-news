@@ -1,7 +1,16 @@
 {
   "date": "2026-11-12",
-  "updated": "12:26",
+  "updated": "13:43",
   "items": [
+    {
+      "title": "Water bosses must not be rewarded for failure by another name, says Environment Secretary",
+      "link": "https://www.gov.uk/government/news/water-bosses-must-not-be-rewarded-for-failure-by-another-name-says-environment-secretary",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "13:00",
+      "ts": "2026-11-12T13:00:25+05:30"
+    },
     {
       "title": "एक राष्‍ट्र, एक राशन कार्ड",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335308",
@@ -119,7 +128,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 5,
       "note": ""
     },
     {
