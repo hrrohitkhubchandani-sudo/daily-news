@@ -1,7 +1,43 @@
 {
   "date": "2026-11-13",
-  "updated": "13:41",
+  "updated": "14:55",
   "items": [
+    {
+      "title": "सम्मिलित आशुलिपिक’ (ग्रेड ‘ख’/ग्रेड-‘I’) सीमित विभागीय प्रतियोगी परीक्षा, 2019, 2020 तथा 2021",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335787",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:44",
+      "ts": "2026-11-13T14:44:00+05:30"
+    },
+    {
+      "title": "आतंकवाद और देश-विरोधी गतिविधियों के प्रति जीरो टॉलरेंस के प्रधानमंत्री श्री नरेन्द्र मोदी जी के विजन के अनुरूप गृह मंत्रालय ने UAPA के तहत इस्लामिक रिसर्च फाउंडेशन पर प्रतिबंध बढ़ाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335759",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:41",
+      "ts": "2026-11-13T13:41:00+05:30"
+    },
+    {
+      "title": "बेंगलुरु में प्रशांति कुटीरम् के स्वर्ण जयंती समारोह में प्रधानमंत्री के संबोधन का पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335749",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:18",
+      "ts": "2026-11-13T13:18:00+05:30"
+    },
+    {
+      "title": "भारत की नवीकरणीय ऊर्जा यात्रा: एक स्वच्छ भविष्य को शक्ति प्रदान करना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335756",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:02",
+      "ts": "2026-11-13T13:02:00+05:30"
+    },
     {
       "title": "Joint Leaders Statement on Migration at the European Political Community Summit",
       "link": "https://www.gov.uk/government/news/joint-leaders-statement-on-migration-at-the-european-political-community-summit",
@@ -10,6 +46,42 @@
       "category": "Government",
       "time": "12:41",
       "ts": "2026-11-13T12:41:26+05:30"
+    },
+    {
+      "title": "एनपीपीए ने कैंसर-रोधी 137 दवाओं पर टीएमआर के कार्यान्वयन की कड़ी निगरानी के निर्देश दिए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335751",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:35",
+      "ts": "2026-11-13T12:35:00+05:30"
+    },
+    {
+      "title": "दीपम ने स्वच्छता को संस्थागत बनाने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 में हिस्‍सा लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335717",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:42",
+      "ts": "2026-11-13T10:42:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने चार दिवसीय छठ महापर्व की शुरुआत पर देशवासियों को हार्दिक शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335691",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:21",
+      "ts": "2026-11-13T09:21:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने संस्कृत सुभाषितम् साझा किया, जिसमें धर्म, धन, भोजन, गुरु की शिक्षाओं और औषधि को उचित रूप से अपनाने के महत्व पर ज़ोर दिया गया है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335692",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:18",
+      "ts": "2026-11-13T09:18:00+05:30"
     },
     {
       "title": "More than 80,000 knives taken off the streets",
@@ -70,10 +142,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": false,
-      "entries": 0,
-      "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "ok": true,
+      "entries": 20,
+      "today": 8,
+      "note": ""
     },
     {
       "name": "UN News: Top stories",
@@ -164,6 +236,80 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335667": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335669": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335668": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335670": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335670": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335787": {
+      "title": "सम्मिलित आशुलिपिक’ (ग्रेड ‘ख’/ग्रेड-‘I’) सीमित विभागीय प्रतियोगी परीक्षा, 2019, 2020 तथा 2021",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335787",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:44",
+      "ts": "2026-11-13T14:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335759": {
+      "title": "आतंकवाद और देश-विरोधी गतिविधियों के प्रति जीरो टॉलरेंस के प्रधानमंत्री श्री नरेन्द्र मोदी जी के विजन के अनुरूप गृह मंत्रालय ने UAPA के तहत इस्लामिक रिसर्च फाउंडेशन पर प्रतिबंध बढ़ाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335759",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:41",
+      "ts": "2026-11-13T13:41:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335749": {
+      "title": "बेंगलुरु में प्रशांति कुटीरम् के स्वर्ण जयंती समारोह में प्रधानमंत्री के संबोधन का पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335749",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:18",
+      "ts": "2026-11-13T13:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335756": {
+      "title": "भारत की नवीकरणीय ऊर्जा यात्रा: एक स्वच्छ भविष्य को शक्ति प्रदान करना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335756",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:02",
+      "ts": "2026-11-13T13:02:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335751": {
+      "title": "एनपीपीए ने कैंसर-रोधी 137 दवाओं पर टीएमआर के कार्यान्वयन की कड़ी निगरानी के निर्देश दिए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335751",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:35",
+      "ts": "2026-11-13T12:35:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335717": {
+      "title": "दीपम ने स्वच्छता को संस्थागत बनाने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 में हिस्‍सा लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335717",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:42",
+      "ts": "2026-11-13T10:42:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335691": {
+      "title": "प्रधानमंत्री ने चार दिवसीय छठ महापर्व की शुरुआत पर देशवासियों को हार्दिक शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335691",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:21",
+      "ts": "2026-11-13T09:21:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335692": {
+      "title": "प्रधानमंत्री ने संस्कृत सुभाषितम् साझा किया, जिसमें धर्म, धन, भोजन, गुरु की शिक्षाओं और औषधि को उचित रूप से अपनाने के महत्व पर ज़ोर दिया गया है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335692",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:18",
+      "ts": "2026-11-13T09:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335676": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335743": null
   }
 }
