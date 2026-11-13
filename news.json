@@ -1,7 +1,25 @@
 {
   "date": "2026-11-13",
-  "updated": "22:13",
+  "updated": "23:10",
   "items": [
+    {
+      "title": "How to submit applications and complaints to the CAC",
+      "link": "https://www.gov.uk/government/news/applications-and-complaints",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "23:05",
+      "ts": "2026-11-13T23:05:03+05:30"
+    },
+    {
+      "title": "Service update regarding Microsoft outage",
+      "link": "https://www.gov.uk/government/news/our-manage-appeals-service-is-currently-paused-due-to-the-worldwide-microsoft-outage",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:42",
+      "ts": "2026-11-13T22:42:38+05:30"
+    },
     {
       "title": "Youth Justice Board welcomes proposals for child criminal record reform",
       "link": "https://www.gov.uk/government/news/youth-justice-board-welcomes-proposals-for-child-criminal-record-reform",
@@ -37,6 +55,15 @@
       "category": "Government",
       "time": "21:30",
       "ts": "2026-11-13T21:30:00+05:30"
+    },
+    {
+      "title": "स्वच्छ सर्वेक्षण 2025-26 के परिणामों की घोषणा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336097",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:24",
+      "ts": "2026-11-13T21:24:00+05:30"
     },
     {
       "title": "प्रधानमंत्री ने असम के गोलाघाट जिले में हुए हादसे में हुई लोगों की मौत पर दुःख व्यक्त किया",
@@ -183,15 +210,6 @@
       "ts": "2026-11-13T17:32:00+05:30"
     },
     {
-      "title": "Service update regarding Microsoft outage",
-      "link": "https://www.gov.uk/government/news/our-manage-appeals-service-is-currently-paused-due-to-the-worldwide-microsoft-outage",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "17:31",
-      "ts": "2026-11-13T17:31:00+05:30"
-    },
-    {
       "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168799",
       "source": "UN News: Top stories",
@@ -318,15 +336,6 @@
       "ts": "2026-11-13T16:13:00+05:30"
     },
     {
-      "title": "बेंगलुरु में विभिन्न विकास परियोजनाओं के शिलान्यास एवं शुभारंभ के मौके पर प्रधानमंत्री के संबोधन का मूल पाठ",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335832",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:58",
-      "ts": "2026-11-13T15:58:00+05:30"
-    },
-    {
       "title": "New online tool to help parents choose the right school",
       "link": "https://www.gov.uk/government/news/new-online-tool-to-help-parents-choose-the-right-school",
       "source": "GOV.UK: News and communications",
@@ -374,15 +383,6 @@
     {
       "title": "More than 80,000 knives taken off the streets",
       "link": "https://www.gov.uk/government/news/more-than-80000-knives-taken-off-the-streets",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-13T05:31:07+05:30"
-    },
-    {
-      "title": "School tours, workshops and £10 tickets to open up the magic of theatre to 100,000 young people",
-      "link": "https://www.gov.uk/government/news/school-tours-workshops-and-10-tickets-to-open-up-the-magic-of-theatre-to-100000-young-people",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
@@ -850,6 +850,15 @@
       "category": "Government",
       "time": "17:13",
       "ts": "2026-11-13T17:13:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336097": {
+      "title": "स्वच्छ सर्वेक्षण 2025-26 के परिणामों की घोषणा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336097",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:24",
+      "ts": "2026-11-13T21:24:00+05:30"
     }
   }
 }
