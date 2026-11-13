@@ -1,7 +1,25 @@
 {
   "date": "2026-11-13",
-  "updated": "05:02",
+  "updated": "06:14",
   "items": [
+    {
+      "title": "More than 80,000 knives taken off the streets",
+      "link": "https://www.gov.uk/government/news/more-than-80000-knives-taken-off-the-streets",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-13T05:31:07+05:30"
+    },
+    {
+      "title": "School tours, workshops and £10 tickets to open up the magic of theatre to 100,000 young people",
+      "link": "https://www.gov.uk/government/news/school-tours-workshops-and-10-tickets-to-open-up-the-magic-of-theatre-to-100000-young-people",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-13T05:31:07+05:30"
+    },
     {
       "title": "PM meeting with President of the European Commission Ursula von der Leyen: 12 November 2026",
       "link": "https://www.gov.uk/government/news/pm-meeting-with-president-of-the-european-commission-ursula-von-der-leyen-12-november-2026",
@@ -43,10 +61,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     },
     {
       "name": "UN News: Top stories",
@@ -101,7 +119,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 5,
       "note": ""
     },
     {
