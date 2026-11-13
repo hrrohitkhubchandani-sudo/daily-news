@@ -1,7 +1,34 @@
 {
   "date": "2026-11-13",
-  "updated": "16:52",
+  "updated": "17:50",
   "items": [
+    {
+      "title": "Service update regarding Microsoft outage",
+      "link": "https://www.gov.uk/government/news/our-manage-appeals-service-is-currently-paused-due-to-the-worldwide-microsoft-outage",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-13T17:31:00+05:30"
+    },
+    {
+      "title": "DR Congo Ebola outbreak: armed groups unrest hold back response",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+      "source": "UN News: Peace and security",
+      "country": "World",
+      "category": "Security",
+      "time": "17:30",
+      "ts": "2026-11-13T17:30:00+05:30"
+    },
+    {
+      "title": "New 1,700-place Leicestershire prison moves a step closer",
+      "link": "https://www.gov.uk/government/news/new-1700-place-leicestershire-prison-moves-a-step-closer",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:08",
+      "ts": "2026-11-13T17:08:01+05:30"
+    },
     {
       "title": "MHRA: services during Microsoft outage",
       "link": "https://www.gov.uk/government/news/mhra-services-during-microsoft-outage",
@@ -30,6 +57,15 @@
       "ts": "2026-11-13T16:30:23+05:30"
     },
     {
+      "title": "रेल मंत्रालय ने भगवान बिरसा मुंडा को पुष्पांजलि अर्पित कर जनजातीय गौरव दिवस मनाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335897",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:30",
+      "ts": "2026-11-13T16:30:00+05:30"
+    },
+    {
       "title": "बेंगलुरु में विभिन्न विकास परियोजनाओं के शिलान्यास एवं शुभारंभ के मौके पर प्रधानमंत्री के संबोधन का मूल पाठ",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335832",
       "source": "PIB, Government of India (Hindi)",
@@ -45,7 +81,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "15:49",
-      "ts": "2026-11-13T15:49:08+05:30"
+      "ts": "2026-11-13T15:49:00+05:30"
     },
     {
       "title": "Ofsted unable to receive emails due to Microsoft outage",
@@ -54,7 +90,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "15:46",
-      "ts": "2026-11-13T15:46:59+05:30"
+      "ts": "2026-11-13T15:46:00+05:30"
     },
     {
       "title": "ASEAN-OECD meeting: UK supports regional regulatory reform",
@@ -64,6 +100,15 @@
       "category": "Government",
       "time": "15:42",
       "ts": "2026-11-13T15:42:49+05:30"
+    },
+    {
+      "title": "1 जुलाई, 2026 से 30 सितंबर, 2026 (वित्त वर्ष 2026-27 की दूसरी तिमाही) की अवधि के लिए अवांछित वाणिज्यिक संचार (यूसीसी) के खिलाफ कार्रवाई का त्रैमासिक प्रमुख विवरण",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335890",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:42",
+      "ts": "2026-11-13T15:42:00+05:30"
     },
     {
       "title": "Remembrance Sunday Service in Malaysia honours those who died in service",
@@ -297,7 +342,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 16,
+      "today": 18,
       "note": ""
     },
     {
@@ -329,7 +374,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -353,7 +398,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 15,
+      "today": 17,
       "note": ""
     },
     {
@@ -535,6 +580,24 @@
       "category": "Government",
       "time": "14:01",
       "ts": "2026-11-13T14:01:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335897": {
+      "title": "रेल मंत्रालय ने भगवान बिरसा मुंडा को पुष्पांजलि अर्पित कर जनजातीय गौरव दिवस मनाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335897",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:30",
+      "ts": "2026-11-13T16:30:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335890": {
+      "title": "1 जुलाई, 2026 से 30 सितंबर, 2026 (वित्त वर्ष 2026-27 की दूसरी तिमाही) की अवधि के लिए अवांछित वाणिज्यिक संचार (यूसीसी) के खिलाफ कार्रवाई का त्रैमासिक प्रमुख विवरण",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335890",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:42",
+      "ts": "2026-11-13T15:42:00+05:30"
     }
   }
 }
