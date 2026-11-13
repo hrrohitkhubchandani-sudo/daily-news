@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated": "06:14",
+  "updated": "07:26",
   "items": [
     {
       "title": "More than 80,000 knives taken off the streets",
@@ -61,10 +61,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "UN News: Top stories",
