@@ -1,7 +1,16 @@
 {
   "date": "2026-11-13",
-  "updated": "12:25",
+  "updated": "13:41",
   "items": [
+    {
+      "title": "Joint Leaders Statement on Migration at the European Political Community Summit",
+      "link": "https://www.gov.uk/government/news/joint-leaders-statement-on-migration-at-the-european-political-community-summit",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:41",
+      "ts": "2026-11-13T12:41:26+05:30"
+    },
     {
       "title": "More than 80,000 knives taken off the streets",
       "link": "https://www.gov.uk/government/news/more-than-80000-knives-taken-off-the-streets",
@@ -119,7 +128,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 5,
+      "today": 6,
       "note": ""
     },
     {
