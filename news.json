@@ -1,7 +1,43 @@
 {
   "date": "2026-11-13",
-  "updated": "15:55",
+  "updated": "16:52",
   "items": [
+    {
+      "title": "MHRA: services during Microsoft outage",
+      "link": "https://www.gov.uk/government/news/mhra-services-during-microsoft-outage",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:49",
+      "ts": "2026-11-13T16:49:12+05:30"
+    },
+    {
+      "title": "Microsoft outage affecting MCA email services",
+      "link": "https://www.gov.uk/government/news/microsoft-outage-affecting-mca-email-services",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:48",
+      "ts": "2026-11-13T16:48:10+05:30"
+    },
+    {
+      "title": "SIA service update: licensing continues despite global Microsoft outage",
+      "link": "https://www.gov.uk/government/news/sia-service-update-licensing-continues-despite-global-microsoft-outage",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:30",
+      "ts": "2026-11-13T16:30:23+05:30"
+    },
+    {
+      "title": "बेंगलुरु में विभिन्न विकास परियोजनाओं के शिलान्यास एवं शुभारंभ के मौके पर प्रधानमंत्री के संबोधन का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335832",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:58",
+      "ts": "2026-11-13T15:58:00+05:30"
+    },
     {
       "title": "New online tool to help parents choose the right school",
       "link": "https://www.gov.uk/government/news/new-online-tool-to-help-parents-choose-the-right-school",
@@ -75,6 +111,15 @@
       "ts": "2026-11-13T14:41:00+05:30"
     },
     {
+      "title": "ज्ञान प्रणाली समिति की प्रस्तुत रिपोर्ट पर प्रतिक्रिया और सुझाव आमंत्रित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335836",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:40",
+      "ts": "2026-11-13T14:40:00+05:30"
+    },
+    {
       "title": "भारत और इटली रणनीतिक साझेदारी के तहत वैज्ञानिक सहयोग को मजबूत करेंगे, 2027 के लिए एक नए संयुक्त अनुसंधान के आह्वान की परिकल्पना: डॉ. जितेंद्र सिंह",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335803",
       "source": "PIB, Government of India (Hindi)",
@@ -84,6 +129,15 @@
       "ts": "2026-11-13T14:23:00+05:30"
     },
     {
+      "title": "राष्ट्रपति ने खेल एवं साहसिक पुरस्कार 2025 प्रदान किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335854",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:07",
+      "ts": "2026-11-13T14:07:00+05:30"
+    },
+    {
       "title": "केंद्रीय स्वास्थ्य मंत्री श्री जे.पी. नड्डा ने क्षय रोग से होने वाली मृत्यु दर में कमी लाने में भारत की उल्लेखनीय प्रगति को रेखांकित किया; क्षय रोग-मुक्त भारत के संकल्प को दोहराया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335795",
       "source": "PIB, Government of India (Hindi)",
@@ -91,6 +145,15 @@
       "category": "Government",
       "time": "14:04",
       "ts": "2026-11-13T14:04:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने कर्नाटक के बेंगलुरु में प्रशांति कुटीरम के स्वर्ण जयंती समारोह में भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335831",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:01",
+      "ts": "2026-11-13T14:01:00+05:30"
     },
     {
       "title": "आतंकवाद और देश-विरोधी गतिविधियों के प्रति जीरो टॉलरेंस के प्रधानमंत्री श्री नरेन्द्र मोदी जी के विजन के अनुरूप गृह मंत्रालय ने UAPA के तहत इस्लामिक रिसर्च फाउंडेशन पर प्रतिबंध बढ़ाया",
@@ -234,7 +297,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 12,
+      "today": 16,
       "note": ""
     },
     {
@@ -290,7 +353,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 12,
+      "today": 15,
       "note": ""
     },
     {
@@ -436,6 +499,42 @@
       "category": "Government",
       "time": "13:04",
       "ts": "2026-11-13T13:04:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335832": {
+      "title": "बेंगलुरु में विभिन्न विकास परियोजनाओं के शिलान्यास एवं शुभारंभ के मौके पर प्रधानमंत्री के संबोधन का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335832",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:58",
+      "ts": "2026-11-13T15:58:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335836": {
+      "title": "ज्ञान प्रणाली समिति की प्रस्तुत रिपोर्ट पर प्रतिक्रिया और सुझाव आमंत्रित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335836",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:40",
+      "ts": "2026-11-13T14:40:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335854": {
+      "title": "राष्ट्रपति ने खेल एवं साहसिक पुरस्कार 2025 प्रदान किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335854",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:07",
+      "ts": "2026-11-13T14:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335831": {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने कर्नाटक के बेंगलुरु में प्रशांति कुटीरम के स्वर्ण जयंती समारोह में भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335831",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:01",
+      "ts": "2026-11-13T14:01:00+05:30"
     }
   }
 }
