@@ -1,7 +1,16 @@
 {
   "date": "2026-11-13",
-  "updated": "20:13",
+  "updated": "21:08",
   "items": [
+    {
+      "title": "No talent goes to waste as Biffa announces 2,000 new jobs for young people",
+      "link": "https://www.gov.uk/government/news/no-talent-goes-to-waste-as-biffa-announces-2000-new-jobs-for-young-people",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:17",
+      "ts": "2026-11-13T20:17:21+05:30"
+    },
     {
       "title": "Joint Statement on Cooperation in Agriculture between the United Kingdom and Germany",
       "link": "https://www.gov.uk/government/news/joint-statement-on-cooperation-in-agriculture-between-the-united-kingdom-and-germany",
@@ -39,6 +48,15 @@
       "ts": "2026-11-13T17:31:00+05:30"
     },
     {
+      "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-13T17:30:00+05:30"
+    },
+    {
       "title": "COP31: New initiative targets AI and reliable climate change information",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168798",
       "source": "UN News: Top stories",
@@ -72,7 +90,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "16:49",
-      "ts": "2026-11-13T16:49:12+05:30"
+      "ts": "2026-11-13T16:49:00+05:30"
     },
     {
       "title": "Microsoft outage affecting MCA email services",
@@ -100,15 +118,6 @@
       "category": "Government",
       "time": "15:49",
       "ts": "2026-11-13T15:49:00+05:30"
-    },
-    {
-      "title": "Ofsted unable to receive emails due to Microsoft outage",
-      "link": "https://www.gov.uk/government/news/ofsted-unable-to-receive-emails-due-to-microsoft-outage",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:46",
-      "ts": "2026-11-13T15:46:00+05:30"
     },
     {
       "title": "ASEAN-OECD meeting: UK supports regional regulatory reform",
@@ -224,7 +233,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
