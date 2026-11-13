@@ -1,15 +1,25 @@
 {
   "date": "2026-11-14",
-  "updated": "02:12",
-  "items": [],
+  "updated": "03:08",
+  "items": [
+    {
+      "title": "Agencies extend comment period for proposed third-party risk management guidance",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "source": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "time": "02:45",
+      "ts": "2026-11-14T02:45:00+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     },
     {
       "name": "UN News: Top stories",
@@ -72,7 +82,7 @@
       "country": "United States",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     }
   ],
