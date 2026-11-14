@@ -1,7 +1,34 @@
 {
   "date": "2026-11-14",
-  "updated": "18:53",
+  "updated": "19:43",
   "items": [
+    {
+      "title": "सीसीआई ने रसमलाई लिमिटेड द्वारा यथार्थ हॉस्पिटल एंड ट्रॉमा केयर सर्विसेज लिमिटेड की कुछ हिस्सेदारी के अधिग्रहण को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336276",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:22",
+      "ts": "2026-11-14T18:22:00+05:30"
+    },
+    {
+      "title": "नई दिल्ली में आईआईसीए द्वारा हितधारक परामर्श बैठक आयोजित, विशेषज्ञों ने कहा—सार्वजनिक नीति में ‘नियंत्रण से विश्वास’ की ओर बदलाव आवश्यक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336299",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:22",
+      "ts": "2026-11-14T18:22:00+05:30"
+    },
+    {
+      "title": "मादक पदार्थों के दुरुपयोग के खिलाफ युवाओं को एकजुट करने के लिए एनएसएस की ओर से देशभर में ब्लॉक-स्तरीय खेल प्रतियोगिताओं का आयोजन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336283",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:47",
+      "ts": "2026-11-14T17:47:00+05:30"
+    },
     {
       "title": "UKHSA cold-health alerts winter 2026/27",
       "link": "https://www.gov.uk/government/news/ukhsa-issues-first-cold-health-alert-of-winter-202627",
@@ -207,7 +234,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 17,
+      "today": 20,
       "note": ""
     },
     {
@@ -451,6 +478,33 @@
       "category": "Government",
       "time": "15:41",
       "ts": "2026-11-14T15:41:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336276": {
+      "title": "सीसीआई ने रसमलाई लिमिटेड द्वारा यथार्थ हॉस्पिटल एंड ट्रॉमा केयर सर्विसेज लिमिटेड की कुछ हिस्सेदारी के अधिग्रहण को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336276",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:22",
+      "ts": "2026-11-14T18:22:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336299": {
+      "title": "नई दिल्ली में आईआईसीए द्वारा हितधारक परामर्श बैठक आयोजित, विशेषज्ञों ने कहा—सार्वजनिक नीति में ‘नियंत्रण से विश्वास’ की ओर बदलाव आवश्यक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336299",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:22",
+      "ts": "2026-11-14T18:22:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336283": {
+      "title": "मादक पदार्थों के दुरुपयोग के खिलाफ युवाओं को एकजुट करने के लिए एनएसएस की ओर से देशभर में ब्लॉक-स्तरीय खेल प्रतियोगिताओं का आयोजन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336283",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:47",
+      "ts": "2026-11-14T17:47:00+05:30"
     }
   }
 }
