@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated": "10:12",
+  "updated": "11:10",
   "items": [
     {
       "title": "प्रधानमंत्री जनजातीय विकास मिशन",
@@ -143,6 +143,8 @@
       "time": "08:55",
       "ts": "2026-11-14T08:55:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336116": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336116": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336131": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336124": null
   }
 }
