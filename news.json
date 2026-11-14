@@ -1,7 +1,16 @@
 {
   "date": "2026-11-14",
-  "updated": "12:13",
+  "updated": "13:21",
   "items": [
+    {
+      "title": "केंद्रीय वाणिज्य और उद्योग मंत्री श्री पीयूष गोयल 15-16 नवंबर 2026 को मिस्र का दौरा करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336153",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:54",
+      "ts": "2026-11-14T10:54:00+05:30"
+    },
     {
       "title": "प्रधानमंत्री जनजातीय विकास मिशन",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336102",
@@ -45,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -145,6 +154,15 @@
     },
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336116": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336131": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336124": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336124": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336153": {
+      "title": "केंद्रीय वाणिज्य और उद्योग मंत्री श्री पीयूष गोयल 15-16 नवंबर 2026 को मिस्र का दौरा करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336153",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:54",
+      "ts": "2026-11-14T10:54:00+05:30"
+    }
   }
 }
