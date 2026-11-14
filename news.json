@@ -1,15 +1,15 @@
 {
   "date": "2026-11-15",
-  "updated": "00:08",
+  "updated": "01:03",
   "items": [],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     },
     {
       "name": "UN News: Top stories",
@@ -76,5 +76,26 @@
       "note": ""
     }
   ],
-  "checked": {}
+  "checked": {
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336333": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336362": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336315": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336319": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336337": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336310": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336276": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336299": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336322": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336283": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336360": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336232": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336262": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336251": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336250": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336211": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336210": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336268": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336267": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336194": null
+  }
 }
