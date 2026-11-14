@@ -1,7 +1,16 @@
 {
   "date": "2026-11-14",
-  "updated": "08:09",
+  "updated": "09:09",
   "items": [
+    {
+      "title": "प्रधानमंत्री जनजातीय विकास मिशन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336102",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:55",
+      "ts": "2026-11-14T08:55:00+05:30"
+    },
     {
       "title": "King's Award for Voluntary Service honour 250 volunteer groups",
       "link": "https://www.gov.uk/government/news/kings-award-for-voluntary-service-honour-250-volunteer-groups",
@@ -36,7 +45,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -124,6 +133,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335946": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335966": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335897": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335964": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2335964": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336102": {
+      "title": "प्रधानमंत्री जनजातीय विकास मिशन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336102",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:55",
+      "ts": "2026-11-14T08:55:00+05:30"
+    }
   }
 }
