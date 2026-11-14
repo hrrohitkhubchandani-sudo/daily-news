@@ -1,7 +1,25 @@
 {
   "date": "2026-11-14",
-  "updated": "16:56",
+  "updated": "17:36",
   "items": [
+    {
+      "title": "UKHSA cold-health alerts winter 2026/27",
+      "link": "https://www.gov.uk/government/news/ukhsa-issues-first-cold-health-alert-of-winter-202627",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:29",
+      "ts": "2026-11-14T17:29:18+05:30"
+    },
+    {
+      "title": "भारत की राष्ट्रपति की छठ पूजा पर शुभकामनाएं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336232",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:19",
+      "ts": "2026-11-14T17:19:00+05:30"
+    },
     {
       "title": "Stronger savings for hundreds of thousands of workers",
       "link": "https://www.gov.uk/government/news/stronger-savings-for-hundreds-of-thousands-of-workers",
@@ -144,7 +162,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 11,
+      "today": 12,
       "note": ""
     },
     {
@@ -200,7 +218,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 4,
       "note": ""
     },
     {
@@ -334,6 +352,15 @@
       "category": "Government",
       "time": "10:46",
       "ts": "2026-11-14T10:46:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336232": {
+      "title": "भारत की राष्ट्रपति की छठ पूजा पर शुभकामनाएं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336232",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:19",
+      "ts": "2026-11-14T17:19:00+05:30"
     }
   }
 }
