@@ -1,7 +1,16 @@
 {
   "date": "2026-11-14",
-  "updated": "13:21",
+  "updated": "14:10",
   "items": [
+    {
+      "title": "डीआरआई ने वैध डाक व्यापार चैनलों का दुरुपयोग करने के एक सिंडिकेट के प्रयास को विफल करते हुए यूरोप से डाक पार्सल में छिपाकर रखी 10.8 किलोग्राम एम्फ़ैटेमिन जब्त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336156",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:34",
+      "ts": "2026-11-14T11:34:00+05:30"
+    },
     {
       "title": "केंद्रीय वाणिज्य और उद्योग मंत्री श्री पीयूष गोयल 15-16 नवंबर 2026 को मिस्र का दौरा करेंगे",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336153",
@@ -19,6 +28,15 @@
       "category": "Government",
       "time": "08:55",
       "ts": "2026-11-14T08:55:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने पूर्व प्रधानमंत्री पंडित जवाहरलाल नेहरू को उनकी जयंती पर श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336159",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:29",
+      "ts": "2026-11-14T08:29:00+05:30"
     },
     {
       "title": "King's Award for Voluntary Service honour 250 volunteer groups",
@@ -54,7 +72,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
@@ -163,6 +181,24 @@
       "category": "Government",
       "time": "10:54",
       "ts": "2026-11-14T10:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336156": {
+      "title": "डीआरआई ने वैध डाक व्यापार चैनलों का दुरुपयोग करने के एक सिंडिकेट के प्रयास को विफल करते हुए यूरोप से डाक पार्सल में छिपाकर रखी 10.8 किलोग्राम एम्फ़ैटेमिन जब्त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336156",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:34",
+      "ts": "2026-11-14T11:34:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336159": {
+      "title": "प्रधानमंत्री ने पूर्व प्रधानमंत्री पंडित जवाहरलाल नेहरू को उनकी जयंती पर श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336159",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:29",
+      "ts": "2026-11-14T08:29:00+05:30"
     }
   }
 }
