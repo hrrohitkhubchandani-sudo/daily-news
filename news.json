@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated": "21:35",
+  "updated": "22:35",
   "items": [
     {
       "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह महाराष्ट्र के पुणे में एनएचईसी मल्टी स्टेट सहकारी संस्था का भूमि पूजन करेंगे",
@@ -10,6 +10,15 @@
       "category": "Government",
       "time": "21:06",
       "ts": "2026-11-14T21:06:00+05:30"
+    },
+    {
+      "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने 45वें भारत अंतरराष्ट्रीय व्यापार मेले 2026 में कारीगरों के उत्पादों का प्रदर्शन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336362",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:37",
+      "ts": "2026-11-14T20:37:00+05:30"
     },
     {
       "title": "बेल्जियम नौसेना के कमांडर रियर एडमिरल टैंगी बॉटमैन ने भारत का दौरा किया",
@@ -91,6 +100,15 @@
       "category": "Government",
       "time": "17:29",
       "ts": "2026-11-14T17:29:18+05:30"
+    },
+    {
+      "title": "57वें भारत अंतर्राष्ट्रीय फिल्म महोत्सव में इंडियन पैनोरमा के अंतर्गत 25 फीचर फिल्म और 20 नॉन-फीचर फिल्म का प्रदर्शन किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336360",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:24",
+      "ts": "2026-11-14T17:24:00+05:30"
     },
     {
       "title": "भारत की राष्ट्रपति की छठ पूजा पर शुभकामनाएं",
@@ -181,24 +199,6 @@
       "category": "Government",
       "time": "15:18",
       "ts": "2026-11-14T15:18:00+05:30"
-    },
-    {
-      "title": "केंद्रीय पर्यावरण मंत्री ने दिल्ली-एनसीआर में वायु प्रदूषण के खिलाफ कार्रवाई तेज करने के उपायों की समीक्षा की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336220",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:52",
-      "ts": "2026-11-14T13:52:00+05:30"
-    },
-    {
-      "title": "सहमति प्रबंधक पंजीकरण ढांचा प्रभावशाली; इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय के सचिव ने ऑनलाइन पंजीकरण पोर्टल लॉन्च किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336180",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:41",
-      "ts": "2026-11-14T12:41:00+05:30"
     },
     {
       "title": "King's Award for Voluntary Service honour 250 volunteer groups",
@@ -559,6 +559,24 @@
       "category": "Government",
       "time": "18:43",
       "ts": "2026-11-14T18:43:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336362": {
+      "title": "सामाजिक न्याय एवं अधिकारिता मंत्रालय ने 45वें भारत अंतरराष्ट्रीय व्यापार मेले 2026 में कारीगरों के उत्पादों का प्रदर्शन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336362",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:37",
+      "ts": "2026-11-14T20:37:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336360": {
+      "title": "57वें भारत अंतर्राष्ट्रीय फिल्म महोत्सव में इंडियन पैनोरमा के अंतर्गत 25 फीचर फिल्म और 20 नॉन-फीचर फिल्म का प्रदर्शन किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336360",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:24",
+      "ts": "2026-11-14T17:24:00+05:30"
     }
   }
 }
