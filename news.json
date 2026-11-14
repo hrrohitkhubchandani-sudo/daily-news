@@ -1,7 +1,16 @@
 {
   "date": "2026-11-14",
-  "updated": "20:36",
+  "updated": "21:35",
   "items": [
+    {
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह महाराष्ट्र के पुणे में एनएचईसी मल्टी स्टेट सहकारी संस्था का भूमि पूजन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336333",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:06",
+      "ts": "2026-11-14T21:06:00+05:30"
+    },
     {
       "title": "बेल्जियम नौसेना के कमांडर रियर एडमिरल टैंगी बॉटमैन ने भारत का दौरा किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336315",
@@ -19,6 +28,15 @@
       "category": "Government",
       "time": "18:46",
       "ts": "2026-11-14T18:46:00+05:30"
+    },
+    {
+      "title": "असम में डीआरआई ने एक टिपर ट्रक के खास तरीके से बनाए गई खाली जगह में छिपाई गई 20 किलो मेथ टैबलेट जब्त कीं; एक शख्स गिरफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336337",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:43",
+      "ts": "2026-11-14T18:43:00+05:30"
     },
     {
       "title": "देशभर के छावनी बोर्डों में वरिष्ठ नागरिक कल्याण योजनाओं के विस्तार के लिए सामाजिक न्याय और अधिकारिता विभाग तथा रक्षा संपदा महानिदेशालय के बीच समझौता ज्ञापन पर हस्ताक्षर होंगे",
@@ -181,24 +199,6 @@
       "category": "Government",
       "time": "12:41",
       "ts": "2026-11-14T12:41:00+05:30"
-    },
-    {
-      "title": "डीआरआई ने वैध डाक व्यापार चैनलों का दुरुपयोग करने के एक सिंडिकेट के प्रयास को विफल करते हुए यूरोप से डाक पार्सल में छिपाकर रखी 10.8 किलोग्राम एम्फ़ैटेमिन जब्त किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336156",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:34",
-      "ts": "2026-11-14T11:34:00+05:30"
-    },
-    {
-      "title": "औद्योगिक विकास और पर्यावरण संरक्षण के बीच समन्वय ही विकसित भारत के निर्माण की नींव है: केंद्रीय कपड़ा मंत्री गिरिराज सिंह",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336191",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:01",
-      "ts": "2026-11-14T11:01:00+05:30"
     },
     {
       "title": "King's Award for Voluntary Service honour 250 volunteer groups",
@@ -541,6 +541,24 @@
       "category": "Government",
       "time": "18:11",
       "ts": "2026-11-14T18:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336333": {
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह महाराष्ट्र के पुणे में एनएचईसी मल्टी स्टेट सहकारी संस्था का भूमि पूजन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336333",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:06",
+      "ts": "2026-11-14T21:06:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336337": {
+      "title": "असम में डीआरआई ने एक टिपर ट्रक के खास तरीके से बनाए गई खाली जगह में छिपाई गई 20 किलो मेथ टैबलेट जब्त कीं; एक शख्स गिरफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336337",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:43",
+      "ts": "2026-11-14T18:43:00+05:30"
     }
   }
 }
