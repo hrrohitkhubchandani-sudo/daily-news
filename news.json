@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "updated": "17:36",
+  "updated": "18:53",
   "items": [
     {
       "title": "UKHSA cold-health alerts winter 2026/27",
@@ -30,6 +30,33 @@
       "ts": "2026-11-14T16:37:16+05:30"
     },
     {
+      "title": "57वें इंटरनेशनल फिल्म फेस्टिवल ऑफ़ इंडिया में दुनिया भर की 21 फिल्मों के साथ ब्रिक्‍स सिनेमा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336262",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:24",
+      "ts": "2026-11-14T16:24:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री 15 नवंबर को ‘जनजातीय गौरव दिवस’ कार्यक्रम में हिस्सा लेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336251",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:11",
+      "ts": "2026-11-14T16:11:00+05:30"
+    },
+    {
+      "title": "भारतीय रेलवे ने नेपाल में जनकपुर धाम को भारत में अयोध्या से जोड़ने वाली साप्ताहिक ट्रेन सेवा को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336250",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:10",
+      "ts": "2026-11-14T16:10:00+05:30"
+    },
+    {
       "title": "ओडिशा के हर गरीब को मिलेगा पक्का घर, केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने दी तत्काल 5 लाख पीएम आवास की सौगात",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336211",
       "source": "PIB, Government of India (Hindi)",
@@ -46,6 +73,24 @@
       "category": "Government",
       "time": "16:05",
       "ts": "2026-11-14T16:05:00+05:30"
+    },
+    {
+      "title": "'आई मैटर': अपनी पहचान, अपनापन और दूसरा मौका मिलने की एक शानदार कहानी, जिसे इफ्फी 2026 में मिड-फेस्ट फिल्म के तौर पर प्रदर्शित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336268",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:44",
+      "ts": "2026-11-14T15:44:00+05:30"
+    },
+    {
+      "title": "तिरुचिरापल्ली में 'जल जीवन मिशन 2.0' पर पहला क्षेत्रीय सम्मेलन संपन्न; ‘सतत’ पेयजल सेवाओं और सामुदायिक स्वामित्व पर जोर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336267",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:41",
+      "ts": "2026-11-14T15:41:00+05:30"
     },
     {
       "title": "लोकसभा अध्यक्ष ने पंडित जवाहरलाल नेहरू को श्रद्धांजलि अर्पित की",
@@ -162,7 +207,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 12,
+      "today": 17,
       "note": ""
     },
     {
@@ -361,6 +406,51 @@
       "category": "Government",
       "time": "17:19",
       "ts": "2026-11-14T17:19:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336262": {
+      "title": "57वें इंटरनेशनल फिल्म फेस्टिवल ऑफ़ इंडिया में दुनिया भर की 21 फिल्मों के साथ ब्रिक्‍स सिनेमा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336262",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:24",
+      "ts": "2026-11-14T16:24:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336251": {
+      "title": "प्रधानमंत्री 15 नवंबर को ‘जनजातीय गौरव दिवस’ कार्यक्रम में हिस्सा लेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336251",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:11",
+      "ts": "2026-11-14T16:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336250": {
+      "title": "भारतीय रेलवे ने नेपाल में जनकपुर धाम को भारत में अयोध्या से जोड़ने वाली साप्ताहिक ट्रेन सेवा को मंजूरी दी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336250",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:10",
+      "ts": "2026-11-14T16:10:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336268": {
+      "title": "'आई मैटर': अपनी पहचान, अपनापन और दूसरा मौका मिलने की एक शानदार कहानी, जिसे इफ्फी 2026 में मिड-फेस्ट फिल्म के तौर पर प्रदर्शित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336268",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:44",
+      "ts": "2026-11-14T15:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336267": {
+      "title": "तिरुचिरापल्ली में 'जल जीवन मिशन 2.0' पर पहला क्षेत्रीय सम्मेलन संपन्न; ‘सतत’ पेयजल सेवाओं और सामुदायिक स्वामित्व पर जोर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336267",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:41",
+      "ts": "2026-11-14T15:41:00+05:30"
     }
   }
 }
