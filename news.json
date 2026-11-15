@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated": "15:07",
+  "updated": "16:04",
   "items": [
     {
       "title": "लोक सभा अध्यक्ष श्री ओम बिरला बेंगलुरु में राष्ट्रमंडल महिला सांसदों के भारत क्षेत्रीय सम्मेलन का उद्घाटन करेंगे",
@@ -46,6 +46,15 @@
       "category": "Government",
       "time": "12:07",
       "ts": "2026-11-15T12:07:00+05:30"
+    },
+    {
+      "title": "भारत को उन्नत प्रौद्योगिकियों के क्षेत्र में विकासकर्ता, नवोन्मेषक और वैश्विक अग्रणी बनना चाहिए: रक्षा मंत्री",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336505",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:52",
+      "ts": "2026-11-15T11:52:00+05:30"
     },
     {
       "title": "राष्ट्रपति, उपराष्ट्रपति, प्रधानमंत्री और लोकसभा अध्यक्ष ने संसद परिसर में भगवान बिरसा मुंडा को पुष्पांजलि अर्पित की",
@@ -126,7 +135,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 12,
+      "today": 13,
       "note": ""
     },
     {
@@ -324,6 +333,15 @@
       "category": "Government",
       "time": "10:28",
       "ts": "2026-11-15T10:28:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336505": {
+      "title": "भारत को उन्नत प्रौद्योगिकियों के क्षेत्र में विकासकर्ता, नवोन्मेषक और वैश्विक अग्रणी बनना चाहिए: रक्षा मंत्री",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336505",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:52",
+      "ts": "2026-11-15T11:52:00+05:30"
     }
   }
 }
