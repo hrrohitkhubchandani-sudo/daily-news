@@ -1,7 +1,16 @@
 {
   "date": "2026-11-16",
-  "updated": "03:32",
+  "updated": "04:31",
   "items": [
+    {
+      "title": "Women pardoned for abortion offences relating to their own pregnancy",
+      "link": "https://www.gov.uk/government/news/women-pardoned-for-abortion-offences-relating-to-their-own-pregnancy",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-16T04:00:01+05:30"
+    },
     {
       "title": "Joint Foreign Ministers Statement on Gaza",
       "link": "https://www.gov.uk/government/news/joint-foreign-ministers-statement-on-gaza--2",
@@ -74,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
