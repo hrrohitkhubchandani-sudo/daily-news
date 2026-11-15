@@ -1,7 +1,25 @@
 {
   "date": "2026-11-15",
-  "updated": "10:14",
+  "updated": "11:13",
   "items": [
+    {
+      "title": "युगे युगीन भारत संग्रहालय",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336428",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:23",
+      "ts": "2026-11-15T10:23:00+05:30"
+    },
+    {
+      "title": "आदि वाणी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336425",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:55",
+      "ts": "2026-11-15T09:55:00+05:30"
+    },
     {
       "title": "90,000 young people furthest from work to be given guaranteed job, no matter where they live",
       "link": "https://www.gov.uk/government/news/90000-young-people-furthest-from-work-to-be-given-guaranteed-job-no-matter-where-they-live",
@@ -18,7 +36,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -106,6 +124,25 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336210": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336268": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336267": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336194": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336194": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336428": {
+      "title": "युगे युगीन भारत संग्रहालय",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336428",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:23",
+      "ts": "2026-11-15T10:23:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336425": {
+      "title": "आदि वाणी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336425",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:55",
+      "ts": "2026-11-15T09:55:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336432": null
   }
 }
