@@ -1,7 +1,25 @@
 {
   "date": "2026-11-15",
-  "updated": "18:55",
+  "updated": "19:45",
   "items": [
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने उपराष्ट्रपति श्री सी. पी. राधाकृष्णन का एक लेख साझा किया है, जिसमें जनजातीय विद्यार्थियों को सशक्त बनाने में 'एकलव्य आदर्श आवासीय विद्यालयों' की भूमिका का उल्लेख किया गया है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336616",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:24",
+      "ts": "2026-11-15T18:24:00+05:30"
+    },
+    {
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने कहा कि भारत इटली के 'इंटरनेशनल फिजिक्स सेंटर' के साथ संबंधों को मजबूत करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336602",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:59",
+      "ts": "2026-11-15T15:59:00+05:30"
+    },
     {
       "title": "प्रधानमंत्री ने छठ महापर्व के संध्या अर्घ्य पर देशवासियों को शुभकामनाएं दीं",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336539",
@@ -163,24 +181,6 @@
       "category": "Government",
       "time": "11:06",
       "ts": "2026-11-15T11:06:00+05:30"
-    },
-    {
-      "title": "भारत के अंतरिक्ष अर्थव्यवस्था के द्वार खोलना",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336575",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:05",
-      "ts": "2026-11-15T11:05:00+05:30"
-    },
-    {
-      "title": "सेना प्रमुख जनरल धीरज सेठ चेक गणराज्य की आधिकारिक यात्रा पर रवाना हुए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336482",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:28",
-      "ts": "2026-11-15T10:28:00+05:30"
     },
     {
       "title": "90,000 young people furthest from work to be given guaranteed job, no matter where they live",
@@ -504,6 +504,24 @@
       "category": "Government",
       "time": "11:05",
       "ts": "2026-11-15T11:05:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336616": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने उपराष्ट्रपति श्री सी. पी. राधाकृष्णन का एक लेख साझा किया है, जिसमें जनजातीय विद्यार्थियों को सशक्त बनाने में 'एकलव्य आदर्श आवासीय विद्यालयों' की भूमिका का उल्लेख किया गया है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336616",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:24",
+      "ts": "2026-11-15T18:24:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336602": {
+      "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने कहा कि भारत इटली के 'इंटरनेशनल फिजिक्स सेंटर' के साथ संबंधों को मजबूत करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336602",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:59",
+      "ts": "2026-11-15T15:59:00+05:30"
     }
   }
 }
