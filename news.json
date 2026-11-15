@@ -1,7 +1,17 @@
 {
   "date": "2026-11-16",
-  "updated": "00:10",
-  "items": [],
+  "updated": "01:05",
+  "items": [
+    {
+      "title": "Joint Foreign Ministers Statement on Gaza",
+      "link": "https://www.gov.uk/government/news/joint-foreign-ministers-statement-on-gaza--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "00:33",
+      "ts": "2026-11-16T00:33:00+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -64,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
