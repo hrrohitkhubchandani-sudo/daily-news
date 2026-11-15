@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated": "20:37",
+  "updated": "21:36",
   "items": [
     {
       "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने महाराष्ट्र के पुणे में एनएचईसी मल्टी स्टेट सहकारी संस्था का भूमि पूजन, डिजिटल माध्यम से सहकारी समितियों के केंद्रीय पंजीयक के पश्चिमी क्षेत्रीय कार्यालय का उद्घाटन तथा भारत टैक्सी सेवाओं का शुभारंभ किया",
@@ -10,6 +10,15 @@
       "category": "Government",
       "time": "19:41",
       "ts": "2026-11-15T19:41:00+05:30"
+    },
+    {
+      "title": "जलवायु शिखर सम्मेलन में भारत ने रविवार को साइकिल चलाने की पहल का संदेश दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336675",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:33",
+      "ts": "2026-11-15T18:33:00+05:30"
     },
     {
       "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने उपराष्ट्रपति श्री सी. पी. राधाकृष्णन का एक लेख साझा किया है, जिसमें जनजातीय विद्यार्थियों को सशक्त बनाने में 'एकलव्य आदर्श आवासीय विद्यालयों' की भूमिका का उल्लेख किया गया है",
@@ -28,6 +37,24 @@
       "category": "Government",
       "time": "18:21",
       "ts": "2026-11-15T18:21:00+05:30"
+    },
+    {
+      "title": "57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव में चार फिल्मों के विशेष प्रदर्शन के माध्यम से भागीदार देश रूस के साथ सिनेमाई संबंधों का उत्सव मनाया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336676",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:52",
+      "ts": "2026-11-15T17:52:00+05:30"
+    },
+    {
+      "title": "Nadia Murad: ‘Day by day, I took my story back’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168801",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-15T17:30:00+05:30"
     },
     {
       "title": "केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने कहा कि भारत इटली के 'इंटरनेशनल फिजिक्स सेंटर' के साथ संबंधों को मजबूत करेगा",
@@ -165,24 +192,6 @@
       "ts": "2026-11-15T13:23:00+05:30"
     },
     {
-      "title": "नीति आयोग प्रधानमंत्री श्री नरेन्द्र मोदी के शासन प्रमुख के रूप में 25 वर्षों के अनुभवों से देश को सीख लेने के लिए राष्ट्रीय कार्यशाला श्रृंखला शुरू करेगा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336483",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:19",
-      "ts": "2026-11-15T12:19:00+05:30"
-    },
-    {
-      "title": "लखपति दीदी पहल",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336454",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:07",
-      "ts": "2026-11-15T12:07:00+05:30"
-    },
-    {
       "title": "90,000 young people furthest from work to be given guaranteed job, no matter where they live",
       "link": "https://www.gov.uk/government/news/90000-young-people-furthest-from-work-to-be-given-guaranteed-job-no-matter-where-they-live",
       "source": "GOV.UK: News and communications",
@@ -206,7 +215,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -549,6 +558,24 @@
       "category": "Government",
       "time": "14:40",
       "ts": "2026-11-15T14:40:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336675": {
+      "title": "जलवायु शिखर सम्मेलन में भारत ने रविवार को साइकिल चलाने की पहल का संदेश दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336675",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:33",
+      "ts": "2026-11-15T18:33:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336676": {
+      "title": "57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव में चार फिल्मों के विशेष प्रदर्शन के माध्यम से भागीदार देश रूस के साथ सिनेमाई संबंधों का उत्सव मनाया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336676",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:52",
+      "ts": "2026-11-15T17:52:00+05:30"
     }
   }
 }
