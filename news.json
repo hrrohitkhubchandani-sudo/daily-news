@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "updated": "17:42",
+  "updated": "18:55",
   "items": [
     {
       "title": "प्रधानमंत्री ने छठ महापर्व के संध्या अर्घ्य पर देशवासियों को शुभकामनाएं दीं",
@@ -10,6 +10,15 @@
       "category": "Government",
       "time": "15:52",
       "ts": "2026-11-15T15:52:00+05:30"
+    },
+    {
+      "title": "केंद्रीय खेल मंत्री डॉ. मनसुख मांडविया और तेलंगाना के मुख्यमंत्री ए. रेवंत रेड्डी ने खेलो इंडिया यूथ गेम्स 2026 के 8वें संस्करण के लोगो और शुभंकर का अनावरण किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336572",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:47",
+      "ts": "2026-11-15T15:47:00+05:30"
     },
     {
       "title": "उपराष्ट्रपति 16 नवंबर, 2026 को ओडिशा का दौरा करेंगे",
@@ -55,6 +64,15 @@
       "category": "Government",
       "time": "14:59",
       "ts": "2026-11-15T14:59:00+05:30"
+    },
+    {
+      "title": "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई)-2026 में मलयालम सिनेमा का उत्सव मनाया जाएगा, प्रेम नजीर की विरासत को याद किया जाएगा और नई पीढ़ी के फिल्मकारों पर ध्यान केन्द्रित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336571",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:50",
+      "ts": "2026-11-15T14:50:00+05:30"
     },
     {
       "title": "57वें इफ्फी में सम्मानित देश होगा स्पेन: समकालीन स्पेनिश सिनेमा और कहानी कहने की कला का उत्सव",
@@ -147,6 +165,15 @@
       "ts": "2026-11-15T11:06:00+05:30"
     },
     {
+      "title": "भारत के अंतरिक्ष अर्थव्यवस्था के द्वार खोलना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336575",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:05",
+      "ts": "2026-11-15T11:05:00+05:30"
+    },
+    {
       "title": "सेना प्रमुख जनरल धीरज सेठ चेक गणराज्य की आधिकारिक यात्रा पर रवाना हुए",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336482",
       "source": "PIB, Government of India (Hindi)",
@@ -154,33 +181,6 @@
       "category": "Government",
       "time": "10:28",
       "ts": "2026-11-15T10:28:00+05:30"
-    },
-    {
-      "title": "युगे युगीन भारत संग्रहालय",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336428",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:23",
-      "ts": "2026-11-15T10:23:00+05:30"
-    },
-    {
-      "title": "आदि वाणी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336425",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "09:55",
-      "ts": "2026-11-15T09:55:00+05:30"
-    },
-    {
-      "title": "केंद्रीय वाणिज्य और उद्योग मंत्री श्री पीयूष गोयल द्विपक्षीय आर्थिक और व्यावसायिक संबंधों को मजबूत करने के लिए एक आधिकारिक दौरे पर मिस्र की राजधानी काहिरा पहुंचे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336453",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "09:55",
-      "ts": "2026-11-15T09:55:00+05:30"
     },
     {
       "title": "90,000 young people furthest from work to be given guaranteed job, no matter where they live",
@@ -477,6 +477,33 @@
       "category": "Government",
       "time": "14:13",
       "ts": "2026-11-15T14:13:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336572": {
+      "title": "केंद्रीय खेल मंत्री डॉ. मनसुख मांडविया और तेलंगाना के मुख्यमंत्री ए. रेवंत रेड्डी ने खेलो इंडिया यूथ गेम्स 2026 के 8वें संस्करण के लोगो और शुभंकर का अनावरण किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336572",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:47",
+      "ts": "2026-11-15T15:47:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336571": {
+      "title": "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई)-2026 में मलयालम सिनेमा का उत्सव मनाया जाएगा, प्रेम नजीर की विरासत को याद किया जाएगा और नई पीढ़ी के फिल्मकारों पर ध्यान केन्द्रित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336571",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:50",
+      "ts": "2026-11-15T14:50:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336575": {
+      "title": "भारत के अंतरिक्ष अर्थव्यवस्था के द्वार खोलना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336575",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:05",
+      "ts": "2026-11-15T11:05:00+05:30"
     }
   }
 }
