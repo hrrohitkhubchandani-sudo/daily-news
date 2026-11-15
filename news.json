@@ -1,7 +1,25 @@
 {
   "date": "2026-11-15",
-  "updated": "14:14",
+  "updated": "15:07",
   "items": [
+    {
+      "title": "लोक सभा अध्यक्ष श्री ओम बिरला बेंगलुरु में राष्ट्रमंडल महिला सांसदों के भारत क्षेत्रीय सम्मेलन का उद्घाटन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336481",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:16",
+      "ts": "2026-11-15T14:16:00+05:30"
+    },
+    {
+      "title": "राष्ट्रपति, उपराष्ट्रपति, प्रधानमंत्री और लोक सभा अध्यक्ष ने भगवान बिरसा मुंडा की 151वीं जयंती पर उन्हें पुष्पांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336479",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:52",
+      "ts": "2026-11-15T13:52:00+05:30"
+    },
     {
       "title": "वीडियो कॉन्फ्रेंसिंग के माध्यम से महाराष्ट्र के गढ़चिरौली में जनजातीय गौरव दिवस कार्यक्रम में प्रधानमंत्री के संबोधन का मूल पाठ",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336471",
@@ -10,6 +28,15 @@
       "category": "Government",
       "time": "13:23",
       "ts": "2026-11-15T13:23:00+05:30"
+    },
+    {
+      "title": "नीति आयोग प्रधानमंत्री श्री नरेन्द्र मोदी के शासन प्रमुख के रूप में 25 वर्षों के अनुभवों से देश को सीख लेने के लिए राष्ट्रीय कार्यशाला श्रृंखला शुरू करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336483",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:19",
+      "ts": "2026-11-15T12:19:00+05:30"
     },
     {
       "title": "लखपति दीदी पहल",
@@ -37,6 +64,15 @@
       "category": "Government",
       "time": "11:06",
       "ts": "2026-11-15T11:06:00+05:30"
+    },
+    {
+      "title": "सेना प्रमुख जनरल धीरज सेठ चेक गणराज्य की आधिकारिक यात्रा पर रवाना हुए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336482",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:28",
+      "ts": "2026-11-15T10:28:00+05:30"
     },
     {
       "title": "युगे युगीन भारत संग्रहालय",
@@ -90,7 +126,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 12,
       "note": ""
     },
     {
@@ -252,6 +288,42 @@
       "category": "Government",
       "time": "13:23",
       "ts": "2026-11-15T13:23:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336481": {
+      "title": "लोक सभा अध्यक्ष श्री ओम बिरला बेंगलुरु में राष्ट्रमंडल महिला सांसदों के भारत क्षेत्रीय सम्मेलन का उद्घाटन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336481",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:16",
+      "ts": "2026-11-15T14:16:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336479": {
+      "title": "राष्ट्रपति, उपराष्ट्रपति, प्रधानमंत्री और लोक सभा अध्यक्ष ने भगवान बिरसा मुंडा की 151वीं जयंती पर उन्हें पुष्पांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336479",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:52",
+      "ts": "2026-11-15T13:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336483": {
+      "title": "नीति आयोग प्रधानमंत्री श्री नरेन्द्र मोदी के शासन प्रमुख के रूप में 25 वर्षों के अनुभवों से देश को सीख लेने के लिए राष्ट्रीय कार्यशाला श्रृंखला शुरू करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336483",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:19",
+      "ts": "2026-11-15T12:19:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336482": {
+      "title": "सेना प्रमुख जनरल धीरज सेठ चेक गणराज्य की आधिकारिक यात्रा पर रवाना हुए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336482",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:28",
+      "ts": "2026-11-15T10:28:00+05:30"
     }
   }
 }
