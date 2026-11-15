@@ -1,7 +1,25 @@
 {
   "date": "2026-11-15",
-  "updated": "21:36",
+  "updated": "22:37",
   "items": [
+    {
+      "title": "आकाशवाणी ने युवा संगीत प्रतिभाओं को राष्ट्रीय मंच देने के लिए ‘एआईआर उभरते सितारे’ कार्यक्रम का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336700",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:56",
+      "ts": "2026-11-15T20:56:00+05:30"
+    },
+    {
+      "title": "राष्ट्रीय प्राणी उद्यान ने नागरिक विज्ञान एवं जैव विविधता के दस्तावेजीकरण को बढ़ावा देने के लिए 21 वी संडे बर्ड वॉक का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336699",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:16",
+      "ts": "2026-11-15T20:16:00+05:30"
+    },
     {
       "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने महाराष्ट्र के पुणे में एनएचईसी मल्टी स्टेट सहकारी संस्था का भूमि पूजन, डिजिटल माध्यम से सहकारी समितियों के केंद्रीय पंजीयक के पश्चिमी क्षेत्रीय कार्यालय का उद्घाटन तथा भारत टैक्सी सेवाओं का शुभारंभ किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336636",
@@ -172,24 +190,6 @@
       "category": "Government",
       "time": "14:13",
       "ts": "2026-11-15T14:13:00+05:30"
-    },
-    {
-      "title": "राष्ट्रपति, उपराष्ट्रपति, प्रधानमंत्री और लोक सभा अध्यक्ष ने भगवान बिरसा मुंडा की 151वीं जयंती पर उन्हें पुष्पांजलि अर्पित की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336479",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:52",
-      "ts": "2026-11-15T13:52:00+05:30"
-    },
-    {
-      "title": "वीडियो कॉन्फ्रेंसिंग के माध्यम से महाराष्ट्र के गढ़चिरौली में जनजातीय गौरव दिवस कार्यक्रम में प्रधानमंत्री के संबोधन का मूल पाठ",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336471",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:23",
-      "ts": "2026-11-15T13:23:00+05:30"
     },
     {
       "title": "90,000 young people furthest from work to be given guaranteed job, no matter where they live",
@@ -576,6 +576,24 @@
       "category": "Government",
       "time": "17:52",
       "ts": "2026-11-15T17:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336700": {
+      "title": "आकाशवाणी ने युवा संगीत प्रतिभाओं को राष्ट्रीय मंच देने के लिए ‘एआईआर उभरते सितारे’ कार्यक्रम का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336700",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:56",
+      "ts": "2026-11-15T20:56:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336699": {
+      "title": "राष्ट्रीय प्राणी उद्यान ने नागरिक विज्ञान एवं जैव विविधता के दस्तावेजीकरण को बढ़ावा देने के लिए 21 वी संडे बर्ड वॉक का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336699",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:16",
+      "ts": "2026-11-15T20:16:00+05:30"
     }
   }
 }
