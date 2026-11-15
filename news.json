@@ -1,7 +1,16 @@
 {
   "date": "2026-11-15",
-  "updated": "13:26",
+  "updated": "14:14",
   "items": [
+    {
+      "title": "वीडियो कॉन्फ्रेंसिंग के माध्यम से महाराष्ट्र के गढ़चिरौली में जनजातीय गौरव दिवस कार्यक्रम में प्रधानमंत्री के संबोधन का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336471",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:23",
+      "ts": "2026-11-15T13:23:00+05:30"
+    },
     {
       "title": "लखपति दीदी पहल",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336454",
@@ -81,7 +90,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 8,
       "note": ""
     },
     {
@@ -234,6 +243,15 @@
       "category": "Government",
       "time": "11:06",
       "ts": "2026-11-15T11:06:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336471": {
+      "title": "वीडियो कॉन्फ्रेंसिंग के माध्यम से महाराष्ट्र के गढ़चिरौली में जनजातीय गौरव दिवस कार्यक्रम में प्रधानमंत्री के संबोधन का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336471",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:23",
+      "ts": "2026-11-15T13:23:00+05:30"
     }
   }
 }
