@@ -1,7 +1,25 @@
 {
   "date": "2026-11-17",
-  "updated": "02:45",
+  "updated": "03:44",
   "items": [
+    {
+      "title": "M 6.6 - 151 km WSW of Tual, Indonesia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "03:28",
+      "ts": "2026-11-17T03:28:01+05:30"
+    },
+    {
+      "title": "PM speech at the Lord Mayor's Banquet: 16 November 2026",
+      "link": "https://www.gov.uk/government/speeches/pm-speech-at-the-lord-mayors-banquet-16-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "03:25",
+      "ts": "2026-11-17T03:25:52+05:30"
+    },
     {
       "title": "Lasting stability depends on an inclusive, representative and non-sectarian political process that protects the rights and reflects the diversity of all Syrians: UK statement at the UN Security Council",
       "link": "https://www.gov.uk/government/speeches/lasting-stability-depends-on-an-inclusive-representative-and-non-sectarian-political-process-that-protects-the-rights-and-reflects-the-diversity-of-al",
@@ -64,17 +82,17 @@
     {
       "name": "USGS: Significant earthquakes",
       "country": "World",
-      "ok": false,
-      "entries": 0,
-      "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "ok": true,
+      "entries": 1,
+      "today": 1,
+      "note": ""
     },
     {
       "name": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
