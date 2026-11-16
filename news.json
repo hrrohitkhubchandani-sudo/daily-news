@@ -1,7 +1,16 @@
 {
   "date": "2026-11-16",
-  "updated": "22:34",
+  "updated": "23:48",
   "items": [
+    {
+      "title": "UK-wide framework puts nurses and midwives at heart of prevention",
+      "link": "https://www.gov.uk/government/news/uk-wide-framework-puts-nurses-and-midwives-at-heart-of-prevention",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "23:02",
+      "ts": "2026-11-16T23:02:57+05:30"
+    },
     {
       "title": "The DPRK must cooperate with UN human rights mechanisms: UK Statement at the UN Third Committee",
       "link": "https://www.gov.uk/government/speeches/the-dprk-must-cooperate-with-un-human-rights-mechanisms-uk-statement-at-the-un-third-committee",
@@ -291,6 +300,15 @@
       "ts": "2026-11-16T17:38:21+05:30"
     },
     {
+      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168812",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-16T17:30:00+05:30"
+    },
+    {
       "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168811",
       "source": "UN News: Top stories",
@@ -379,15 +397,6 @@
       "category": "Government",
       "time": "15:28",
       "ts": "2026-11-16T15:28:00+05:30"
-    },
-    {
-      "title": "Reading off licence owner hit with six-year director ban over unexplained payments",
-      "link": "https://www.gov.uk/government/news/reading-off-licence-owner-hit-with-six-year-director-ban-over-unexplained-payments",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:20",
-      "ts": "2026-11-16T15:20:09+05:30"
     }
   ],
   "health": [
@@ -404,7 +413,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 3,
+      "today": 4,
       "note": ""
     },
     {
