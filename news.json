@@ -1,7 +1,25 @@
 {
   "date": "2026-11-16",
-  "updated": "08:15",
+  "updated": "09:26",
   "items": [
+    {
+      "title": "लोकसभा अध्यक्ष गुजरात के वडनगर में विश्व शांति महायज्ञ में शामिल होंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336709",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:18",
+      "ts": "2026-11-16T08:18:00+05:30"
+    },
+    {
+      "title": "फिलीपींस की यात्रा पर जाने से पूर्व प्रधानमंत्री नरेन्द्र मोदी का प्रस्थान वक्तव्य",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336719",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "07:53",
+      "ts": "2026-11-16T07:53:00+05:30"
+    },
     {
       "title": "Women pardoned for abortion offences relating to their own pregnancy",
       "link": "https://www.gov.uk/government/news/women-pardoned-for-abortion-offences-relating-to-their-own-pregnancy",
@@ -27,7 +45,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -115,6 +133,24 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336638": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336555": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336481": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336552": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336552": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336709": {
+      "title": "लोकसभा अध्यक्ष गुजरात के वडनगर में विश्व शांति महायज्ञ में शामिल होंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336709",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:18",
+      "ts": "2026-11-16T08:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336719": {
+      "title": "फिलीपींस की यात्रा पर जाने से पूर्व प्रधानमंत्री नरेन्द्र मोदी का प्रस्थान वक्तव्य",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336719",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "07:53",
+      "ts": "2026-11-16T07:53:00+05:30"
+    }
   }
 }
