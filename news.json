@@ -1,7 +1,88 @@
 {
   "date": "2026-11-16",
-  "updated": "15:29",
+  "updated": "16:51",
   "items": [
+    {
+      "title": "Government commits to safeguard face-to-face banking",
+      "link": "https://www.gov.uk/government/news/government-commits-to-safeguard-face-to-face-banking",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:35",
+      "ts": "2026-11-16T16:35:36+05:30"
+    },
+    {
+      "title": "Grenfell Tower: community update November 2026",
+      "link": "https://www.gov.uk/government/publications/grenfell-tower-community-update-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:25",
+      "ts": "2026-11-16T16:25:07+05:30"
+    },
+    {
+      "title": "Their Royal Highnesses The Prince and Princess of Wales visit India",
+      "link": "https://www.gov.uk/government/news/their-royal-highnesses-the-prince-and-princess-of-wales-visit-india",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:16",
+      "ts": "2026-11-16T16:16:00+05:30"
+    },
+    {
+      "title": "90,000 young people furthest from work to be given guaranteed job, no matter where they live",
+      "link": "https://www.gov.uk/government/news/90000-young-people-furthest-from-work-to-be-given-guaranteed-job-no-matter-where-they-live",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:15",
+      "ts": "2026-11-16T16:15:13+05:30"
+    },
+    {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज पुणे में महाराष्ट्र के पूर्व उप-मुख्यमंत्री अजित पवार जी की प्रतिमा के अनावरण समारोह को संबोधित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336911",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:57",
+      "ts": "2026-11-16T15:57:00+05:30"
+    },
+    {
+      "title": "सड़क परिवहन और राजमार्ग मंत्रालय ने स्वच्छता को संस्थागत बनाने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 का सफलतापूर्वक समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336940",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:31",
+      "ts": "2026-11-16T15:31:00+05:30"
+    },
+    {
+      "title": "Get job-ready this festive season with the HMRC app",
+      "link": "https://www.gov.uk/government/news/get-job-ready-this-festive-season-with-the-hmrc-app",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:30",
+      "ts": "2026-11-16T15:30:03+05:30"
+    },
+    {
+      "title": "Report 13/2026: Near miss with a member of ground staff at Washwood Heath",
+      "link": "https://www.gov.uk/government/news/report-132026-near-miss-with-a-member-of-ground-staff-at-washwood-heath",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:28",
+      "ts": "2026-11-16T15:28:52+05:30"
+    },
+    {
+      "title": "Anniversary Statement: EC135 P1, G-WPDA",
+      "link": "https://www.gov.uk/government/news/anniversary-statement-ec135-p1-g-wpda",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:28",
+      "ts": "2026-11-16T15:28:05+05:30"
+    },
     {
       "title": "Reading off licence owner hit with six-year director ban over unexplained payments",
       "link": "https://www.gov.uk/government/news/reading-off-licence-owner-hit-with-six-year-director-ban-over-unexplained-payments",
@@ -12,7 +93,7 @@
       "ts": "2026-11-16T15:20:09+05:30"
     },
     {
-      "title": "Service update regarding Microsoft outage",
+      "title": "Microsoft outage - issues resolved",
       "link": "https://www.gov.uk/government/news/our-manage-appeals-service-is-currently-paused-due-to-the-worldwide-microsoft-outage",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
@@ -45,7 +126,16 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "15:00",
-      "ts": "2026-11-16T15:00:01+05:30"
+      "ts": "2026-11-16T15:00:00+05:30"
+    },
+    {
+      "title": "निवेशकों को सशक्त बनाने तथा शिकायतों के निवारण और दावा न की गई लाभांश राशि की प्राप्ति की प्रक्रिया को सरल बनाने के लिए आईईपीएफए और एसईबीआई नई दिल्ली में ‘निवेशक शिविर’ का आयोजन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336935",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:51",
+      "ts": "2026-11-16T14:51:00+05:30"
     },
     {
       "title": "Insolvency Service: email issues due to Microsoft outage",
@@ -84,6 +174,24 @@
       "ts": "2026-11-16T13:30:11+05:30"
     },
     {
+      "title": "विज्ञान एवं प्रौद्योगिकी मंत्रालय के जैव प्रौद्योगिकी विभाग (डीबीटी) ने 2 से 31 अक्टूबर, 2026 तक आयोजित विशेष अभियान 6 सफलतापूर्वक संपन्‍न किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336933",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:29",
+      "ts": "2026-11-16T13:29:00+05:30"
+    },
+    {
+      "title": "छावनी क्षेत्र में वरिष्ठ नागरिकों के हितों को बढ़ाने के लिए रक्षा मंत्रालय और सामाजिक न्याय एवं अधिकारिता मंत्रालय ने समझौता ज्ञापन पर हस्ताक्षर किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336894",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:07",
+      "ts": "2026-11-16T13:07:00+05:30"
+    },
+    {
       "title": "टीडीबी-डीएसटी ने स्वदेशी महत्वपूर्ण खनिज पुनर्प्राप्ति तकनीक को आगे बढ़ाने के लिए आरडीआई फंड के अंतर्गत नियोसीकर मेटल्स के साथ समझौता किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336851",
       "source": "PIB, Government of India (Hindi)",
@@ -102,6 +210,15 @@
       "ts": "2026-11-16T12:39:00+05:30"
     },
     {
+      "title": "अक्टूबर 2026 के महीने के लिए थोक मूल्‍य सूचकांक, आउटपुट उत्‍पादक मूल्‍य सूचकांक और परीक्षण इनपुट उत्‍पादन मूल्‍य सूचकांक अनंतिम अनुमान तथा अगस्त 2026 के महीने के लिए अंतिम सूचकांक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336879",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:00",
+      "ts": "2026-11-16T12:00:00+05:30"
+    },
+    {
       "title": "भारत सरकार में विभिन्न पदों पर सीधी भर्ती",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336793",
       "source": "PIB, Government of India (Hindi)",
@@ -109,6 +226,15 @@
       "category": "Government",
       "time": "11:40",
       "ts": "2026-11-16T11:40:00+05:30"
+    },
+    {
+      "title": "2001 का कच्छ भूकंप",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336931",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:34",
+      "ts": "2026-11-16T11:34:00+05:30"
     },
     {
       "title": "एनआईसीडीसी ने विशाखापत्तनम में आयोजित 31वें सीआईआई पार्टनरशिप समिट 2026 में आंध्र प्रदेश की औद्योगिक प्रगति और निवेश के अवसरों को प्रदर्शित किया",
@@ -189,7 +315,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 9,
+      "today": 16,
       "note": ""
     },
     {
@@ -245,7 +371,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 11,
+      "today": 18,
       "note": ""
     },
     {
@@ -361,6 +487,69 @@
       "time": "09:37",
       "ts": "2026-11-16T09:37:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336787": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336787": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336911": {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज पुणे में महाराष्ट्र के पूर्व उप-मुख्यमंत्री अजित पवार जी की प्रतिमा के अनावरण समारोह को संबोधित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336911",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:57",
+      "ts": "2026-11-16T15:57:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336940": {
+      "title": "सड़क परिवहन और राजमार्ग मंत्रालय ने स्वच्छता को संस्थागत बनाने और लंबित मामलों को कम करने के लिए विशेष अभियान 6 का सफलतापूर्वक समापन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336940",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:31",
+      "ts": "2026-11-16T15:31:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336935": {
+      "title": "निवेशकों को सशक्त बनाने तथा शिकायतों के निवारण और दावा न की गई लाभांश राशि की प्राप्ति की प्रक्रिया को सरल बनाने के लिए आईईपीएफए और एसईबीआई नई दिल्ली में ‘निवेशक शिविर’ का आयोजन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336935",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:51",
+      "ts": "2026-11-16T14:51:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336933": {
+      "title": "विज्ञान एवं प्रौद्योगिकी मंत्रालय के जैव प्रौद्योगिकी विभाग (डीबीटी) ने 2 से 31 अक्टूबर, 2026 तक आयोजित विशेष अभियान 6 सफलतापूर्वक संपन्‍न किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336933",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:29",
+      "ts": "2026-11-16T13:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336894": {
+      "title": "छावनी क्षेत्र में वरिष्ठ नागरिकों के हितों को बढ़ाने के लिए रक्षा मंत्रालय और सामाजिक न्याय एवं अधिकारिता मंत्रालय ने समझौता ज्ञापन पर हस्ताक्षर किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336894",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:07",
+      "ts": "2026-11-16T13:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336879": {
+      "title": "अक्टूबर 2026 के महीने के लिए थोक मूल्‍य सूचकांक, आउटपुट उत्‍पादक मूल्‍य सूचकांक और परीक्षण इनपुट उत्‍पादन मूल्‍य सूचकांक अनंतिम अनुमान तथा अगस्त 2026 के महीने के लिए अंतिम सूचकांक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336879",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:00",
+      "ts": "2026-11-16T12:00:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336931": {
+      "title": "2001 का कच्छ भूकंप",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336931",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:34",
+      "ts": "2026-11-16T11:34:00+05:30"
+    }
   }
 }
