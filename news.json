@@ -1,7 +1,25 @@
 {
   "date": "2026-11-16",
-  "updated": "09:26",
+  "updated": "10:54",
   "items": [
+    {
+      "title": "प्रधानमंत्री ने चार दिवसीय छठ महापर्व के समापन पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336735",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:55",
+      "ts": "2026-11-16T08:55:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने सदा नेक और सकारात्मक कार्य करने के महत्त्व को रेखांकित करते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336733",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:53",
+      "ts": "2026-11-16T08:53:00+05:30"
+    },
     {
       "title": "लोकसभा अध्यक्ष गुजरात के वडनगर में विश्व शांति महायज्ञ में शामिल होंगे",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336709",
@@ -45,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
@@ -151,6 +169,26 @@
       "category": "Government",
       "time": "07:53",
       "ts": "2026-11-16T07:53:00+05:30"
-    }
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336735": {
+      "title": "प्रधानमंत्री ने चार दिवसीय छठ महापर्व के समापन पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336735",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:55",
+      "ts": "2026-11-16T08:55:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336733": {
+      "title": "प्रधानमंत्री ने सदा नेक और सकारात्मक कार्य करने के महत्त्व को रेखांकित करते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336733",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:53",
+      "ts": "2026-11-16T08:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336727": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336725": null
   }
 }
