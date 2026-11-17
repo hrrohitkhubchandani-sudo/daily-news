@@ -1,7 +1,16 @@
 {
   "date": "2026-11-17",
-  "updated": "10:19",
+  "updated": "11:21",
   "items": [
+    {
+      "title": "M 6.6 - 148 km WSW of Tual, Indonesia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "11:01",
+      "ts": "2026-11-17T11:01:09+05:30"
+    },
     {
       "title": "भारत के सौर ऊर्जा क्षेत्र में नए युग की शुरुआत",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337253",
@@ -21,13 +30,13 @@
       "ts": "2026-11-17T09:06:00+05:30"
     },
     {
-      "title": "M 6.6 - 148 km WSW of Tual, Indonesia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "04:48",
-      "ts": "2026-11-17T04:48:03+05:30"
+      "title": "12,000 से ज्यादा श्रद्धालुओं ने पहले दो दिनों में नामसाई स्थित गोल्डन पैगोडा में भगवान शाक्यमुनि बुद्ध के पवित्र अवशेषों के दर्शन कर श्रद्धा अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337266",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:16",
+      "ts": "2026-11-17T08:16:00+05:30"
     },
     {
       "title": "PM speech at the Lord Mayor's Banquet: 16 November 2026",
@@ -63,7 +72,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 4,
       "note": ""
     },
     {
@@ -179,6 +188,15 @@
       "time": "01:04",
       "ts": "2026-11-17T01:04:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337255": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337255": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337266": {
+      "title": "12,000 से ज्यादा श्रद्धालुओं ने पहले दो दिनों में नामसाई स्थित गोल्डन पैगोडा में भगवान शाक्यमुनि बुद्ध के पवित्र अवशेषों के दर्शन कर श्रद्धा अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337266",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:16",
+      "ts": "2026-11-17T08:16:00+05:30"
+    }
   }
 }
