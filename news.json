@@ -1,7 +1,43 @@
 {
   "date": "2026-11-17",
-  "updated": "17:10",
+  "updated": "18:19",
   "items": [
+    {
+      "title": "DSCC Online: Multi-factor Authentication",
+      "link": "https://www.gov.uk/government/news/dscc-online-multi-factor-authentication",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:59",
+      "ts": "2026-11-17T17:59:26+05:30"
+    },
+    {
+      "title": "UK leads international cooperation on sustainable export finance",
+      "link": "https://www.gov.uk/government/news/uk-leads-international-cooperation-on-sustainable-export-finance",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:39",
+      "ts": "2026-11-17T17:39:10+05:30"
+    },
+    {
+      "title": "Bradford urban wetlands revived",
+      "link": "https://www.gov.uk/government/news/bradford-urban-wetlands-revived",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:22",
+      "ts": "2026-11-17T17:22:28+05:30"
+    },
+    {
+      "title": "Sededorm 1 mg/ml Solution for Injection for Dogs and Cats - product defect recall alert",
+      "link": "https://www.gov.uk/government/news/sededorm-1-mgml-solution-for-injection-for-dogs-and-cats-product-defect-recall-alert",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:13",
+      "ts": "2026-11-17T17:13:19+05:30"
+    },
     {
       "title": "Five further Critical Third Parties designated",
       "link": "https://www.gov.uk/government/news/five-further-critical-third-parties-designated",
@@ -27,7 +63,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "16:30",
-      "ts": "2026-11-17T16:30:07+05:30"
+      "ts": "2026-11-17T16:30:00+05:30"
     },
     {
       "title": "Fresh wave of funding to protect coral reefs and boost resilience",
@@ -37,6 +73,15 @@
       "category": "Government",
       "time": "16:29",
       "ts": "2026-11-17T16:29:28+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने मनीला में आसियान शिखर सम्मेलन के अवसर पर फिलीपींस के राष्ट्रपति से मुलाकात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337524",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:29",
+      "ts": "2026-11-17T16:29:00+05:30"
     },
     {
       "title": "प्रधानमंत्री ने मनीला में 21वें पूर्वी एशिया शिखर सम्मेलन को संबोधित किया",
@@ -147,6 +192,15 @@
       "ts": "2026-11-17T15:37:43+05:30"
     },
     {
+      "title": "9वां प्राकृतिक चिकित्सा दिवस 18 नवंबर को देशभर में मनाया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337520",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:36",
+      "ts": "2026-11-17T15:36:00+05:30"
+    },
+    {
       "title": "UK cracks down on companies building settlements in the West Bank and groups blocking aid access into Gaza",
       "link": "https://www.gov.uk/government/news/uk-cracks-down-on-companies-building-settlements-in-the-west-bank-and-groups-blocking-aid-access-into-gaza",
       "source": "GOV.UK: News and communications",
@@ -154,6 +208,15 @@
       "category": "Government",
       "time": "15:34",
       "ts": "2026-11-17T15:34:00+05:30"
+    },
+    {
+      "title": "महिलाओं का प्रतिनिधित्व पंचायतों से लेकर संसद तक होना चाहिए; आशा है कि नारी शक्ति वंदन अधिनियम लागू किया जाएगा : लोक सभा अध्यक्ष",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337511",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:32",
+      "ts": "2026-11-17T15:32:00+05:30"
     },
     {
       "title": "भारत की इलेक्ट्रॉनिक वस्तुओं का निर्यात वित्त वर्ष 2026-27 के अप्रैल–सितंबर के दौरान 44 प्रतिशत बढ़कर 31.97 बिलियन डॉलर पहुंचा",
@@ -201,6 +264,15 @@
       "ts": "2026-11-17T14:46:00+05:30"
     },
     {
+      "title": "इफ्फी 2026 कन्नड़ और तुलु सिनेमा का जश्न",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337563",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:45",
+      "ts": "2026-11-17T14:45:00+05:30"
+    },
+    {
       "title": "Recruitment of Board Member to the International Fund for Ireland",
       "link": "https://www.gov.uk/government/news/recruitment-of-board-member-to-the-international-fund-for-ireland",
       "source": "GOV.UK: News and communications",
@@ -219,15 +291,6 @@
       "ts": "2026-11-17T14:30:04+05:30"
     },
     {
-      "title": "Safe to Breathe: New competition for rapid toxic gas detection innovation",
-      "link": "https://www.gov.uk/government/news/safe-to-breathe-new-competition-for-rapid-toxic-gas-detection-innovation",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:29",
-      "ts": "2026-11-17T14:29:28+05:30"
-    },
-    {
       "title": "राज्यसभा के सभापति श्री सी.पी. राधाकृष्णन ने श्री हरदीप सिंह पुरी को शपथ दिलाई",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337379",
       "source": "PIB, Government of India (Hindi)",
@@ -244,24 +307,6 @@
       "category": "Government",
       "time": "14:02",
       "ts": "2026-11-17T14:02:00+05:30"
-    },
-    {
-      "title": "Where to find Intellectual Property (IP) guidance and support",
-      "link": "https://www.gov.uk/government/news/where-to-find-intellectual-property-ip-guidance-and-support",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:00",
-      "ts": "2026-11-17T14:00:01+05:30"
-    },
-    {
-      "title": "Hunterston B decommissioning journey takes a step forward",
-      "link": "https://www.gov.uk/government/news/hunterston-b-decommissioning-journey-takes-a-step-forward",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "13:59",
-      "ts": "2026-11-17T13:59:03+05:30"
     },
     {
       "title": "प्रधानमंत्री ने मनीला में 23वें भारत-आसियान शिखर सम्मेलन में भाग लिया",
@@ -325,51 +370,6 @@
       "category": "Government",
       "time": "10:57",
       "ts": "2026-11-17T10:57:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने ज्ञान की खोज में आस्था, समर्पण और आत्म-अनुशासन के महत्व पर ज़ोर देते हुए एक संस्कृत सुभाषितम् साझा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337303",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:55",
-      "ts": "2026-11-17T10:55:00+05:30"
-    },
-    {
-      "title": "डीएचटीआई ने फ़िजी के रक्षा मंत्रालय के अधिकारियों के लिए रक्षा प्रशासन और लोक प्रशासन पर केंद्रित पहला वैश्विक नेतृत्व कार्यक्रम शुरू किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337305",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:53",
-      "ts": "2026-11-17T10:53:00+05:30"
-    },
-    {
-      "title": "भारत और मिस्र ने आपसी व्यापार, निवेश और औद्योगिक सहयोग को सुदृढ़ करने की अपनी प्रतिबद्धता दोहराई",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337358",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:05",
-      "ts": "2026-11-17T10:05:00+05:30"
-    },
-    {
-      "title": "‘नेचुरोपैथी’: स्वस्थ भारत के लिए प्राकृतिक उपचार",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337409",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:03",
-      "ts": "2026-11-17T10:03:00+05:30"
-    },
-    {
-      "title": "PM speech at the Lord Mayor's Banquet: 16 November 2026",
-      "link": "https://www.gov.uk/government/speeches/pm-speech-at-the-lord-mayors-banquet-16-november-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "03:25",
-      "ts": "2026-11-17T03:25:52+05:30"
     }
   ],
   "health": [
@@ -683,6 +683,42 @@
       "category": "Government",
       "time": "14:46",
       "ts": "2026-11-17T14:46:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337524": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने मनीला में आसियान शिखर सम्मेलन के अवसर पर फिलीपींस के राष्ट्रपति से मुलाकात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337524",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:29",
+      "ts": "2026-11-17T16:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337520": {
+      "title": "9वां प्राकृतिक चिकित्सा दिवस 18 नवंबर को देशभर में मनाया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337520",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:36",
+      "ts": "2026-11-17T15:36:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337511": {
+      "title": "महिलाओं का प्रतिनिधित्व पंचायतों से लेकर संसद तक होना चाहिए; आशा है कि नारी शक्ति वंदन अधिनियम लागू किया जाएगा : लोक सभा अध्यक्ष",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337511",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:32",
+      "ts": "2026-11-17T15:32:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337563": {
+      "title": "इफ्फी 2026 कन्नड़ और तुलु सिनेमा का जश्न",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337563",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:45",
+      "ts": "2026-11-17T14:45:00+05:30"
     }
   }
 }
