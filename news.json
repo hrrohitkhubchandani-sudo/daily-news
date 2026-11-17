@@ -1,7 +1,16 @@
 {
   "date": "2026-11-17",
-  "updated": "08:14",
+  "updated": "09:13",
   "items": [
+    {
+      "title": "बागवानी फसलों में भारत की लंबी छलांग, केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने जारी किए वर्ष 2025-26 के तृतीय अग्रिम अनुमान",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337249",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:06",
+      "ts": "2026-11-17T09:06:00+05:30"
+    },
     {
       "title": "M 6.6 - 148 km WSW of Tual, Indonesia",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
@@ -36,7 +45,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -124,6 +133,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337098": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337153": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337134": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337107": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337107": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337249": {
+      "title": "बागवानी फसलों में भारत की लंबी छलांग, केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने जारी किए वर्ष 2025-26 के तृतीय अग्रिम अनुमान",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337249",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:06",
+      "ts": "2026-11-17T09:06:00+05:30"
+    }
   }
 }
