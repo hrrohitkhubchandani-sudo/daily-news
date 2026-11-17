@@ -1,7 +1,16 @@
 {
   "date": "2026-11-17",
-  "updated": "11:21",
+  "updated": "12:27",
   "items": [
+    {
+      "title": "23वें आसियान-भारत शिखर सम्मेलन में प्रधानमंत्री के प्रारंभिक वक्तव्य का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337297",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:16",
+      "ts": "2026-11-17T12:16:00+05:30"
+    },
     {
       "title": "M 6.6 - 148 km WSW of Tual, Indonesia",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tymu",
@@ -10,6 +19,15 @@
       "category": "Disasters",
       "time": "11:01",
       "ts": "2026-11-17T11:01:09+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने उत्तराखंड के टिहरी गढ़वाल में हुए हादसे में लोगों की मौत पर शोक जताया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337300",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:57",
+      "ts": "2026-11-17T10:57:00+05:30"
     },
     {
       "title": "भारत के सौर ऊर्जा क्षेत्र में नए युग की शुरुआत",
@@ -72,7 +90,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 6,
       "note": ""
     },
     {
@@ -197,6 +215,24 @@
       "category": "Government",
       "time": "08:16",
       "ts": "2026-11-17T08:16:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337297": {
+      "title": "23वें आसियान-भारत शिखर सम्मेलन में प्रधानमंत्री के प्रारंभिक वक्तव्य का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337297",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:16",
+      "ts": "2026-11-17T12:16:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337300": {
+      "title": "प्रधानमंत्री ने उत्तराखंड के टिहरी गढ़वाल में हुए हादसे में लोगों की मौत पर शोक जताया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337300",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:57",
+      "ts": "2026-11-17T10:57:00+05:30"
     }
   }
 }
