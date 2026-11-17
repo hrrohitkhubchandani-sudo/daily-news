@@ -1,7 +1,16 @@
 {
   "date": "2026-11-17",
-  "updated": "22:58",
+  "updated": "23:51",
   "items": [
+    {
+      "title": "UK-EU Summit package - factsheet and mythbuster",
+      "link": "https://www.gov.uk/government/news/uk-eu-summit-package-factsheet-and-mythbuster",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "23:13",
+      "ts": "2026-11-17T23:13:46+05:30"
+    },
     {
       "title": "सीएसआईआर-एसईआरसी एवं सीएमसी में हिंदी पखवाड़ा समारोह–2026 का समापन एवं पुरस्कार वितरण",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337677",
@@ -336,15 +345,6 @@
       "ts": "2026-11-17T17:30:00+05:30"
     },
     {
-      "title": "Bradford urban wetlands revived",
-      "link": "https://www.gov.uk/government/news/bradford-urban-wetlands-revived",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "17:22",
-      "ts": "2026-11-17T17:22:28+05:30"
-    },
-    {
       "title": "जनजातीय समुदाय जैव विविधता के संरक्षक रहे हैं: केंद्रीय मंत्री डॉ. जितेंद्र सिंह",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337604",
       "source": "PIB, Government of India (Hindi)",
@@ -438,7 +438,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -446,7 +446,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
