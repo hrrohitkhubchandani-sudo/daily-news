@@ -1,7 +1,16 @@
 {
   "date": "2026-11-17",
-  "updated": "09:13",
+  "updated": "10:19",
   "items": [
+    {
+      "title": "भारत के सौर ऊर्जा क्षेत्र में नए युग की शुरुआत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337253",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:42",
+      "ts": "2026-11-17T09:42:00+05:30"
+    },
     {
       "title": "बागवानी फसलों में भारत की लंबी छलांग, केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने जारी किए वर्ष 2025-26 के तृतीय अग्रिम अनुमान",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337249",
@@ -30,6 +39,15 @@
       "ts": "2026-11-17T03:25:52+05:30"
     },
     {
+      "title": "अंताल्या (तुर्किए) में आयोजित यूएनएफसीसीसी कॉप31 में केन्द्रीय पर्यावरण मंत्री ने कहा: बिग कैट्स का संरक्षण जलवायु परिवर्तन के शमन का एक सशक्त माध्यम बन सकता है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337256",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "01:04",
+      "ts": "2026-11-17T01:04:00+05:30"
+    },
+    {
       "title": "Lasting stability depends on an inclusive, representative and non-sectarian political process that protects the rights and reflects the diversity of all Syrians: UK statement at the UN Security Council",
       "link": "https://www.gov.uk/government/speeches/lasting-stability-depends-on-an-inclusive-representative-and-non-sectarian-political-process-that-protects-the-rights-and-reflects-the-diversity-of-al",
       "source": "GOV.UK: News and communications",
@@ -45,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 3,
       "note": ""
     },
     {
@@ -142,6 +160,25 @@
       "category": "Government",
       "time": "09:06",
       "ts": "2026-11-17T09:06:00+05:30"
-    }
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337253": {
+      "title": "भारत के सौर ऊर्जा क्षेत्र में नए युग की शुरुआत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337253",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:42",
+      "ts": "2026-11-17T09:42:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337256": {
+      "title": "अंताल्या (तुर्किए) में आयोजित यूएनएफसीसीसी कॉप31 में केन्द्रीय पर्यावरण मंत्री ने कहा: बिग कैट्स का संरक्षण जलवायु परिवर्तन के शमन का एक सशक्त माध्यम बन सकता है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337256",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "01:04",
+      "ts": "2026-11-17T01:04:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337255": null
   }
 }
