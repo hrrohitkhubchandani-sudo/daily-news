@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "02:13",
+  "updated": "03:11",
   "items": [],
   "health": [
     {
@@ -54,10 +54,10 @@
     {
       "name": "USGS: Significant earthquakes",
       "country": "World",
-      "ok": true,
-      "entries": 1,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "GOV.UK: News and communications",
