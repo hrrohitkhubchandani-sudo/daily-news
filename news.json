@@ -1,7 +1,16 @@
 {
   "date": "2026-11-17",
-  "updated": "12:27",
+  "updated": "13:47",
   "items": [
+    {
+      "title": "Safe to Breathe: New competition for rapid toxic gas detection innovation",
+      "link": "https://www.gov.uk/government/news/safe-to-breathe-new-competition-for-rapid-toxic-gas-detection-innovation",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "13:29",
+      "ts": "2026-11-17T13:29:34+05:30"
+    },
     {
       "title": "23वें आसियान-भारत शिखर सम्मेलन में प्रधानमंत्री के प्रारंभिक वक्तव्य का मूल पाठ",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337297",
@@ -10,6 +19,15 @@
       "category": "Government",
       "time": "12:16",
       "ts": "2026-11-17T12:16:00+05:30"
+    },
+    {
+      "title": "रक्षा मंत्री टोक्यो में चतुर्थ भारत-जापान 2+2 मंत्रिस्तरीय वार्ता में भाग लेंगे और जापान के रक्षा मंत्री के साथ द्विपक्षीय बातचीत करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337304",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-17T11:38:00+05:30"
     },
     {
       "title": "M 6.6 - 148 km WSW of Tual, Indonesia",
@@ -28,6 +46,24 @@
       "category": "Government",
       "time": "10:57",
       "ts": "2026-11-17T10:57:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने ज्ञान की खोज में आस्था, समर्पण और आत्म-अनुशासन के महत्व पर ज़ोर देते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337303",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:55",
+      "ts": "2026-11-17T10:55:00+05:30"
+    },
+    {
+      "title": "डीएचटीआई ने फ़िजी के रक्षा मंत्रालय के अधिकारियों के लिए रक्षा प्रशासन और लोक प्रशासन पर केंद्रित पहला वैश्विक नेतृत्व कार्यक्रम शुरू किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337305",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:53",
+      "ts": "2026-11-17T10:53:00+05:30"
     },
     {
       "title": "भारत के सौर ऊर्जा क्षेत्र में नए युग की शुरुआत",
@@ -90,7 +126,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 9,
       "note": ""
     },
     {
@@ -146,7 +182,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -233,6 +269,33 @@
       "category": "Government",
       "time": "10:57",
       "ts": "2026-11-17T10:57:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337304": {
+      "title": "रक्षा मंत्री टोक्यो में चतुर्थ भारत-जापान 2+2 मंत्रिस्तरीय वार्ता में भाग लेंगे और जापान के रक्षा मंत्री के साथ द्विपक्षीय बातचीत करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337304",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-17T11:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337303": {
+      "title": "प्रधानमंत्री ने ज्ञान की खोज में आस्था, समर्पण और आत्म-अनुशासन के महत्व पर ज़ोर देते हुए एक संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337303",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:55",
+      "ts": "2026-11-17T10:55:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337305": {
+      "title": "डीएचटीआई ने फ़िजी के रक्षा मंत्रालय के अधिकारियों के लिए रक्षा प्रशासन और लोक प्रशासन पर केंद्रित पहला वैश्विक नेतृत्व कार्यक्रम शुरू किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337305",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:53",
+      "ts": "2026-11-17T10:53:00+05:30"
     }
   }
 }
