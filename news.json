@@ -1,7 +1,17 @@
 {
   "date": "2026-11-18",
-  "updated": "03:11",
-  "items": [],
+  "updated": "04:13",
+  "items": [
+    {
+      "title": "Government fires starting gun on new settlement for young people",
+      "link": "https://www.gov.uk/government/news/government-fires-starting-gun-on-new-settlement-for-young-people",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-18T04:00:02+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -64,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
