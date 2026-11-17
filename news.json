@@ -1,15 +1,69 @@
 {
   "date": "2026-11-17",
-  "updated": "13:47",
+  "updated": "14:59",
   "items": [
+    {
+      "title": "Recruitment of Board Member to the International Fund for Ireland",
+      "link": "https://www.gov.uk/government/news/recruitment-of-board-member-to-the-international-fund-for-ireland",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:37",
+      "ts": "2026-11-17T14:37:17+05:30"
+    },
+    {
+      "title": "Upper Costa Beck programme of measures: ministerial direction",
+      "link": "https://www.gov.uk/government/publications/upper-costa-beck-programme-of-measures-ministerial-direction",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-17T14:30:04+05:30"
+    },
     {
       "title": "Safe to Breathe: New competition for rapid toxic gas detection innovation",
       "link": "https://www.gov.uk/government/news/safe-to-breathe-new-competition-for-rapid-toxic-gas-detection-innovation",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
-      "time": "13:29",
-      "ts": "2026-11-17T13:29:34+05:30"
+      "time": "14:29",
+      "ts": "2026-11-17T14:29:28+05:30"
+    },
+    {
+      "title": "भारतीय नौसेना के जहाज सह्याद्री ने जापान समुद्री आत्मरक्षा बल के साथ द्विपक्षीय नौसेना अभ्यास जेएआईएमईएक्स 2026 में भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337370",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:02",
+      "ts": "2026-11-17T14:02:00+05:30"
+    },
+    {
+      "title": "Where to find Intellectual Property (IP) guidance and support",
+      "link": "https://www.gov.uk/government/news/where-to-find-intellectual-property-ip-guidance-and-support",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:00",
+      "ts": "2026-11-17T14:00:01+05:30"
+    },
+    {
+      "title": "Hunterston B decommissioning journey takes a step forward",
+      "link": "https://www.gov.uk/government/news/hunterston-b-decommissioning-journey-takes-a-step-forward",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "13:59",
+      "ts": "2026-11-17T13:59:03+05:30"
+    },
+    {
+      "title": "भारत और स्वीडन ने निम्न-कार्बन औद्योगिक रूपांतरण को गति देने के लिए जलवायु परिवर्तन सम्मेलन में लीडआईटी 3.0 का शुभारंभ किया; ब्राजील लीडआईटी का नवीनतम सदस्य देश बना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337372",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:59",
+      "ts": "2026-11-17T12:59:00+05:30"
     },
     {
       "title": "23वें आसियान-भारत शिखर सम्मेलन में प्रधानमंत्री के प्रारंभिक वक्तव्य का मूल पाठ",
@@ -19,6 +73,15 @@
       "category": "Government",
       "time": "12:16",
       "ts": "2026-11-17T12:16:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने फिलीपींस के मनीला में खालसा दीवान गुरुद्वारे का भ्रमण किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337368",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:01",
+      "ts": "2026-11-17T12:01:00+05:30"
     },
     {
       "title": "रक्षा मंत्री टोक्यो में चतुर्थ भारत-जापान 2+2 मंत्रिस्तरीय वार्ता में भाग लेंगे और जापान के रक्षा मंत्री के साथ द्विपक्षीय बातचीत करेंगे",
@@ -64,6 +127,15 @@
       "category": "Government",
       "time": "10:53",
       "ts": "2026-11-17T10:53:00+05:30"
+    },
+    {
+      "title": "भारत और मिस्र ने आपसी व्यापार, निवेश और औद्योगिक सहयोग को सुदृढ़ करने की अपनी प्रतिबद्धता दोहराई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337358",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:05",
+      "ts": "2026-11-17T10:05:00+05:30"
     },
     {
       "title": "भारत के सौर ऊर्जा क्षेत्र में नए युग की शुरुआत",
@@ -126,7 +198,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 9,
+      "today": 13,
       "note": ""
     },
     {
@@ -182,7 +254,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 7,
       "note": ""
     },
     {
@@ -296,6 +368,42 @@
       "category": "Government",
       "time": "10:53",
       "ts": "2026-11-17T10:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337370": {
+      "title": "भारतीय नौसेना के जहाज सह्याद्री ने जापान समुद्री आत्मरक्षा बल के साथ द्विपक्षीय नौसेना अभ्यास जेएआईएमईएक्स 2026 में भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337370",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:02",
+      "ts": "2026-11-17T14:02:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337372": {
+      "title": "भारत और स्वीडन ने निम्न-कार्बन औद्योगिक रूपांतरण को गति देने के लिए जलवायु परिवर्तन सम्मेलन में लीडआईटी 3.0 का शुभारंभ किया; ब्राजील लीडआईटी का नवीनतम सदस्य देश बना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337372",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:59",
+      "ts": "2026-11-17T12:59:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337368": {
+      "title": "प्रधानमंत्री श्री नरेन्‍द्र मोदी ने फिलीपींस के मनीला में खालसा दीवान गुरुद्वारे का भ्रमण किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337368",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:01",
+      "ts": "2026-11-17T12:01:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337358": {
+      "title": "भारत और मिस्र ने आपसी व्यापार, निवेश और औद्योगिक सहयोग को सुदृढ़ करने की अपनी प्रतिबद्धता दोहराई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337358",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:05",
+      "ts": "2026-11-17T10:05:00+05:30"
     }
   }
 }
