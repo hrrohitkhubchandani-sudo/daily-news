@@ -1,7 +1,16 @@
 {
   "date": "2026-11-19",
-  "updated": "04:12",
+  "updated": "05:11",
   "items": [
+    {
+      "title": "M 5.3 - 16 km ESE of Comandău, Romania",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "04:33",
+      "ts": "2026-11-19T04:33:58+05:30"
+    },
     {
       "title": "Beginning of the end for thousand year old leasehold system",
       "link": "https://www.gov.uk/government/news/beginning-of-the-end-for-thousand-year-old-leasehold-system",
@@ -19,15 +28,6 @@
       "category": "Government",
       "time": "04:00",
       "ts": "2026-11-19T04:00:04+05:30"
-    },
-    {
-      "title": "M 5.3 - 16 km ESE of Comandău, Romania",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "02:22",
-      "ts": "2026-11-19T02:22:16+05:30"
     },
     {
       "title": "New Champion to give unpaid carers a stronger voice",
