@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "20:14",
+  "updated": "21:18",
   "items": [
     {
       "title": "M 5.3 - 16 km ESE of Comandău, Romania",
@@ -8,8 +8,116 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "19:27",
-      "ts": "2026-11-18T19:27:36+05:30"
+      "time": "21:19",
+      "ts": "2026-11-18T21:19:08+05:30"
+    },
+    {
+      "title": "TRA investigates imported robot lawn mowers",
+      "link": "https://www.gov.uk/government/news/tra-investigates-imported-robot-lawn-mowers",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:14",
+      "ts": "2026-11-18T21:14:07+05:30"
+    },
+    {
+      "title": "Home Secretary's speech to NPCC/APCC Summit 2026",
+      "link": "https://www.gov.uk/government/speeches/home-secretarys-speech-to-npccapcc-summit-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:46",
+      "ts": "2026-11-18T20:46:21+05:30"
+    },
+    {
+      "title": "Local Police Commands created to tackle everyday crime",
+      "link": "https://www.gov.uk/government/news/local-police-commands-created-to-tackle-everyday-crime",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:38",
+      "ts": "2026-11-18T20:38:16+05:30"
+    },
+    {
+      "title": "DfE Update 18 November 2026",
+      "link": "https://www.gov.uk/government/publications/dfe-update-18-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:27",
+      "ts": "2026-11-18T20:27:45+05:30"
+    },
+    {
+      "title": "Supporting people in West Cumbria through horticultural activity: case study",
+      "link": "https://www.gov.uk/government/case-studies/supporting-people-in-west-cumbria-through-horticultural-activity",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:15",
+      "ts": "2026-11-18T20:15:00+05:30"
+    },
+    {
+      "title": "भारत ने पेरिस समझौते के अंतर्गत दूसरे 'ग्लोबल स्टॉकटेक' (जीएसटी-2) को खुला, पारदर्शी और न्यायसंगत बनाने का आह्वान किया; अंताल्या (तुर्किये) में आयोजित कॉप 31 में जलवायु वित्त और प्रौद्योगिकी हस्तांतरण के लिए जवाबदेही तय करने पर बल दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338166",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:14",
+      "ts": "2026-11-18T20:14:00+05:30"
+    },
+    {
+      "title": "लोक सभा अध्यक्ष ने वडनगर स्थित ऐतिहासिक श्री हटकेश्वर महादेव मंदिर में आयोजित विश्व शांति महायज्ञ में भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338145",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:56",
+      "ts": "2026-11-18T19:56:00+05:30"
+    },
+    {
+      "title": "उपराष्ट्रपति श्री सी.पी. राधाकृष्णन ने केंद्रीय स्वास्थ्य मंत्री श्री जे.पी.नड्डा की उपस्थिति में वीएमएमसी और सफदरजंग अस्पताल के 8वें दीक्षांत समारोह को संबोधित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338175",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:54",
+      "ts": "2026-11-18T19:54:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री 19 नवंबर को सामाजिक न्याय और अधिकारिता विभाग के सम्मेलन के समापन सत्र में भाग लेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338171",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:53",
+      "ts": "2026-11-18T19:53:00+05:30"
+    },
+    {
+      "title": "केंद्रीय स्वास्थ्य सचिव पुण्य सलिला श्रीवास्तव ने नए एम्स के कार्यकारी निदेशकों के साथ संस्थागत प्रदर्शन का आकलन करने व स्वास्थ्य सेवा डिलीवरी को मजबूत करने के लिए समीक्षा बैठक की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338177",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:52",
+      "ts": "2026-11-18T19:52:00+05:30"
+    },
+    {
+      "title": "भारत के कम्युनिटी सीड बैंक (सीएसबी) को मज़बूत करना: डायवर्सिफ़ार्म-इंडिया ने 652 सीएसबी की मैपिंग की और नई कैपेसिटी-बिल्डिंग मैनुअल जारी की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338172",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:39",
+      "ts": "2026-11-18T19:39:00+05:30"
+    },
+    {
+      "title": "डीओएसईएल के सचिव ने दिव्यांग व्यक्तियों के अधिकारों पर संयुक्त राष्ट्र के विशेष दूत के साथ एक संवाद सत्र की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338162",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:28",
+      "ts": "2026-11-18T19:28:00+05:30"
     },
     {
       "title": "Home Secretary launches intensive effort to tackle shop theft",
@@ -30,6 +138,24 @@
       "ts": "2026-11-18T19:17:41+05:30"
     },
     {
+      "title": "45वें आईआईटीएफ 2026 में सामाजिक न्याय और अधिकारिता मंत्रालय के मंडप में कुल ₹ 29.56 लाख की बिक्री हुई; ग्राहकों की बढ़ती दिलचस्पी से कारीगरों के लिए आर्थिक अवसर बढ़े",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338164",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:14",
+      "ts": "2026-11-18T19:14:00+05:30"
+    },
+    {
+      "title": "केंद्रीय आयुष मंत्री श्री प्रतापराव जाधव ने बुर्किना फासो के मंत्री और वहां के राष्ट्रपति के विशेष सलाहकार महामहिम श्री रोजर बारो से मुलाकात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338146",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:02",
+      "ts": "2026-11-18T19:02:00+05:30"
+    },
+    {
       "title": "उपराष्ट्रपति ने नई दिल्ली में वर्धमान महावीर मेडिकल कॉलेज और सफदरजंग अस्पताल के रजत जयंती समारोह और 8वें वार्षिक दीक्षांत समारोह में भाग लिया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338134",
       "source": "PIB, Government of India (Hindi)",
@@ -46,6 +172,24 @@
       "category": "Government",
       "time": "18:51",
       "ts": "2026-11-18T18:51:00+05:30"
+    },
+    {
+      "title": "पर्वत मंथन कॉन्क्लेव 2026 का समापन, हिमालयी शहरों में जलवायु अनुकूलन क्षमता, पर्यावरणीय नियोजन और नगरपालिका वित्त को मजबूत करने के लिए सुझाव प्रस्तुत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338163",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:51",
+      "ts": "2026-11-18T18:51:00+05:30"
+    },
+    {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने 'विश्व रोगाणुरोधी प्रतिरोध जागरूकता सप्ताह 2026' मनाया, AMR के खिलाफ सामूहिक कार्रवाई का आह्वान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338142",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:42",
+      "ts": "2026-11-18T18:42:00+05:30"
     },
     {
       "title": "Health and Social Care Secretary speech at King's Fund",
@@ -183,15 +327,6 @@
       "ts": "2026-11-18T17:48:20+05:30"
     },
     {
-      "title": "रक्षा मंत्रालय ने भारतीय नौसेना के लिए बराक प्वाइंट डिफेंस मिसाइल प्रणाली के उन्नयन और पुराने पड़ रहे पुर्जों के प्रबंधन के लिए इजराइल एयरोस्पेस इंडस्ट्रीज के साथ 1,976.40 करोड़ रुपये का अनुबंध किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338092",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:46",
-      "ts": "2026-11-18T17:46:00+05:30"
-    },
-    {
       "title": "West of England housing and regeneration given double boost by new agreements with Homes England and National Housing Bank",
       "link": "https://www.gov.uk/government/news/west-of-england-housing-and-regeneration-given-double-boost-by-new-agreements-with-homes-england-and-national-housing-bank",
       "source": "GOV.UK: News and communications",
@@ -199,15 +334,6 @@
       "category": "Government",
       "time": "17:44",
       "ts": "2026-11-18T17:44:57+05:30"
-    },
-    {
-      "title": "रक्षा मंत्री ने योकोसुका स्थित जापान मैरीटाइम सेल्फ-डिफेंस फोर्स के नौसैनिक अड्डे का दौरा किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338098",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:32",
-      "ts": "2026-11-18T17:32:00+05:30"
     },
     {
       "title": "New personalised care to keep 1.8 million people out of hospital",
@@ -237,24 +363,6 @@
       "ts": "2026-11-18T17:30:00+05:30"
     },
     {
-      "title": "नमस्ते योजना ने केरल के पलक्कड़ में सफाई कर्मचारी श्री सिनु के लिए सुरक्षित कार्य परिस्थितियां और गरिमापूर्ण जीवन को बढ़ावा दिया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338090",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:27",
-      "ts": "2026-11-18T17:27:00+05:30"
-    },
-    {
-      "title": "कौशल विकास एवं उद्यमिता मंत्रालय ने दिव्यांग व्यक्तियों के लिए समावेशी कौशल विकास और आर्थिक भागीदारी को बढ़ावा देने के संबंध में संयुक्त राष्ट्र के विशेष प्रतिवेदक के साथ चर्चा की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338033",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:20",
-      "ts": "2026-11-18T17:20:00+05:30"
-    },
-    {
       "title": "New MHRA service to support medicines innovation and strengthen UK manufacturing",
       "link": "https://www.gov.uk/government/news/new-mhra-service-to-support-medicines-innovation-and-strengthen-uk-manufacturing",
       "source": "GOV.UK: News and communications",
@@ -264,15 +372,6 @@
       "ts": "2026-11-18T17:17:12+05:30"
     },
     {
-      "title": "नशीली दवाओं की मांग में कमी लाने के लिए राष्ट्रीय कार्ययोजना से नशामुक्त समाज बनाने के देश के प्रयासों को मजबूती",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338088",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:16",
-      "ts": "2026-11-18T17:16:00+05:30"
-    },
-    {
       "title": "King's Award for Voluntary Service honours groups across Wales",
       "link": "https://www.gov.uk/government/news/kings-award-for-voluntary-service-honours-groups-across-wales",
       "source": "GOV.UK: News and communications",
@@ -280,105 +379,6 @@
       "category": "Government",
       "time": "17:01",
       "ts": "2026-11-18T17:01:11+05:30"
-    },
-    {
-      "title": "Letter from the Secretary of State for Northern Ireland regarding Stormont Brake decision 2026",
-      "link": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-northern-ireland-regarding-stormont-brake-decision-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:51",
-      "ts": "2026-11-18T16:51:25+05:30"
-    },
-    {
-      "title": "सार्वजनिक क्षेत्र के बैंकों का वित्त वर्ष 2026-27 की पहली छमाही में मजबूत वित्तीय प्रदर्शन जारी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338085",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:43",
-      "ts": "2026-11-18T16:43:00+05:30"
-    },
-    {
-      "title": "पश्चिम बंगाल के कोलकाता में \"उप-राष्ट्रीय सतत विकास लक्ष्य संबंधी निगरानी को सुदृढ़ करने\" के विषय पर एक दिवसीय क्षमता विकास कार्यशाला का आयोजन",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338104",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:43",
-      "ts": "2026-11-18T16:43:00+05:30"
-    },
-    {
-      "title": "विकसित भारत के लिए बैंकिंग संबंधी उच्चस्तरीय समिति ने हितधारकों के साथ परामर्श प्रक्रिया शुरू की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337998",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:41",
-      "ts": "2026-11-18T16:41:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी जी की आतंकवाद के विरुद्ध ज़ीरो टॉलरेंस की नीति के अंतर्गत, केन्द्रीय गृह मंत्री श्री अमित शाह, 19 नवंबर 2026 को नई दिल्ली में दो दिवसीय ‘आतंकवाद-रोधी सम्मेलन’ का उद्घाटन करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337932",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:31",
-      "ts": "2026-11-18T16:31:00+05:30"
-    },
-    {
-      "title": "Study to examine skills retention in UK financial services",
-      "link": "https://www.gov.uk/government/publications/study-to-examine-skills-retention-in-uk-financial-services",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:30",
-      "ts": "2026-11-18T16:30:08+05:30"
-    },
-    {
-      "title": "Travel and leisure businesses investigated over pricing practices",
-      "link": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:30",
-      "ts": "2026-11-18T16:30:00+05:30"
-    },
-    {
-      "title": "भारत ने जलवायु अनुकूल इंफ्रास्ट्रक्चर के लिए सीडीआरआई को एक प्रमुख वैश्विक मंच के रूप में स्थापित किया; अंताल्या (तुर्किये) में सीओपी-31 के दौरान प्रतिबद्धताओं को ठोस कार्रवाई में बदलने का आह्वान किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337959",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:23",
-      "ts": "2026-11-18T16:23:00+05:30"
-    },
-    {
-      "title": "वित्तीय चुनौतियों से लेकर शैक्षणिक आकांक्षाओं तक का सफर",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337969",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:04",
-      "ts": "2026-11-18T16:04:00+05:30"
-    },
-    {
-      "title": "Tax adviser registration opens for payroll professionals",
-      "link": "https://www.gov.uk/government/news/tax-adviser-registration-opens-for-payroll-professionals",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:54",
-      "ts": "2026-11-18T15:54:10+05:30"
-    },
-    {
-      "title": "Housing and debt legal aid: help expand services in England",
-      "link": "https://www.gov.uk/government/news/housing-and-debt-legal-aid-help-expand-services-in-england",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:45",
-      "ts": "2026-11-18T15:45:17+05:30"
     }
   ],
   "health": [
@@ -828,6 +828,105 @@
       "category": "Government",
       "time": "16:43",
       "ts": "2026-11-18T16:43:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338166": {
+      "title": "भारत ने पेरिस समझौते के अंतर्गत दूसरे 'ग्लोबल स्टॉकटेक' (जीएसटी-2) को खुला, पारदर्शी और न्यायसंगत बनाने का आह्वान किया; अंताल्या (तुर्किये) में आयोजित कॉप 31 में जलवायु वित्त और प्रौद्योगिकी हस्तांतरण के लिए जवाबदेही तय करने पर बल दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338166",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:14",
+      "ts": "2026-11-18T20:14:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338145": {
+      "title": "लोक सभा अध्यक्ष ने वडनगर स्थित ऐतिहासिक श्री हटकेश्वर महादेव मंदिर में आयोजित विश्व शांति महायज्ञ में भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338145",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:56",
+      "ts": "2026-11-18T19:56:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338175": {
+      "title": "उपराष्ट्रपति श्री सी.पी. राधाकृष्णन ने केंद्रीय स्वास्थ्य मंत्री श्री जे.पी.नड्डा की उपस्थिति में वीएमएमसी और सफदरजंग अस्पताल के 8वें दीक्षांत समारोह को संबोधित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338175",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:54",
+      "ts": "2026-11-18T19:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338171": {
+      "title": "प्रधानमंत्री 19 नवंबर को सामाजिक न्याय और अधिकारिता विभाग के सम्मेलन के समापन सत्र में भाग लेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338171",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:53",
+      "ts": "2026-11-18T19:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338177": {
+      "title": "केंद्रीय स्वास्थ्य सचिव पुण्य सलिला श्रीवास्तव ने नए एम्स के कार्यकारी निदेशकों के साथ संस्थागत प्रदर्शन का आकलन करने व स्वास्थ्य सेवा डिलीवरी को मजबूत करने के लिए समीक्षा बैठक की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338177",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:52",
+      "ts": "2026-11-18T19:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338172": {
+      "title": "भारत के कम्युनिटी सीड बैंक (सीएसबी) को मज़बूत करना: डायवर्सिफ़ार्म-इंडिया ने 652 सीएसबी की मैपिंग की और नई कैपेसिटी-बिल्डिंग मैनुअल जारी की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338172",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:39",
+      "ts": "2026-11-18T19:39:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338162": {
+      "title": "डीओएसईएल के सचिव ने दिव्यांग व्यक्तियों के अधिकारों पर संयुक्त राष्ट्र के विशेष दूत के साथ एक संवाद सत्र की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338162",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:28",
+      "ts": "2026-11-18T19:28:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338164": {
+      "title": "45वें आईआईटीएफ 2026 में सामाजिक न्याय और अधिकारिता मंत्रालय के मंडप में कुल ₹ 29.56 लाख की बिक्री हुई; ग्राहकों की बढ़ती दिलचस्पी से कारीगरों के लिए आर्थिक अवसर बढ़े",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338164",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:14",
+      "ts": "2026-11-18T19:14:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338146": {
+      "title": "केंद्रीय आयुष मंत्री श्री प्रतापराव जाधव ने बुर्किना फासो के मंत्री और वहां के राष्ट्रपति के विशेष सलाहकार महामहिम श्री रोजर बारो से मुलाकात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338146",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:02",
+      "ts": "2026-11-18T19:02:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338163": {
+      "title": "पर्वत मंथन कॉन्क्लेव 2026 का समापन, हिमालयी शहरों में जलवायु अनुकूलन क्षमता, पर्यावरणीय नियोजन और नगरपालिका वित्त को मजबूत करने के लिए सुझाव प्रस्तुत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338163",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:51",
+      "ts": "2026-11-18T18:51:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338142": {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने 'विश्व रोगाणुरोधी प्रतिरोध जागरूकता सप्ताह 2026' मनाया, AMR के खिलाफ सामूहिक कार्रवाई का आह्वान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338142",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:42",
+      "ts": "2026-11-18T18:42:00+05:30"
     }
   }
 }
