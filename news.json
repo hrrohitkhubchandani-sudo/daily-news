@@ -1,7 +1,61 @@
 {
   "date": "2026-11-18",
-  "updated": "15:59",
+  "updated": "16:58",
   "items": [
+    {
+      "title": "M 5.3 - 16 km ESE of Comandău, Romania",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "16:54",
+      "ts": "2026-11-18T16:54:49+05:30"
+    },
+    {
+      "title": "Letter from the Secretary of State for Northern Ireland regarding Stormont Brake decision 2026",
+      "link": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-northern-ireland-regarding-stormont-brake-decision-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:51",
+      "ts": "2026-11-18T16:51:25+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी जी की आतंकवाद के विरुद्ध ज़ीरो टॉलरेंस की नीति के अंतर्गत, केन्द्रीय गृह मंत्री श्री अमित शाह, 19 नवंबर 2026 को नई दिल्ली में दो दिवसीय ‘आतंकवाद-रोधी सम्मेलन’ का उद्घाटन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337932",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:31",
+      "ts": "2026-11-18T16:31:00+05:30"
+    },
+    {
+      "title": "Travel and leisure businesses investigated over pricing practices",
+      "link": "https://www.gov.uk/government/news/travel-and-leisure-businesses-investigated-over-pricing-practices",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:30",
+      "ts": "2026-11-18T16:30:53+05:30"
+    },
+    {
+      "title": "Study to examine skills retention in UK financial services",
+      "link": "https://www.gov.uk/government/publications/study-to-examine-skills-retention-in-uk-financial-services",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:30",
+      "ts": "2026-11-18T16:30:08+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री 19 नवंबर को फिक्की की वार्षिक महासभा और वार्षिक सम्मेलन का उद्घाटन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337950",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:01",
+      "ts": "2026-11-18T16:01:00+05:30"
+    },
     {
       "title": "Tax adviser registration opens for payroll professionals",
       "link": "https://www.gov.uk/government/news/tax-adviser-registration-opens-for-payroll-professionals",
@@ -12,6 +66,15 @@
       "ts": "2026-11-18T15:54:10+05:30"
     },
     {
+      "title": "आसियान से यूरोप तक: एफटीए साझेदारों और अन्य बाजारों में भारत के निर्यात ने पकड़ी रफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337908",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:54",
+      "ts": "2026-11-18T15:54:00+05:30"
+    },
+    {
       "title": "Housing and debt legal aid: help expand services in England",
       "link": "https://www.gov.uk/government/news/housing-and-debt-legal-aid-help-expand-services-in-england",
       "source": "GOV.UK: News and communications",
@@ -19,15 +82,6 @@
       "category": "Government",
       "time": "15:45",
       "ts": "2026-11-18T15:45:17+05:30"
-    },
-    {
-      "title": "M 5.3 - 16 km ESE of Comandău, Romania",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "15:32",
-      "ts": "2026-11-18T15:32:24+05:30"
     },
     {
       "title": "UKHSA cold-health alerts winter 2026/27",
@@ -82,6 +136,15 @@
       "category": "Government",
       "time": "14:34",
       "ts": "2026-11-18T14:34:47+05:30"
+    },
+    {
+      "title": "57वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) भारतीय सिनेमा की समृद्धि के साथ ‘मिशन लाइफ’ को भी प्रदर्शित करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337926",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:34",
+      "ts": "2026-11-18T14:34:00+05:30"
     },
     {
       "title": "New Chair appointed to the Law Commission of England and Wales",
@@ -261,7 +324,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 15,
+      "today": 19,
       "note": ""
     },
     {
@@ -317,7 +380,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 12,
+      "today": 15,
       "note": ""
     },
     {
@@ -486,6 +549,42 @@
       "category": "Government",
       "time": "12:30",
       "ts": "2026-11-18T12:30:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337932": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी जी की आतंकवाद के विरुद्ध ज़ीरो टॉलरेंस की नीति के अंतर्गत, केन्द्रीय गृह मंत्री श्री अमित शाह, 19 नवंबर 2026 को नई दिल्ली में दो दिवसीय ‘आतंकवाद-रोधी सम्मेलन’ का उद्घाटन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337932",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:31",
+      "ts": "2026-11-18T16:31:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337950": {
+      "title": "प्रधानमंत्री 19 नवंबर को फिक्की की वार्षिक महासभा और वार्षिक सम्मेलन का उद्घाटन करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337950",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:01",
+      "ts": "2026-11-18T16:01:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337908": {
+      "title": "आसियान से यूरोप तक: एफटीए साझेदारों और अन्य बाजारों में भारत के निर्यात ने पकड़ी रफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337908",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:54",
+      "ts": "2026-11-18T15:54:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337926": {
+      "title": "57वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) भारतीय सिनेमा की समृद्धि के साथ ‘मिशन लाइफ’ को भी प्रदर्शित करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337926",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:34",
+      "ts": "2026-11-18T14:34:00+05:30"
     }
   }
 }
