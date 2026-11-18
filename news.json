@@ -1,7 +1,16 @@
 {
   "date": "2026-11-18",
-  "updated": "08:48",
+  "updated": "09:56",
   "items": [
+    {
+      "title": "श्री शिवराज सिंह चौहान 20 नवम्‍बर को भारत की पहली स्वदेशी एच5एन1 (क्लेड 2.3.2.1a) चिकन वैक्सीन करेंगे राष्‍ट्र को समर्पित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337717",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:38",
+      "ts": "2026-11-18T09:38:00+05:30"
+    },
     {
       "title": "Government fires starting gun on new settlement for young people",
       "link": "https://www.gov.uk/government/news/government-fires-starting-gun-on-new-settlement-for-young-people",
@@ -18,7 +27,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -106,6 +115,16 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337582": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337471": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337430": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337484": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337484": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337717": {
+      "title": "श्री शिवराज सिंह चौहान 20 नवम्‍बर को भारत की पहली स्वदेशी एच5एन1 (क्लेड 2.3.2.1a) चिकन वैक्सीन करेंगे राष्‍ट्र को समर्पित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337717",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:38",
+      "ts": "2026-11-18T09:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337715": null
   }
 }
