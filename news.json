@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "updated": "13:40",
+  "updated": "14:58",
   "items": [
     {
       "title": "M 5.3 - 16 km ESE of Comandău, Romania",
@@ -8,8 +8,53 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "13:36",
-      "ts": "2026-11-18T13:36:28+05:30"
+      "time": "14:47",
+      "ts": "2026-11-18T14:47:08+05:30"
+    },
+    {
+      "title": "Grave of missing Shropshire soldier identified in France",
+      "link": "https://www.gov.uk/government/news/grave-of-missing-shropshire-soldier-identified-in-france",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:34",
+      "ts": "2026-11-18T14:34:47+05:30"
+    },
+    {
+      "title": "New Chair appointed to the Law Commission of England and Wales",
+      "link": "https://www.gov.uk/government/news/new-chair-appointed-to-the-law-commission-of-england-and-wales",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-18T14:30:07+05:30"
+    },
+    {
+      "title": "Identity verification is making the UK's company register more trustworthy",
+      "link": "https://www.gov.uk/government/news/identity-verification-is-making-the-uks-company-register-more-trustworthy",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-18T14:30:07+05:30"
+    },
+    {
+      "title": "निवेशक शिकायतों और दावा रहित लाभांश मामलों के समाधान के लिए आईईपीएफए और सेबी ने नई दिल्ली में ‘निवेशक शिविर’ का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337854",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:29",
+      "ts": "2026-11-18T13:29:00+05:30"
+    },
+    {
+      "title": "डॉ. मनसुख मांडविया ने विश्वविद्यालयों को केंद्र में रखकर एकीकृत राष्ट्रीय खेल पारिस्थितिकी तंत्र विकसित करने का आहवान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337840",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:26",
+      "ts": "2026-11-18T13:26:00+05:30"
     },
     {
       "title": "विशेष अभियान 6: जल संसाधन, नदी विकास और गंगा संरक्षण विभाग की उपलब्धियां",
@@ -108,7 +153,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 8,
       "note": ""
     },
     {
@@ -164,7 +209,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 7,
       "note": ""
     },
     {
@@ -252,6 +297,24 @@
       "category": "Government",
       "time": "11:00",
       "ts": "2026-11-18T11:00:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337854": {
+      "title": "निवेशक शिकायतों और दावा रहित लाभांश मामलों के समाधान के लिए आईईपीएफए और सेबी ने नई दिल्ली में ‘निवेशक शिविर’ का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337854",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:29",
+      "ts": "2026-11-18T13:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337840": {
+      "title": "डॉ. मनसुख मांडविया ने विश्वविद्यालयों को केंद्र में रखकर एकीकृत राष्ट्रीय खेल पारिस्थितिकी तंत्र विकसित करने का आहवान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337840",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:26",
+      "ts": "2026-11-18T13:26:00+05:30"
     }
   }
 }
