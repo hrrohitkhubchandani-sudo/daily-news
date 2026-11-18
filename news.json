@@ -1,15 +1,78 @@
 {
   "date": "2026-11-18",
-  "updated": "14:58",
+  "updated": "15:59",
   "items": [
+    {
+      "title": "Tax adviser registration opens for payroll professionals",
+      "link": "https://www.gov.uk/government/news/tax-adviser-registration-opens-for-payroll-professionals",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:54",
+      "ts": "2026-11-18T15:54:10+05:30"
+    },
+    {
+      "title": "Housing and debt legal aid: help expand services in England",
+      "link": "https://www.gov.uk/government/news/housing-and-debt-legal-aid-help-expand-services-in-england",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:45",
+      "ts": "2026-11-18T15:45:17+05:30"
+    },
     {
       "title": "M 5.3 - 16 km ESE of Comandău, Romania",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "14:47",
-      "ts": "2026-11-18T14:47:08+05:30"
+      "time": "15:32",
+      "ts": "2026-11-18T15:32:24+05:30"
+    },
+    {
+      "title": "UKHSA cold-health alerts winter 2026/27",
+      "link": "https://www.gov.uk/government/news/ukhsa-issues-first-cold-health-alert-of-winter-202627",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:24",
+      "ts": "2026-11-18T15:24:54+05:30"
+    },
+    {
+      "title": "New MHRA service to support medicines innovation and strengthen UK manufacturing",
+      "link": "https://www.gov.uk/government/news/new-mhra-service-to-support-medicines-innovation-and-strengthen-uk-manufacturing",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:12",
+      "ts": "2026-11-18T15:12:00+05:30"
+    },
+    {
+      "title": "UK House Price Index for September 2026",
+      "link": "https://www.gov.uk/government/news/uk-house-price-index-for-september-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-18T15:00:00+05:30"
+    },
+    {
+      "title": "केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने रोम में इटली की प्रमुख कंपनियों के मुख्य कार्यकारी अधिकारियों के साथ बैठकें कीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337888",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:52",
+      "ts": "2026-11-18T14:52:00+05:30"
+    },
+    {
+      "title": "आईएफएफआई 2026 में सर्वश्रेष्ठ वेब सीरीज पुरस्कार के लिए पांच वेब सीरीज नामांकित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337892",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:40",
+      "ts": "2026-11-18T14:40:00+05:30"
     },
     {
       "title": "Grave of missing Shropshire soldier identified in France",
@@ -39,6 +102,24 @@
       "ts": "2026-11-18T14:30:07+05:30"
     },
     {
+      "title": "डीआरआई ने दिल्ली में अवैध मादक पदार्थ निर्माण प्रयोगशाला का भंडाफोड़ कर 148 किलोग्राम अल्प्राजोलम इंटरमीडिएट तथा 1,046 किलोग्राम से अधिक कच्चा माल और रसायन जब्त किए; एक व्यक्ति गिरफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337881",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:27",
+      "ts": "2026-11-18T14:27:00+05:30"
+    },
+    {
+      "title": "57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव में पहली बार ‘फिल्म्स अबाउट फिल्म्स’ नामक विशेष खंड की शुरुआत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337891",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:26",
+      "ts": "2026-11-18T14:26:00+05:30"
+    },
+    {
       "title": "निवेशक शिकायतों और दावा रहित लाभांश मामलों के समाधान के लिए आईईपीएफए और सेबी ने नई दिल्ली में ‘निवेशक शिविर’ का आयोजन किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337854",
       "source": "PIB, Government of India (Hindi)",
@@ -48,6 +129,15 @@
       "ts": "2026-11-18T13:29:00+05:30"
     },
     {
+      "title": "वाणिज्य विभाग ने निर्यातकों के लिए समर्थन बढ़ाने के लिए निर्यात संवर्धन मिशन के तहत चार हस्तक्षेपों के दिशानिर्देशों में संशोधन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337893",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:27",
+      "ts": "2026-11-18T13:27:00+05:30"
+    },
+    {
       "title": "डॉ. मनसुख मांडविया ने विश्वविद्यालयों को केंद्र में रखकर एकीकृत राष्ट्रीय खेल पारिस्थितिकी तंत्र विकसित करने का आहवान किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337840",
       "source": "PIB, Government of India (Hindi)",
@@ -55,6 +145,24 @@
       "category": "Government",
       "time": "13:26",
       "ts": "2026-11-18T13:26:00+05:30"
+    },
+    {
+      "title": "एनिमेशन आधारित कहानी कहने की कला और भावनात्मक गहराई प्रदर्शित करने के लिए 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) 2026 में नई एनिमेशन श्रेणी की शुरुआत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337889",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:09",
+      "ts": "2026-11-18T13:09:00+05:30"
+    },
+    {
+      "title": "नई दिल्ली में आयोजित तीसरे डीएचआर-आईसीएमआर स्वास्थ्य अनुसंधान उत्कृष्टता शिखर सम्मेलन में 600 से अधिक वैज्ञानिकों, शोधकर्ताओं और नीति-निर्माताओं ने भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337876",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:30",
+      "ts": "2026-11-18T12:30:00+05:30"
     },
     {
       "title": "विशेष अभियान 6: जल संसाधन, नदी विकास और गंगा संरक्षण विभाग की उपलब्धियां",
@@ -153,7 +261,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 15,
       "note": ""
     },
     {
@@ -209,7 +317,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 12,
       "note": ""
     },
     {
@@ -315,6 +423,69 @@
       "category": "Government",
       "time": "13:26",
       "ts": "2026-11-18T13:26:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337888": {
+      "title": "केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल ने रोम में इटली की प्रमुख कंपनियों के मुख्य कार्यकारी अधिकारियों के साथ बैठकें कीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337888",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:52",
+      "ts": "2026-11-18T14:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337892": {
+      "title": "आईएफएफआई 2026 में सर्वश्रेष्ठ वेब सीरीज पुरस्कार के लिए पांच वेब सीरीज नामांकित",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337892",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:40",
+      "ts": "2026-11-18T14:40:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337881": {
+      "title": "डीआरआई ने दिल्ली में अवैध मादक पदार्थ निर्माण प्रयोगशाला का भंडाफोड़ कर 148 किलोग्राम अल्प्राजोलम इंटरमीडिएट तथा 1,046 किलोग्राम से अधिक कच्चा माल और रसायन जब्त किए; एक व्यक्ति गिरफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337881",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:27",
+      "ts": "2026-11-18T14:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337891": {
+      "title": "57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव में पहली बार ‘फिल्म्स अबाउट फिल्म्स’ नामक विशेष खंड की शुरुआत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337891",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:26",
+      "ts": "2026-11-18T14:26:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337893": {
+      "title": "वाणिज्य विभाग ने निर्यातकों के लिए समर्थन बढ़ाने के लिए निर्यात संवर्धन मिशन के तहत चार हस्तक्षेपों के दिशानिर्देशों में संशोधन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337893",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:27",
+      "ts": "2026-11-18T13:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337889": {
+      "title": "एनिमेशन आधारित कहानी कहने की कला और भावनात्मक गहराई प्रदर्शित करने के लिए 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) 2026 में नई एनिमेशन श्रेणी की शुरुआत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337889",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:09",
+      "ts": "2026-11-18T13:09:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337876": {
+      "title": "नई दिल्ली में आयोजित तीसरे डीएचआर-आईसीएमआर स्वास्थ्य अनुसंधान उत्कृष्टता शिखर सम्मेलन में 600 से अधिक वैज्ञानिकों, शोधकर्ताओं और नीति-निर्माताओं ने भाग लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337876",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:30",
+      "ts": "2026-11-18T12:30:00+05:30"
     }
   }
 }
