@@ -1,7 +1,43 @@
 {
   "date": "2026-11-18",
-  "updated": "10:59",
+  "updated": "12:02",
   "items": [
+    {
+      "title": "Australia-United Kingdom Joint Communiqué on the 2nd Strategic Innovation Dialogue",
+      "link": "https://www.gov.uk/government/news/australia-united-kingdom-joint-communique-on-the-2nd-strategic-innovation-dialogue",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "11:00",
+      "ts": "2026-11-18T11:00:02+05:30"
+    },
+    {
+      "title": "Joint statement between Australia and the UK on life sciences and biotechnology cooperation",
+      "link": "https://www.gov.uk/government/news/joint-statement-between-australia-and-the-uk-on-life-sciences-and-biotechnology-cooperation",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "11:00",
+      "ts": "2026-11-18T11:00:02+05:30"
+    },
+    {
+      "title": "भारत का पवन ऊर्जा परिवर्तन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337737",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:00",
+      "ts": "2026-11-18T11:00:00+05:30"
+    },
+    {
+      "title": "Invitation to tender: UK–Malaysia semiconductor collaboration and company matching study",
+      "link": "https://www.gov.uk/government/news/invitation-to-tender-uk-malaysia-semiconductor-collaboration-and-company-matching-study",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "10:57",
+      "ts": "2026-11-18T10:57:40+05:30"
+    },
     {
       "title": "ग्रामीण विकास मंत्रालय ने विकसित भारत- जी राम जी अधिनियम अंतर्गत पारदर्शिता एवं जवाबदेही को सुदृढ़ करने के लिए लोकपाल संबंधी दिशानिर्देश जारी किए",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337721",
@@ -36,7 +72,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -92,7 +128,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 4,
       "note": ""
     },
     {
@@ -144,6 +180,15 @@
       "time": "10:29",
       "ts": "2026-11-18T10:29:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337733": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337733": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337737": {
+      "title": "भारत का पवन ऊर्जा परिवर्तन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337737",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:00",
+      "ts": "2026-11-18T11:00:00+05:30"
+    }
   }
 }
