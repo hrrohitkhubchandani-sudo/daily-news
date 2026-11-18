@@ -1,7 +1,16 @@
 {
   "date": "2026-11-19",
-  "updated": "02:14",
+  "updated": "03:13",
   "items": [
+    {
+      "title": "M 5.3 - 16 km ESE of Comandău, Romania",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "02:22",
+      "ts": "2026-11-19T02:22:16+05:30"
+    },
     {
       "title": "New Champion to give unpaid carers a stronger voice",
       "link": "https://www.gov.uk/government/news/new-champion-to-give-unpaid-carers-a-stronger-voice",
@@ -28,15 +37,6 @@
       "category": "Economy",
       "time": "00:30",
       "ts": "2026-11-19T00:30:00+05:30"
-    },
-    {
-      "title": "M 5.3 - 16 km ESE of Comandău, Romania",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "00:12",
-      "ts": "2026-11-19T00:12:26+05:30"
     }
   ],
   "health": [
