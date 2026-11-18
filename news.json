@@ -1,7 +1,25 @@
 {
   "date": "2026-11-19",
-  "updated": "03:13",
+  "updated": "04:12",
   "items": [
+    {
+      "title": "Beginning of the end for thousand year old leasehold system",
+      "link": "https://www.gov.uk/government/news/beginning-of-the-end-for-thousand-year-old-leasehold-system",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-19T04:00:04+05:30"
+    },
+    {
+      "title": "1000 long range strike drones announced for Ukraine as Prime Minister co-chairs Coalition of the Willing in Berlin",
+      "link": "https://www.gov.uk/government/news/1000-long-range-strike-drones-announced-for-ukraine-as-prime-minister-co-chairs-coalition-of-the-willing-in-berlin",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-19T04:00:04+05:30"
+    },
     {
       "title": "M 5.3 - 16 km ESE of Comandău, Romania",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
@@ -101,7 +119,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
