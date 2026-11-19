@@ -1,7 +1,43 @@
 {
   "date": "2026-11-19",
-  "updated": "16:21",
+  "updated": "17:19",
   "items": [
+    {
+      "title": "Strengthening resilience through economic and environmental co-operation: UK statement to the OSCE, November 2026",
+      "link": "https://www.gov.uk/government/speeches/strengthening-resilience-through-economic-and-environmental-co-operation-uk-statement-to-the-osce-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:54",
+      "ts": "2026-11-19T16:54:18+05:30"
+    },
+    {
+      "title": "Russia’s energy attacks deepen humanitarian and nuclear risks in Ukraine: UK statement to the OSCE",
+      "link": "https://www.gov.uk/government/speeches/russias-energy-attacks-deepen-humanitarian-and-nuclear-risks-in-ukraine-uk-statement-to-the-osce",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:27",
+      "ts": "2026-11-19T16:27:20+05:30"
+    },
+    {
+      "title": "सड़क परिवहन और राजमार्ग मंत्रालय ने वाहनों की आयु और उत्सर्जन मानकों के आधार पर प्रदूषण नियंत्रण प्रमाणपत्रों की वैधता अवधि में संशोधन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338550",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:12",
+      "ts": "2026-11-19T16:12:00+05:30"
+    },
+    {
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह कल नई दिल्ली में स्वामित्व योजना की राष्ट्रीय समीक्षा बैठक की अध्यक्षता करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338473",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:35",
+      "ts": "2026-11-19T15:35:00+05:30"
+    },
     {
       "title": "CMA provisionally finds that viagogo may have broken the law on hidden fees",
       "link": "https://www.gov.uk/government/news/cma-provisionally-finds-that-viagogo-may-have-broken-the-law-on-hidden-fees",
@@ -291,24 +327,6 @@
       "ts": "2026-11-19T11:09:00+05:30"
     },
     {
-      "title": "वैज्ञानिक तथा औद्योगिक अनुसंधान परिषद (सीएसआईआर) ने स्वदेशी प्रौद्योगिकियों को व्यावसायीकरण में तेजी लाने और सतत विकास को बढ़ावा देने के लिए उद्योगों को सौंपा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338416",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:08",
-      "ts": "2026-11-19T11:08:00+05:30"
-    },
-    {
-      "title": "पीएम स्वनिधि सम्मान पुरस्कार 2026 के माध्यम से रेहड़ी-पटरी विक्रेताओं की आजीविका को सशक्त बनाने में उत्कृष्ट योगदान करने वालों को सम्मानित किया जाएगा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338341",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:06",
-      "ts": "2026-11-19T11:06:00+05:30"
-    },
-    {
       "title": "Sport and in-person gaming used to help tackle loneliness among boys and young men",
       "link": "https://www.gov.uk/government/news/sport-and-in-person-gaming-used-to-help-tackle-loneliness-among-boys-and-young-men",
       "source": "GOV.UK: News and communications",
@@ -343,24 +361,6 @@
       "category": "Government",
       "time": "05:31",
       "ts": "2026-11-19T05:31:00+05:30"
-    },
-    {
-      "title": "UK and Irish Governments to discuss legacy of the Troubles at key meeting",
-      "link": "https://www.gov.uk/government/news/uk-and-irish-governments-to-discuss-legacy-of-the-troubles-at-key-meeting",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-19T05:31:00+05:30"
-    },
-    {
-      "title": "Beginning of the end for thousand year old leasehold system",
-      "link": "https://www.gov.uk/government/news/beginning-of-the-end-for-thousand-year-old-leasehold-system",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "04:00",
-      "ts": "2026-11-19T04:00:04+05:30"
     },
     {
       "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -664,6 +664,24 @@
       "category": "Government",
       "time": "11:08",
       "ts": "2026-11-19T11:08:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338550": {
+      "title": "सड़क परिवहन और राजमार्ग मंत्रालय ने वाहनों की आयु और उत्सर्जन मानकों के आधार पर प्रदूषण नियंत्रण प्रमाणपत्रों की वैधता अवधि में संशोधन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338550",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:12",
+      "ts": "2026-11-19T16:12:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338473": {
+      "title": "केंद्रीय मंत्री श्री राजीव रंजन सिंह कल नई दिल्ली में स्वामित्व योजना की राष्ट्रीय समीक्षा बैठक की अध्यक्षता करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338473",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:35",
+      "ts": "2026-11-19T15:35:00+05:30"
     }
   }
 }
