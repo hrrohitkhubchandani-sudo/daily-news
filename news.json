@@ -1,7 +1,16 @@
 {
   "date": "2026-11-20",
-  "updated": "00:59",
+  "updated": "01:56",
   "items": [
+    {
+      "title": "Crimea is Ukraine: UK statement at the UN Third Committee",
+      "link": "https://www.gov.uk/government/speeches/crimea-is-ukraine-uk-statement-at-the-un-third-committee--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "01:50",
+      "ts": "2026-11-20T01:50:27+05:30"
+    },
     {
       "title": "Crimea is Ukraine: UK statement at the UN Third Committee",
       "link": "https://www.gov.uk/government/speeches/crimea-is-ukraine-uk-statement-at-the-un-third-committee",
@@ -74,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
