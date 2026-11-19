@@ -1,15 +1,51 @@
 {
   "date": "2026-11-19",
-  "updated": "05:11",
+  "updated": "06:21",
   "items": [
     {
-      "title": "M 5.3 - 16 km ESE of Comandău, Romania",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "04:33",
-      "ts": "2026-11-19T04:33:58+05:30"
+      "title": "Sport and in-person gaming used to help tackle loneliness among boys and young men",
+      "link": "https://www.gov.uk/government/news/sport-and-in-person-gaming-used-to-help-tackle-loneliness-among-boys-and-young-men",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-19T05:31:00+05:30"
+    },
+    {
+      "title": "Bayesian report and safety flyer published",
+      "link": "https://www.gov.uk/government/news/bayesian-report-and-safety-flyer-published",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-19T05:31:00+05:30"
+    },
+    {
+      "title": "First-ever Lifelong Guardianship Ceremonies for care leavers",
+      "link": "https://www.gov.uk/government/news/first-ever-lifelong-guardianship-ceremonies-for-care-leavers",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-19T05:31:00+05:30"
+    },
+    {
+      "title": "Environment Secretary launches £43 million schemes to test farming tech, boost climate resilience and build reservoirs",
+      "link": "https://www.gov.uk/government/news/environment-secretary-launches-43-million-schemes-to-test-farming-tech-boost-climate-resilience-and-build-reservoirs",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-19T05:31:00+05:30"
+    },
+    {
+      "title": "UK and Irish Governments to discuss legacy of the Troubles at key meeting",
+      "link": "https://www.gov.uk/government/news/uk-and-irish-governments-to-discuss-legacy-of-the-troubles-at-key-meeting",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-19T05:31:00+05:30"
     },
     {
       "title": "Beginning of the end for thousand year old leasehold system",
@@ -109,17 +145,17 @@
     {
       "name": "USGS: Significant earthquakes",
       "country": "World",
-      "ok": true,
-      "entries": 1,
-      "today": 1,
-      "note": ""
+      "ok": false,
+      "entries": 0,
+      "today": 0,
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 9,
       "note": ""
     },
     {
