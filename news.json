@@ -1,7 +1,52 @@
 {
   "date": "2026-11-19",
-  "updated": "12:27",
+  "updated": "13:48",
   "items": [
+    {
+      "title": "Russia cannot bomb its way to victory: UK statement to the OSCE",
+      "link": "https://www.gov.uk/government/speeches/russia-cannot-bomb-its-way-to-victory-uk-statement-to-the-osce",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:35",
+      "ts": "2026-11-19T12:35:05+05:30"
+    },
+    {
+      "title": "भारतीय वायु सेना एवं केंद्रीय संस्कृत विश्वविद्यालय, नई दिल्ली के बीच समझौता ज्ञापन पर हस्‍ताक्षर किए गए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338339",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:27",
+      "ts": "2026-11-19T12:27:00+05:30"
+    },
+    {
+      "title": "भाषिणी ने दक्षिण 2026 में वॉयस-फर्स्ट एआई और बहुभाषी क्षमताओं का प्रदर्शन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338324",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-19T11:38:00+05:30"
+    },
+    {
+      "title": "भविष्य के फिल्मकारों को संवारने की पहल: CMOT ने 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) में 100 युवा रचनात्मक प्रतिभाओं को मंच प्रदान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338300",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:29",
+      "ts": "2026-11-19T11:29:00+05:30"
+    },
+    {
+      "title": "पीएम स्वनिधि सम्मान पुरस्कार 2026 के माध्यम से रेहड़ी-पटरी विक्रेताओं की आजीविका को सशक्त बनाने में उत्कृष्ट योगदान करने वालों को सम्मानित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338341",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:06",
+      "ts": "2026-11-19T11:06:00+05:30"
+    },
     {
       "title": "केंद्रीय स्वास्थ्य मंत्रालय ने एंटीमाइक्रोबियल्स को केंद्रीय नियामक निगरानी के दायरे में लाने के लिए नई औषधियां और नैदानिक परीक्षण नियम, 2019 में संशोधन का प्रस्ताव किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338285",
@@ -84,13 +129,13 @@
       "ts": "2026-11-19T04:00:04+05:30"
     },
     {
-      "title": "New Champion to give unpaid carers a stronger voice",
+      "title": "New champion to give unpaid carers a stronger voice",
       "link": "https://www.gov.uk/government/news/new-champion-to-give-unpaid-carers-a-stronger-voice",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
       "time": "00:50",
-      "ts": "2026-11-19T00:50:10+05:30"
+      "ts": "2026-11-19T00:50:00+05:30"
     },
     {
       "title": "UK-EU Summit package - factsheet and mythbuster",
@@ -117,7 +162,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 6,
       "note": ""
     },
     {
@@ -173,7 +218,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 9,
+      "today": 10,
       "note": ""
     },
     {
@@ -223,6 +268,42 @@
       "category": "Government",
       "time": "10:29",
       "ts": "2026-11-19T10:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338339": {
+      "title": "भारतीय वायु सेना एवं केंद्रीय संस्कृत विश्वविद्यालय, नई दिल्ली के बीच समझौता ज्ञापन पर हस्‍ताक्षर किए गए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338339",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:27",
+      "ts": "2026-11-19T12:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338324": {
+      "title": "भाषिणी ने दक्षिण 2026 में वॉयस-फर्स्ट एआई और बहुभाषी क्षमताओं का प्रदर्शन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338324",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-19T11:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338300": {
+      "title": "भविष्य के फिल्मकारों को संवारने की पहल: CMOT ने 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) में 100 युवा रचनात्मक प्रतिभाओं को मंच प्रदान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338300",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:29",
+      "ts": "2026-11-19T11:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338341": {
+      "title": "पीएम स्वनिधि सम्मान पुरस्कार 2026 के माध्यम से रेहड़ी-पटरी विक्रेताओं की आजीविका को सशक्त बनाने में उत्कृष्ट योगदान करने वालों को सम्मानित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338341",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:06",
+      "ts": "2026-11-19T11:06:00+05:30"
     }
   }
 }
