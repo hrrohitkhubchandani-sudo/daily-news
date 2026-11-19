@@ -1,7 +1,25 @@
 {
   "date": "2026-11-19",
-  "updated": "11:02",
+  "updated": "12:27",
   "items": [
+    {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने एंटीमाइक्रोबियल्स को केंद्रीय नियामक निगरानी के दायरे में लाने के लिए नई औषधियां और नैदानिक परीक्षण नियम, 2019 में संशोधन का प्रस्ताव किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338285",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:31",
+      "ts": "2026-11-19T10:31:00+05:30"
+    },
+    {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने बल्‍क दवाओं के थोक विक्रय के लिए अलग लाइसेंसिंग ढांचा प्रस्तावित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338288",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:29",
+      "ts": "2026-11-19T10:29:00+05:30"
+    },
     {
       "title": "Sport and in-person gaming used to help tackle loneliness among boys and young men",
       "link": "https://www.gov.uk/government/news/sport-and-in-person-gaming-used-to-help-tackle-loneliness-among-boys-and-young-men",
@@ -99,7 +117,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -187,6 +205,24 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338080": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338109": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338091": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338095": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338095": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338285": {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने एंटीमाइक्रोबियल्स को केंद्रीय नियामक निगरानी के दायरे में लाने के लिए नई औषधियां और नैदानिक परीक्षण नियम, 2019 में संशोधन का प्रस्ताव किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338285",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:31",
+      "ts": "2026-11-19T10:31:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338288": {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने बल्‍क दवाओं के थोक विक्रय के लिए अलग लाइसेंसिंग ढांचा प्रस्तावित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338288",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:29",
+      "ts": "2026-11-19T10:29:00+05:30"
+    }
   }
 }
