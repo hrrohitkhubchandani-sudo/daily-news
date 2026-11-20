@@ -1,15 +1,78 @@
 {
   "date": "2026-11-20",
-  "updated": "16:57",
+  "updated": "17:54",
   "items": [
+    {
+      "title": "M 4.4 - 1 km NNW of Commerce, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "17:48",
+      "ts": "2026-11-20T17:48:36+05:30"
+    },
     {
       "title": "M 5.0 - 10 km NW of Pinnacles, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "16:55",
-      "ts": "2026-11-20T16:55:23+05:30"
+      "time": "17:35",
+      "ts": "2026-11-20T17:35:25+05:30"
+    },
+    {
+      "title": "CMA response to Consumer Services Code Review consultations",
+      "link": "https://www.gov.uk/government/publications/cma-response-to-consumer-services-code-review-consultations",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:30",
+      "ts": "2026-11-20T17:30:41+05:30"
+    },
+    {
+      "title": "Member reappointed to the Treasure Valuation Committee",
+      "link": "https://www.gov.uk/government/news/member-reappointed-to-the-treasure-valuation-committee",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:30",
+      "ts": "2026-11-20T17:30:00+05:30"
+    },
+    {
+      "title": "Sports stadiums and supermarkets drive 2026 solar revolution",
+      "link": "https://www.gov.uk/government/news/sports-stadiums-and-supermarkets-drive-2026-solar-revolution",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:29",
+      "ts": "2026-11-20T17:29:16+05:30"
+    },
+    {
+      "title": "एनआईआरडीपीआर, हैदराबाद में राजभाषा निरीक्षण समिति द्वारा हिंदी अनुभाग का निरीक्षण",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339147",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:27",
+      "ts": "2026-11-20T17:27:00+05:30"
+    },
+    {
+      "title": "UK and Kenya celebrate a landmark year for sport at King's Birthday Party in Nairobi",
+      "link": "https://www.gov.uk/government/news/uk-and-kenya-celebrate-a-landmark-year-for-sport-at-kings-birthday-party-in-nairobi",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:15",
+      "ts": "2026-11-20T17:15:47+05:30"
+    },
+    {
+      "title": "Technology company to pay £2.5m penalty to taxpayers",
+      "link": "https://www.gov.uk/government/news/technology-company-to-pay-25m-penalty-to-taxpayers",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:14",
+      "ts": "2026-11-20T17:14:38+05:30"
     },
     {
       "title": "Career Insight: From Pupil Barrister to HMRC Lawyer",
@@ -46,6 +109,15 @@
       "category": "Government",
       "time": "16:30",
       "ts": "2026-11-20T16:30:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री 21 नवम्‍बर को पश्चिम बंगाल और उत्तर प्रदेश का दौरा करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339174",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:18",
+      "ts": "2026-11-20T16:18:00+05:30"
     },
     {
       "title": "Sellafield awards two contracts to local company",
@@ -165,6 +237,15 @@
       "ts": "2026-11-20T15:15:00+05:30"
     },
     {
+      "title": "बांधवगढ़ टाइगर रिजर्व की आर्द्रभूमि (वेटलैंड) के परागकण उष्णकटिबंधीय वन पारिस्थितिकी तंत्र की पुनर्जीवन क्षमता को दर्शाते हैं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339130",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:13",
+      "ts": "2026-11-20T15:13:00+05:30"
+    },
+    {
       "title": "Ofqual fines AQA £350,000 over repeated errors in braille assessments",
       "link": "https://www.gov.uk/government/news/ofqual-fines-aqa-350000-over-repeated-errors-in-braille-assessments",
       "source": "GOV.UK: News and communications",
@@ -208,15 +289,6 @@
       "category": "Government",
       "time": "14:35",
       "ts": "2026-11-20T14:35:00+05:30"
-    },
-    {
-      "title": "Grants up to £45 million boost UK growth as Ministry of Defence funds national munitions production",
-      "link": "https://www.gov.uk/government/news/grants-up-to-45-million-boost-uk-growth-as-ministry-of-defence-funds-national-munitions-production",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "14:30",
-      "ts": "2026-11-20T14:30:04+05:30"
     },
     {
       "title": "भारत की राष्ट्रपति अटल बिहारी वाजपेयी आयुर्विज्ञान संस्थान एवं डॉ. राम मनोहर लोहिया अस्पताल के 12वें दीक्षांत समारोह में शामिल हुईं",
@@ -282,15 +354,6 @@
       "ts": "2026-11-20T13:31:00+05:30"
     },
     {
-      "title": "HMCTS appoints new non-executive director",
-      "link": "https://www.gov.uk/government/news/hmcts-appoints-new-non-executive-director--2",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "13:30",
-      "ts": "2026-11-20T13:30:00+05:30"
-    },
-    {
       "title": "प्रधानमंत्री ने माता-पिता का सम्मान और आदर करने को एक अनिवार्य जिम्मेदारी के रूप में रेखांकित करने वाला संस्कृत सुभाषितम् साझा किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338967",
       "source": "PIB, Government of India (Hindi)",
@@ -316,60 +379,6 @@
       "category": "Government",
       "time": "12:53",
       "ts": "2026-11-20T12:53:00+05:30"
-    },
-    {
-      "title": "भारतीय खेतों से वैश्विक बाज़ारों तक: कृषि निर्यात में आई तेज़ी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338909",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:32",
-      "ts": "2026-11-20T12:32:00+05:30"
-    },
-    {
-      "title": "एनएफडीसी ने स्वयं के साथ साझेदारी करके 57वें इफ्फी को सभी के लिए सुलभ और समावेशी बनाया।",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338941",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:12",
-      "ts": "2026-11-20T12:12:00+05:30"
-    },
-    {
-      "title": "UK celebrates King's birthday in Islamabad with a night of British and Pakistani design",
-      "link": "https://www.gov.uk/government/news/uk-celebrates-kings-birthday-in-islamabad-with-a-night-of-british-and-pakistani-design",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "12:07",
-      "ts": "2026-11-20T12:07:55+05:30"
-    },
-    {
-      "title": "Prime Minister in Brussels to deliver deal that cuts costs for Britain",
-      "link": "https://www.gov.uk/government/news/prime-minister-in-brussels-to-deliver-deal-that-cuts-costs-for-britain",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "12:06",
-      "ts": "2026-11-20T12:06:46+05:30"
-    },
-    {
-      "title": "ट्राइफेड ने जनजातीय उद्यमिता और स्वदेशी उत्पादों को बढ़ावा देने के लिए दिल्ली हाट, आईएनए में आदि महोत्सव 2026 का आयोजन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338952",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:50",
-      "ts": "2026-11-20T11:50:00+05:30"
-    },
-    {
-      "title": "Government’s top AI engineers to help Liverpool’s young people into work",
-      "link": "https://www.gov.uk/government/news/governments-top-ai-engineers-to-help-liverpools-young-people-into-work",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-20T05:31:03+05:30"
     }
   ],
   "health": [
@@ -425,8 +434,8 @@
       "name": "USGS: Significant earthquakes",
       "country": "World",
       "ok": true,
-      "entries": 1,
-      "today": 1,
+      "entries": 2,
+      "today": 2,
       "note": ""
     },
     {
@@ -699,6 +708,33 @@
       "category": "Government",
       "time": "13:53",
       "ts": "2026-11-20T13:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339147": {
+      "title": "एनआईआरडीपीआर, हैदराबाद में राजभाषा निरीक्षण समिति द्वारा हिंदी अनुभाग का निरीक्षण",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339147",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:27",
+      "ts": "2026-11-20T17:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339174": {
+      "title": "प्रधानमंत्री 21 नवम्‍बर को पश्चिम बंगाल और उत्तर प्रदेश का दौरा करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339174",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:18",
+      "ts": "2026-11-20T16:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339130": {
+      "title": "बांधवगढ़ टाइगर रिजर्व की आर्द्रभूमि (वेटलैंड) के परागकण उष्णकटिबंधीय वन पारिस्थितिकी तंत्र की पुनर्जीवन क्षमता को दर्शाते हैं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339130",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:13",
+      "ts": "2026-11-20T15:13:00+05:30"
     }
   }
 }
