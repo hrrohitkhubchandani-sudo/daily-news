@@ -1,7 +1,25 @@
 {
   "date": "2026-11-20",
-  "updated": "04:43",
+  "updated": "05:39",
   "items": [
+    {
+      "title": "Government’s top AI engineers to help Liverpool’s young people into work",
+      "link": "https://www.gov.uk/government/news/governments-top-ai-engineers-to-help-liverpools-young-people-into-work",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-20T05:31:03+05:30"
+    },
+    {
+      "title": "Bakewell and beyond: Project Gigabit serves up faster broadband to over 6,600 Derbyshire homes and businesses",
+      "link": "https://www.gov.uk/government/news/bakewell-and-beyond-project-gigabit-serves-up-faster-broadband-to-over-6600-derbyshire-homes-and-businesses",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-20T05:31:03+05:30"
+    },
     {
       "title": "Crimea is Ukraine: UK statement at the UN Third Committee",
       "link": "https://www.gov.uk/government/speeches/crimea-is-ukraine-uk-statement-at-the-un-third-committee--2",
@@ -83,7 +101,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
