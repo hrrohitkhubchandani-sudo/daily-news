@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "03:08",
+  "updated": "04:07",
   "items": [
     {
       "title": "M 3.9 - 1 km NW of Commerce, CA",
@@ -8,8 +8,17 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "02:50",
-      "ts": "2026-11-21T02:50:26+05:30"
+      "time": "04:01",
+      "ts": "2026-11-21T04:01:00+05:30"
+    },
+    {
+      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "03:56",
+      "ts": "2026-11-21T03:56:00+05:30"
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -19,15 +28,6 @@
       "category": "Economy",
       "time": "02:45",
       "ts": "2026-11-21T02:45:00+05:30"
-    },
-    {
-      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "02:33",
-      "ts": "2026-11-21T02:33:29+05:30"
     }
   ],
   "health": [
