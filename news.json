@@ -1,7 +1,34 @@
 {
   "date": "2026-11-20",
-  "updated": "11:23",
+  "updated": "12:26",
   "items": [
+    {
+      "title": "UK celebrates King's birthday in Islamabad with a night of British and Pakistani design",
+      "link": "https://www.gov.uk/government/news/uk-celebrates-kings-birthday-in-islamabad-with-a-night-of-british-and-pakistani-design",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:07",
+      "ts": "2026-11-20T12:07:55+05:30"
+    },
+    {
+      "title": "Prime Minister in Brussels to deliver deal that cuts costs for Britain",
+      "link": "https://www.gov.uk/government/news/prime-minister-in-brussels-to-deliver-deal-that-cuts-costs-for-britain",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:06",
+      "ts": "2026-11-20T12:06:46+05:30"
+    },
+    {
+      "title": "जल शक्ति मंत्रालय ने विश्व शौचालय दिवस 2026 के अवसर पर ‘स्वच्छ शौचालय– गरिमामय भविष्य’ (एसएसजीबी) अभियान शुरू किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338902",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:01",
+      "ts": "2026-11-20T09:01:00+05:30"
+    },
     {
       "title": "Government’s top AI engineers to help Liverpool’s young people into work",
       "link": "https://www.gov.uk/government/news/governments-top-ai-engineers-to-help-liverpools-young-people-into-work",
@@ -45,7 +72,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -101,7 +128,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 6,
       "note": ""
     },
     {
@@ -141,6 +168,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338857": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338842": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338852": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338853": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338853": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338902": {
+      "title": "जल शक्ति मंत्रालय ने विश्व शौचालय दिवस 2026 के अवसर पर ‘स्वच्छ शौचालय– गरिमामय भविष्य’ (एसएसजीबी) अभियान शुरू किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338902",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:01",
+      "ts": "2026-11-20T09:01:00+05:30"
+    }
   }
 }
