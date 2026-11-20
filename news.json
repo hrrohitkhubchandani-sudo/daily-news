@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "updated": "20:17",
+  "updated": "21:17",
   "items": [
     {
       "title": "M 4.2 - 1 km NW of Commerce, CA",
@@ -8,8 +8,35 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "20:15",
-      "ts": "2026-11-20T20:15:56+05:30"
+      "time": "21:17",
+      "ts": "2026-11-20T21:17:41+05:30"
+    },
+    {
+      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "20:59",
+      "ts": "2026-11-20T20:59:06+05:30"
+    },
+    {
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "source": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "time": "20:30",
+      "ts": "2026-11-20T20:30:00+05:30"
+    },
+    {
+      "title": "शंघाई सहयोग संगठन (एससीओ) के पहले सभ्यता संवाद मंच के मद्देनजर, नई दिल्ली का राष्ट्रीय प्राणी उद्यान 21 और 22 नवंबर 2026 को आम दर्शकों के लिए बंद रहेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339338",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:12",
+      "ts": "2026-11-20T20:12:00+05:30"
     },
     {
       "title": "Whitchallenger preliminary assessment update",
@@ -46,15 +73,6 @@
       "category": "Government",
       "time": "20:06",
       "ts": "2026-11-20T20:06:25+05:30"
-    },
-    {
-      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "20:06",
-      "ts": "2026-11-20T20:06:01+05:30"
     },
     {
       "title": "Major boost to local housing and regeneration ambitions as regional leaders strengthen co-delivery ties with Homes England and National Housing Bank",
@@ -129,6 +147,15 @@
       "ts": "2026-11-20T19:24:50+05:30"
     },
     {
+      "title": "एनआईएसडी ने नशा मुक्ति, परामर्श कौशल, उपचार एवं पुनर्वास से संबंधित तीन महीने के सर्टिफिकेट कोर्स का पहला बैच (2026–27) सफलतापूर्वक पूरा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339337",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:20",
+      "ts": "2026-11-20T19:20:00+05:30"
+    },
+    {
       "title": "नागमंगला में पर्यावरण अनुकूल और प्लास्टिक मुक्त व्यवस्था के साथ नौवां प्राकृतिक चिकित्सा दिवस मनाया गया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339292",
       "source": "PIB, Government of India (Hindi)",
@@ -145,6 +172,15 @@
       "category": "Government",
       "time": "18:49",
       "ts": "2026-11-20T18:49:00+05:30"
+    },
+    {
+      "title": "राष्ट्रीय गोपाल रत्न पुरस्कार 2026 के विजेताओं की घोषणा के संबंध में",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339331",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:30",
+      "ts": "2026-11-20T18:30:00+05:30"
     },
     {
       "title": "Suffolk men and company prosecuted over airfield waste",
@@ -183,6 +219,15 @@
       "ts": "2026-11-20T18:03:00+05:30"
     },
     {
+      "title": "नई दिल्ली के जखीरा स्थित एचआईएल भूखंड की ई-नीलामी हेतु एनएलएमसी ने भुगतान संबंधी संरचना में संशोधन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339332",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:00",
+      "ts": "2026-11-20T18:00:00+05:30"
+    },
+    {
       "title": "आत्मनिर्भर भारत की ऐतिहासिक छलांग: भोपाल से केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने देश को समर्पित की बर्ड फ्लू (H5N1) की पहली स्वदेशी वैक्सीन",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339196",
       "source": "PIB, Government of India (Hindi)",
@@ -208,6 +253,15 @@
       "category": "Government",
       "time": "17:42",
       "ts": "2026-11-20T17:42:00+05:30"
+    },
+    {
+      "title": "केंद्रीय मंत्री श्री मनोहर लाल ने स्वनिधि सम्मान पुरस्कार 2026 प्रदान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339313",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:37",
+      "ts": "2026-11-20T17:37:00+05:30"
     },
     {
       "title": "माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने ‘समावेशी नीति संकल्प 2026’ के पूर्ण सत्र की अध्यक्षता की",
@@ -343,51 +397,6 @@
       "category": "Government",
       "time": "16:40",
       "ts": "2026-11-20T16:40:37+05:30"
-    },
-    {
-      "title": "केंद्रीय मंत्री डॉ. मनसुख मांडविया ने खेल उद्योग के प्रमुखों से ‘मेक इन इंडिया, प्ले इन इंडिया, ग्रो विद इंडिया’ का आह्वान किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339207",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:25",
-      "ts": "2026-11-20T16:25:00+05:30"
-    },
-    {
-      "title": "वाणिज्यिक कोयला खदानों की नीलामी के 16वें दौर की मिली जबरदरूत प्रतिक्रिया; 18 कोयला खदानों के लिए 85 बोलियां प्राप्त हुईं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339253",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:23",
-      "ts": "2026-11-20T16:23:00+05:30"
-    },
-    {
-      "title": "आर्थिक बाधाओं से इंजीनियरिंग की आकांक्षाओं तक",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339181",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:22",
-      "ts": "2026-11-20T16:22:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री 21 नवम्‍बर को बिहार का दौरा करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339232",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:19",
-      "ts": "2026-11-20T16:19:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री 21 नवम्‍बर को पश्चिम बंगाल और उत्तर प्रदेश का दौरा करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339174",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:18",
-      "ts": "2026-11-20T16:18:00+05:30"
     }
   ],
   "health": [
@@ -460,7 +469,7 @@
       "country": "United States",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     }
   ],
@@ -924,6 +933,51 @@
       "category": "Government",
       "time": "16:23",
       "ts": "2026-11-20T16:23:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339338": {
+      "title": "शंघाई सहयोग संगठन (एससीओ) के पहले सभ्यता संवाद मंच के मद्देनजर, नई दिल्ली का राष्ट्रीय प्राणी उद्यान 21 और 22 नवंबर 2026 को आम दर्शकों के लिए बंद रहेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339338",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:12",
+      "ts": "2026-11-20T20:12:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339337": {
+      "title": "एनआईएसडी ने नशा मुक्ति, परामर्श कौशल, उपचार एवं पुनर्वास से संबंधित तीन महीने के सर्टिफिकेट कोर्स का पहला बैच (2026–27) सफलतापूर्वक पूरा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339337",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:20",
+      "ts": "2026-11-20T19:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339331": {
+      "title": "राष्ट्रीय गोपाल रत्न पुरस्कार 2026 के विजेताओं की घोषणा के संबंध में",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339331",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:30",
+      "ts": "2026-11-20T18:30:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339332": {
+      "title": "नई दिल्ली के जखीरा स्थित एचआईएल भूखंड की ई-नीलामी हेतु एनएलएमसी ने भुगतान संबंधी संरचना में संशोधन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339332",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:00",
+      "ts": "2026-11-20T18:00:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339313": {
+      "title": "केंद्रीय मंत्री श्री मनोहर लाल ने स्वनिधि सम्मान पुरस्कार 2026 प्रदान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339313",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:37",
+      "ts": "2026-11-20T17:37:00+05:30"
     }
   }
 }
