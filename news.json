@@ -1,15 +1,15 @@
 {
   "date": "2026-11-21",
-  "updated": "00:18",
+  "updated": "01:21",
   "items": [
     {
-      "title": "M 4.2 - 1 km NW of Commerce, CA",
+      "title": "M 3.9 - 1 km NW of Commerce, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "00:12",
-      "ts": "2026-11-21T00:12:53+05:30"
+      "time": "01:04",
+      "ts": "2026-11-21T01:04:20+05:30"
     },
     {
       "title": "M 5.0 - 10 km NW of Pinnacles, CA",
@@ -17,8 +17,8 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "00:07",
-      "ts": "2026-11-21T00:07:59+05:30"
+      "time": "00:45",
+      "ts": "2026-11-21T00:45:54+05:30"
     }
   ],
   "health": [
@@ -89,10 +89,10 @@
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     }
   ],
   "checked": {
