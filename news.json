@@ -1,7 +1,43 @@
 {
   "date": "2026-11-20",
-  "updated": "12:26",
+  "updated": "13:45",
   "items": [
+    {
+      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "13:37",
+      "ts": "2026-11-20T13:37:52+05:30"
+    },
+    {
+      "title": "HMCTS appoints new non-executive director",
+      "link": "https://www.gov.uk/government/news/hmcts-appoints-new-non-executive-director--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "13:30",
+      "ts": "2026-11-20T13:30:00+05:30"
+    },
+    {
+      "title": "भारतीय खेतों से वैश्विक बाज़ारों तक: कृषि निर्यात में आई तेज़ी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338909",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:32",
+      "ts": "2026-11-20T12:32:00+05:30"
+    },
+    {
+      "title": "एनएफडीसी ने स्वयं के साथ साझेदारी करके 57वें इफ्फी को सभी के लिए सुलभ और समावेशी बनाया।",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338941",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:12",
+      "ts": "2026-11-20T12:12:00+05:30"
+    },
     {
       "title": "UK celebrates King's birthday in Islamabad with a night of British and Pakistani design",
       "link": "https://www.gov.uk/government/news/uk-celebrates-kings-birthday-in-islamabad-with-a-night-of-british-and-pakistani-design",
@@ -72,7 +108,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 3,
       "note": ""
     },
     {
@@ -118,17 +154,17 @@
     {
       "name": "USGS: Significant earthquakes",
       "country": "World",
-      "ok": false,
-      "entries": 0,
-      "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "ok": true,
+      "entries": 1,
+      "today": 1,
+      "note": ""
     },
     {
       "name": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 7,
       "note": ""
     },
     {
@@ -177,6 +213,24 @@
       "category": "Government",
       "time": "09:01",
       "ts": "2026-11-20T09:01:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338909": {
+      "title": "भारतीय खेतों से वैश्विक बाज़ारों तक: कृषि निर्यात में आई तेज़ी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338909",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:32",
+      "ts": "2026-11-20T12:32:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338941": {
+      "title": "एनएफडीसी ने स्वयं के साथ साझेदारी करके 57वें इफ्फी को सभी के लिए सुलभ और समावेशी बनाया।",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338941",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:12",
+      "ts": "2026-11-20T12:12:00+05:30"
     }
   }
 }
