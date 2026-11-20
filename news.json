@@ -1,15 +1,24 @@
 {
   "date": "2026-11-20",
-  "updated": "21:17",
+  "updated": "22:20",
   "items": [
+    {
+      "title": "Environment Agency grants Cloughton gas exploration proposal",
+      "link": "https://www.gov.uk/government/news/environment-agency-grants-cloughton-gas-exploration-proposal",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:14",
+      "ts": "2026-11-20T22:14:30+05:30"
+    },
     {
       "title": "M 4.2 - 1 km NW of Commerce, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "21:17",
-      "ts": "2026-11-20T21:17:41+05:30"
+      "time": "22:10",
+      "ts": "2026-11-20T22:10:09+05:30"
     },
     {
       "title": "M 5.0 - 10 km NW of Pinnacles, CA",
@@ -17,8 +26,53 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "20:59",
-      "ts": "2026-11-20T20:59:06+05:30"
+      "time": "22:05",
+      "ts": "2026-11-20T22:05:10+05:30"
+    },
+    {
+      "title": "The AAIB has deployed a team to Loch Leven near Kinross, Fife",
+      "link": "https://www.gov.uk/government/news/the-aaib-has-deployed-a-team-to-loch-leven-near-kinross-fife",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:04",
+      "ts": "2026-11-20T22:04:27+05:30"
+    },
+    {
+      "title": "Change of His Majesty’s Ambassador to Mali",
+      "link": "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-mali",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:38",
+      "ts": "2026-11-20T21:38:23+05:30"
+    },
+    {
+      "title": "कल, यानी 21 नवम्बर 2026 को गार्ड परिवर्तन समारोह आयोजित नहीं होगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339365",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:38",
+      "ts": "2026-11-20T21:38:00+05:30"
+    },
+    {
+      "title": "भारत का क्रिटिकल मिनरल अभियान घरेलू और विदेशी, दोनों स्रोतों से खनिजों की आपूर्ति सुनिश्चित कर रहा है: श्री केशव चंद्र, सचिव, खान मंत्रालय",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339381",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:32",
+      "ts": "2026-11-20T21:32:00+05:30"
+    },
+    {
+      "title": "बुल्गारिया की विदेश मंत्री ने राष्ट्रपति से मुलाकात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339359",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:27",
+      "ts": "2026-11-20T21:27:00+05:30"
     },
     {
       "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
@@ -28,6 +82,15 @@
       "category": "Economy",
       "time": "20:30",
       "ts": "2026-11-20T20:30:00+05:30"
+    },
+    {
+      "title": "45वें आईआईटीएफ (आईआईटीएफ) 2026 में सामाजिक न्याय और अधिकारिता मंत्रालय के मंडप ने 60.78 लाख रुपये से अधिक की संचयी बिक्री दर्ज की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339372",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:14",
+      "ts": "2026-11-20T20:14:00+05:30"
     },
     {
       "title": "शंघाई सहयोग संगठन (एससीओ) के पहले सभ्यता संवाद मंच के मद्देनजर, नई दिल्ली का राष्ट्रीय प्राणी उद्यान 21 और 22 नवंबर 2026 को आम दर्शकों के लिए बंद रहेगा",
@@ -282,6 +345,33 @@
       "ts": "2026-11-20T17:30:41+05:30"
     },
     {
+      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-20T17:30:00+05:30"
+    },
+    {
+      "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-20T17:30:00+05:30"
+    },
+    {
+      "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-20T17:30:00+05:30"
+    },
+    {
       "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168844",
       "source": "UN News: Top stories",
@@ -306,7 +396,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "17:29",
-      "ts": "2026-11-20T17:29:16+05:30"
+      "ts": "2026-11-20T17:29:00+05:30"
     },
     {
       "title": "एनआईआरडीपीआर, हैदराबाद में राजभाषा निरीक्षण समिति द्वारा हिंदी अनुभाग का निरीक्षण",
@@ -327,24 +417,6 @@
       "ts": "2026-11-20T17:25:00+05:30"
     },
     {
-      "title": "भारत मधुमेह, आनुवंशिक विकारों और अगली पीढ़ी के स्वास्थ्य समाधानों के लिए एक वैश्विक अनुसंधान केंद्र के रूप में उभर रहा है: केंद्रीय मंत्री डॉ. जितेंद्र सिंह",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339250",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:23",
-      "ts": "2026-11-20T17:23:00+05:30"
-    },
-    {
-      "title": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने घरेलू विनिर्माण को बढ़ावा देने के लिए छह आईटी हार्डवेयर उत्पादों के संबंध में सार्वजनिक खरीद (मेक इन इंडिया को प्राथमिकता) आदेश, 2020 में संशोधन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339260",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:21",
-      "ts": "2026-11-20T17:21:00+05:30"
-    },
-    {
       "title": "UK and Kenya celebrate a landmark year for sport at King's Birthday Party in Nairobi",
       "link": "https://www.gov.uk/government/news/uk-and-kenya-celebrate-a-landmark-year-for-sport-at-kings-birthday-party-in-nairobi",
       "source": "GOV.UK: News and communications",
@@ -352,51 +424,6 @@
       "category": "Government",
       "time": "17:15",
       "ts": "2026-11-20T17:15:47+05:30"
-    },
-    {
-      "title": "Technology company to pay £2.5m penalty to taxpayers",
-      "link": "https://www.gov.uk/government/news/technology-company-to-pay-25m-penalty-to-taxpayers",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "17:14",
-      "ts": "2026-11-20T17:14:38+05:30"
-    },
-    {
-      "title": "आधार वर्ष 2022-23 के साथ अक्टूबर 2026 माह के लिए प्रमुख उद्योगों का अनंतिम सूचकांक और सितंबर 2026 माह के लिए अंतिम सूचकांक",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339286",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:00",
-      "ts": "2026-11-20T17:00:00+05:30"
-    },
-    {
-      "title": "Career Insight: From Pupil Barrister to HMRC Lawyer",
-      "link": "https://www.gov.uk/government/case-studies/career-insight-from-pupil-barrister-to-hmrc-lawyer",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:47",
-      "ts": "2026-11-20T16:47:19+05:30"
-    },
-    {
-      "title": "पावेल पावलिकोव्स्की की फादरलैंड के भारत प्रीमियर के साथ 57वें इफ्फी की शुरुआत हुई, यह फिल्म दर्शकों को युद्ध के बाद बंटे हुए जर्मनी से रूबरू कराती है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339281",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:44",
-      "ts": "2026-11-20T16:44:00+05:30"
-    },
-    {
-      "title": "Change of His Majesty’s Ambassador to Mali",
-      "link": "https://www.gov.uk/government/news/change-of-his-majestys-ambassador-to-mali",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:40",
-      "ts": "2026-11-20T16:40:37+05:30"
     }
   ],
   "health": [
@@ -413,7 +440,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 4,
       "note": ""
     },
     {
@@ -429,7 +456,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -978,6 +1005,42 @@
       "category": "Government",
       "time": "17:37",
       "ts": "2026-11-20T17:37:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339365": {
+      "title": "कल, यानी 21 नवम्बर 2026 को गार्ड परिवर्तन समारोह आयोजित नहीं होगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339365",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:38",
+      "ts": "2026-11-20T21:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339381": {
+      "title": "भारत का क्रिटिकल मिनरल अभियान घरेलू और विदेशी, दोनों स्रोतों से खनिजों की आपूर्ति सुनिश्चित कर रहा है: श्री केशव चंद्र, सचिव, खान मंत्रालय",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339381",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:32",
+      "ts": "2026-11-20T21:32:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339359": {
+      "title": "बुल्गारिया की विदेश मंत्री ने राष्ट्रपति से मुलाकात की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339359",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:27",
+      "ts": "2026-11-20T21:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339372": {
+      "title": "45वें आईआईटीएफ (आईआईटीएफ) 2026 में सामाजिक न्याय और अधिकारिता मंत्रालय के मंडप ने 60.78 लाख रुपये से अधिक की संचयी बिक्री दर्ज की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339372",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:14",
+      "ts": "2026-11-20T20:14:00+05:30"
     }
   }
 }
