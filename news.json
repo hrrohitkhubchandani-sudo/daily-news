@@ -1,15 +1,78 @@
 {
   "date": "2026-11-20",
-  "updated": "13:45",
+  "updated": "14:58",
   "items": [
+    {
+      "title": "RPC correspondence: tobacco industry representatives",
+      "link": "https://www.gov.uk/government/publications/rpc-correspondence-tobacco-industry-representatives",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:55",
+      "ts": "2026-11-20T14:55:54+05:30"
+    },
     {
       "title": "M 5.0 - 10 km NW of Pinnacles, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
+      "time": "14:53",
+      "ts": "2026-11-20T14:53:39+05:30"
+    },
+    {
+      "title": "Flood warning service expanded in Tewkesbury area",
+      "link": "https://www.gov.uk/government/news/flood-warning-service-expanded-in-tewkesbury-area",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:50",
+      "ts": "2026-11-20T14:50:06+05:30"
+    },
+    {
+      "title": "Grants up to £45 million boost UK growth as Ministry of Defence funds national munitions production",
+      "link": "https://www.gov.uk/government/news/grants-up-to-45-million-boost-uk-growth-as-ministry-of-defence-funds-national-munitions-production",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-20T14:30:04+05:30"
+    },
+    {
+      "title": "भारत की राष्ट्रपति अटल बिहारी वाजपेयी आयुर्विज्ञान संस्थान एवं डॉ. राम मनोहर लोहिया अस्पताल के 12वें दीक्षांत समारोह में शामिल हुईं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338975",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:21",
+      "ts": "2026-11-20T14:21:00+05:30"
+    },
+    {
+      "title": "भारतीय रेल द्वारा डिजिटल जीवन प्रमाण पत्र अभियान 5.0 के तहत नई दिल्ली में मेगा कैंप का आयोजन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338957",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:45",
+      "ts": "2026-11-20T13:45:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने किसानों की समृद्धि बढ़ाने और ग्रामीण भारत को सशक्त बनाने के लिए की गई परिवर्तनकारी पहलों पर एक लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338983",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
       "time": "13:37",
-      "ts": "2026-11-20T13:37:52+05:30"
+      "ts": "2026-11-20T13:37:00+05:30"
+    },
+    {
+      "title": "राष्ट्रीय मानवाधिकार आयोग ने हरियाणा के फरीदाबाद में अस्पताल कर्मचारियों द्वारा शव वाहन उपलब्ध न कराए जाने के कारण एक महिला और उसकी बेटी के शवों को पोस्टमार्टम के लिए कचरा वाहन में ले जाए जाने की घटना पर स्वतः संज्ञान लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338986",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:31",
+      "ts": "2026-11-20T13:31:00+05:30"
     },
     {
       "title": "HMCTS appoints new non-executive director",
@@ -19,6 +82,24 @@
       "category": "Government",
       "time": "13:30",
       "ts": "2026-11-20T13:30:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने माता-पिता का सम्मान और आदर करने को एक अनिवार्य जिम्मेदारी के रूप में रेखांकित करने वाला संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338967",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:28",
+      "ts": "2026-11-20T13:28:00+05:30"
+    },
+    {
+      "title": "सीमाओं से परे कहानियां, अब प्रिंट और डिजिटल माध्यमों में: 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) में ‘इफ्फिलॉइड’ की वापसी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338985",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:53",
+      "ts": "2026-11-20T12:53:00+05:30"
     },
     {
       "title": "भारतीय खेतों से वैश्विक बाज़ारों तक: कृषि निर्यात में आई तेज़ी",
@@ -55,6 +136,51 @@
       "category": "Government",
       "time": "12:06",
       "ts": "2026-11-20T12:06:46+05:30"
+    },
+    {
+      "title": "ट्राइफेड ने जनजातीय उद्यमिता और स्वदेशी उत्पादों को बढ़ावा देने के लिए दिल्ली हाट, आईएनए में आदि महोत्सव 2026 का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338952",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:50",
+      "ts": "2026-11-20T11:50:00+05:30"
+    },
+    {
+      "title": "इस्पात मंत्रालय 25 नवंबर को इस्पात आयात मुद्दों पर ओपन हाउस आयोजित करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338953",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-20T11:38:00+05:30"
+    },
+    {
+      "title": "बोत्सवाना में जन्मी मादा चीता ने जंगल में चार शावकों को जन्म दिया; भारत में चीतों की संख्या बढ़कर 62 हो गई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338951",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:45",
+      "ts": "2026-11-20T10:45:00+05:30"
+    },
+    {
+      "title": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने डिजिटल सुलभता और दिव्यांग व्यक्तियों के समावेशन पर संयुक्त राष्ट्र के विशेष प्रतिवेदक के साथ चर्चा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338988",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:40",
+      "ts": "2026-11-20T10:40:00+05:30"
+    },
+    {
+      "title": "सीजीएसटी फरीदाबाद ने रेवाड़ी में पान मसाला निर्माण इकाई में अघोषित पाउच-पैकिंग मशीनों का पता लगाया, चार मशीनें जब्त, एक व्यक्ति एचएसएनएस उपकर अधिनियम 2025 के तहत गिरफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338949",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:10",
+      "ts": "2026-11-20T10:10:00+05:30"
     },
     {
       "title": "जल शक्ति मंत्रालय ने विश्व शौचालय दिवस 2026 के अवसर पर ‘स्वच्छ शौचालय– गरिमामय भविष्य’ (एसएसजीबी) अभियान शुरू किया",
@@ -108,7 +234,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 14,
       "note": ""
     },
     {
@@ -164,7 +290,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 10,
       "note": ""
     },
     {
@@ -231,6 +357,105 @@
       "category": "Government",
       "time": "12:12",
       "ts": "2026-11-20T12:12:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338975": {
+      "title": "भारत की राष्ट्रपति अटल बिहारी वाजपेयी आयुर्विज्ञान संस्थान एवं डॉ. राम मनोहर लोहिया अस्पताल के 12वें दीक्षांत समारोह में शामिल हुईं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338975",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:21",
+      "ts": "2026-11-20T14:21:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338957": {
+      "title": "भारतीय रेल द्वारा डिजिटल जीवन प्रमाण पत्र अभियान 5.0 के तहत नई दिल्ली में मेगा कैंप का आयोजन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338957",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:45",
+      "ts": "2026-11-20T13:45:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338983": {
+      "title": "प्रधानमंत्री ने किसानों की समृद्धि बढ़ाने और ग्रामीण भारत को सशक्त बनाने के लिए की गई परिवर्तनकारी पहलों पर एक लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338983",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:37",
+      "ts": "2026-11-20T13:37:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338986": {
+      "title": "राष्ट्रीय मानवाधिकार आयोग ने हरियाणा के फरीदाबाद में अस्पताल कर्मचारियों द्वारा शव वाहन उपलब्ध न कराए जाने के कारण एक महिला और उसकी बेटी के शवों को पोस्टमार्टम के लिए कचरा वाहन में ले जाए जाने की घटना पर स्वतः संज्ञान लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338986",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:31",
+      "ts": "2026-11-20T13:31:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338967": {
+      "title": "प्रधानमंत्री ने माता-पिता का सम्मान और आदर करने को एक अनिवार्य जिम्मेदारी के रूप में रेखांकित करने वाला संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338967",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:28",
+      "ts": "2026-11-20T13:28:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338985": {
+      "title": "सीमाओं से परे कहानियां, अब प्रिंट और डिजिटल माध्यमों में: 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) में ‘इफ्फिलॉइड’ की वापसी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338985",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:53",
+      "ts": "2026-11-20T12:53:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338952": {
+      "title": "ट्राइफेड ने जनजातीय उद्यमिता और स्वदेशी उत्पादों को बढ़ावा देने के लिए दिल्ली हाट, आईएनए में आदि महोत्सव 2026 का आयोजन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338952",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:50",
+      "ts": "2026-11-20T11:50:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338953": {
+      "title": "इस्पात मंत्रालय 25 नवंबर को इस्पात आयात मुद्दों पर ओपन हाउस आयोजित करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338953",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-20T11:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338951": {
+      "title": "बोत्सवाना में जन्मी मादा चीता ने जंगल में चार शावकों को जन्म दिया; भारत में चीतों की संख्या बढ़कर 62 हो गई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338951",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:45",
+      "ts": "2026-11-20T10:45:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338988": {
+      "title": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने डिजिटल सुलभता और दिव्यांग व्यक्तियों के समावेशन पर संयुक्त राष्ट्र के विशेष प्रतिवेदक के साथ चर्चा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338988",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:40",
+      "ts": "2026-11-20T10:40:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338949": {
+      "title": "सीजीएसटी फरीदाबाद ने रेवाड़ी में पान मसाला निर्माण इकाई में अघोषित पाउच-पैकिंग मशीनों का पता लगाया, चार मशीनें जब्त, एक व्यक्ति एचएसएनएस उपकर अधिनियम 2025 के तहत गिरफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338949",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:10",
+      "ts": "2026-11-20T10:10:00+05:30"
     }
   }
 }
