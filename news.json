@@ -1,24 +1,150 @@
 {
   "date": "2026-11-20",
-  "updated": "19:14",
+  "updated": "20:17",
   "items": [
-    {
-      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "19:10",
-      "ts": "2026-11-20T19:10:45+05:30"
-    },
     {
       "title": "M 4.2 - 1 km NW of Commerce, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "19:07",
-      "ts": "2026-11-20T19:07:25+05:30"
+      "time": "20:15",
+      "ts": "2026-11-20T20:15:56+05:30"
+    },
+    {
+      "title": "Whitchallenger preliminary assessment update",
+      "link": "https://www.gov.uk/government/news/whitchallenger-preliminary-assessment-update",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:12",
+      "ts": "2026-11-20T20:12:00+05:30"
+    },
+    {
+      "title": "दिल्ली में पहले शंघाई सहयोग संगठन (SCO) सभ्यता संवाद मंच के उद्घाटन के अवसर पर प्रधानमंत्री के संबोधन का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339304",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:09",
+      "ts": "2026-11-20T20:09:00+05:30"
+    },
+    {
+      "title": "PM speech at UK-EU Summit: 20 November 2026",
+      "link": "https://www.gov.uk/government/speeches/pm-speech-at-uk-eu-summit-20-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:08",
+      "ts": "2026-11-20T20:08:02+05:30"
+    },
+    {
+      "title": "'Costs cut': Prime Minister secures deal with EU to cut costs, keep prices down and create opportunities for young people worth up to £17 billion per year",
+      "link": "https://www.gov.uk/government/news/costs-cut-prime-minister-secures-deal-with-eu-to-cut-costs-keep-prices-down-and-create-opportunities-for-young-people-worth-up-to-17-billion-per-year",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:06",
+      "ts": "2026-11-20T20:06:25+05:30"
+    },
+    {
+      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "20:06",
+      "ts": "2026-11-20T20:06:01+05:30"
+    },
+    {
+      "title": "Major boost to local housing and regeneration ambitions as regional leaders strengthen co-delivery ties with Homes England and National Housing Bank",
+      "link": "https://www.gov.uk/government/news/major-boost-to-local-housing-and-regeneration-ambitions-as-regional-leaders-strengthen-co-delivery-ties-with-homes-england-and-national-housing-bank",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:56",
+      "ts": "2026-11-20T19:56:53+05:30"
+    },
+    {
+      "title": "Supermarket sweep: Morrisons, Tesco and M&S back Government's business-boosting food trade deal with Europe",
+      "link": "https://www.gov.uk/government/news/supermarket-sweep-morrisons-tesco-and-ms-back-governments-business-boosting-food-trade-deal-with-europe",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:55",
+      "ts": "2026-11-20T19:55:50+05:30"
+    },
+    {
+      "title": "UK Right of Reply on behalf of AUKUS partners, IAEA November 2026",
+      "link": "https://www.gov.uk/government/speeches/uk-right-of-reply-on-behalf-of-aukus-partners-iaea-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:53",
+      "ts": "2026-11-20T19:53:03+05:30"
+    },
+    {
+      "title": "HMCTS appoints new non-executive director",
+      "link": "https://www.gov.uk/government/news/hmcts-appoints-new-non-executive-director--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:47",
+      "ts": "2026-11-20T19:47:07+05:30"
+    },
+    {
+      "title": "Improvement notice issued to Suffolk County Council: May 2024",
+      "link": "https://www.gov.uk/government/publications/improvement-notice-issued-to-suffolk-county-council-may-2024",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:30",
+      "ts": "2026-11-20T19:30:15+05:30"
+    },
+    {
+      "title": "Minister intervenes to keep earliest known British country-estate landscape painting in the UK",
+      "link": "https://www.gov.uk/government/news/minister-intervenes-to-keep-earliest-known-british-country-estate-landscape-painting-in-the-uk",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:30",
+      "ts": "2026-11-20T19:30:06+05:30"
+    },
+    {
+      "title": "Notice to improve: Plymouth CAST",
+      "link": "https://www.gov.uk/government/publications/notice-to-improve-plymouth-cast",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:30",
+      "ts": "2026-11-20T19:30:06+05:30"
+    },
+    {
+      "title": "TRA proposes increasing anti-dumping measure on excavators",
+      "link": "https://www.gov.uk/government/news/tra-proposes-increasing-anti-dumping-measure-on-excavators",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:24",
+      "ts": "2026-11-20T19:24:50+05:30"
+    },
+    {
+      "title": "नागमंगला में पर्यावरण अनुकूल और प्लास्टिक मुक्त व्यवस्था के साथ नौवां प्राकृतिक चिकित्सा दिवस मनाया गया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339292",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:50",
+      "ts": "2026-11-20T18:50:00+05:30"
+    },
+    {
+      "title": "पर्यटन मंत्रालय ने एमआईसीई और विवाह पर्यटन पर हितधारकों के साथ परामर्श बैठक आयोजित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339273",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:49",
+      "ts": "2026-11-20T18:49:00+05:30"
     },
     {
       "title": "Suffolk men and company prosecuted over airfield waste",
@@ -28,6 +154,33 @@
       "category": "Government",
       "time": "18:18",
       "ts": "2026-11-20T18:18:45+05:30"
+    },
+    {
+      "title": "गुरु नानक देव जी का शांति, समानता और सेवा का संदेश निरंतर मानवता का मार्गदर्शन कर रहा है: श्री किरेन रिजिजू",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339264",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:13",
+      "ts": "2026-11-20T18:13:00+05:30"
+    },
+    {
+      "title": "सकल घरेलू उत्पाद (जीडीपी), उपभोक्ता मूल्य सूचकांक (सीपीआई) और औद्योगिक उत्पादन सूचकांक (आईआईपी) की नई श्रृंखला पर डेटा उपयोगकर्ता सम्मेलन 23 नवंबर को मुंबई में आयोजित होगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339265",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:07",
+      "ts": "2026-11-20T18:07:00+05:30"
+    },
+    {
+      "title": "भारतीय नौसेना को गोताखोरी सहायता पोत परियोजना के अंतर्गत डीएससी ए21 (यार्ड 326) की सुपुर्दगी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339289",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:03",
+      "ts": "2026-11-20T18:03:00+05:30"
     },
     {
       "title": "आत्मनिर्भर भारत की ऐतिहासिक छलांग: भोपाल से केंद्रीय मंत्री श्री शिवराज सिंह चौहान ने देश को समर्पित की बर्ड फ्लू (H5N1) की पहली स्वदेशी वैक्सीन",
@@ -48,6 +201,24 @@
       "ts": "2026-11-20T17:52:43+05:30"
     },
     {
+      "title": "भारतीय राष्ट्रीय विज्ञान अकादमी (आईएनएसए) के अध्यक्ष प्रोफेसर शेखर सी. मांडे को संयुक्त राष्ट्र के सतत विकास लक्ष्यों के लिए विज्ञान, प्रौद्योगिकी और नवाचार से जुड़े 10 सदस्यीय समूह में नियुक्त में नियुक्त किया गया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339267",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:42",
+      "ts": "2026-11-20T17:42:00+05:30"
+    },
+    {
+      "title": "माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने ‘समावेशी नीति संकल्प 2026’ के पूर्ण सत्र की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339255",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-20T17:31:00+05:30"
+    },
+    {
       "title": "CMA response to Consumer Services Code Review consultations",
       "link": "https://www.gov.uk/government/publications/cma-response-to-consumer-services-code-review-consultations",
       "source": "GOV.UK: News and communications",
@@ -55,6 +226,15 @@
       "category": "Government",
       "time": "17:30",
       "ts": "2026-11-20T17:30:41+05:30"
+    },
+    {
+      "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-20T17:30:00+05:30"
     },
     {
       "title": "Member reappointed to the Treasure Valuation Committee",
@@ -102,6 +282,15 @@
       "ts": "2026-11-20T17:23:00+05:30"
     },
     {
+      "title": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने घरेलू विनिर्माण को बढ़ावा देने के लिए छह आईटी हार्डवेयर उत्पादों के संबंध में सार्वजनिक खरीद (मेक इन इंडिया को प्राथमिकता) आदेश, 2020 में संशोधन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339260",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:21",
+      "ts": "2026-11-20T17:21:00+05:30"
+    },
+    {
       "title": "UK and Kenya celebrate a landmark year for sport at King's Birthday Party in Nairobi",
       "link": "https://www.gov.uk/government/news/uk-and-kenya-celebrate-a-landmark-year-for-sport-at-kings-birthday-party-in-nairobi",
       "source": "GOV.UK: News and communications",
@@ -120,6 +309,15 @@
       "ts": "2026-11-20T17:14:38+05:30"
     },
     {
+      "title": "आधार वर्ष 2022-23 के साथ अक्टूबर 2026 माह के लिए प्रमुख उद्योगों का अनंतिम सूचकांक और सितंबर 2026 माह के लिए अंतिम सूचकांक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339286",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:00",
+      "ts": "2026-11-20T17:00:00+05:30"
+    },
+    {
       "title": "Career Insight: From Pupil Barrister to HMRC Lawyer",
       "link": "https://www.gov.uk/government/case-studies/career-insight-from-pupil-barrister-to-hmrc-lawyer",
       "source": "GOV.UK: News and communications",
@@ -127,6 +325,15 @@
       "category": "Government",
       "time": "16:47",
       "ts": "2026-11-20T16:47:19+05:30"
+    },
+    {
+      "title": "पावेल पावलिकोव्स्की की फादरलैंड के भारत प्रीमियर के साथ 57वें इफ्फी की शुरुआत हुई, यह फिल्म दर्शकों को युद्ध के बाद बंटे हुए जर्मनी से रूबरू कराती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339281",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:44",
+      "ts": "2026-11-20T16:44:00+05:30"
     },
     {
       "title": "Change of His Majesty’s Ambassador to Mali",
@@ -138,24 +345,6 @@
       "ts": "2026-11-20T16:40:37+05:30"
     },
     {
-      "title": "Career Insight: Aashna, Trainee Solicitor, HMRC",
-      "link": "https://www.gov.uk/government/case-studies/career-insight-aashna-trainee-solicitor-hmrc",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:35",
-      "ts": "2026-11-20T16:35:11+05:30"
-    },
-    {
-      "title": "October 2026 Transaction Data",
-      "link": "https://www.gov.uk/government/news/october-2026-transaction-data",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:30",
-      "ts": "2026-11-20T16:30:00+05:30"
-    },
-    {
       "title": "केंद्रीय मंत्री डॉ. मनसुख मांडविया ने खेल उद्योग के प्रमुखों से ‘मेक इन इंडिया, प्ले इन इंडिया, ग्रो विद इंडिया’ का आह्वान किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339207",
       "source": "PIB, Government of India (Hindi)",
@@ -163,6 +352,15 @@
       "category": "Government",
       "time": "16:25",
       "ts": "2026-11-20T16:25:00+05:30"
+    },
+    {
+      "title": "वाणिज्यिक कोयला खदानों की नीलामी के 16वें दौर की मिली जबरदरूत प्रतिक्रिया; 18 कोयला खदानों के लिए 85 बोलियां प्राप्त हुईं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339253",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:23",
+      "ts": "2026-11-20T16:23:00+05:30"
     },
     {
       "title": "आर्थिक बाधाओं से इंजीनियरिंग की आकांक्षाओं तक",
@@ -190,195 +388,6 @@
       "category": "Government",
       "time": "16:18",
       "ts": "2026-11-20T16:18:00+05:30"
-    },
-    {
-      "title": "Sellafield awards two contracts to local company",
-      "link": "https://www.gov.uk/government/news/sellafield-awards-two-contracts-to-local-company",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:57",
-      "ts": "2026-11-20T15:57:44+05:30"
-    },
-    {
-      "title": "His Majesty’s Lord-Lieutenant awards 2027 to 2028",
-      "link": "https://www.gov.uk/government/news/his-majestys-lord-lieutenant-awards-2027-to-2028",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:56",
-      "ts": "2026-11-20T15:56:00+05:30"
-    },
-    {
-      "title": "समर्पित छात्रावास सुविधाओं के माध्यम से अन्‍य पिछड़ा वर्ग के छात्रों के लिए शैक्षिक अवसरों को मजबूती",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339116",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:52",
-      "ts": "2026-11-20T15:52:00+05:30"
-    },
-    {
-      "title": "UKHSA cold-health alerts winter 2026/27",
-      "link": "https://www.gov.uk/government/news/ukhsa-issues-first-cold-health-alert-of-winter-202627",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:36",
-      "ts": "2026-11-20T15:36:00+05:30"
-    },
-    {
-      "title": "New AI guidance to cut paperwork and free more time for care",
-      "link": "https://www.gov.uk/government/news/new-ai-guidance-to-cut-paperwork-and-free-more-time-for-care",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:27",
-      "ts": "2026-11-20T15:27:29+05:30"
-    },
-    {
-      "title": "केंद्रीय संस्कृति और पर्यटन मंत्री श्री गजेंद्र सिंह शेखावत ने नई दिल्ली से ‘युवा सोमनाथ यात्रा’ को रवाना किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339111",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:26",
-      "ts": "2026-11-20T15:26:00+05:30"
-    },
-    {
-      "title": "Regeneration of Birmingham's creative quarter continues at pace as Homes England launches search for new development partner",
-      "link": "https://www.gov.uk/government/news/regeneration-of-birminghams-creative-quarter-continues-at-pace-as-homes-england-launches-search-for-new-development-partner",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:24",
-      "ts": "2026-11-20T15:24:00+05:30"
-    },
-    {
-      "title": "Authorisation application deadlines for Christmas period 2026",
-      "link": "https://www.gov.uk/government/news/authorisation-application-deadlines-for-christmas-period-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:23",
-      "ts": "2026-11-20T15:23:12+05:30"
-    },
-    {
-      "title": "Reinforced Permanent Council on future Chairpersonships of the OSCE: UK statement",
-      "link": "https://www.gov.uk/government/speeches/reinforced-permanent-council-on-future-chairpersonships-of-the-osce-uk-statement",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:22",
-      "ts": "2026-11-20T15:22:16+05:30"
-    },
-    {
-      "title": "एमओएचयूए के डीओयूडी सचिव ने पीएमएवाई-यू 2.0 के तहत सीएसएमसी की 11वीं बैठक की अध्यक्षता की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339090",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:22",
-      "ts": "2026-11-20T15:22:00+05:30"
-    },
-    {
-      "title": "Maximum 15-year director ban for businessman behind Atherton insolvency scheme",
-      "link": "https://www.gov.uk/government/news/maximum-15-year-director-ban-for-businessman-behind-atherton-insolvency-scheme",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:19",
-      "ts": "2026-11-20T15:19:37+05:30"
-    },
-    {
-      "title": "26 नवंबर को सर्किल लेवल डाक अदालत",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339102",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:19",
-      "ts": "2026-11-20T15:19:00+05:30"
-    },
-    {
-      "title": "भारत का रुपांतरण, विकसित हो रहे स्टार्टअप इकोसिस्टम और युवाओं के लिए उपलब्ध अवसर देश की विकसित राष्ट्र बनने की यात्रा को दर्शाते हैं: दिल्ली विश्वविद्यालय के वार्षिक दीक्षांत समारोह में केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल का संबोधन",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339218",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:18",
-      "ts": "2026-11-20T15:18:00+05:30"
-    },
-    {
-      "title": "चुंबकीय व्यवस्था को नया आकार देने की नई विधि, क्वांटम सूचना के भंडारण के नए रास्ते खोल सकती है",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339092",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:15",
-      "ts": "2026-11-20T15:15:00+05:30"
-    },
-    {
-      "title": "बांधवगढ़ टाइगर रिजर्व की आर्द्रभूमि (वेटलैंड) के परागकण उष्णकटिबंधीय वन पारिस्थितिकी तंत्र की पुनर्जीवन क्षमता को दर्शाते हैं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339130",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:13",
-      "ts": "2026-11-20T15:13:00+05:30"
-    },
-    {
-      "title": "Ofqual fines AQA £350,000 over repeated errors in braille assessments",
-      "link": "https://www.gov.uk/government/news/ofqual-fines-aqa-350000-over-repeated-errors-in-braille-assessments",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:00",
-      "ts": "2026-11-20T15:00:08+05:30"
-    },
-    {
-      "title": "लोक सभा अध्यक्ष ने रक्षा भूमि प्रबंधन को सुदृढ़ करने के लिए आधुनिक तकनीक और एआई (AI) के उपयोग का आह्वान किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339210",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:52",
-      "ts": "2026-11-20T14:52:00+05:30"
-    },
-    {
-      "title": "उपराष्ट्रपति 21-22 नवंबर को महाराष्ट्र और तमिलनाडु का दौरा करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339038",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:37",
-      "ts": "2026-11-20T14:37:00+05:30"
-    },
-    {
-      "title": "उपराष्ट्रपति ने जिम्मेदार नागरिकता के माध्यम से संवैधानिक मूल्यों को मजबूत करने का किया आह्वान करते हुए कहा कि कर्तव्य भी अधिकारों जितने ही महत्वपूर्ण हैं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339118",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:35",
-      "ts": "2026-11-20T14:35:00+05:30"
-    },
-    {
-      "title": "भारत की राष्ट्रपति अटल बिहारी वाजपेयी आयुर्विज्ञान संस्थान एवं डॉ. राम मनोहर लोहिया अस्पताल के 12वें दीक्षांत समारोह में शामिल हुईं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2338975",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:21",
-      "ts": "2026-11-20T14:21:00+05:30"
-    },
-    {
-      "title": "‘सीमाओं से परे कहानियां’: इफ्फी का 57वां संस्करण भौगोलिक और सामाजिक-सांस्कृतिक सीमाओं से परे फिल्मों को प्रदर्शित करेगा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339083",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:09",
-      "ts": "2026-11-20T14:09:00+05:30"
     }
   ],
   "health": [
@@ -395,7 +404,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -807,6 +816,114 @@
       "category": "Government",
       "time": "14:52",
       "ts": "2026-11-20T14:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339304": {
+      "title": "दिल्ली में पहले शंघाई सहयोग संगठन (SCO) सभ्यता संवाद मंच के उद्घाटन के अवसर पर प्रधानमंत्री के संबोधन का मूल पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339304",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:09",
+      "ts": "2026-11-20T20:09:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339292": {
+      "title": "नागमंगला में पर्यावरण अनुकूल और प्लास्टिक मुक्त व्यवस्था के साथ नौवां प्राकृतिक चिकित्सा दिवस मनाया गया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339292",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:50",
+      "ts": "2026-11-20T18:50:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339273": {
+      "title": "पर्यटन मंत्रालय ने एमआईसीई और विवाह पर्यटन पर हितधारकों के साथ परामर्श बैठक आयोजित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339273",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:49",
+      "ts": "2026-11-20T18:49:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339264": {
+      "title": "गुरु नानक देव जी का शांति, समानता और सेवा का संदेश निरंतर मानवता का मार्गदर्शन कर रहा है: श्री किरेन रिजिजू",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339264",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:13",
+      "ts": "2026-11-20T18:13:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339265": {
+      "title": "सकल घरेलू उत्पाद (जीडीपी), उपभोक्ता मूल्य सूचकांक (सीपीआई) और औद्योगिक उत्पादन सूचकांक (आईआईपी) की नई श्रृंखला पर डेटा उपयोगकर्ता सम्मेलन 23 नवंबर को मुंबई में आयोजित होगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339265",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:07",
+      "ts": "2026-11-20T18:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339289": {
+      "title": "भारतीय नौसेना को गोताखोरी सहायता पोत परियोजना के अंतर्गत डीएससी ए21 (यार्ड 326) की सुपुर्दगी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339289",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:03",
+      "ts": "2026-11-20T18:03:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339267": {
+      "title": "भारतीय राष्ट्रीय विज्ञान अकादमी (आईएनएसए) के अध्यक्ष प्रोफेसर शेखर सी. मांडे को संयुक्त राष्ट्र के सतत विकास लक्ष्यों के लिए विज्ञान, प्रौद्योगिकी और नवाचार से जुड़े 10 सदस्यीय समूह में नियुक्त में नियुक्त किया गया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339267",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:42",
+      "ts": "2026-11-20T17:42:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339255": {
+      "title": "माननीय प्रधानमंत्री श्री नरेन्द्र मोदी ने ‘समावेशी नीति संकल्प 2026’ के पूर्ण सत्र की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339255",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:31",
+      "ts": "2026-11-20T17:31:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339260": {
+      "title": "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय ने घरेलू विनिर्माण को बढ़ावा देने के लिए छह आईटी हार्डवेयर उत्पादों के संबंध में सार्वजनिक खरीद (मेक इन इंडिया को प्राथमिकता) आदेश, 2020 में संशोधन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339260",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:21",
+      "ts": "2026-11-20T17:21:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339286": {
+      "title": "आधार वर्ष 2022-23 के साथ अक्टूबर 2026 माह के लिए प्रमुख उद्योगों का अनंतिम सूचकांक और सितंबर 2026 माह के लिए अंतिम सूचकांक",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339286",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:00",
+      "ts": "2026-11-20T17:00:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339281": {
+      "title": "पावेल पावलिकोव्स्की की फादरलैंड के भारत प्रीमियर के साथ 57वें इफ्फी की शुरुआत हुई, यह फिल्म दर्शकों को युद्ध के बाद बंटे हुए जर्मनी से रूबरू कराती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339281",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:44",
+      "ts": "2026-11-20T16:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339253": {
+      "title": "वाणिज्यिक कोयला खदानों की नीलामी के 16वें दौर की मिली जबरदरूत प्रतिक्रिया; 18 कोयला खदानों के लिए 85 बोलियां प्राप्त हुईं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339253",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:23",
+      "ts": "2026-11-20T16:23:00+05:30"
     }
   }
 }
