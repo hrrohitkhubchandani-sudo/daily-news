@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "20:11",
+  "updated": "21:05",
   "items": [
     {
       "title": "काशी तमिल संगमम 5.0 से पहले अस्सी घाट पर रंगोली प्रतियोगिता का आयोजन",
@@ -10,6 +10,24 @@
       "category": "Government",
       "time": "19:24",
       "ts": "2026-11-21T19:24:00+05:30"
+    },
+    {
+      "title": "भाषिणी ने वैश्विक डिजिटल स्वास्थ्य शिखर सम्मेलन 2026 में भागीदारी की। समावेशी और संवेदनशील स्वास्थ्य सेवा के निर्माण में बहुभाषी कृत्रिम बुद्धिमत्ता(ए आई) की भूमिका को रेखांकित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339726",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:21",
+      "ts": "2026-11-21T19:21:00+05:30"
+    },
+    {
+      "title": "उपराष्ट्रपति ने चेन्नई में नेल्लई नादर मैट्रिकुलेशन हायर सेकेंडरी स्कूल के 42वें वार्षिक दिवस समारोह में शिरकत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339703",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:05",
+      "ts": "2026-11-21T19:05:00+05:30"
     },
     {
       "title": "“हास्य जीवन को देखने का एक बुद्धिमत्तापूर्ण नजरिया है”: स्पेन की फिल्म ‘लुकिंग फॉर माइकल’ का 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) में वर्ल्ड प्रीमियर हुआ",
@@ -199,24 +217,6 @@
       "category": "Government",
       "time": "14:50",
       "ts": "2026-11-21T14:50:00+05:30"
-    },
-    {
-      "title": "सिनेमाई उत्कृष्टता की एक सदी का उत्सव: आईएफएफआई 2026 भारतीय सिनेमा की सात दिग्गज हस्तियों का सम्मान करेगा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339617",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:46",
-      "ts": "2026-11-21T14:46:00+05:30"
-    },
-    {
-      "title": "57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) में ‘क्रिएटिव माइंड्स ऑफ टुमॉरो’ (सीएमओटी) के छठे संस्करण का उद्घाटन",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339569",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:39",
-      "ts": "2026-11-21T14:39:00+05:30"
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -581,6 +581,24 @@
       "category": "Government",
       "time": "17:09",
       "ts": "2026-11-21T17:09:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339726": {
+      "title": "भाषिणी ने वैश्विक डिजिटल स्वास्थ्य शिखर सम्मेलन 2026 में भागीदारी की। समावेशी और संवेदनशील स्वास्थ्य सेवा के निर्माण में बहुभाषी कृत्रिम बुद्धिमत्ता(ए आई) की भूमिका को रेखांकित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339726",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:21",
+      "ts": "2026-11-21T19:21:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339703": {
+      "title": "उपराष्ट्रपति ने चेन्नई में नेल्लई नादर मैट्रिकुलेशन हायर सेकेंडरी स्कूल के 42वें वार्षिक दिवस समारोह में शिरकत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339703",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:05",
+      "ts": "2026-11-21T19:05:00+05:30"
     }
   }
 }
