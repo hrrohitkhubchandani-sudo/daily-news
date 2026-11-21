@@ -1,24 +1,33 @@
 {
   "date": "2026-11-22",
-  "updated": "03:42",
+  "updated": "04:37",
   "items": [
-    {
-      "title": "M 6.8 - 105 km NE of Lospalos, Timor Leste",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "01:59",
-      "ts": "2026-11-22T01:59:04+05:30"
-    },
     {
       "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "00:15",
-      "ts": "2026-11-22T00:15:54+05:30"
+      "time": "04:18",
+      "ts": "2026-11-22T04:18:21+05:30"
+    },
+    {
+      "title": "M 6.8 - 105 km NE of Lospalos, Timor Leste",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "03:48",
+      "ts": "2026-11-22T03:48:17+05:30"
+    },
+    {
+      "title": "PM meeting with Prime Minister Jetten of the Netherlands: 21 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-jetten-of-the-netherlands-21-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "03:46",
+      "ts": "2026-11-22T03:46:39+05:30"
     }
   ],
   "health": [
@@ -83,7 +92,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
