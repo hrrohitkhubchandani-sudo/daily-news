@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "13:10",
+  "updated": "14:11",
   "items": [
     {
       "title": "M 3.9 - 1 km NW of Commerce, CA",
@@ -8,8 +8,8 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "13:08",
-      "ts": "2026-11-21T13:08:12+05:30"
+      "time": "14:06",
+      "ts": "2026-11-21T14:06:41+05:30"
     },
     {
       "title": "Text of PM's address at the Platinum Jubilee celebration of IIT Kharagpur",
@@ -148,6 +148,7 @@
       "time": "13:02",
       "ts": "2026-11-21T13:02:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339432": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339432": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339468": null
   }
 }
