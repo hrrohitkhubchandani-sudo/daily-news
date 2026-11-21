@@ -1,24 +1,24 @@
 {
   "date": "2026-11-21",
-  "updated": "07:30",
+  "updated": "08:43",
   "items": [
-    {
-      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "07:27",
-      "ts": "2026-11-21T07:27:16+05:30"
-    },
     {
       "title": "M 3.9 - 1 km NW of Commerce, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "07:22",
-      "ts": "2026-11-21T07:22:12+05:30"
+      "time": "08:36",
+      "ts": "2026-11-21T08:36:47+05:30"
+    },
+    {
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "08:24",
+      "ts": "2026-11-21T08:24:55+05:30"
     },
     {
       "title": "M 5.0 - 10 km NW of Pinnacles, CA",
@@ -26,8 +26,8 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "06:38",
-      "ts": "2026-11-21T06:38:20+05:30"
+      "time": "07:54",
+      "ts": "2026-11-21T07:54:39+05:30"
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -43,10 +43,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "UN News: Top stories",
