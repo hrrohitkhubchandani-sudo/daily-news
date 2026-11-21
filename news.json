@@ -1,15 +1,24 @@
 {
   "date": "2026-11-21",
-  "updated": "16:08",
+  "updated": "17:06",
   "items": [
+    {
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "17:01",
+      "ts": "2026-11-21T17:01:51+05:30"
+    },
     {
       "title": "M 6.8 - 103 km NE of Lospalos, Timor Leste",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "16:04",
-      "ts": "2026-11-21T16:04:34+05:30"
+      "time": "16:47",
+      "ts": "2026-11-21T16:47:57+05:30"
     },
     {
       "title": "Chief of Defence Intelligence speech at Cambridge Intelligence Seminar: 20 November 2026",
@@ -17,26 +26,53 @@
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
-      "time": "15:31",
-      "ts": "2026-11-21T15:31:55+05:30"
+      "time": "16:41",
+      "ts": "2026-11-21T16:41:05+05:30"
     },
     {
-      "title": "M 3.9 - 1 km NW of Commerce, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
+      "title": "M 5.9 - 238 km SW of Yanglong, China",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucly",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "14:45",
-      "ts": "2026-11-21T14:45:46+05:30"
+      "time": "16:39",
+      "ts": "2026-11-21T16:39:02+05:30"
     },
     {
-      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "14:12",
-      "ts": "2026-11-21T14:12:47+05:30"
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज ईटानगर में अरुणाचल प्रदेश पुलिस को राष्ट्रपति निशान (President’s Colour) प्रदान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339539",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:38",
+      "ts": "2026-11-21T16:38:00+05:30"
+    },
+    {
+      "title": "बिहार के वैशाली में नीतीश सेतु के उद्घाटन और अन्य विकास परियोजनाओं की शुरुआत के दौरान प्रधानमंत्री के संबोधन का पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339533",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:22",
+      "ts": "2026-11-21T16:22:00+05:30"
+    },
+    {
+      "title": "महिलाओं का नेतृत्व, नवाचार और सामूहिक प्रयास वैश्विक चुनौतियों का समाधान प्रस्तुत कर सकते हैं : लोक सभा अध्यक्ष",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339530",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:11",
+      "ts": "2026-11-21T15:11:00+05:30"
+    },
+    {
+      "title": "भारत की माननीय राष्ट्रपति श्रीमती द्रौपदी मुर्मू भारतीय नौसेना अकादमी, एझीमाला में शरद सत्र 2026 की पासिंग आउट परेड का निरीक्षण करेंगी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339545",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:20",
+      "ts": "2026-11-21T14:20:00+05:30"
     },
     {
       "title": "फिल्में रातोंरात दुनिया नहीं बदल सकतीं, लेकिन सोच को नई दिशा दे सकती हैं और संवाद को प्रोत्साहित कर सकती हैं : ‘फादरलैंड’ की निर्माता ईवा पुस्ज़िन्स्का",
@@ -46,6 +82,15 @@
       "category": "Government",
       "time": "14:03",
       "ts": "2026-11-21T14:03:00+05:30"
+    },
+    {
+      "title": "श्रमिकों का कल्याण और औद्योगिक विकास राष्ट्रीय प्रगति के वाहन के दो महत्वपूर्ण पहिये हैं: डॉ. मनसुख मांडविया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339547",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:41",
+      "ts": "2026-11-21T13:41:00+05:30"
     },
     {
       "title": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय ने 19 नवंबर, 2026 को 'महिला उद्यमिता दिवस' मनाया",
@@ -99,7 +144,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 5,
+      "today": 10,
       "note": ""
     },
     {
@@ -239,6 +284,51 @@
       "category": "Government",
       "time": "12:45",
       "ts": "2026-11-21T12:45:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339539": {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज ईटानगर में अरुणाचल प्रदेश पुलिस को राष्ट्रपति निशान (President’s Colour) प्रदान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339539",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:38",
+      "ts": "2026-11-21T16:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339533": {
+      "title": "बिहार के वैशाली में नीतीश सेतु के उद्घाटन और अन्य विकास परियोजनाओं की शुरुआत के दौरान प्रधानमंत्री के संबोधन का पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339533",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:22",
+      "ts": "2026-11-21T16:22:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339530": {
+      "title": "महिलाओं का नेतृत्व, नवाचार और सामूहिक प्रयास वैश्विक चुनौतियों का समाधान प्रस्तुत कर सकते हैं : लोक सभा अध्यक्ष",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339530",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:11",
+      "ts": "2026-11-21T15:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339545": {
+      "title": "भारत की माननीय राष्ट्रपति श्रीमती द्रौपदी मुर्मू भारतीय नौसेना अकादमी, एझीमाला में शरद सत्र 2026 की पासिंग आउट परेड का निरीक्षण करेंगी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339545",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:20",
+      "ts": "2026-11-21T14:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339547": {
+      "title": "श्रमिकों का कल्याण और औद्योगिक विकास राष्ट्रीय प्रगति के वाहन के दो महत्वपूर्ण पहिये हैं: डॉ. मनसुख मांडविया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339547",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:41",
+      "ts": "2026-11-21T13:41:00+05:30"
     }
   }
 }
