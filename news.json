@@ -1,15 +1,24 @@
 {
   "date": "2026-11-21",
-  "updated": "08:43",
+  "updated": "09:51",
   "items": [
+    {
+      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "09:50",
+      "ts": "2026-11-21T09:50:06+05:30"
+    },
     {
       "title": "M 3.9 - 1 km NW of Commerce, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "08:36",
-      "ts": "2026-11-21T08:36:47+05:30"
+      "time": "09:47",
+      "ts": "2026-11-21T09:47:58+05:30"
     },
     {
       "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
@@ -19,15 +28,6 @@
       "category": "Disasters",
       "time": "08:24",
       "ts": "2026-11-21T08:24:55+05:30"
-    },
-    {
-      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "07:54",
-      "ts": "2026-11-21T07:54:39+05:30"
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -43,10 +43,10 @@
     {
       "name": "PIB, Government of India (Hindi)",
       "country": "India",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     },
     {
       "name": "UN News: Top stories",
@@ -133,6 +133,11 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339196": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339267": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339313": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339255": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339255": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339420": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339418": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339413": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339415": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339410": null
   }
 }
