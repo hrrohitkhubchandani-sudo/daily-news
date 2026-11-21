@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "11:51",
+  "updated": "13:10",
   "items": [
     {
       "title": "M 3.9 - 1 km NW of Commerce, CA",
@@ -8,8 +8,17 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "11:44",
-      "ts": "2026-11-21T11:44:02+05:30"
+      "time": "13:08",
+      "ts": "2026-11-21T13:08:12+05:30"
+    },
+    {
+      "title": "Text of PM's address at the Platinum Jubilee celebration of IIT Kharagpur",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339451",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:02",
+      "ts": "2026-11-21T13:02:00+05:30"
     },
     {
       "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
@@ -17,17 +26,8 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "11:34",
-      "ts": "2026-11-21T11:34:27+05:30"
-    },
-    {
-      "title": "M 5.0 - 10 km NW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "11:33",
-      "ts": "2026-11-21T11:33:03+05:30"
+      "time": "12:21",
+      "ts": "2026-11-21T12:21:50+05:30"
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -45,7 +45,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -92,8 +92,8 @@
       "name": "USGS: Significant earthquakes",
       "country": "World",
       "ok": true,
-      "entries": 3,
-      "today": 3,
+      "entries": 2,
+      "today": 2,
       "note": ""
     },
     {
@@ -138,6 +138,16 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339418": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339413": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339415": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339410": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339410": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339451": {
+      "title": "Text of PM's address at the Platinum Jubilee celebration of IIT Kharagpur",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339451",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:02",
+      "ts": "2026-11-21T13:02:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339432": null
   }
 }
