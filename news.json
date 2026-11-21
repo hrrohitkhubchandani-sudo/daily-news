@@ -1,15 +1,24 @@
 {
   "date": "2026-11-21",
-  "updated": "05:08",
+  "updated": "06:17",
   "items": [
+    {
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "06:14",
+      "ts": "2026-11-21T06:14:30+05:30"
+    },
     {
       "title": "M 3.9 - 1 km NW of Commerce, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "05:05",
-      "ts": "2026-11-21T05:05:44+05:30"
+      "time": "06:09",
+      "ts": "2026-11-21T06:09:02+05:30"
     },
     {
       "title": "M 5.0 - 10 km NW of Pinnacles, CA",
@@ -17,8 +26,8 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "05:00",
-      "ts": "2026-11-21T05:00:41+05:30"
+      "time": "05:29",
+      "ts": "2026-11-21T05:29:56+05:30"
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -83,8 +92,8 @@
       "name": "USGS: Significant earthquakes",
       "country": "World",
       "ok": true,
-      "entries": 2,
-      "today": 2,
+      "entries": 3,
+      "today": 3,
       "note": ""
     },
     {
