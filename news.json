@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "updated": "14:11",
+  "updated": "15:09",
   "items": [
     {
       "title": "M 3.9 - 1 km NW of Commerce, CA",
@@ -8,8 +8,17 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "14:06",
-      "ts": "2026-11-21T14:06:41+05:30"
+      "time": "14:45",
+      "ts": "2026-11-21T14:45:46+05:30"
+    },
+    {
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "14:12",
+      "ts": "2026-11-21T14:12:47+05:30"
     },
     {
       "title": "Text of PM's address at the Platinum Jubilee celebration of IIT Kharagpur",
@@ -21,13 +30,13 @@
       "ts": "2026-11-21T13:02:00+05:30"
     },
     {
-      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "12:21",
-      "ts": "2026-11-21T12:21:50+05:30"
+      "title": "गर्वमेंट ई-मार्केट प्‍लेस ने आदिवासी उद्यमियों के लिए सार्वजनिक खरीद के मौके बढ़ाने के लिए टीआईसीसीआई के साथ समझौता ज्ञापन पर हस्‍ताक्षर किये",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339489",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:48",
+      "ts": "2026-11-21T11:48:00+05:30"
     },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
@@ -45,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -149,6 +158,15 @@
       "ts": "2026-11-21T13:02:00+05:30"
     },
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339432": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339468": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339468": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339489": {
+      "title": "गर्वमेंट ई-मार्केट प्‍लेस ने आदिवासी उद्यमियों के लिए सार्वजनिक खरीद के मौके बढ़ाने के लिए टीआईसीसीआई के साथ समझौता ज्ञापन पर हस्‍ताक्षर किये",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339489",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:48",
+      "ts": "2026-11-21T11:48:00+05:30"
+    }
   }
 }
