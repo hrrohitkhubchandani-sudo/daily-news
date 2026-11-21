@@ -1,7 +1,16 @@
 {
   "date": "2026-11-21",
-  "updated": "22:06",
+  "updated": "23:03",
   "items": [
+    {
+      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "22:49",
+      "ts": "2026-11-21T22:49:29+05:30"
+    },
     {
       "title": "उत्तर प्रदेश के लखनऊ में 'कौशल दीक्षांत समारोह' में भाग लेने के दौरान प्रधानमंत्री के संबोधन का मूल पाठ",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339783",
@@ -10,6 +19,15 @@
       "category": "Government",
       "time": "21:49",
       "ts": "2026-11-21T21:49:00+05:30"
+    },
+    {
+      "title": "इफ्फी 2026 में ‘धुरंधर’ की प्रेस कॉन्फ्रेंस के दौरान जाने-माने अभिनेता राकेश बेदी ने किरदारों को गढ़ने और उन्हें जीवंत बनाने की कला पर अपने विचार साझा किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339816",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:29",
+      "ts": "2026-11-21T21:29:00+05:30"
     },
     {
       "title": "Defence Secretary meets President Zelensky and Minister Khmara in Kyiv as UK deepens industrial support for Ukraine",
@@ -21,15 +39,6 @@
       "ts": "2026-11-21T21:20:54+05:30"
     },
     {
-      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "21:07",
-      "ts": "2026-11-21T21:07:06+05:30"
-    },
-    {
       "title": "सूचना एवं प्रसारण मंत्रालय के सचिव श्री चंचल कुमार ने गोवा में 57वें इफ़्फी में प्रकाशन विभाग के स्टॉल का उद्घाटन किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339788",
       "source": "PIB, Government of India (Hindi)",
@@ -37,6 +46,15 @@
       "category": "Government",
       "time": "21:03",
       "ts": "2026-11-21T21:03:00+05:30"
+    },
+    {
+      "title": "एनआईएसडी ने सामाजिक रक्षा संबंधी पहलों को सुदृढ़ बनाने के लिए देशभर के विश्वविद्यालयों और संस्थानों के साथ हस्ताक्षरित 23 समझौता ज्ञापनों का आदान-प्रदान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339819",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:38",
+      "ts": "2026-11-21T20:38:00+05:30"
     },
     {
       "title": "प्रसार भारती ने इफ़्फी (आईएफएफआई) 57 में भारतीय कथा-कथन की नई प्रतिभाओं को खोजने के लिए ‘पेज से पिच तक’ की शुरुआत की",
@@ -199,24 +217,6 @@
       "category": "Government",
       "time": "17:11",
       "ts": "2026-11-21T17:11:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने बिहार के वैशाली में लगभग 34,470 करोड़ रुपये की विभिन्न विकास परियोजनाओं का उद्घाटन व शिलान्यास किया और उन्हें राष्ट्र को समर्पित किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339696",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:09",
-      "ts": "2026-11-21T17:09:00+05:30"
-    },
-    {
-      "title": "जैव प्रौद्योगिकी अनुसंधान और नवाचार परिषद का लक्ष्य वर्ष 2030 तक 300 बिलियन अमेरिकी डॉलर और 2047 तक 1 ट्रिलियन अमेरिकी डॉलर की भारतीय जैव-अर्थव्यवस्था तैयार करना है: केंद्रीय मंत्री डॉ. जितेंद्र सिंह",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339630",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:05",
-      "ts": "2026-11-21T17:05:00+05:30"
     },
     {
       "title": "Chief of Defence Intelligence speech at Cambridge Intelligence Seminar: 20 November 2026",
@@ -680,6 +680,24 @@
       "category": "Government",
       "time": "19:24",
       "ts": "2026-11-21T19:24:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339816": {
+      "title": "इफ्फी 2026 में ‘धुरंधर’ की प्रेस कॉन्फ्रेंस के दौरान जाने-माने अभिनेता राकेश बेदी ने किरदारों को गढ़ने और उन्हें जीवंत बनाने की कला पर अपने विचार साझा किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339816",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:29",
+      "ts": "2026-11-21T21:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339819": {
+      "title": "एनआईएसडी ने सामाजिक रक्षा संबंधी पहलों को सुदृढ़ बनाने के लिए देशभर के विश्वविद्यालयों और संस्थानों के साथ हस्ताक्षरित 23 समझौता ज्ञापनों का आदान-प्रदान किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339819",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:38",
+      "ts": "2026-11-21T20:38:00+05:30"
     }
   }
 }
