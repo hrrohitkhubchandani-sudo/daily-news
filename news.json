@@ -1,7 +1,17 @@
 {
   "date": "2026-11-23",
-  "updated": "03:39",
-  "items": [],
+  "updated": "04:40",
+  "items": [
+    {
+      "title": "COP31 Outcomes - your questions answered",
+      "link": "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:29",
+      "ts": "2026-11-23T04:29:37+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -64,7 +74,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
