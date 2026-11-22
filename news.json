@@ -1,7 +1,16 @@
 {
   "date": "2026-11-22",
-  "updated": "12:22",
+  "updated": "13:33",
   "items": [
+    {
+      "title": "प्रधानमंत्री ने श्री रामराव वडकुते जी के निधन पर शोक व्यक्त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339891",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:43",
+      "ts": "2026-11-22T12:43:00+05:30"
+    },
     {
       "title": "प्रधानमंत्री ने गुजरात के कच्छ में हुए हादसे में लोगों की मृत्यु पर शोक व्यक्त किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339856",
@@ -54,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -116,10 +125,10 @@
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     }
   ],
   "checked": {
@@ -162,6 +171,15 @@
       "category": "Government",
       "time": "10:55",
       "ts": "2026-11-22T10:55:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339891": {
+      "title": "प्रधानमंत्री ने श्री रामराव वडकुते जी के निधन पर शोक व्यक्त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339891",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:43",
+      "ts": "2026-11-22T12:43:00+05:30"
     }
   }
 }
