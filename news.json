@@ -1,7 +1,16 @@
 {
   "date": "2026-11-22",
-  "updated": "14:42",
+  "updated": "15:43",
   "items": [
+    {
+      "title": "Pupils learn money skills for real life in curriculum shake-up",
+      "link": "https://www.gov.uk/government/news/pupils-learn-money-skills-for-real-life-in-curriculum-shake-up",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:58",
+      "ts": "2026-11-22T14:58:36+05:30"
+    },
     {
       "title": "प्रधानमंत्री ने श्री रामराव वडकुते जी के निधन पर शोक व्यक्त किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339891",
@@ -46,15 +55,6 @@
       "category": "Government",
       "time": "05:31",
       "ts": "2026-11-22T05:31:05+05:30"
-    },
-    {
-      "title": "M 6.8 - 105 km NE of Lospalos, Timor Leste",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucij",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "03:48",
-      "ts": "2026-11-22T03:48:17+05:30"
     },
     {
       "title": "PM meeting with Prime Minister Jetten of the Netherlands: 21 November 2026",
@@ -119,8 +119,8 @@
       "name": "USGS: Significant earthquakes",
       "country": "World",
       "ok": true,
-      "entries": 2,
-      "today": 1,
+      "entries": 1,
+      "today": 0,
       "note": ""
     },
     {
@@ -128,7 +128,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
