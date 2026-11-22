@@ -1,7 +1,52 @@
 {
   "date": "2026-11-22",
-  "updated": "17:37",
+  "updated": "18:57",
   "items": [
+    {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने ईटानगर में NDRF की 12वीं बटालियन परिसर का उद्घाटन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339987",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:23",
+      "ts": "2026-11-22T18:23:00+05:30"
+    },
+    {
+      "title": "UK Government position on COP31 Outcome",
+      "link": "https://www.gov.uk/government/news/uk-government-position-on-cop31-outcome",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:51",
+      "ts": "2026-11-22T17:51:38+05:30"
+    },
+    {
+      "title": "लघु जलविद्युत क्षमता का दोहन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339976",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:46",
+      "ts": "2026-11-22T17:46:00+05:30"
+    },
+    {
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने ईटानगर में सहकारिता समारोह में ‘अरुणाचल प्रदेश कोऑपरेटिव विजन 2047’ का अनावरण किया तथा राज्य की विभिन्न विकास परियोजनाओं का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339963",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:39",
+      "ts": "2026-11-22T17:39:00+05:30"
+    },
+    {
+      "title": "पूर्वोत्तर भारत का सिनेमा 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव के दौरान में सांस्कृतिक विरासत, पहचान और सामाजिक वास्तविकताओं की कहानियां लेकर पहुंचा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339992",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:26",
+      "ts": "2026-11-22T16:26:00+05:30"
+    },
     {
       "title": "सिनेमा भावनाओं की सार्वभौमिक भाषा के ज़रिए मानवता को जोड़ता है: कार्ला सोफिया गस्कॉन",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339922",
@@ -99,7 +144,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 11,
       "note": ""
     },
     {
@@ -155,7 +200,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 4,
       "note": ""
     },
     {
@@ -252,6 +297,42 @@
       "category": "Government",
       "time": "13:50",
       "ts": "2026-11-22T13:50:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339987": {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने ईटानगर में NDRF की 12वीं बटालियन परिसर का उद्घाटन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339987",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:23",
+      "ts": "2026-11-22T18:23:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339976": {
+      "title": "लघु जलविद्युत क्षमता का दोहन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339976",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:46",
+      "ts": "2026-11-22T17:46:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339963": {
+      "title": "केंद्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने ईटानगर में सहकारिता समारोह में ‘अरुणाचल प्रदेश कोऑपरेटिव विजन 2047’ का अनावरण किया तथा राज्य की विभिन्न विकास परियोजनाओं का शुभारंभ किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339963",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:39",
+      "ts": "2026-11-22T17:39:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339992": {
+      "title": "पूर्वोत्तर भारत का सिनेमा 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव के दौरान में सांस्कृतिक विरासत, पहचान और सामाजिक वास्तविकताओं की कहानियां लेकर पहुंचा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339992",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:26",
+      "ts": "2026-11-22T16:26:00+05:30"
     }
   }
 }
