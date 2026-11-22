@@ -1,15 +1,15 @@
 {
   "date": "2026-11-22",
-  "updated": "05:31",
+  "updated": "07:11",
   "items": [
     {
-      "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "05:15",
-      "ts": "2026-11-22T05:15:55+05:30"
+      "title": "UK reaches for stars with NATO space launch plan",
+      "link": "https://www.gov.uk/government/news/uk-reaches-for-stars-with-nato-space-launch-plan",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-22T05:31:05+05:30"
     },
     {
       "title": "M 6.8 - 105 km NE of Lospalos, Timor Leste",
@@ -83,8 +83,8 @@
       "name": "USGS: Significant earthquakes",
       "country": "World",
       "ok": true,
-      "entries": 3,
-      "today": 2,
+      "entries": 2,
+      "today": 1,
       "note": ""
     },
     {
@@ -92,7 +92,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
