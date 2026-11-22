@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "updated": "20:42",
+  "updated": "21:41",
   "items": [
     {
       "title": "काशी तमिल संगमम 5.0 की पूर्व आयोजन गतिविधियों में फोटोग्राफी प्रतियोगिता और भजन संध्या का आयोजन",
@@ -10,6 +10,15 @@
       "category": "Government",
       "time": "19:49",
       "ts": "2026-11-22T19:49:00+05:30"
+    },
+    {
+      "title": "“गंगा से पोषित हज़ारों वर्षों के जीवंत अनुभव”: IFFI 2026 में ‘बनारस’ के लिए फिर साथ आए भरत बाला और ए.आर. रहमान",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340069",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:29",
+      "ts": "2026-11-22T19:29:00+05:30"
     },
     {
       "title": "​मोदी सरकार की नीतियों से देश में अब तक 49.60 करोड़ लोग गरीबी रेखा से बाहर: वर्ल्ड बैंक रिपोर्ट",
@@ -57,6 +66,15 @@
       "ts": "2026-11-22T18:23:00+05:30"
     },
     {
+      "title": "नई दिल्ली में पहले एससीओ सभ्यतागत संवाद मंच का समापन, सदस्य देशों के बीच साझा विरासत की पुष्टि और सांस्कृतिक सहयोग को मजबूत करने पर बल",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340068",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:12",
+      "ts": "2026-11-22T18:12:00+05:30"
+    },
+    {
       "title": "किसने कहा कि सिर्फ लड़के ही बाघ की तरह दहाड़ सकते हैं? 'बाघुनी' एक ऐसी लड़की की कहानी है, जो पारंपरिक 'बाघ नृत्य' में लैंगिक रूढ़ियों को चुनौती देती है",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340030",
       "source": "PIB, Government of India (Hindi)",
@@ -91,6 +109,15 @@
       "category": "Government",
       "time": "17:39",
       "ts": "2026-11-22T17:39:00+05:30"
+    },
+    {
+      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168855",
+      "source": "UN News: Climate change",
+      "country": "World",
+      "category": "Climate",
+      "time": "17:30",
+      "ts": "2026-11-22T17:30:00+05:30"
     },
     {
       "title": "चिंतन शिविर में हुए विचार-विमर्श से माननीय प्रधानमंत्री के सशक्त श्रम शक्ति और विकसित भारत के विज़न को साकार करने की दिशा में प्रगति को गति मिलेगी: केंद्रीय मंत्री डॉ. मनसुख मांडविया",
@@ -183,24 +210,6 @@
       "ts": "2026-11-22T12:36:00+05:30"
     },
     {
-      "title": "प्रधानमंत्री ने गुजरात के कच्छ में हुए हादसे में लोगों की मृत्यु पर शोक व्यक्त किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339856",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:57",
-      "ts": "2026-11-22T10:57:00+05:30"
-    },
-    {
-      "title": "प्रधानमंत्री ने राजस्थान के कोटा में दुर्घटना में हुई जनहानि पर शोक व्यक्त किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339852",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "10:55",
-      "ts": "2026-11-22T10:55:00+05:30"
-    },
-    {
       "title": "UK reaches for stars with NATO space launch plan",
       "link": "https://www.gov.uk/government/news/uk-reaches-for-stars-with-nato-space-launch-plan",
       "source": "GOV.UK: News and communications",
@@ -249,7 +258,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -495,6 +504,24 @@
       "category": "Government",
       "time": "19:05",
       "ts": "2026-11-22T19:05:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340069": {
+      "title": "“गंगा से पोषित हज़ारों वर्षों के जीवंत अनुभव”: IFFI 2026 में ‘बनारस’ के लिए फिर साथ आए भरत बाला और ए.आर. रहमान",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340069",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:29",
+      "ts": "2026-11-22T19:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340068": {
+      "title": "नई दिल्ली में पहले एससीओ सभ्यतागत संवाद मंच का समापन, सदस्य देशों के बीच साझा विरासत की पुष्टि और सांस्कृतिक सहयोग को मजबूत करने पर बल",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340068",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:12",
+      "ts": "2026-11-22T18:12:00+05:30"
     }
   }
 }
