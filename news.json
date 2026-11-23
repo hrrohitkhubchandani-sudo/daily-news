@@ -1,15 +1,15 @@
 {
   "date": "2026-11-23",
-  "updated": "08:18",
+  "updated": "09:21",
   "items": [
     {
       "title": "M 6.5 - Vanuatu region",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26327000",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "08:17",
-      "ts": "2026-11-23T08:17:42+05:30"
+      "time": "08:36",
+      "ts": "2026-11-23T08:36:51+05:30"
     },
     {
       "title": "\"Don’t turn a blind eye\": Kent communities urged to trust their instincts and report waste criminals",
@@ -125,6 +125,9 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340022": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2339992": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340027": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340155": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340155": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340183": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340179": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340188": null
   }
 }
