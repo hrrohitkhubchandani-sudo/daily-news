@@ -1,7 +1,16 @@
 {
   "date": "2026-11-23",
-  "updated": "04:40",
+  "updated": "05:38",
   "items": [
+    {
+      "title": "\"Don’t turn a blind eye\": Kent communities urged to trust their instincts and report waste criminals",
+      "link": "https://www.gov.uk/government/news/dont-turn-a-blind-eye-kent-communities-urged-to-trust-their-instincts-and-report-waste-criminals",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-23T05:31:09+05:30"
+    },
     {
       "title": "COP31 Outcomes - your questions answered",
       "link": "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered",
@@ -74,16 +83,16 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     }
   ],
   "checked": {
