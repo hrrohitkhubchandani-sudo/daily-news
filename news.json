@@ -1,7 +1,16 @@
 {
   "date": "2026-11-24",
-  "updated": "03:12",
+  "updated": "04:12",
   "items": [
+    {
+      "title": "Foreign Secretary Statement to the House of Commons: 23 November 2026",
+      "link": "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-of-commons-23-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "03:48",
+      "ts": "2026-11-24T03:48:11+05:30"
+    },
     {
       "title": "UK leads global action with major new measures against Myanmar military following landmark genocide judgment",
       "link": "https://www.gov.uk/government/news/uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment",
@@ -74,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
