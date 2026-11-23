@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "updated": "05:38",
+  "updated": "07:18",
   "items": [
     {
       "title": "\"Don’t turn a blind eye\": Kent communities urged to trust their instincts and report waste criminals",
@@ -89,10 +89,10 @@
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     }
   ],
   "checked": {
