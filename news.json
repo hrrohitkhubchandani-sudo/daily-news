@@ -1,7 +1,34 @@
 {
   "date": "2026-11-23",
-  "updated": "15:19",
+  "updated": "16:25",
   "items": [
+    {
+      "title": "Second wave of Gaza children arrive for specialist NHS treatment",
+      "link": "https://www.gov.uk/government/news/second-wave-of-gaza-children-arrive-for-specialist-nhs-treatment",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:04",
+      "ts": "2026-11-23T16:04:44+05:30"
+    },
+    {
+      "title": "Education Secretary champions UK education in China",
+      "link": "https://www.gov.uk/government/news/education-secretary-champions-uk-education-in-china",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:32",
+      "ts": "2026-11-23T15:32:03+05:30"
+    },
+    {
+      "title": "UK statement on Ukraine - IAEA Board of Governors November 2026",
+      "link": "https://www.gov.uk/government/speeches/uk-statement-on-ukraine-iaea-board-of-governors-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:19",
+      "ts": "2026-11-23T15:19:56+05:30"
+    },
     {
       "title": "YJB responds to the Children’s Commissioner’s plan to transform education in YOIs report",
       "link": "https://www.gov.uk/government/news/yjb-responds-to-the-childrens-commissioners-plan-to-transform-education-in-yois-report",
@@ -19,6 +46,15 @@
       "category": "Government",
       "time": "15:05",
       "ts": "2026-11-23T15:05:04+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने समृद्धि को बनाए रखने वाले आवश्यक गुणों को उजागर करने वाला संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340336",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:44",
+      "ts": "2026-11-23T14:44:00+05:30"
     },
     {
       "title": "UK steps up security support for British Overseas Territories",
@@ -73,6 +109,15 @@
       "category": "Government",
       "time": "13:30",
       "ts": "2026-11-23T13:30:03+05:30"
+    },
+    {
+      "title": "केंद्रीय पर्यावरण मंत्री ने राष्ट्रीय वन्यजीव बोर्ड की स्थायी समिति की 92वीं बैठक की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340311",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:05",
+      "ts": "2026-11-23T13:05:00+05:30"
     },
     {
       "title": "पहले एससीओ सभ्यतागत संवाद मंच के ज्ञान भारतम् सत्र में समृद्ध पांडुलिपि विरासत भाषा, लिपि और पांडुलिपि परंपराओं पर चर्चा",
@@ -144,7 +189,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 6,
+      "today": 8,
       "note": ""
     },
     {
@@ -200,7 +245,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 8,
+      "today": 11,
       "note": ""
     },
     {
@@ -290,6 +335,24 @@
       "category": "Government",
       "time": "13:00",
       "ts": "2026-11-23T13:00:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340336": {
+      "title": "प्रधानमंत्री ने समृद्धि को बनाए रखने वाले आवश्यक गुणों को उजागर करने वाला संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340336",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:44",
+      "ts": "2026-11-23T14:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340311": {
+      "title": "केंद्रीय पर्यावरण मंत्री ने राष्ट्रीय वन्यजीव बोर्ड की स्थायी समिति की 92वीं बैठक की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340311",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:05",
+      "ts": "2026-11-23T13:05:00+05:30"
     }
   }
 }
