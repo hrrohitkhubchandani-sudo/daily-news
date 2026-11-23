@@ -1,7 +1,43 @@
 {
   "date": "2026-11-23",
-  "updated": "19:51",
+  "updated": "21:03",
   "items": [
+    {
+      "title": "सरस शक्ति फूड फेस्टिवल महिला सशक्तिकरण और ग्रामीण उद्यमिता का सशक्त उदाहरण: शिवराज सिंह चौहान",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340592",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:27",
+      "ts": "2026-11-23T20:27:00+05:30"
+    },
+    {
+      "title": "श्री गुरु नानक देव जी के प्रकाश पर्व पर आयोजित शबद कीर्तन में प्रधानमंत्री के संबोधन मूल का पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340586",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:22",
+      "ts": "2026-11-23T20:22:00+05:30"
+    },
+    {
+      "title": "Joint Statement on the International Court of Justice decision on Myanmar",
+      "link": "https://www.gov.uk/government/news/joint-statement-on-the-international-court-of-justice-decision-on-myanmar",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:13",
+      "ts": "2026-11-23T20:13:44+05:30"
+    },
+    {
+      "title": "Market opens up for food and drink in Philippines and Vietnam",
+      "link": "https://www.gov.uk/government/news/market-opens-up-for-food-and-drink-in-philippines-and-vietnam",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:07",
+      "ts": "2026-11-23T20:07:00+05:30"
+    },
     {
       "title": "CBI Keynote Speech - The Business Case for Public Control",
       "link": "https://www.gov.uk/government/speeches/cbi-keynote-speech-the-business-case-for-public-control",
@@ -37,6 +73,15 @@
       "category": "Government",
       "time": "19:21",
       "ts": "2026-11-23T19:21:00+05:30"
+    },
+    {
+      "title": "सुपरहीरो की नई कल्पना: अयान मुखर्जी और बेसिल जोसेफ के बीच सांस्कृतिक जड़ों वाली दुनिया रचने पर चर्चा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340574",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:00",
+      "ts": "2026-11-23T19:00:00+05:30"
     },
     {
       "title": "Have your say on new financial penalty powers",
@@ -93,8 +138,26 @@
       "ts": "2026-11-23T18:47:00+05:30"
     },
     {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने नौ महीने से भी कम समय में एचपीवी वैक्सीन की 1 करोड़ से अधिक टीके लगाने की भारत की उपलब्धि की सराहना की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340590",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:44",
+      "ts": "2026-11-23T18:44:00+05:30"
+    },
+    {
       "title": "भारत की राष्ट्रपति का गुरु तेग बहादुर जी के ‘शहीदी दिवस’ की पूर्व संध्या पर संदेश",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340485",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:42",
+      "ts": "2026-11-23T18:42:00+05:30"
+    },
+    {
+      "title": "57वें आईएफएफआई में तमिल फिल्म 'कूडू' पर्यावरण संरक्षण और सामुदायिक जिम्मेदारी की पड़ताल करती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340565",
       "source": "PIB, Government of India (Hindi)",
       "country": "India",
       "category": "Government",
@@ -156,6 +219,15 @@
       "ts": "2026-11-23T17:32:00+05:30"
     },
     {
+      "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-23T17:30:00+05:30"
+    },
+    {
       "title": "Libya: UN mission urges probe into Benghazi port attacks",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168857",
       "source": "UN News: Top stories",
@@ -201,31 +273,13 @@
       "ts": "2026-11-23T16:58:00+05:30"
     },
     {
-      "title": "भारतीय नौसेना के जहाज ‘सह्याद्रि’ की वियतनाम के दा नांग बंदरगाह की यात्रा संपन्न",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340455",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:56",
-      "ts": "2026-11-23T16:56:00+05:30"
-    },
-    {
-      "title": "इफ्फी 2026 में, चंडीगढ़ के विकास में माचे नोवित्स्की का अल्पज्ञात योगदान निर्मांजलि द्वारा सामने आया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340456",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:40",
-      "ts": "2026-11-23T16:40:00+05:30"
-    },
-    {
       "title": "Tracy Westall OBE appointed as DVLA Chair",
       "link": "https://www.gov.uk/government/news/tracy-westall-obe-appointed-as-dvla-chair",
       "source": "GOV.UK: News and communications",
       "country": "United Kingdom",
       "category": "Government",
       "time": "16:30",
-      "ts": "2026-11-23T16:30:01+05:30"
+      "ts": "2026-11-23T16:30:00+05:30"
     },
     {
       "title": "The UK and Samoa celebrate His Majesty The King’s Birthday",
@@ -235,33 +289,6 @@
       "category": "Government",
       "time": "16:28",
       "ts": "2026-11-23T16:28:30+05:30"
-    },
-    {
-      "title": "भूस्खलन प्रबंधन के मामले में भारत का दृष्टिकोण धीरे-धीरे ‘आपदा के बाद राहत’ से बदलकर ‘आपदा की रोकथाम' की दिशा में बढ़ रहा है: 7वें विश्व भूस्खलन मंच में डॉ. जितेंद्र सिंह",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340546",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:25",
-      "ts": "2026-11-23T16:25:00+05:30"
-    },
-    {
-      "title": "केंद्रीय स्वास्थ्य सचिव श्रीमती पुण्य सलिला श्रीवास्तव ने क्रिश्चियन मेडिकल कॉलेज (सीएमसी), वेल्लोर में देश की पहली समर्पित मानव मेटाबॉलिक चैंबर सुविधा का उद्घाटन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340496",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:23",
-      "ts": "2026-11-23T16:23:00+05:30"
-    },
-    {
-      "title": "एनएफएससी फेलोशिप द्वारा उच्च शिक्षा को बढ़ावा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340410",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:07",
-      "ts": "2026-11-23T16:07:00+05:30"
     },
     {
       "title": "Second wave of Gaza children arrive for specialist NHS treatment",
@@ -361,15 +388,6 @@
       "category": "Government",
       "time": "05:31",
       "ts": "2026-11-23T05:31:09+05:30"
-    },
-    {
-      "title": "COP31 Outcomes - your questions answered",
-      "link": "https://www.gov.uk/government/news/cop31-outcomes-your-questions-answered",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "04:29",
-      "ts": "2026-11-23T04:29:37+05:30"
     }
   ],
   "health": [
@@ -386,7 +404,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -394,7 +412,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -410,7 +428,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -434,7 +452,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 19,
+      "today": 20,
       "note": ""
     },
     {
@@ -776,6 +794,51 @@
       "category": "Government",
       "time": "16:23",
       "ts": "2026-11-23T16:23:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340592": {
+      "title": "सरस शक्ति फूड फेस्टिवल महिला सशक्तिकरण और ग्रामीण उद्यमिता का सशक्त उदाहरण: शिवराज सिंह चौहान",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340592",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:27",
+      "ts": "2026-11-23T20:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340586": {
+      "title": "श्री गुरु नानक देव जी के प्रकाश पर्व पर आयोजित शबद कीर्तन में प्रधानमंत्री के संबोधन मूल का पाठ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340586",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:22",
+      "ts": "2026-11-23T20:22:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340574": {
+      "title": "सुपरहीरो की नई कल्पना: अयान मुखर्जी और बेसिल जोसेफ के बीच सांस्कृतिक जड़ों वाली दुनिया रचने पर चर्चा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340574",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:00",
+      "ts": "2026-11-23T19:00:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340590": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने नौ महीने से भी कम समय में एचपीवी वैक्सीन की 1 करोड़ से अधिक टीके लगाने की भारत की उपलब्धि की सराहना की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340590",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:44",
+      "ts": "2026-11-23T18:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340565": {
+      "title": "57वें आईएफएफआई में तमिल फिल्म 'कूडू' पर्यावरण संरक्षण और सामुदायिक जिम्मेदारी की पड़ताल करती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340565",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:42",
+      "ts": "2026-11-23T18:42:00+05:30"
     }
   }
 }
