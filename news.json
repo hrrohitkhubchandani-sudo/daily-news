@@ -1,7 +1,61 @@
 {
   "date": "2026-11-23",
-  "updated": "13:53",
+  "updated": "15:19",
   "items": [
+    {
+      "title": "YJB responds to the Children’s Commissioner’s plan to transform education in YOIs report",
+      "link": "https://www.gov.uk/government/news/yjb-responds-to-the-childrens-commissioners-plan-to-transform-education-in-yois-report",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:13",
+      "ts": "2026-11-23T15:13:44+05:30"
+    },
+    {
+      "title": "Consultation launched on proposals to update fees for statutory Maritime and Coastguard Agency services",
+      "link": "https://www.gov.uk/government/news/consultation-launched-on-proposals-to-update-fees-for-statutory-maritime-and-coastguard-agency-services",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:05",
+      "ts": "2026-11-23T15:05:04+05:30"
+    },
+    {
+      "title": "UK steps up security support for British Overseas Territories",
+      "link": "https://www.gov.uk/government/news/uk-steps-up-security-support-for-british-overseas-territories",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:34",
+      "ts": "2026-11-23T14:34:27+05:30"
+    },
+    {
+      "title": "DBS and Everton FC team up to champion safer recruitment in sport",
+      "link": "https://www.gov.uk/government/news/dbs-and-everton-fc-team-up-to-champion-safer-recruitment-in-sport",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-23T14:30:00+05:30"
+    },
+    {
+      "title": "Upcoming consultation on the draft East Marine Plan",
+      "link": "https://www.gov.uk/government/news/upcoming-consultation-on-the-draft-east-marine-plan",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:30",
+      "ts": "2026-11-23T14:30:00+05:30"
+    },
+    {
+      "title": "नेपाल के प्रधानमंत्री के साथ संयुक्त प्रेस वक्तव्य के दौरान प्रधानमंत्री का प्रेस वक्तव्य",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340292",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:12",
+      "ts": "2026-11-23T14:12:00+05:30"
+    },
     {
       "title": "देश की धरती से वैश्विक बाजारों तक फूलों का सफर",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340274",
@@ -19,6 +73,24 @@
       "category": "Government",
       "time": "13:30",
       "ts": "2026-11-23T13:30:03+05:30"
+    },
+    {
+      "title": "पहले एससीओ सभ्यतागत संवाद मंच के ज्ञान भारतम् सत्र में समृद्ध पांडुलिपि विरासत भाषा, लिपि और पांडुलिपि परंपराओं पर चर्चा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340293",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:02",
+      "ts": "2026-11-23T13:02:00+05:30"
+    },
+    {
+      "title": "माय भारत द्वारा संविधान दिवस पर ‘युवा संवाद’ का आयोजन; ‘विकसित भारत@2047’ विषय के अंतर्गत 30 से अधिक राज्यों/केंद्रशासित प्रदेशों के 600 से अधिक जिलों में होंगे कार्यक्रम",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340290",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:00",
+      "ts": "2026-11-23T13:00:00+05:30"
     },
     {
       "title": "भारत अंतरराष्ट्रीय व्यापार मेले 2026 में आयुष मंडप प्रमुख आकर्षण बना",
@@ -72,7 +144,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 6,
       "note": ""
     },
     {
@@ -128,7 +200,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 8,
       "note": ""
     },
     {
@@ -191,6 +263,33 @@
       "category": "Government",
       "time": "10:28",
       "ts": "2026-11-23T10:28:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340292": {
+      "title": "नेपाल के प्रधानमंत्री के साथ संयुक्त प्रेस वक्तव्य के दौरान प्रधानमंत्री का प्रेस वक्तव्य",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340292",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:12",
+      "ts": "2026-11-23T14:12:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340293": {
+      "title": "पहले एससीओ सभ्यतागत संवाद मंच के ज्ञान भारतम् सत्र में समृद्ध पांडुलिपि विरासत भाषा, लिपि और पांडुलिपि परंपराओं पर चर्चा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340293",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:02",
+      "ts": "2026-11-23T13:02:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340290": {
+      "title": "माय भारत द्वारा संविधान दिवस पर ‘युवा संवाद’ का आयोजन; ‘विकसित भारत@2047’ विषय के अंतर्गत 30 से अधिक राज्यों/केंद्रशासित प्रदेशों के 600 से अधिक जिलों में होंगे कार्यक्रम",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340290",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:00",
+      "ts": "2026-11-23T13:00:00+05:30"
     }
   }
 }
