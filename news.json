@@ -1,7 +1,43 @@
 {
   "date": "2026-11-25",
-  "updated": "03:16",
+  "updated": "04:17",
   "items": [
+    {
+      "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "04:13",
+      "ts": "2026-11-25T04:13:42+05:30"
+    },
+    {
+      "title": "“Nuclear test veterans and their families have waited too long for the truth” – PM announces Independent Panel on nuclear weapons testing",
+      "link": "https://www.gov.uk/government/news/nuclear-test-veterans-and-their-families-have-waited-too-long-for-the-truth-pm-announces-independent-panel-on-nuclear-weapons-testing",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-25T04:00:03+05:30"
+    },
+    {
+      "title": "£142 million Navy investment strengthens UK security and British jobs",
+      "link": "https://www.gov.uk/government/news/142-million-navy-investment-strengthens-uk-security-and-british-jobs",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-25T04:00:03+05:30"
+    },
+    {
+      "title": "Prime Minister calls time on abusers hiding in plain sight",
+      "link": "https://www.gov.uk/government/news/prime-minister-calls-time-on-abusers-hiding-in-plain-sight",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "04:00",
+      "ts": "2026-11-25T04:00:03+05:30"
+    },
     {
       "title": "20 million households to receive £100 payment",
       "link": "https://www.gov.uk/government/news/20-million-households-to-receive-100-payment",
@@ -10,15 +46,6 @@
       "category": "Government",
       "time": "03:14",
       "ts": "2026-11-25T03:14:18+05:30"
-    },
-    {
-      "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "03:04",
-      "ts": "2026-11-25T03:04:35+05:30"
     },
     {
       "title": "Keynote Address at Society of Motor Manufacturers and Traders",
@@ -119,7 +146,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 7,
       "note": ""
     },
     {
