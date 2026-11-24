@@ -1,7 +1,16 @@
 {
   "date": "2026-11-24",
-  "updated": "05:10",
+  "updated": "06:17",
   "items": [
+    {
+      "title": "Mooove over, poor signal: 50 government-funded 4G upgrades help dog walkers steer clear of cattle",
+      "link": "https://www.gov.uk/government/news/mooove-over-poor-signal-50-government-funded-4g-upgrades-help-dog-walkers-steer-clear-of-cattle",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-24T05:31:02+05:30"
+    },
     {
       "title": "Foreign Secretary Statement to the House of Commons: 23 November 2026",
       "link": "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-of-commons-23-november-2026",
@@ -83,7 +92,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
