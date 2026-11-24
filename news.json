@@ -1,7 +1,34 @@
 {
   "date": "2026-11-24",
-  "updated": "20:59",
+  "updated": "22:09",
   "items": [
+    {
+      "title": "New Chairman appointed to the Disclosure and Barring Service",
+      "link": "https://www.gov.uk/government/news/new-chairman-appointed-to-the-disclosure-and-barring-service",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:30",
+      "ts": "2026-11-24T21:30:00+05:30"
+    },
+    {
+      "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+      "link": "https://www.gov.uk/government/news/daniel-e-pinto-appointed-to-the-bank-of-englands-financial-policy-committee",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "21:30",
+      "ts": "2026-11-24T21:30:00+05:30"
+    },
+    {
+      "title": "“सिनेमा लोगों को जोड़ने का उत्सव है”: गुजराती फिल्म लालो – कृष्ण सदा सहायते ने इफ्फी 2026 में दर्शकों का दिल जीता",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341014",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:42",
+      "ts": "2026-11-24T20:42:00+05:30"
+    },
     {
       "title": "First UK Defence Secretary to visit Kharkiv as UK ramps up support for Ukraine",
       "link": "https://www.gov.uk/government/news/first-uk-defence-secretary-to-visit-kharkiv-as-uk-ramps-up-support-for-ukraine",
@@ -18,7 +45,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "20:37",
-      "ts": "2026-11-24T20:37:46+05:30"
+      "ts": "2026-11-24T20:37:00+05:30"
     },
     {
       "title": "MHRA sets out regulatory approach to next generation innovation",
@@ -165,6 +192,24 @@
       "ts": "2026-11-24T17:55:00+05:30"
     },
     {
+      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-24T17:30:00+05:30"
+    },
+    {
+      "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168865",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-24T17:30:00+05:30"
+    },
+    {
       "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168864",
       "source": "UN News: Top stories",
@@ -309,24 +354,6 @@
       "ts": "2026-11-24T15:59:00+05:30"
     },
     {
-      "title": "UK launches consultation on potential FTA with Thailand",
-      "link": "https://www.gov.uk/government/news/uk-launches-consultation-on-potential-fta-with-thailand",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:29",
-      "ts": "2026-11-24T15:29:45+05:30"
-    },
-    {
-      "title": "UKHSA data shows full impact of summer heatwaves and heat-associated deaths",
-      "link": "https://www.gov.uk/government/news/ukhsa-data-shows-full-impact-of-summer-heatwaves-and-heat-associated-deaths",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:23",
-      "ts": "2026-11-24T15:23:01+05:30"
-    },
-    {
       "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने एक लेख साझा किया है, जिसमें कौशल विकास पर भारत के बढ़ते ध्यान और कौशल विकास को करियर के एक पसंदीदा विकल्प के रूप में स्थापित करने का उल्लेख किया गया है",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340827",
       "source": "PIB, Government of India (Hindi)",
@@ -372,15 +399,6 @@
       "ts": "2026-11-24T11:39:00+05:30"
     },
     {
-      "title": "नक्सल-मुक्त भारत",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340786",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:38",
-      "ts": "2026-11-24T11:38:00+05:30"
-    },
-    {
       "title": "इंडियन सोसाइटी ऑफ एयरोस्पेस मेडिसिन (आईएसएएम) का 65वां वार्षिक सम्मेलन 26 और 27 नवंबर 2026 को आयोजित किया जाएगा",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340790",
       "source": "PIB, Government of India (Hindi)",
@@ -404,7 +422,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
@@ -428,7 +446,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -712,6 +730,15 @@
       "category": "Government",
       "time": "15:59",
       "ts": "2026-11-24T15:59:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341014": {
+      "title": "“सिनेमा लोगों को जोड़ने का उत्सव है”: गुजराती फिल्म लालो – कृष्ण सदा सहायते ने इफ्फी 2026 में दर्शकों का दिल जीता",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341014",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:42",
+      "ts": "2026-11-24T20:42:00+05:30"
     }
   }
 }
