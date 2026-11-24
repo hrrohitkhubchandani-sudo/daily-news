@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "00:17",
+  "updated": "01:24",
   "items": [
     {
       "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
@@ -8,8 +8,26 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "00:16",
-      "ts": "2026-11-25T00:16:43+05:30"
+      "time": "01:19",
+      "ts": "2026-11-25T01:19:12+05:30"
+    },
+    {
+      "title": "Technology will not make peace for us, but used well, it can help us to build, protect and support it: UK statement at the UN Security Council",
+      "link": "https://www.gov.uk/government/speeches/technology-will-not-make-peace-for-us-but-used-well-it-can-help-us-to-build-protect-and-support-it-uk-statement-at-the-un-security-council",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "00:57",
+      "ts": "2026-11-25T00:57:20+05:30"
+    },
+    {
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "source": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "time": "00:30",
+      "ts": "2026-11-25T00:30:00+05:30"
     }
   ],
   "health": [
@@ -74,7 +92,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -82,7 +100,7 @@
       "country": "United States",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     }
   ],
