@@ -1,15 +1,60 @@
 {
   "date": "2026-11-24",
-  "updated": "18:27",
+  "updated": "19:46",
   "items": [
+    {
+      "title": "New digital number plates to help police crackdown on criminal drone use",
+      "link": "https://www.gov.uk/government/news/new-digital-number-plates-to-help-police-crackdown-on-criminal-drone-use",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:08",
+      "ts": "2026-11-24T19:08:53+05:30"
+    },
+    {
+      "title": "Timms Review recommends overhaul of disability benefits system",
+      "link": "https://www.gov.uk/government/news/timms-review-recommends-overhaul-of-disability-benefits-system",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:00",
+      "ts": "2026-11-24T19:00:03+05:30"
+    },
+    {
+      "title": "Timms Review of Personal Independence Payment: what you need to know",
+      "link": "https://www.gov.uk/government/news/timms-review-of-personal-independence-payment-what-you-need-to-know",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:00",
+      "ts": "2026-11-24T19:00:03+05:30"
+    },
+    {
+      "title": "The Timms Review: co-chair update, November 2026",
+      "link": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:00",
+      "ts": "2026-11-24T19:00:03+05:30"
+    },
     {
       "title": "M 6.4 - Mauritius - Reunion region",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ud6h",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "18:05",
-      "ts": "2026-11-24T18:05:17+05:30"
+      "time": "18:45",
+      "ts": "2026-11-24T18:45:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने फेडरल रिपब्लिक ऑफ जर्मनी के चांसलर से टेलीफोन पर बातचीत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340893",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:07",
+      "ts": "2026-11-24T18:07:00+05:30"
     },
     {
       "title": "CEOs from sensitive sectors receive briefings on Russia threats",
@@ -19,6 +64,24 @@
       "category": "Government",
       "time": "18:00",
       "ts": "2026-11-24T18:00:08+05:30"
+    },
+    {
+      "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168864",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-24T17:30:00+05:30"
+    },
+    {
+      "title": "Five women killed every hour by partners or family members",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168863",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-24T17:30:00+05:30"
     },
     {
       "title": "Trustee appointed to the Science Museum Group",
@@ -37,6 +100,15 @@
       "category": "Government",
       "time": "17:12",
       "ts": "2026-11-24T17:12:30+05:30"
+    },
+    {
+      "title": "केंद्रीय मंत्री डॉ. वीरेंद्र कुमार कल 25 नवंबर को समावेश- SAMAVESH और नए ई-अनुदान पोर्टल का शुभारंभ करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340888",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:12",
+      "ts": "2026-11-24T17:12:00+05:30"
     },
     {
       "title": "Co-founder of Manchester restaurant banned after failing to account for more than £300,000 in furlough payments",
@@ -271,33 +343,6 @@
       "category": "Government",
       "time": "08:40",
       "ts": "2026-11-24T08:40:00+05:30"
-    },
-    {
-      "title": "Mooove over, poor signal: 50 government-funded 4G upgrades help dog walkers steer clear of cattle",
-      "link": "https://www.gov.uk/government/news/mooove-over-poor-signal-50-government-funded-4g-upgrades-help-dog-walkers-steer-clear-of-cattle",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-24T05:31:00+05:30"
-    },
-    {
-      "title": "Foreign Secretary Statement to the House of Commons: 23 November 2026",
-      "link": "https://www.gov.uk/government/speeches/foreign-secretary-statement-to-the-house-of-commons-23-november-2026",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "03:48",
-      "ts": "2026-11-24T03:48:11+05:30"
-    },
-    {
-      "title": "UK leads global action with major new measures against Myanmar military following landmark genocide judgment",
-      "link": "https://www.gov.uk/government/news/uk-leads-global-action-with-major-new-measures-against-myanmar-military-following-landmark-genocide-judgment",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "00:01",
-      "ts": "2026-11-24T00:01:15+05:30"
     }
   ],
   "health": [
@@ -306,7 +351,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 13,
+      "today": 15,
       "note": ""
     },
     {
@@ -314,7 +359,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -338,7 +383,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -362,7 +407,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 19,
+      "today": 20,
       "note": ""
     },
     {
@@ -514,6 +559,24 @@
       "category": "Government",
       "time": "13:12",
       "ts": "2026-11-24T13:12:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340893": {
+      "title": "प्रधानमंत्री ने फेडरल रिपब्लिक ऑफ जर्मनी के चांसलर से टेलीफोन पर बातचीत की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340893",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:07",
+      "ts": "2026-11-24T18:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340888": {
+      "title": "केंद्रीय मंत्री डॉ. वीरेंद्र कुमार कल 25 नवंबर को समावेश- SAMAVESH और नए ई-अनुदान पोर्टल का शुभारंभ करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340888",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:12",
+      "ts": "2026-11-24T17:12:00+05:30"
     }
   }
 }
