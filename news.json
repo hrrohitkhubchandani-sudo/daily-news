@@ -1,7 +1,43 @@
 {
   "date": "2026-11-24",
-  "updated": "15:09",
+  "updated": "16:18",
   "items": [
+    {
+      "title": "Tax code notices go online for millions",
+      "link": "https://www.gov.uk/government/news/tax-code-notices-go-online-for-millions",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:59",
+      "ts": "2026-11-24T15:59:16+05:30"
+    },
+    {
+      "title": "UK launches consultation on potential FTA with Thailand",
+      "link": "https://www.gov.uk/government/news/uk-launches-consultation-on-potential-fta-with-thailand",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:29",
+      "ts": "2026-11-24T15:29:45+05:30"
+    },
+    {
+      "title": "UKHSA data shows full impact of summer heatwaves and heat-associated deaths",
+      "link": "https://www.gov.uk/government/news/ukhsa-data-shows-full-impact-of-summer-heatwaves-and-heat-associated-deaths",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:23",
+      "ts": "2026-11-24T15:23:01+05:30"
+    },
+    {
+      "title": "UK economy and savers to benefit from new flexibilities over £160 billion pension surpluses",
+      "link": "https://www.gov.uk/government/news/uk-economy-and-savers-to-benefit-from-new-flexibilities-over-160-billion-pension-surpluses",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:12",
+      "ts": "2026-11-24T15:12:02+05:30"
+    },
     {
       "title": "RSH publishes its quarterly survey for Q2 July to September 2026",
       "link": "https://www.gov.uk/government/news/rsh-publishes-its-quarterly-survey-for-q2-july-to-september-2026",
@@ -200,7 +236,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 11,
       "note": ""
     },
     {
