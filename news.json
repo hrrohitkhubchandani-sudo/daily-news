@@ -1,7 +1,61 @@
 {
   "date": "2026-11-24",
-  "updated": "12:26",
+  "updated": "13:54",
   "items": [
+    {
+      "title": "How to submit applications and complaints to the CAC",
+      "link": "https://www.gov.uk/government/news/applications-and-complaints",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:33",
+      "ts": "2026-11-24T12:33:29+05:30"
+    },
+    {
+      "title": "श्री गुरु नानक देव जी के प्रकाश पर्व पर उपराष्ट्रपति श्री सी. पी. राधाकृष्णन गुरुद्वारा रकाब गंज साहिब गए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340788",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:39",
+      "ts": "2026-11-24T11:39:00+05:30"
+    },
+    {
+      "title": "नक्सल-मुक्त भारत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340786",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-24T11:38:00+05:30"
+    },
+    {
+      "title": "इंडियन सोसाइटी ऑफ एयरोस्पेस मेडिसिन (आईएसएएम) का 65वां वार्षिक सम्मेलन 26 और 27 नवंबर 2026 को आयोजित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340790",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-24T11:38:00+05:30"
+    },
+    {
+      "title": "एपीडा ने वाराणसी में हितधारकों के साथ संवाद कार्यक्रम आयोजित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340780",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:49",
+      "ts": "2026-11-24T10:49:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने देवी गंगा का आह्वान करते हुए संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340779",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:00",
+      "ts": "2026-11-24T09:00:00+05:30"
+    },
     {
       "title": "प्रधानमंत्री ने श्री गुरु नानक देव जी के प्रकाश पर्व के पावन अवसर पर शुभकामनाएं दीं",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340729",
@@ -63,7 +117,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 8,
       "note": ""
     },
     {
@@ -119,7 +173,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 4,
       "note": ""
     },
     {
@@ -181,6 +235,51 @@
       "category": "Government",
       "time": "08:40",
       "ts": "2026-11-24T08:40:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340788": {
+      "title": "श्री गुरु नानक देव जी के प्रकाश पर्व पर उपराष्ट्रपति श्री सी. पी. राधाकृष्णन गुरुद्वारा रकाब गंज साहिब गए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340788",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:39",
+      "ts": "2026-11-24T11:39:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340786": {
+      "title": "नक्सल-मुक्त भारत",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340786",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-24T11:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340790": {
+      "title": "इंडियन सोसाइटी ऑफ एयरोस्पेस मेडिसिन (आईएसएएम) का 65वां वार्षिक सम्मेलन 26 और 27 नवंबर 2026 को आयोजित किया जाएगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340790",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:38",
+      "ts": "2026-11-24T11:38:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340780": {
+      "title": "एपीडा ने वाराणसी में हितधारकों के साथ संवाद कार्यक्रम आयोजित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340780",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:49",
+      "ts": "2026-11-24T10:49:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340779": {
+      "title": "प्रधानमंत्री ने देवी गंगा का आह्वान करते हुए संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340779",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:00",
+      "ts": "2026-11-24T09:00:00+05:30"
     }
   }
 }
