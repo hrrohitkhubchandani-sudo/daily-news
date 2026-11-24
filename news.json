@@ -1,7 +1,25 @@
 {
   "date": "2026-11-24",
-  "updated": "22:09",
+  "updated": "23:15",
   "items": [
+    {
+      "title": "Improvement notice issued to London Borough of Bexley: May 2024",
+      "link": "https://www.gov.uk/government/publications/improvement-notice-issued-to-london-borough-of-bexley-may-2024",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:28",
+      "ts": "2026-11-24T22:28:05+05:30"
+    },
+    {
+      "title": "PM meeting with His Royal Highness The Prince of Wales: 24 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-meeting-with-his-royal-highness-the-prince-of-wales-24-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:20",
+      "ts": "2026-11-24T22:20:50+05:30"
+    },
     {
       "title": "New Chairman appointed to the Disclosure and Barring Service",
       "link": "https://www.gov.uk/government/news/new-chairman-appointed-to-the-disclosure-and-barring-service",
@@ -64,6 +82,15 @@
       "category": "Government",
       "time": "20:19",
       "ts": "2026-11-24T20:19:45+05:30"
+    },
+    {
+      "title": "मिड-फेस्ट फिल्म ‘आई मैटर’ पहचान, अपनेपन और मानवता की अनेक परतों की पड़ताल करती है: आईएफएफआई 2026 में निर्देशक एलिना सरबन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341018",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:18",
+      "ts": "2026-11-24T20:18:00+05:30"
     },
     {
       "title": "भारत की राष्‍ट्रपति कटक में बाली जात्रा महोत्सव 2026 में शामिल हुईं",
@@ -318,15 +345,6 @@
       "ts": "2026-11-24T16:40:54+05:30"
     },
     {
-      "title": "Statement to the 31st Session of the Conference of the States Parties of the OPCW",
-      "link": "https://www.gov.uk/government/speeches/statement-to-the-31st-session-of-the-conference-of-the-states-parties-of-the-opcw",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "16:39",
-      "ts": "2026-11-24T16:39:41+05:30"
-    },
-    {
       "title": "धरती की सेहत सुधारने और किसानों की आय बढ़ाने पंजाब के खेतों में पहुंचे केंद्रीय कृषि मंत्री श्री शिवराज सिंह चौहान",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340820",
       "source": "PIB, Government of India (Hindi)",
@@ -336,13 +354,13 @@
       "ts": "2026-11-24T16:33:00+05:30"
     },
     {
-      "title": "Tax code notices go online for millions",
-      "link": "https://www.gov.uk/government/news/tax-code-notices-go-online-for-millions",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
+      "title": "'अवतार कौल: द (इन)कंप्लीट स्टोरी' फिल्म निर्माता अवतार कौल के जीवन और उनकी सिनेमाई विरासत पर एक नजर डालती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341023",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
       "category": "Government",
-      "time": "15:59",
-      "ts": "2026-11-24T15:59:16+05:30"
+      "time": "16:09",
+      "ts": "2026-11-24T16:09:00+05:30"
     },
     {
       "title": "प्रसार भारती ने इफ्फी 2026 में अपनी पहली स्क्रिप्ट पिचिंग लैब ‘पेज से पिच तक’ के विजेताओं की घोषणा की",
@@ -388,24 +406,6 @@
       "category": "Government",
       "time": "13:12",
       "ts": "2026-11-24T13:12:00+05:30"
-    },
-    {
-      "title": "श्री गुरु नानक देव जी के प्रकाश पर्व पर उपराष्ट्रपति श्री सी. पी. राधाकृष्णन गुरुद्वारा रकाब गंज साहिब गए",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340788",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:39",
-      "ts": "2026-11-24T11:39:00+05:30"
-    },
-    {
-      "title": "इंडियन सोसाइटी ऑफ एयरोस्पेस मेडिसिन (आईएसएएम) का 65वां वार्षिक सम्मेलन 26 और 27 नवंबर 2026 को आयोजित किया जाएगा",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340790",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "11:38",
-      "ts": "2026-11-24T11:38:00+05:30"
     }
   ],
   "health": [
@@ -430,7 +430,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -739,6 +739,24 @@
       "category": "Government",
       "time": "20:42",
       "ts": "2026-11-24T20:42:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341018": {
+      "title": "मिड-फेस्ट फिल्म ‘आई मैटर’ पहचान, अपनेपन और मानवता की अनेक परतों की पड़ताल करती है: आईएफएफआई 2026 में निर्देशक एलिना सरबन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341018",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:18",
+      "ts": "2026-11-24T20:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341023": {
+      "title": "'अवतार कौल: द (इन)कंप्लीट स्टोरी' फिल्म निर्माता अवतार कौल के जीवन और उनकी सिनेमाई विरासत पर एक नजर डालती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341023",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:09",
+      "ts": "2026-11-24T16:09:00+05:30"
     }
   }
 }
