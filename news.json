@@ -1,7 +1,34 @@
 {
   "date": "2026-11-24",
-  "updated": "11:21",
+  "updated": "12:26",
   "items": [
+    {
+      "title": "प्रधानमंत्री ने श्री गुरु नानक देव जी के प्रकाश पर्व के पावन अवसर पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340729",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:44",
+      "ts": "2026-11-24T08:44:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने लाचित दिवस पर महान लाचित बोरफुकन को श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340730",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:42",
+      "ts": "2026-11-24T08:42:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने कार्तिक पूर्णिमा और देव दीपावली की शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340731",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:40",
+      "ts": "2026-11-24T08:40:00+05:30"
+    },
     {
       "title": "Mooove over, poor signal: 50 government-funded 4G upgrades help dog walkers steer clear of cattle",
       "link": "https://www.gov.uk/government/news/mooove-over-poor-signal-50-government-funded-4g-upgrades-help-dog-walkers-steer-clear-of-cattle",
@@ -36,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 3,
       "note": ""
     },
     {
@@ -127,6 +154,33 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340512": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340719": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340722": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340718": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340718": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340729": {
+      "title": "प्रधानमंत्री ने श्री गुरु नानक देव जी के प्रकाश पर्व के पावन अवसर पर शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340729",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:44",
+      "ts": "2026-11-24T08:44:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340730": {
+      "title": "प्रधानमंत्री ने लाचित दिवस पर महान लाचित बोरफुकन को श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340730",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:42",
+      "ts": "2026-11-24T08:42:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340731": {
+      "title": "प्रधानमंत्री ने कार्तिक पूर्णिमा और देव दीपावली की शुभकामनाएं दीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340731",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:40",
+      "ts": "2026-11-24T08:40:00+05:30"
+    }
   }
 }
