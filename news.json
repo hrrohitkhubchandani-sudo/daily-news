@@ -1,7 +1,34 @@
 {
   "date": "2026-11-24",
-  "updated": "13:54",
+  "updated": "15:09",
   "items": [
+    {
+      "title": "RSH publishes its quarterly survey for Q2 July to September 2026",
+      "link": "https://www.gov.uk/government/news/rsh-publishes-its-quarterly-survey-for-q2-july-to-september-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-24T15:00:09+05:30"
+    },
+    {
+      "title": "Better regulation chief appointed to cut unnecessary bureaucracy",
+      "link": "https://www.gov.uk/government/news/better-regulation-chief-appointed-to-cut-unnecessary-bureaucracy",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:31",
+      "ts": "2026-11-24T14:31:06+05:30"
+    },
+    {
+      "title": "Adviser Finder and Adviser Register services restored",
+      "link": "https://www.gov.uk/government/news/adviser-finder-and-adviser-register-temporarily-unavailable",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:22",
+      "ts": "2026-11-24T14:22:48+05:30"
+    },
     {
       "title": "How to submit applications and complaints to the CAC",
       "link": "https://www.gov.uk/government/news/applications-and-complaints",
@@ -90,7 +117,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "05:31",
-      "ts": "2026-11-24T05:31:02+05:30"
+      "ts": "2026-11-24T05:31:00+05:30"
     },
     {
       "title": "Foreign Secretary Statement to the House of Commons: 23 November 2026",
@@ -173,7 +200,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 7,
       "note": ""
     },
     {
