@@ -1,15 +1,33 @@
 {
   "date": "2026-11-25",
-  "updated": "02:14",
+  "updated": "03:16",
   "items": [
+    {
+      "title": "20 million households to receive £100 payment",
+      "link": "https://www.gov.uk/government/news/20-million-households-to-receive-100-payment",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "03:14",
+      "ts": "2026-11-25T03:14:18+05:30"
+    },
     {
       "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "02:05",
-      "ts": "2026-11-25T02:05:28+05:30"
+      "time": "03:04",
+      "ts": "2026-11-25T03:04:35+05:30"
+    },
+    {
+      "title": "Keynote Address at Society of Motor Manufacturers and Traders",
+      "link": "https://www.gov.uk/government/speeches/keynote-address-at-society-of-motor-manufacturers-and-traders",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "02:42",
+      "ts": "2026-11-25T02:42:18+05:30"
     },
     {
       "title": "Council tax information letter 7/2026: Guidance for Household Energy Payment 2027",
@@ -101,7 +119,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 4,
       "note": ""
     },
     {
