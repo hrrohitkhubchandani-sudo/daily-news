@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "updated": "07:37",
+  "updated": "08:49",
   "items": [
     {
       "title": "Mooove over, poor signal: 50 government-funded 4G upgrades help dog walkers steer clear of cattle",
@@ -82,10 +82,10 @@
     {
       "name": "USGS: Significant earthquakes",
       "country": "World",
-      "ok": true,
-      "entries": 1,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     },
     {
       "name": "GOV.UK: News and communications",
