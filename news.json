@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "08:58",
+  "updated": "10:09",
   "items": [
     {
       "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
@@ -8,8 +8,17 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "08:54",
-      "ts": "2026-11-25T08:54:24+05:30"
+      "time": "09:56",
+      "ts": "2026-11-25T09:56:15+05:30"
+    },
+    {
+      "title": "काशी तमिल संगमम 5.0",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341041",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:41",
+      "ts": "2026-11-25T09:41:00+05:30"
     },
     {
       "title": "New Chair to lead landmark care worker pay talks",
@@ -117,7 +126,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -206,6 +215,16 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340936": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340827": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340831": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341037": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341037": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341041": {
+      "title": "काशी तमिल संगमम 5.0",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341041",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:41",
+      "ts": "2026-11-25T09:41:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341038": null
   }
 }
