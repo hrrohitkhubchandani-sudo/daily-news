@@ -1,15 +1,60 @@
 {
   "date": "2026-11-25",
-  "updated": "12:29",
+  "updated": "14:03",
   "items": [
+    {
+      "title": "UK and Pakistan strengthen defence co-operation during Army Chief visit",
+      "link": "https://www.gov.uk/government/news/uk-and-pakistan-strengthen-defence-co-operation-during-army-chief-visit",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "13:38",
+      "ts": "2026-11-25T13:38:59+05:30"
+    },
     {
       "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb",
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "10:53",
-      "ts": "2026-11-25T10:53:13+05:30"
+      "time": "13:18",
+      "ts": "2026-11-25T13:18:28+05:30"
+    },
+    {
+      "title": "CMA considers remedies to resolve coatings merger concerns",
+      "link": "https://www.gov.uk/government/news/cma-considers-remedies-to-resolve-coatings-merger-concerns",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "13:01",
+      "ts": "2026-11-25T13:01:35+05:30"
+    },
+    {
+      "title": "McCormick offers remedies to resolve competition concerns in Unilever Foods deal",
+      "link": "https://www.gov.uk/government/news/mccormick-offers-remedies-to-resolve-competition-concerns-in-unilever-foods-deal",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:32",
+      "ts": "2026-11-25T12:32:33+05:30"
+    },
+    {
+      "title": "World leading licensing scheme for knife sellers",
+      "link": "https://www.gov.uk/government/news/world-leading-licensing-scheme-for-knife-sellers",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:30",
+      "ts": "2026-11-25T12:30:04+05:30"
+    },
+    {
+      "title": "सेवा क्षेत्र के अनंतिम उत्पादक मूल्य सूचकांक (आधार वर्ष 2022-23)",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341112",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:00",
+      "ts": "2026-11-25T12:00:00+05:30"
     },
     {
       "title": "काशी तमिल संगमम 5.0",
@@ -135,7 +180,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -191,7 +236,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 10,
+      "today": 14,
       "note": ""
     },
     {
@@ -243,6 +288,15 @@
       "category": "Government",
       "time": "09:08",
       "ts": "2026-11-25T09:08:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341112": {
+      "title": "सेवा क्षेत्र के अनंतिम उत्पादक मूल्य सूचकांक (आधार वर्ष 2022-23)",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341112",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:00",
+      "ts": "2026-11-25T12:00:00+05:30"
     }
   }
 }
