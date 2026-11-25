@@ -1,7 +1,26 @@
 {
   "date": "2026-11-26",
-  "updated": "01:16",
-  "items": [],
+  "updated": "02:15",
+  "items": [
+    {
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "source": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "time": "01:30",
+      "ts": "2026-11-26T01:30:00+05:30"
+    },
+    {
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "source": "US Federal Reserve: Press releases",
+      "country": "United States",
+      "category": "Economy",
+      "time": "01:30",
+      "ts": "2026-11-26T01:30:00+05:30"
+    }
+  ],
   "health": [
     {
       "name": "PIB, Government of India (Hindi)",
@@ -72,7 +91,7 @@
       "country": "United States",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     }
   ],
