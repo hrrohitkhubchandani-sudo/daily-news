@@ -1,7 +1,43 @@
 {
   "date": "2026-11-25",
-  "updated": "14:03",
+  "updated": "15:29",
   "items": [
+    {
+      "title": "Government unveils shift towards public control of vital utilities.",
+      "link": "https://www.gov.uk/government/news/government-unveils-shift-towards-public-control-of-vital-utilities",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:14",
+      "ts": "2026-11-25T15:14:20+05:30"
+    },
+    {
+      "title": "RSH gives top consumer grade to housing association and council",
+      "link": "https://www.gov.uk/government/news/rsh-gives-top-consumer-grade-to-housing-association-and-council",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "15:00",
+      "ts": "2026-11-25T15:00:09+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने देश के कार्यबल के लिए सामाजिक सुरक्षा के दायरे में विस्तार को रेखांकित करने वाला लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341172",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:32",
+      "ts": "2026-11-25T14:32:00+05:30"
+    },
+    {
+      "title": "डीपीआईआईटी ने विशेष अभियान 6 का समापन किया, स्वच्छता और लंबित मामलों के निपटान में उल्लेखनीय उपलब्धियां हासिल कीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341157",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:39",
+      "ts": "2026-11-25T13:39:00+05:30"
+    },
     {
       "title": "UK and Pakistan strengthen defence co-operation during Army Chief visit",
       "link": "https://www.gov.uk/government/news/uk-and-pakistan-strengthen-defence-co-operation-during-army-chief-visit",
@@ -10,6 +46,24 @@
       "category": "Government",
       "time": "13:38",
       "ts": "2026-11-25T13:38:59+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने निरंतर सुधार और निवेश के माध्यम से विकसित भारत@2047 की दिशा में भारत की यात्रा को रेखांकित करने वाला लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341120",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:37",
+      "ts": "2026-11-25T13:37:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने भारत की सभ्यतागत विरासत की वैश्विक सांस्कृतिक विमर्श को आकार देने में बढ़ती भूमिका को रेखांकित करने वाला लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341165",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:37",
+      "ts": "2026-11-25T13:37:00+05:30"
     },
     {
       "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
@@ -55,6 +109,15 @@
       "category": "Government",
       "time": "12:00",
       "ts": "2026-11-25T12:00:00+05:30"
+    },
+    {
+      "title": "राष्ट्रीय दुग्‍ध दिवस",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341162",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:55",
+      "ts": "2026-11-25T10:55:00+05:30"
     },
     {
       "title": "काशी तमिल संगमम 5.0",
@@ -180,7 +243,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 3,
+      "today": 8,
       "note": ""
     },
     {
@@ -236,7 +299,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 14,
+      "today": 16,
       "note": ""
     },
     {
@@ -297,6 +360,51 @@
       "category": "Government",
       "time": "12:00",
       "ts": "2026-11-25T12:00:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341172": {
+      "title": "प्रधानमंत्री ने देश के कार्यबल के लिए सामाजिक सुरक्षा के दायरे में विस्तार को रेखांकित करने वाला लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341172",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:32",
+      "ts": "2026-11-25T14:32:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341157": {
+      "title": "डीपीआईआईटी ने विशेष अभियान 6 का समापन किया, स्वच्छता और लंबित मामलों के निपटान में उल्लेखनीय उपलब्धियां हासिल कीं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341157",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:39",
+      "ts": "2026-11-25T13:39:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341120": {
+      "title": "प्रधानमंत्री ने निरंतर सुधार और निवेश के माध्यम से विकसित भारत@2047 की दिशा में भारत की यात्रा को रेखांकित करने वाला लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341120",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:37",
+      "ts": "2026-11-25T13:37:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341165": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने भारत की सभ्यतागत विरासत की वैश्विक सांस्कृतिक विमर्श को आकार देने में बढ़ती भूमिका को रेखांकित करने वाला लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341165",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:37",
+      "ts": "2026-11-25T13:37:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341162": {
+      "title": "राष्ट्रीय दुग्‍ध दिवस",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341162",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "10:55",
+      "ts": "2026-11-25T10:55:00+05:30"
     }
   }
 }
