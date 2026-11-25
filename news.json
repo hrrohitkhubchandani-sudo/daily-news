@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "05:10",
+  "updated": "06:21",
   "items": [
     {
       "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
@@ -8,8 +8,35 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "04:46",
-      "ts": "2026-11-25T04:46:53+05:30"
+      "time": "05:46",
+      "ts": "2026-11-25T05:46:11+05:30"
+    },
+    {
+      "title": "New Chair to lead landmark care worker pay talks",
+      "link": "https://www.gov.uk/government/news/new-chair-to-lead-landmark-care-worker-pay-talks",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:32",
+      "ts": "2026-11-25T05:32:01+05:30"
+    },
+    {
+      "title": "Thousands more tags to be fitted in prison in major expansion",
+      "link": "https://www.gov.uk/government/news/thousands-more-tags-to-be-fitted-in-prison-in-major-expansion",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-25T05:31:05+05:30"
+    },
+    {
+      "title": "Regulator bans children’s charity trustees for 13 years following investigation",
+      "link": "https://www.gov.uk/government/news/regulator-bans-childrens-charity-trustees-for-13-years-following-investigation",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:30",
+      "ts": "2026-11-25T05:30:05+05:30"
     },
     {
       "title": "“Nuclear test veterans and their families have waited too long for the truth” – PM announces Independent Panel on nuclear weapons testing",
@@ -146,7 +173,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 10,
       "note": ""
     },
     {
