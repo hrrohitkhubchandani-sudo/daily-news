@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "10:09",
+  "updated": "11:21",
   "items": [
     {
       "title": "M 4.2 - 10 km WSW of Point MacKenzie, Alaska",
@@ -8,8 +8,8 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "09:56",
-      "ts": "2026-11-25T09:56:15+05:30"
+      "time": "10:53",
+      "ts": "2026-11-25T10:53:13+05:30"
     },
     {
       "title": "काशी तमिल संगमम 5.0",
@@ -19,6 +19,15 @@
       "category": "Government",
       "time": "09:41",
       "ts": "2026-11-25T09:41:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने सर्वोच्च आध्यात्मिक प्राप्ति के मार्ग पर प्रकाश डालने वाला संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341059",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:08",
+      "ts": "2026-11-25T09:08:00+05:30"
     },
     {
       "title": "New Chair to lead landmark care worker pay talks",
@@ -126,7 +135,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -225,6 +234,15 @@
       "time": "09:41",
       "ts": "2026-11-25T09:41:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341038": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341038": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341059": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने सर्वोच्च आध्यात्मिक प्राप्ति के मार्ग पर प्रकाश डालने वाला संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341059",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:08",
+      "ts": "2026-11-25T09:08:00+05:30"
+    }
   }
 }
