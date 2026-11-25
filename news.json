@@ -1,7 +1,25 @@
 {
   "date": "2026-11-25",
-  "updated": "22:26",
+  "updated": "23:13",
   "items": [
+    {
+      "title": "£100 Household Energy Payment factsheet",
+      "link": "https://www.gov.uk/government/news/100-household-energy-payment-factsheet",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:56",
+      "ts": "2026-11-25T22:56:39+05:30"
+    },
+    {
+      "title": "Uniting private security leaders to improve public safety",
+      "link": "https://www.gov.uk/government/news/uniting-private-security-leaders-to-improve-public-safety",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:43",
+      "ts": "2026-11-25T22:43:06+05:30"
+    },
     {
       "title": "How to submit applications and complaints to the CAC",
       "link": "https://www.gov.uk/government/news/applications-and-complaints",
@@ -21,6 +39,15 @@
       "ts": "2026-11-25T21:25:09+05:30"
     },
     {
+      "title": "प्रधानमंत्री ने 55वीं प्रगति बैठक की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341674",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:07",
+      "ts": "2026-11-25T21:07:00+05:30"
+    },
+    {
       "title": "सेलिब्रेटिंग द जॉय ऑफ सिनेमा : इफ्फी परेड ने गोवा की सांस्कृतिक छटा को सड़कों पर जीवंत किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341648",
       "source": "PIB, Government of India (Hindi)",
@@ -28,6 +55,15 @@
       "category": "Government",
       "time": "21:06",
       "ts": "2026-11-25T21:06:00+05:30"
+    },
+    {
+      "title": "भारत ने 61वें वेनिस आर्ट बिएनाले में सर्वश्रेष्ठ राष्ट्रीय भागीदारी के लिए 'विज़िटर्स लायन' पुरस्कार जीता",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341692",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:05",
+      "ts": "2026-11-25T21:05:00+05:30"
     },
     {
       "title": "IFFI - इफ्फी 2026 में रेख्स ने कहा कि सबटाइटलिंग(उपशीर्षक) अनुवाद से कहीं अधिक है। यह भाषाओं के पार भावनाओं को पहुँचाने की कला है",
@@ -73,6 +109,24 @@
       "category": "Government",
       "time": "20:42",
       "ts": "2026-11-25T20:42:00+05:30"
+    },
+    {
+      "title": "20वें वेव्स फिल्म बाजार में 54 देशों के 2,288 प्रतिनिधियों ने हिस्सा लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341695",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:41",
+      "ts": "2026-11-25T20:41:00+05:30"
+    },
+    {
+      "title": "कौशल विकास एवं उद्यमशीलता मंत्रालय(एमएसडीई) ने जल जीवन मिशन 2.0 के तहत एक लाख युवाओं को कौशल प्रशिक्षण देने के लिए जल शक्ति मंत्रालय के साथ साझेदारी की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341687",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:31",
+      "ts": "2026-11-25T20:31:00+05:30"
     },
     {
       "title": "आईसीजीएस सुजय ने त्रिंकोमाली का दौरा संपन्न किया",
@@ -210,24 +264,6 @@
       "ts": "2026-11-25T19:58:26+05:30"
     },
     {
-      "title": "Newham Council: Best Value Notice",
-      "link": "https://www.gov.uk/government/publications/newham-council-best-value-notice-may-2025",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "19:58",
-      "ts": "2026-11-25T19:58:13+05:30"
-    },
-    {
-      "title": "Cheshire East Council: Best Value Notice",
-      "link": "https://www.gov.uk/government/publications/cheshire-east-council-best-value-notice-may-2025",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "19:58",
-      "ts": "2026-11-25T19:58:10+05:30"
-    },
-    {
       "title": "श्रेष्ठ (एनईटीएस) 2027 के लिए आवेदन करने के केवल पांच दिन शेष; मंत्रालय ने पात्र विद्यार्थियों से गुणवत्तापूर्ण आवासीय शिक्षा का अवसर प्राप्त करने की अपील की",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341628",
       "source": "PIB, Government of India (Hindi)",
@@ -325,33 +361,6 @@
       "category": "Government",
       "time": "18:22",
       "ts": "2026-11-25T18:22:00+05:30"
-    },
-    {
-      "title": "केंद्रीय मंत्रिमंडल ने विमानन क्षेत्र में रखरखाव, मरम्मत एवं ओवरहॉल सुविधा के लिए सिंगापुर के साथ समझौता ज्ञापन को मंजूरी दी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341484",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:21",
-      "ts": "2026-11-25T18:21:00+05:30"
-    },
-    {
-      "title": "भारत का यूरिया उत्पादन में आत्मनिर्भरता की दिशा में महत्वपूर्ण कदम; 6 नए संयंत्रों को मंजूरी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341488",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:19",
-      "ts": "2026-11-25T18:19:00+05:30"
-    },
-    {
-      "title": "श्री शिवराज सिंह चौहान और श्रीमती अन्नपूर्णा देवी ने ‘नई चेतना 5.0’ अभियान का किया शुभारंभ; हिंसा मुक्त गांव बनाने के लिए चतुष्पक्षीय समझौते पर हस्ताक्षर",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341440",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "18:16",
-      "ts": "2026-11-25T18:16:00+05:30"
     },
     {
       "title": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
@@ -981,6 +990,42 @@
       "category": "Government",
       "time": "18:49",
       "ts": "2026-11-25T18:49:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341674": {
+      "title": "प्रधानमंत्री ने 55वीं प्रगति बैठक की अध्यक्षता की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341674",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:07",
+      "ts": "2026-11-25T21:07:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341692": {
+      "title": "भारत ने 61वें वेनिस आर्ट बिएनाले में सर्वश्रेष्ठ राष्ट्रीय भागीदारी के लिए 'विज़िटर्स लायन' पुरस्कार जीता",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341692",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:05",
+      "ts": "2026-11-25T21:05:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341695": {
+      "title": "20वें वेव्स फिल्म बाजार में 54 देशों के 2,288 प्रतिनिधियों ने हिस्सा लिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341695",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:41",
+      "ts": "2026-11-25T20:41:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341687": {
+      "title": "कौशल विकास एवं उद्यमशीलता मंत्रालय(एमएसडीई) ने जल जीवन मिशन 2.0 के तहत एक लाख युवाओं को कौशल प्रशिक्षण देने के लिए जल शक्ति मंत्रालय के साथ साझेदारी की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341687",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "20:31",
+      "ts": "2026-11-25T20:31:00+05:30"
     }
   }
 }
