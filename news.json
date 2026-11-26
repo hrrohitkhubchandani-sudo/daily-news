@@ -1,7 +1,61 @@
 {
   "date": "2026-11-26",
-  "updated": "16:21",
+  "updated": "17:20",
   "items": [
+    {
+      "title": "PM meeting with King of Jordan Abdullah II: 26 November 2026",
+      "link": "https://www.gov.uk/government/news/pm-meeting-with-king-of-jordan-abdullah-ii-26-november-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:04",
+      "ts": "2026-11-26T17:04:31+05:30"
+    },
+    {
+      "title": "Certification Officer: Announcements",
+      "link": "https://www.gov.uk/government/news/certification-officer-announcements--2",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:01",
+      "ts": "2026-11-26T17:01:45+05:30"
+    },
+    {
+      "title": "Obicetrapib approved to lower LDL-cholesterol in adults with primary hypercholesterolaemia and/or mixed dyslipidaemia",
+      "link": "https://www.gov.uk/government/news/obicetrapib-approved-to-lower-ldl-cholesterol-in-adults-with-primary-hypercholesterolaemia-andor-mixed-dyslipidaemia",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:41",
+      "ts": "2026-11-26T16:41:24+05:30"
+    },
+    {
+      "title": "Update on changes to patents services",
+      "link": "https://www.gov.uk/government/news/new-digital-patents-services-have-launched",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:30",
+      "ts": "2026-11-26T16:30:23+05:30"
+    },
+    {
+      "title": "Second arrest in suspected wine fraud following NFCU operation",
+      "link": "https://www.gov.uk/government/news/second-arrest-in-suspected-wine-fraud-following-nfcu-operation",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:30",
+      "ts": "2026-11-26T16:30:00+05:30"
+    },
+    {
+      "title": "Tariffs cut to give breathing space to families with the food shop",
+      "link": "https://www.gov.uk/government/news/tariffs-cut-to-give-breathing-space-to-families-with-the-food-shop",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:28",
+      "ts": "2026-11-26T16:28:04+05:30"
+    },
     {
       "title": "Science Minister speech at Royal Institute of Navigation",
       "link": "https://www.gov.uk/government/speeches/science-minister-speech-at-royal-institute-of-navigation",
@@ -66,6 +120,42 @@
       "ts": "2026-11-26T15:34:49+05:30"
     },
     {
+      "title": "सामाजिक न्याय और अधिकारिता मंत्रालय ने संविधान की प्रस्तावना के सामूहिक वाचन के साथ मनाया संविधान दिवस",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342005",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:17",
+      "ts": "2026-11-26T15:17:00+05:30"
+    },
+    {
+      "title": "'बाल विवाह मुक्त भारत' अभियान के दो वर्ष पूर्ण होने पर 27 नवंबर 2026 को राष्ट्रीय कार्यक्रम का आयोजन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341999",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:12",
+      "ts": "2026-11-26T15:12:00+05:30"
+    },
+    {
+      "title": "आईएफएफआई 2026 में सरस्वती नदी पर बनी डॉक्यूमेंट्री ने विज्ञान के माध्यम से प्राचीन नदी के रहस्य को उजागर किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341993",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:09",
+      "ts": "2026-11-26T15:09:00+05:30"
+    },
+    {
+      "title": "आईआईटीएफ 2026 में आयुष मंडप को आगंतुकों की शानदार प्रतिक्रिया मिली; परस्‍पर संवाददात्‍मक गतिविधियों, निःशुल्क परामर्श और स्वास्थ्यवर्धक खाद्य पदार्थों की प्रदर्शनी ने ध्यान आकर्षित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341951",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:58",
+      "ts": "2026-11-26T14:58:00+05:30"
+    },
+    {
       "title": "GAD publishes pension valuation reports on new online hub",
       "link": "https://www.gov.uk/government/news/gad-publishes-pension-valuation-reports-on-new-online",
       "source": "GOV.UK: News and communications",
@@ -82,6 +172,15 @@
       "category": "Government",
       "time": "14:42",
       "ts": "2026-11-26T14:42:23+05:30"
+    },
+    {
+      "title": "किर्गिज़ फिल्म ‘स्काईलार्क’ ने आईएफएफआई में विस्थापन, स्मृतियों और संघर्ष के बीच जिजीविषा की कहानियों को जीवंत किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341954",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:33",
+      "ts": "2026-11-26T14:33:00+05:30"
     },
     {
       "title": "प्रधानमंत्री ने सुश्री पी. वी. सिंधु द्वारा लिखा एक लेख साझा किया, जिसमें उल्लेख है कि ओलंपिक का सपना देश भर की महिलाओं के लिए नए अवसरों के द्वार खोल सकता है",
@@ -192,6 +291,15 @@
       "ts": "2026-11-26T12:30:20+05:30"
     },
     {
+      "title": "भारतीय दूरसंचार विनियामक प्राधिकरण (ट्राई) ने सितंबर 2026 के दौरान एचपी एलएसए के अंतर्गत ऊना, मंडी और जोगिंदर नगर के शहरी मार्ग और ऊना से मंडी तथा मंडी से ऊना तक राजमार्ग पर किए गए स्वतंत्र ड्राइव टेस्ट के निष्कर्ष जारी किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341956",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:26",
+      "ts": "2026-11-26T12:26:00+05:30"
+    },
+    {
       "title": "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) परिसर में सिनेमा से परे भारत की रचनात्मकता और सांस्कृतिक विविधता का अनूठा अनुभव",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341799",
       "source": "PIB, Government of India (Hindi)",
@@ -255,15 +363,6 @@
       "ts": "2026-11-26T05:31:02+05:30"
     },
     {
-      "title": "Disability Confident shake-up gives disabled people a greater say",
-      "link": "https://www.gov.uk/government/news/disability-confident-shake-up-gives-disabled-people-a-greater-say",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "05:31",
-      "ts": "2026-11-26T05:31:02+05:30"
-    },
-    {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
       "source": "US Federal Reserve: Press releases",
@@ -288,7 +387,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 14,
+      "today": 20,
       "note": ""
     },
     {
@@ -344,7 +443,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 15,
+      "today": 20,
       "note": ""
     },
     {
@@ -504,6 +603,60 @@
       "category": "Government",
       "time": "13:20",
       "ts": "2026-11-26T13:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342005": {
+      "title": "सामाजिक न्याय और अधिकारिता मंत्रालय ने संविधान की प्रस्तावना के सामूहिक वाचन के साथ मनाया संविधान दिवस",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342005",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:17",
+      "ts": "2026-11-26T15:17:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341999": {
+      "title": "'बाल विवाह मुक्त भारत' अभियान के दो वर्ष पूर्ण होने पर 27 नवंबर 2026 को राष्ट्रीय कार्यक्रम का आयोजन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341999",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:12",
+      "ts": "2026-11-26T15:12:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341993": {
+      "title": "आईएफएफआई 2026 में सरस्वती नदी पर बनी डॉक्यूमेंट्री ने विज्ञान के माध्यम से प्राचीन नदी के रहस्य को उजागर किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341993",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:09",
+      "ts": "2026-11-26T15:09:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341951": {
+      "title": "आईआईटीएफ 2026 में आयुष मंडप को आगंतुकों की शानदार प्रतिक्रिया मिली; परस्‍पर संवाददात्‍मक गतिविधियों, निःशुल्क परामर्श और स्वास्थ्यवर्धक खाद्य पदार्थों की प्रदर्शनी ने ध्यान आकर्षित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341951",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:58",
+      "ts": "2026-11-26T14:58:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341954": {
+      "title": "किर्गिज़ फिल्म ‘स्काईलार्क’ ने आईएफएफआई में विस्थापन, स्मृतियों और संघर्ष के बीच जिजीविषा की कहानियों को जीवंत किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341954",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:33",
+      "ts": "2026-11-26T14:33:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341956": {
+      "title": "भारतीय दूरसंचार विनियामक प्राधिकरण (ट्राई) ने सितंबर 2026 के दौरान एचपी एलएसए के अंतर्गत ऊना, मंडी और जोगिंदर नगर के शहरी मार्ग और ऊना से मंडी तथा मंडी से ऊना तक राजमार्ग पर किए गए स्वतंत्र ड्राइव टेस्ट के निष्कर्ष जारी किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341956",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:26",
+      "ts": "2026-11-26T12:26:00+05:30"
     }
   }
 }
