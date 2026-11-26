@@ -1,7 +1,16 @@
 {
   "date": "2026-11-26",
-  "updated": "11:22",
+  "updated": "12:28",
   "items": [
+    {
+      "title": "चीतों की वापसी और बढ़ती रफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341726",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:14",
+      "ts": "2026-11-26T11:14:00+05:30"
+    },
     {
       "title": "Millions more trees on the way for communities across the country",
       "link": "https://www.gov.uk/government/news/millions-more-trees-on-the-way-for-communities-across-the-country",
@@ -45,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -134,6 +143,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341568": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341482": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341544": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341700": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341700": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341726": {
+      "title": "चीतों की वापसी और बढ़ती रफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341726",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:14",
+      "ts": "2026-11-26T11:14:00+05:30"
+    }
   }
 }
