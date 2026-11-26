@@ -1,7 +1,79 @@
 {
   "date": "2026-11-26",
-  "updated": "12:28",
+  "updated": "13:59",
   "items": [
+    {
+      "title": "लोकसभा अध्यक्ष ने श्री रबी राय को श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341813",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:46",
+      "ts": "2026-11-26T13:46:00+05:30"
+    },
+    {
+      "title": "केंद्रीय कृषि मंत्री श्री शिवराज सिंह चौहान ने वर्ष 2025-26 के प्रमुख कृषि फसलों के अंतिम उत्पादन अनुमान तथा वर्ष 2026-27 के खरीफ सीजन के प्रथम अग्रिम अनुमान किए जारी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341768",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:47",
+      "ts": "2026-11-26T12:47:00+05:30"
+    },
+    {
+      "title": "Major £8 billion investment to upgrade UK nuclear submarine availability and warfighting readiness",
+      "link": "https://www.gov.uk/government/news/major-8-billion-investment-to-upgrade-uk-nuclear-submarine-availability-and-warfighting-readiness",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:31",
+      "ts": "2026-11-26T12:31:07+05:30"
+    },
+    {
+      "title": "CMA correspondence in relation to private provision in the dentistry market",
+      "link": "https://www.gov.uk/government/publications/cma-correspondence-in-relation-to-private-provision-in-the-dentistry-market",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:30",
+      "ts": "2026-11-26T12:30:26+05:30"
+    },
+    {
+      "title": "CMA study reveals catalogue of concerns in private dentistry market",
+      "link": "https://www.gov.uk/government/news/cma-study-reveals-catalogue-of-concerns-in-private-dentistry-market",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "12:30",
+      "ts": "2026-11-26T12:30:20+05:30"
+    },
+    {
+      "title": "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) परिसर में सिनेमा से परे भारत की रचनात्मकता और सांस्कृतिक विविधता का अनूठा अनुभव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341799",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:06",
+      "ts": "2026-11-26T12:06:00+05:30"
+    },
+    {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने संविधान की प्रस्तावना का सामूहिक पाठ कर संविधान दिवस मनाया, संविधान के प्रति निष्ठा और प्रतिबद्धता दोहराई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341801",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:52",
+      "ts": "2026-11-26T11:52:00+05:30"
+    },
+    {
+      "title": "भारत की स्वदेशी एआई क्षमताओं को सशक्त बनाने की दिशा में इंडिया एआई मिशन समर्थित ‘चैरियट-1’ फाउंडेशन मॉडल्स का शुभारंभ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341790",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:23",
+      "ts": "2026-11-26T11:23:00+05:30"
+    },
     {
       "title": "चीतों की वापसी और बढ़ती रफ्तार",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341726",
@@ -10,6 +82,15 @@
       "category": "Government",
       "time": "11:14",
       "ts": "2026-11-26T11:14:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने संविधान दिवस पर बाबासाहेब डॉ. बी.आर. अंबेडकर और अन्य महान विभूतियों को श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341765",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:58",
+      "ts": "2026-11-26T08:58:00+05:30"
     },
     {
       "title": "Millions more trees on the way for communities across the country",
@@ -54,7 +135,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 7,
       "note": ""
     },
     {
@@ -110,7 +191,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 5,
       "note": ""
     },
     {
@@ -152,6 +233,61 @@
       "category": "Government",
       "time": "11:14",
       "ts": "2026-11-26T11:14:00+05:30"
-    }
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341813": {
+      "title": "लोकसभा अध्यक्ष ने श्री रबी राय को श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341813",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:46",
+      "ts": "2026-11-26T13:46:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341768": {
+      "title": "केंद्रीय कृषि मंत्री श्री शिवराज सिंह चौहान ने वर्ष 2025-26 के प्रमुख कृषि फसलों के अंतिम उत्पादन अनुमान तथा वर्ष 2026-27 के खरीफ सीजन के प्रथम अग्रिम अनुमान किए जारी",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341768",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:47",
+      "ts": "2026-11-26T12:47:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341799": {
+      "title": "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) परिसर में सिनेमा से परे भारत की रचनात्मकता और सांस्कृतिक विविधता का अनूठा अनुभव",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341799",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:06",
+      "ts": "2026-11-26T12:06:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341801": {
+      "title": "केंद्रीय स्वास्थ्य मंत्रालय ने संविधान की प्रस्तावना का सामूहिक पाठ कर संविधान दिवस मनाया, संविधान के प्रति निष्ठा और प्रतिबद्धता दोहराई",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341801",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:52",
+      "ts": "2026-11-26T11:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341790": {
+      "title": "भारत की स्वदेशी एआई क्षमताओं को सशक्त बनाने की दिशा में इंडिया एआई मिशन समर्थित ‘चैरियट-1’ फाउंडेशन मॉडल्स का शुभारंभ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341790",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:23",
+      "ts": "2026-11-26T11:23:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341765": {
+      "title": "प्रधानमंत्री ने संविधान दिवस पर बाबासाहेब डॉ. बी.आर. अंबेडकर और अन्य महान विभूतियों को श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341765",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "08:58",
+      "ts": "2026-11-26T08:58:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341797": null
   }
 }
