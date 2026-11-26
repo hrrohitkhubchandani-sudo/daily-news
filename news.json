@@ -1,7 +1,25 @@
 {
   "date": "2026-11-26",
-  "updated": "05:11",
+  "updated": "06:20",
   "items": [
+    {
+      "title": "Millions more trees on the way for communities across the country",
+      "link": "https://www.gov.uk/government/news/millions-more-trees-on-the-way-for-communities-across-the-country",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-26T05:31:02+05:30"
+    },
+    {
+      "title": "Disability Confident shake-up gives disabled people a greater say",
+      "link": "https://www.gov.uk/government/news/disability-confident-shake-up-gives-disabled-people-a-greater-say",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-26T05:31:02+05:30"
+    },
     {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
@@ -83,7 +101,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
