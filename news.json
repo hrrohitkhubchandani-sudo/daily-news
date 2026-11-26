@@ -1,7 +1,34 @@
 {
   "date": "2026-11-26",
-  "updated": "13:59",
+  "updated": "15:12",
   "items": [
+    {
+      "title": "GAD publishes pension valuation reports on new online hub",
+      "link": "https://www.gov.uk/government/news/gad-publishes-pension-valuation-reports-on-new-online",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:53",
+      "ts": "2026-11-26T14:53:00+05:30"
+    },
+    {
+      "title": "'Cutting Costs' Bill to make doing business with Europe cheaper and easier",
+      "link": "https://www.gov.uk/government/news/cutting-costs-bill-to-make-doing-business-with-europe-cheaper-and-easier",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:42",
+      "ts": "2026-11-26T14:42:23+05:30"
+    },
+    {
+      "title": "UK and Somalia celebrate friendship and Somali-led climate action at King’s Birthday Party",
+      "link": "https://www.gov.uk/government/news/uk-and-somalia-celebrate-friendship-and-somali-led-climate-action-at-kings-birthday-party",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "14:22",
+      "ts": "2026-11-26T14:22:49+05:30"
+    },
     {
       "title": "लोकसभा अध्यक्ष ने श्री रबी राय को श्रद्धांजलि अर्पित की",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341813",
@@ -10,6 +37,24 @@
       "category": "Government",
       "time": "13:46",
       "ts": "2026-11-26T13:46:00+05:30"
+    },
+    {
+      "title": "राजस्व खुफिया निदेशालय ने बिहार के पश्चिम चंपारण में भारत-नेपाल सीमा के पास बिहार पुलिस के साथ संयुक्त अभियान में 19 किलोग्राम से अधिक हाथी दांत जब्त किए; चार व्यक्ति गिरफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341884",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:19",
+      "ts": "2026-11-26T13:19:00+05:30"
+    },
+    {
+      "title": "प्रधानमंत्री ने भारत के संविधान की विशिष्टता और सामाजिक एवं आर्थिक न्याय को बढ़ावा देने के प्रयासों पर प्रकाश डालने वाला अपना विचार लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341883",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:18",
+      "ts": "2026-11-26T13:18:00+05:30"
     },
     {
       "title": "केंद्रीय कृषि मंत्री श्री शिवराज सिंह चौहान ने वर्ष 2025-26 के प्रमुख कृषि फसलों के अंतिम उत्पादन अनुमान तथा वर्ष 2026-27 के खरीफ सीजन के प्रथम अग्रिम अनुमान किए जारी",
@@ -27,7 +72,7 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "12:31",
-      "ts": "2026-11-26T12:31:07+05:30"
+      "ts": "2026-11-26T12:31:00+05:30"
     },
     {
       "title": "CMA correspondence in relation to private provision in the dentistry market",
@@ -64,6 +109,15 @@
       "category": "Government",
       "time": "11:52",
       "ts": "2026-11-26T11:52:00+05:30"
+    },
+    {
+      "title": "एनएलएमसी की 22वीं बोर्ड बैठक आयोजित, लगभग 1,300 करोड़ रुपये के नए परिसंपत्ति मुद्रीकरण और मूल्यांकन प्रस्तावों पर विचार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341881",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:45",
+      "ts": "2026-11-26T11:45:00+05:30"
     },
     {
       "title": "भारत की स्वदेशी एआई क्षमताओं को सशक्त बनाने की दिशा में इंडिया एआई मिशन समर्थित ‘चैरियट-1’ फाउंडेशन मॉडल्स का शुभारंभ",
@@ -135,7 +189,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 7,
+      "today": 10,
       "note": ""
     },
     {
@@ -191,7 +245,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 5,
+      "today": 8,
       "note": ""
     },
     {
@@ -288,6 +342,33 @@
       "time": "08:58",
       "ts": "2026-11-26T08:58:00+05:30"
     },
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341797": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341797": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341884": {
+      "title": "राजस्व खुफिया निदेशालय ने बिहार के पश्चिम चंपारण में भारत-नेपाल सीमा के पास बिहार पुलिस के साथ संयुक्त अभियान में 19 किलोग्राम से अधिक हाथी दांत जब्त किए; चार व्यक्ति गिरफ्तार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341884",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:19",
+      "ts": "2026-11-26T13:19:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341883": {
+      "title": "प्रधानमंत्री ने भारत के संविधान की विशिष्टता और सामाजिक एवं आर्थिक न्याय को बढ़ावा देने के प्रयासों पर प्रकाश डालने वाला अपना विचार लेख साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341883",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:18",
+      "ts": "2026-11-26T13:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341881": {
+      "title": "एनएलएमसी की 22वीं बोर्ड बैठक आयोजित, लगभग 1,300 करोड़ रुपये के नए परिसंपत्ति मुद्रीकरण और मूल्यांकन प्रस्तावों पर विचार",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341881",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "11:45",
+      "ts": "2026-11-26T11:45:00+05:30"
+    }
   }
 }
