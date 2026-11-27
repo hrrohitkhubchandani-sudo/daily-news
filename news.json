@@ -1,7 +1,16 @@
 {
   "date": "2026-11-27",
-  "updated": "10:06",
+  "updated": "11:24",
   "items": [
+    {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने सत्संग और भक्ति के आध्यात्मिक आनंद को दर्शाने वाला संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342387",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:18",
+      "ts": "2026-11-27T09:18:00+05:30"
+    },
     {
       "title": "Europe Partnership, not separation, is the answer for Britain",
       "link": "https://www.gov.uk/government/news/europe-partnership-not-separation-is-the-answer-for-britain",
@@ -27,7 +36,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -117,6 +126,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342143": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342190": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342379": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342380": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342380": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342387": {
+      "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने सत्संग और भक्ति के आध्यात्मिक आनंद को दर्शाने वाला संस्कृत सुभाषितम् साझा किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342387",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:18",
+      "ts": "2026-11-27T09:18:00+05:30"
+    }
   }
 }
