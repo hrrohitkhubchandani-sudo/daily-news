@@ -1,7 +1,25 @@
 {
   "date": "2026-11-27",
-  "updated": "22:01",
+  "updated": "23:17",
   "items": [
+    {
+      "title": "European Relations Minister's speech at Pontignano Conference",
+      "link": "https://www.gov.uk/government/speeches/european-relations-ministers-speech-at-pontignano-conference",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:12",
+      "ts": "2026-11-27T22:12:29+05:30"
+    },
+    {
+      "title": "PARTNERSHIP WITH EUROPE, NOT SEPARATION, THE ANSWER FOR BRITAIN",
+      "link": "https://www.gov.uk/government/speeches/partnership-with-europe-not-separation-the-answer-for-britain",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "22:01",
+      "ts": "2026-11-27T22:01:40+05:30"
+    },
     {
       "title": "Huge trade boost for Northern Ireland as UK-EU trade deal tears down 90% of checks on goods from Great Britain",
       "link": "https://www.gov.uk/government/news/huge-trade-boost-for-northern-ireland-as-uk-eu-trade-deal-tears-down-90-of-checks-on-goods-from-great-britain",
@@ -10,6 +28,15 @@
       "category": "Government",
       "time": "21:19",
       "ts": "2026-11-27T21:19:42+05:30"
+    },
+    {
+      "title": "महिला एवं बाल विकास मंत्रालय(एमडब्ल्यूसीडी) और कौशल विकास एवं उद्यमिता मंत्रालय(एमएसडीई) 28 नवंबर 2026 को हरिद्वार में संयुक्त रूप से ‘नव्या 2.0’ का शुभारंभ करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342918",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:13",
+      "ts": "2026-11-27T21:13:00+05:30"
     },
     {
       "title": "MHRA approves zanidatamab (Ziihera) for the treatment of gastroesophageal cancer",
@@ -291,15 +318,6 @@
       "ts": "2026-11-27T17:43:00+05:30"
     },
     {
-      "title": "केंद्रीय सूक्ष्म, लघु और मध्यम उद्यम मंत्री श्री जीतन राम मांझी रायपुर में एनएसएसएच कार्यालय का उद्घाटन करेंगे और राष्ट्रीय एससी-एसटी हब सम्मेलन की अध्यक्षता करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342722",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:41",
-      "ts": "2026-11-27T17:41:00+05:30"
-    },
-    {
       "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168888",
       "source": "UN News: Top stories",
@@ -361,24 +379,6 @@
       "category": "Government",
       "time": "15:30",
       "ts": "2026-11-27T15:30:02+05:30"
-    },
-    {
-      "title": "New protections will stop powerful figures silencing scrutiny",
-      "link": "https://www.gov.uk/government/news/new-protections-will-stop-powerful-figures-silencing-scrutiny",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "15:10",
-      "ts": "2026-11-27T15:10:42+05:30"
-    },
-    {
-      "title": "Europe Partnership, not separation, is the answer for Britain",
-      "link": "https://www.gov.uk/government/news/europe-partnership-not-separation-is-the-answer-for-britain",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "06:31",
-      "ts": "2026-11-27T06:31:06+05:30"
     }
   ],
   "health": [
@@ -918,6 +918,15 @@
       "category": "Government",
       "time": "18:09",
       "ts": "2026-11-27T18:09:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342918": {
+      "title": "महिला एवं बाल विकास मंत्रालय(एमडब्ल्यूसीडी) और कौशल विकास एवं उद्यमिता मंत्रालय(एमएसडीई) 28 नवंबर 2026 को हरिद्वार में संयुक्त रूप से ‘नव्या 2.0’ का शुभारंभ करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342918",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "21:13",
+      "ts": "2026-11-27T21:13:00+05:30"
     }
   }
 }
