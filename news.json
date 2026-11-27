@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "16:17",
+  "updated": "17:17",
   "items": [
     {
       "title": "Putting survivors at the centre of gender-based violence services",
@@ -12,6 +12,51 @@
       "ts": "2026-11-27T17:30:00+05:30"
     },
     {
+      "title": "Thousands sleeping rough offered a route off the streets",
+      "link": "https://www.gov.uk/government/news/thousands-sleeping-rough-offered-a-route-off-the-streets",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:12",
+      "ts": "2026-11-27T17:12:49+05:30"
+    },
+    {
+      "title": "Government correspondence on the regulation of actuaries",
+      "link": "https://www.gov.uk/government/publications/government-correspondence-on-the-regulation-of-actuaries",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:05",
+      "ts": "2026-11-27T17:05:15+05:30"
+    },
+    {
+      "title": "Tribunal upholds regulator's disqualification of two trustees",
+      "link": "https://www.gov.uk/government/news/tribunal-upholds-regulators-disqualification-of-two-trustees",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "16:23",
+      "ts": "2026-11-27T16:23:32+05:30"
+    },
+    {
+      "title": "उपराष्ट्रपति श्री सी. पी. राधाकृष्णन 28 नवंबर को वाराणसी के दौरे पर जाएंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342619",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:20",
+      "ts": "2026-11-27T16:20:00+05:30"
+    },
+    {
+      "title": "भारतीय पैनोरमा ने 57वें इफ्फी में ऑडियो विवरण और क्लोज्ड कैप्शन के माध्यम से समावेशी सिनेमा को बढ़ावा दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342607",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:55",
+      "ts": "2026-11-27T15:55:00+05:30"
+    },
+    {
       "title": "New online service launches for viewing and commenting on Section 62a planning applications",
       "link": "https://www.gov.uk/government/news/new-online-service-launches-for-viewing-and-commenting-on-section-62a-planning-applications",
       "source": "GOV.UK: News and communications",
@@ -21,6 +66,15 @@
       "ts": "2026-11-27T15:30:02+05:30"
     },
     {
+      "title": "स्मार्ट बोर्ड बनाम ब्लैकबोर्ड: ‘कबीर सर का आखिरी पाठ’ ने इफ्फी में दर्शकों को भावुक किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342572",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:17",
+      "ts": "2026-11-27T15:17:00+05:30"
+    },
+    {
       "title": "New protections will stop powerful figures silencing scrutiny",
       "link": "https://www.gov.uk/government/news/new-protections-will-stop-powerful-figures-silencing-scrutiny",
       "source": "GOV.UK: News and communications",
@@ -28,6 +82,15 @@
       "category": "Government",
       "time": "15:10",
       "ts": "2026-11-27T15:10:42+05:30"
+    },
+    {
+      "title": "शैक्षणिक एवं संस्थागत सहयोग को सुदृढ़ करने के लिए सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय और अशोका विश्वविद्यालय के बीच समझौता ज्ञापन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342566",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:52",
+      "ts": "2026-11-27T14:52:00+05:30"
     },
     {
       "title": "भारत की राष्ट्रपति वैद्यरत्नम् आयुर्वेद कॉलेज के स्वर्ण जयंती समारोहों के समापन समारोह में शामिल हुईं",
@@ -171,7 +234,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 12,
+      "today": 16,
       "note": ""
     },
     {
@@ -227,7 +290,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 5,
+      "today": 8,
       "note": ""
     },
     {
@@ -369,6 +432,42 @@
       "category": "Government",
       "time": "13:58",
       "ts": "2026-11-27T13:58:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342619": {
+      "title": "उपराष्ट्रपति श्री सी. पी. राधाकृष्णन 28 नवंबर को वाराणसी के दौरे पर जाएंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342619",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:20",
+      "ts": "2026-11-27T16:20:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342607": {
+      "title": "भारतीय पैनोरमा ने 57वें इफ्फी में ऑडियो विवरण और क्लोज्ड कैप्शन के माध्यम से समावेशी सिनेमा को बढ़ावा दिया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342607",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:55",
+      "ts": "2026-11-27T15:55:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342572": {
+      "title": "स्मार्ट बोर्ड बनाम ब्लैकबोर्ड: ‘कबीर सर का आखिरी पाठ’ ने इफ्फी में दर्शकों को भावुक किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342572",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:17",
+      "ts": "2026-11-27T15:17:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342566": {
+      "title": "शैक्षणिक एवं संस्थागत सहयोग को सुदृढ़ करने के लिए सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय और अशोका विश्वविद्यालय के बीच समझौता ज्ञापन",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342566",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:52",
+      "ts": "2026-11-27T14:52:00+05:30"
     }
   }
 }
