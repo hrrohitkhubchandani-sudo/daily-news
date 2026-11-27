@@ -1,7 +1,115 @@
 {
   "date": "2026-11-27",
-  "updated": "18:27",
+  "updated": "19:46",
   "items": [
+    {
+      "title": "UK education support in Syria reaches one million children",
+      "link": "https://www.gov.uk/government/news/uk-education-support-in-syria-reaches-one-million-children",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:39",
+      "ts": "2026-11-27T19:39:23+05:30"
+    },
+    {
+      "title": "Raising standards in private security: a discussion with leaders",
+      "link": "https://www.gov.uk/government/news/raising-standards-in-private-security-a-discussion-with-leaders",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:25",
+      "ts": "2026-11-27T19:25:53+05:30"
+    },
+    {
+      "title": "महिला एवं बाल विकास मंत्रालय ने ‘बाल विवाह मुक्त भारत’ अभियान के दो वर्ष पूरे होने का अवसर मनाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342763",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:23",
+      "ts": "2026-11-27T19:23:00+05:30"
+    },
+    {
+      "title": "International Symposium on Lawful Access 2026",
+      "link": "https://www.gov.uk/government/publications/international-symposium-on-lawful-access-2026",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:18",
+      "ts": "2026-11-27T19:18:34+05:30"
+    },
+    {
+      "title": "Just a third of people with long-term health conditions vaccinated against flu",
+      "link": "https://www.gov.uk/government/news/just-a-third-of-people-with-long-term-health-conditions-vaccinated-against-flu",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:04",
+      "ts": "2026-11-27T19:04:07+05:30"
+    },
+    {
+      "title": "इफ्फी 2026 में 'वर्चुअल भारत' भारत की विविध कथा-परंपराओं और भारतीय सिनेमा की वैश्विक शक्ति को उजागर करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342757",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:27",
+      "ts": "2026-11-27T18:27:00+05:30"
+    },
+    {
+      "title": "45वें आईआईटीएफ 2026 में सामाजिक न्याय और अधिकारिता मंत्रालय के पवेलियन में 26 नवंबर तक लगभग 2.07 करोड़ रुपये की बिक्री दर्ज; जनता की उत्साहजनक प्रतिक्रिया से कारीगरों की आजीविका को बढ़ावा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342759",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:16",
+      "ts": "2026-11-27T18:16:00+05:30"
+    },
+    {
+      "title": "केंद्र सरकार के विभिन्न पदों पर सीधी भर्ती",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342727",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:06",
+      "ts": "2026-11-27T18:06:00+05:30"
+    },
+    {
+      "title": "2001 पर एक नज़र: हिंदी सिनेमा को नई दिशा देने वाले फिल्म निर्माता 25 साल बाद फिर एक साथ आए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342769",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:01",
+      "ts": "2026-11-27T18:01:00+05:30"
+    },
+    {
+      "title": "राष्ट्रीय जैव विविधता प्राधिकरण ने 28 राज्यों और 4 केन्‍द्र शासित प्रदेशों में एबीएस निधि के तहत 13.76 करोड़ रुपये वितरित किए: औषधीय पौधों के व्यावसायिक उपयोग को जैव विविधता संरक्षण से जोड़ना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342754",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:43",
+      "ts": "2026-11-27T17:43:00+05:30"
+    },
+    {
+      "title": "केंद्रीय सूक्ष्म, लघु और मध्यम उद्यम मंत्री श्री जीतन राम मांझी रायपुर में एनएसएसएच कार्यालय का उद्घाटन करेंगे और राष्ट्रीय एससी-एसटी हब सम्मेलन की अध्यक्षता करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342722",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:41",
+      "ts": "2026-11-27T17:41:00+05:30"
+    },
+    {
+      "title": "सशक्तीकरण की एक प्रेरक यात्रा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342728",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:32",
+      "ts": "2026-11-27T17:32:00+05:30"
+    },
     {
       "title": "Putting survivors at the centre of gender-based violence services",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168885",
@@ -10,6 +118,15 @@
       "category": "World",
       "time": "17:30",
       "ts": "2026-11-27T17:30:00+05:30"
+    },
+    {
+      "title": "डॉ. जितेंद्र सिंह ने राज्यों और केंद्रशासित प्रदेशों के कार्मिक एवं सामान्य प्रशासन विभाग के सचिवों से सुशासन की सर्वोत्तम प्रथाओं को अपनाने, प्रशासनिक सुधारों को मजबूत करने और नागरिक-केंद्रित शासन व्यवस्था विकसित करने का आग्रह किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342752",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:29",
+      "ts": "2026-11-27T17:29:00+05:30"
     },
     {
       "title": "Establishing the Alternative Methods Expert Committee: response",
@@ -55,6 +172,24 @@
       "category": "Government",
       "time": "17:05",
       "ts": "2026-11-27T17:05:15+05:30"
+    },
+    {
+      "title": "सीएसआईआर-सीआरआरआई ने अग्रणी स्टील स्लैग सड़क प्रौद्योगिकी और ईकोफिक्स के लिए प्रतिष्ठित सीआईआई 4आर पुरस्कार 2026 जीते; भारत के शीर्ष 30 ‘अपशिष्ट से आय सृजन’ के क्षेत्र में अग्रणी संस्थानों में स्थान प्राप्त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342764",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:58",
+      "ts": "2026-11-27T16:58:00+05:30"
+    },
+    {
+      "title": "भारतीय दूरसंचार नियामक प्राधिकरण ने “दूरसंचार अंतर्संबंध (संदर्भ अंतर्संबंध प्रस्ताव) (संशोधन) विनियम, 2026” जारी किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342725",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:52",
+      "ts": "2026-11-27T16:52:00+05:30"
     },
     {
       "title": "ट्राई ने दूसरे चरण के अंतर्गत अतिरिक्त क्षेत्रों में सेवा और लेनदेन संबंधी वॉयस कॉल के लिए 1601 श्रृंखला के उपयोग का विस्तार किया",
@@ -120,6 +255,15 @@
       "ts": "2026-11-27T15:55:00+05:30"
     },
     {
+      "title": "अनुसूचित जनजाति के छात्रों के लिए राष्ट्रीय प्रवासी छात्रवृत्ति योजना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342753",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:43",
+      "ts": "2026-11-27T15:43:00+05:30"
+    },
+    {
       "title": "New online service launches for viewing and commenting on Section 62a planning applications",
       "link": "https://www.gov.uk/government/news/new-online-service-launches-for-viewing-and-commenting-on-section-62a-planning-applications",
       "source": "GOV.UK: News and communications",
@@ -127,24 +271,6 @@
       "category": "Government",
       "time": "15:30",
       "ts": "2026-11-27T15:30:02+05:30"
-    },
-    {
-      "title": "स्थिर, समायोज्य और बड़े पैमाने पर उत्पादन योग्य श्वेत एलईडी के लिए नई तकनीक विकसित की गई",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342654",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:27",
-      "ts": "2026-11-27T15:27:00+05:30"
-    },
-    {
-      "title": "स्मार्ट बोर्ड बनाम ब्लैकबोर्ड: ‘कबीर सर का आखिरी पाठ’ ने इफ्फी में दर्शकों को भावुक किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342572",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:17",
-      "ts": "2026-11-27T15:17:00+05:30"
     },
     {
       "title": "New protections will stop powerful figures silencing scrutiny",
@@ -156,69 +282,6 @@
       "ts": "2026-11-27T15:10:42+05:30"
     },
     {
-      "title": "शैक्षणिक एवं संस्थागत सहयोग को सुदृढ़ करने के लिए सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय और अशोका विश्वविद्यालय के बीच समझौता ज्ञापन",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342566",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:52",
-      "ts": "2026-11-27T14:52:00+05:30"
-    },
-    {
-      "title": "भारत की राष्ट्रपति वैद्यरत्नम् आयुर्वेद कॉलेज के स्वर्ण जयंती समारोहों के समापन समारोह में शामिल हुईं",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342495",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:37",
-      "ts": "2026-11-27T14:37:00+05:30"
-    },
-    {
-      "title": "भारत 29 नवंबर को फिट इंडिया संडे ऑन साइकिल के 100वें संस्करण के लिए तैयार",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342530",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:24",
-      "ts": "2026-11-27T14:24:00+05:30"
-    },
-    {
-      "title": "उपराष्ट्रपति ने नई दिल्ली स्थित होली फैमिली अस्‍पताल के नए सुपर स्पेशियलिटी ब्लॉक का उद्घाटन किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342520",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "14:01",
-      "ts": "2026-11-27T14:01:00+05:30"
-    },
-    {
-      "title": "उपराष्ट्रपति श्री सी.पी. राधाकृष्णन काशी तमिल संगमम् के पांचवें आयोजन (केटीएस 5.0) का उद्घाटन करेंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342551",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:58",
-      "ts": "2026-11-27T13:58:00+05:30"
-    },
-    {
-      "title": "घर से दूर नए आशियाने की तलाश: ‘पेरिस पेरिस’ विस्थापन, पहचान और अपनेपन की कहानी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342498",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:47",
-      "ts": "2026-11-27T13:47:00+05:30"
-    },
-    {
-      "title": "लोक सभा अध्यक्ष ने श्री जी. वी. मावलंकर की जयंती पर श्रद्धांजलि अर्पित की",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342462",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:45",
-      "ts": "2026-11-27T13:45:00+05:30"
-    },
-    {
       "title": "Temporary disruption to some DWP online services",
       "link": "https://www.gov.uk/government/news/temporary-disruption-to-some-dwp-online-services",
       "source": "GOV.UK: News and communications",
@@ -226,33 +289,6 @@
       "category": "Government",
       "time": "13:41",
       "ts": "2026-11-27T13:41:20+05:30"
-    },
-    {
-      "title": "भारतीय प्रतिस्पर्धा आयोग ने समारा वैकल्पिक निवेश निधि–स्कीम-I एलवीएफ, समारा वैकल्पिक निवेश निधि-III इंडिया, कैलिक्स कंटेनर टर्मिनल्स और एसोसिएटेड रोड कैरियर्स से जुड़े प्रस्तावित संयोजन को मंजूरी दी",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342499",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "13:28",
-      "ts": "2026-11-27T13:28:00+05:30"
-    },
-    {
-      "title": "विद्युत मंत्रियों का दो दिवसीय सम्मेलन नई दिल्ली में शुरू",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342464",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:40",
-      "ts": "2026-11-27T12:40:00+05:30"
-    },
-    {
-      "title": "वैश्विक अनिश्चितताओं के बीच भारत की प्रगति की कहानी मजबूत, लचीली और भरोसेमंद बनी हुई है: केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342466",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:09",
-      "ts": "2026-11-27T12:09:00+05:30"
     },
     {
       "title": "Europe Partnership, not separation, is the answer for Britain",
@@ -335,7 +371,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 9,
+      "today": 13,
       "note": ""
     },
     {
@@ -576,6 +612,114 @@
       "category": "Government",
       "time": "15:27",
       "ts": "2026-11-27T15:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342763": {
+      "title": "महिला एवं बाल विकास मंत्रालय ने ‘बाल विवाह मुक्त भारत’ अभियान के दो वर्ष पूरे होने का अवसर मनाया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342763",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:23",
+      "ts": "2026-11-27T19:23:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342757": {
+      "title": "इफ्फी 2026 में 'वर्चुअल भारत' भारत की विविध कथा-परंपराओं और भारतीय सिनेमा की वैश्विक शक्ति को उजागर करेगा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342757",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:27",
+      "ts": "2026-11-27T18:27:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342759": {
+      "title": "45वें आईआईटीएफ 2026 में सामाजिक न्याय और अधिकारिता मंत्रालय के पवेलियन में 26 नवंबर तक लगभग 2.07 करोड़ रुपये की बिक्री दर्ज; जनता की उत्साहजनक प्रतिक्रिया से कारीगरों की आजीविका को बढ़ावा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342759",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:16",
+      "ts": "2026-11-27T18:16:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342727": {
+      "title": "केंद्र सरकार के विभिन्न पदों पर सीधी भर्ती",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342727",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:06",
+      "ts": "2026-11-27T18:06:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342769": {
+      "title": "2001 पर एक नज़र: हिंदी सिनेमा को नई दिशा देने वाले फिल्म निर्माता 25 साल बाद फिर एक साथ आए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342769",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:01",
+      "ts": "2026-11-27T18:01:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342754": {
+      "title": "राष्ट्रीय जैव विविधता प्राधिकरण ने 28 राज्यों और 4 केन्‍द्र शासित प्रदेशों में एबीएस निधि के तहत 13.76 करोड़ रुपये वितरित किए: औषधीय पौधों के व्यावसायिक उपयोग को जैव विविधता संरक्षण से जोड़ना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342754",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:43",
+      "ts": "2026-11-27T17:43:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342722": {
+      "title": "केंद्रीय सूक्ष्म, लघु और मध्यम उद्यम मंत्री श्री जीतन राम मांझी रायपुर में एनएसएसएच कार्यालय का उद्घाटन करेंगे और राष्ट्रीय एससी-एसटी हब सम्मेलन की अध्यक्षता करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342722",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:41",
+      "ts": "2026-11-27T17:41:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342728": {
+      "title": "सशक्तीकरण की एक प्रेरक यात्रा",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342728",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:32",
+      "ts": "2026-11-27T17:32:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342752": {
+      "title": "डॉ. जितेंद्र सिंह ने राज्यों और केंद्रशासित प्रदेशों के कार्मिक एवं सामान्य प्रशासन विभाग के सचिवों से सुशासन की सर्वोत्तम प्रथाओं को अपनाने, प्रशासनिक सुधारों को मजबूत करने और नागरिक-केंद्रित शासन व्यवस्था विकसित करने का आग्रह किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342752",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:29",
+      "ts": "2026-11-27T17:29:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342764": {
+      "title": "सीएसआईआर-सीआरआरआई ने अग्रणी स्टील स्लैग सड़क प्रौद्योगिकी और ईकोफिक्स के लिए प्रतिष्ठित सीआईआई 4आर पुरस्कार 2026 जीते; भारत के शीर्ष 30 ‘अपशिष्ट से आय सृजन’ के क्षेत्र में अग्रणी संस्थानों में स्थान प्राप्त किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342764",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:58",
+      "ts": "2026-11-27T16:58:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342725": {
+      "title": "भारतीय दूरसंचार नियामक प्राधिकरण ने “दूरसंचार अंतर्संबंध (संदर्भ अंतर्संबंध प्रस्ताव) (संशोधन) विनियम, 2026” जारी किए",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342725",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "16:52",
+      "ts": "2026-11-27T16:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342753": {
+      "title": "अनुसूचित जनजाति के छात्रों के लिए राष्ट्रीय प्रवासी छात्रवृत्ति योजना",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342753",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:43",
+      "ts": "2026-11-27T15:43:00+05:30"
     }
   }
 }
