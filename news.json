@@ -1,7 +1,16 @@
 {
   "date": "2026-11-27",
-  "updated": "06:24",
+  "updated": "07:46",
   "items": [
+    {
+      "title": "Europe Partnership, not separation, is the answer for Britain",
+      "link": "https://www.gov.uk/government/news/europe-partnership-not-separation-is-the-answer-for-britain",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "06:31",
+      "ts": "2026-11-27T06:31:06+05:30"
+    },
     {
       "title": "Over half a million households to get help with water bills",
       "link": "https://www.gov.uk/government/news/over-half-a-million-households-to-get-help-with-water-bills",
@@ -74,16 +83,16 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": true,
-      "entries": 20,
+      "ok": false,
+      "entries": 0,
       "today": 0,
-      "note": ""
+      "note": "no entries returned (address may be wrong or blocked)"
     }
   ],
   "checked": {
