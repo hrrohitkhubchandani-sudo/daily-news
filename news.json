@@ -1,7 +1,61 @@
 {
   "date": "2026-11-27",
-  "updated": "12:29",
+  "updated": "13:59",
   "items": [
+    {
+      "title": "Putting survivors at the centre of gender-based violence services",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168885",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-27T17:30:00+05:30"
+    },
+    {
+      "title": "लोक सभा अध्यक्ष ने श्री जी. वी. मावलंकर की जयंती पर श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342462",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:45",
+      "ts": "2026-11-27T13:45:00+05:30"
+    },
+    {
+      "title": "Temporary disruption to some DWP online services",
+      "link": "https://www.gov.uk/government/news/temporary-disruption-to-some-dwp-online-services",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "13:41",
+      "ts": "2026-11-27T13:41:20+05:30"
+    },
+    {
+      "title": "विद्युत मंत्रियों का दो दिवसीय सम्मेलन नई दिल्ली में शुरू",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342464",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:40",
+      "ts": "2026-11-27T12:40:00+05:30"
+    },
+    {
+      "title": "वैश्विक अनिश्चितताओं के बीच भारत की प्रगति की कहानी मजबूत, लचीली और भरोसेमंद बनी हुई है: केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342466",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:09",
+      "ts": "2026-11-27T12:09:00+05:30"
+    },
+    {
+      "title": "महिला एवं बाल विकास मंत्रालय तथा कौशल विकास एवं उद्यमिता मंत्रालय 28 नवंबर, 2026 को हरिद्वार में संयुक्त रूप से नव्या 2.0 का शुभारंभ करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342453",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:02",
+      "ts": "2026-11-27T12:02:00+05:30"
+    },
     {
       "title": "उत्तर प्रदेश के आईटी/आईटीईएस और स्टार्टअप इकोसिस्टम को मजबूत करने के लिए एसटीपीआई ने बरेली में अपने 75वें केंद्र का उद्घाटन किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342409",
@@ -45,7 +99,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 6,
       "note": ""
     },
     {
@@ -53,7 +107,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -101,7 +155,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -153,6 +207,42 @@
       "category": "Government",
       "time": "09:52",
       "ts": "2026-11-27T09:52:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342462": {
+      "title": "लोक सभा अध्यक्ष ने श्री जी. वी. मावलंकर की जयंती पर श्रद्धांजलि अर्पित की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342462",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:45",
+      "ts": "2026-11-27T13:45:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342464": {
+      "title": "विद्युत मंत्रियों का दो दिवसीय सम्मेलन नई दिल्ली में शुरू",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342464",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:40",
+      "ts": "2026-11-27T12:40:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342466": {
+      "title": "वैश्विक अनिश्चितताओं के बीच भारत की प्रगति की कहानी मजबूत, लचीली और भरोसेमंद बनी हुई है: केंद्रीय वाणिज्य एवं उद्योग मंत्री श्री पीयूष गोयल",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342466",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:09",
+      "ts": "2026-11-27T12:09:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342453": {
+      "title": "महिला एवं बाल विकास मंत्रालय तथा कौशल विकास एवं उद्यमिता मंत्रालय 28 नवंबर, 2026 को हरिद्वार में संयुक्त रूप से नव्या 2.0 का शुभारंभ करेंगे",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342453",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:02",
+      "ts": "2026-11-27T12:02:00+05:30"
     }
   }
 }
