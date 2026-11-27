@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "07:46",
+  "updated": "08:58",
   "items": [
     {
       "title": "Europe Partnership, not separation, is the answer for Britain",
@@ -89,10 +89,10 @@
     {
       "name": "US Federal Reserve: Press releases",
       "country": "United States",
-      "ok": false,
-      "entries": 0,
+      "ok": true,
+      "entries": 20,
       "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "note": ""
     }
   ],
   "checked": {
@@ -115,6 +115,8 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342187": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342173": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342143": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342190": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342190": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342379": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342380": null
   }
 }
