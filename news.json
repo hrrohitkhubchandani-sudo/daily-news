@@ -1,7 +1,16 @@
 {
   "date": "2026-11-27",
-  "updated": "11:24",
+  "updated": "12:29",
   "items": [
+    {
+      "title": "उत्तर प्रदेश के आईटी/आईटीईएस और स्टार्टअप इकोसिस्टम को मजबूत करने के लिए एसटीपीआई ने बरेली में अपने 75वें केंद्र का उद्घाटन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342409",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:52",
+      "ts": "2026-11-27T09:52:00+05:30"
+    },
     {
       "title": "प्रधानमंत्री श्री नरेन्द्र मोदी ने सत्संग और भक्ति के आध्यात्मिक आनंद को दर्शाने वाला संस्कृत सुभाषितम् साझा किया",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342387",
@@ -36,7 +45,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -135,6 +144,15 @@
       "category": "Government",
       "time": "09:18",
       "ts": "2026-11-27T09:18:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342409": {
+      "title": "उत्तर प्रदेश के आईटी/आईटीईएस और स्टार्टअप इकोसिस्टम को मजबूत करने के लिए एसटीपीआई ने बरेली में अपने 75वें केंद्र का उद्घाटन किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342409",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "09:52",
+      "ts": "2026-11-27T09:52:00+05:30"
     }
   }
 }
