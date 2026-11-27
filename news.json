@@ -1,7 +1,43 @@
 {
   "date": "2026-11-27",
-  "updated": "19:46",
+  "updated": "20:55",
   "items": [
+    {
+      "title": "MoD launches new website to help small businesses access Defence & industry testing ranges  for innovative new kit",
+      "link": "https://www.gov.uk/government/news/mod-launches-new-website-to-help-small-businesses-access-defence-industry-testing-ranges-for-innovative-new-kit",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:17",
+      "ts": "2026-11-27T20:17:28+05:30"
+    },
+    {
+      "title": "Temporary disruption to some DWP online services",
+      "link": "https://www.gov.uk/government/news/temporary-disruption-to-some-dwp-online-services",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:15",
+      "ts": "2026-11-27T20:15:47+05:30"
+    },
+    {
+      "title": "Nearly £100 million boost to tackle violence against women and girls",
+      "link": "https://www.gov.uk/government/news/nearly-100-million-boost-to-tackle-violence-against-women-and-girls",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "20:07",
+      "ts": "2026-11-27T20:07:29+05:30"
+    },
+    {
+      "title": "MHRA approves linvoseltamab to treat adults with multiple myeloma",
+      "link": "https://www.gov.uk/government/news/mhra-approves-linvoseltamab-to-treat-adults-with-multiple-myeloma",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "19:56",
+      "ts": "2026-11-27T19:56:03+05:30"
+    },
     {
       "title": "UK education support in Syria reaches one million children",
       "link": "https://www.gov.uk/government/news/uk-education-support-in-syria-reaches-one-million-children",
@@ -9,7 +45,16 @@
       "country": "United Kingdom",
       "category": "Government",
       "time": "19:39",
-      "ts": "2026-11-27T19:39:23+05:30"
+      "ts": "2026-11-27T19:39:00+05:30"
+    },
+    {
+      "title": "'मैं जूरी सदस्य के तौर पर आया था, लेकिन सिनेमा का विद्यार्थी बन गया': 57वें IFFI में 'गोल्डन पीकॉक' जूरी के अपने अनुभव पर आनंद एल. राय",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342801",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:26",
+      "ts": "2026-11-27T19:26:00+05:30"
     },
     {
       "title": "Raising standards in private security: a discussion with leaders",
@@ -48,6 +93,24 @@
       "ts": "2026-11-27T19:04:07+05:30"
     },
     {
+      "title": "इफ्फी 2026 में फिल्मकारों ने ‘द केरल स्टोरी 2: गोज़ बियॉन्ड’ और ‘डेमोग्राफी इज़ डेस्टिनी’ की रचनात्मक यात्रा साझा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342781",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:50",
+      "ts": "2026-11-27T18:50:00+05:30"
+    },
+    {
+      "title": "57वें इफ्फी में पुर्तगाली फिल्म ‘कम विद मी’ दोस्ती और सिनेमा के साझा अनुभव को दर्शाती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342784",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:41",
+      "ts": "2026-11-27T18:41:00+05:30"
+    },
+    {
       "title": "इफ्फी 2026 में 'वर्चुअल भारत' भारत की विविध कथा-परंपराओं और भारतीय सिनेमा की वैश्विक शक्ति को उजागर करेगा",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342757",
       "source": "PIB, Government of India (Hindi)",
@@ -73,6 +136,15 @@
       "category": "Government",
       "time": "18:06",
       "ts": "2026-11-27T18:06:00+05:30"
+    },
+    {
+      "title": "विंध्यगिरि (वाई-3024) (परियोजना 17ए के अंतर्गत स्वदेशी उन्नत युद्धक क्षमताओं से लैस युद्धपोत) को भारतीय नौसेना को सौंपा गया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342771",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:04",
+      "ts": "2026-11-27T18:04:00+05:30"
     },
     {
       "title": "2001 पर एक नज़र: हिंदी सिनेमा को नई दिशा देने वाले फिल्म निर्माता 25 साल बाद फिर एक साथ आए",
@@ -111,6 +183,15 @@
       "ts": "2026-11-27T17:32:00+05:30"
     },
     {
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-27T17:30:00+05:30"
+    },
+    {
       "title": "Putting survivors at the centre of gender-based violence services",
       "link": "https://news.un.org/feed/view/en/story/2026/11/1168885",
       "source": "UN News: Top stories",
@@ -136,6 +217,15 @@
       "category": "Government",
       "time": "17:28",
       "ts": "2026-11-27T17:28:32+05:30"
+    },
+    {
+      "title": "डॉ. जितेंद्र सिंह ने लखनऊ स्थित सीएसआईआर-सीडीआरआई में बीएसएल-3 सुविधा का उद्घाटन किया; कहा- भारत नवाचार आधारित दवाओं की खोज और विकास का वैश्विक केंद्र बनने की दिशा में अग्रसर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342788",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:26",
+      "ts": "2026-11-27T17:26:00+05:30"
     },
     {
       "title": "Thousands sleeping rough offered a route off the streets",
@@ -219,51 +309,6 @@
       "ts": "2026-11-27T16:23:32+05:30"
     },
     {
-      "title": "उपराष्ट्रपति श्री सी. पी. राधाकृष्णन 28 नवंबर को वाराणसी के दौरे पर जाएंगे",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342619",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:20",
-      "ts": "2026-11-27T16:20:00+05:30"
-    },
-    {
-      "title": "‘पारो: द अनटोल्ड स्टोरी ऑफ ब्राइड स्लेवरी’ में दुल्हन तस्करी के जाल में फंसी महिलाओं की दुर्दशा को दर्शाया गया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342639",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:15",
-      "ts": "2026-11-27T16:15:00+05:30"
-    },
-    {
-      "title": "केंद्रीय मत्स्य पालन विभाग सचिव डॉ. अभिलक्ष लिखी ने नागपुर स्थित पशु और मत्स्य विज्ञान महाविद्यालय का दौरा किया; विद्यार्थियों से मत्स्य पालन, जलीय कृषि, उद्यमिता और जलजनित अर्थव्‍यवस्‍था में उभरते अवसरों पर संवाद किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342631",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "16:14",
-      "ts": "2026-11-27T16:14:00+05:30"
-    },
-    {
-      "title": "भारतीय पैनोरमा ने 57वें इफ्फी में ऑडियो विवरण और क्लोज्ड कैप्शन के माध्यम से समावेशी सिनेमा को बढ़ावा दिया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342607",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:55",
-      "ts": "2026-11-27T15:55:00+05:30"
-    },
-    {
-      "title": "अनुसूचित जनजाति के छात्रों के लिए राष्ट्रीय प्रवासी छात्रवृत्ति योजना",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342753",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "15:43",
-      "ts": "2026-11-27T15:43:00+05:30"
-    },
-    {
       "title": "New online service launches for viewing and commenting on Section 62a planning applications",
       "link": "https://www.gov.uk/government/news/new-online-service-launches-for-viewing-and-commenting-on-section-62a-planning-applications",
       "source": "GOV.UK: News and communications",
@@ -280,15 +325,6 @@
       "category": "Government",
       "time": "15:10",
       "ts": "2026-11-27T15:10:42+05:30"
-    },
-    {
-      "title": "Temporary disruption to some DWP online services",
-      "link": "https://www.gov.uk/government/news/temporary-disruption-to-some-dwp-online-services",
-      "source": "GOV.UK: News and communications",
-      "country": "United Kingdom",
-      "category": "Government",
-      "time": "13:41",
-      "ts": "2026-11-27T13:41:20+05:30"
     },
     {
       "title": "Europe Partnership, not separation, is the answer for Britain",
@@ -323,7 +359,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -347,7 +383,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -371,7 +407,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 13,
+      "today": 16,
       "note": ""
     },
     {
@@ -720,6 +756,51 @@
       "category": "Government",
       "time": "15:43",
       "ts": "2026-11-27T15:43:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342801": {
+      "title": "'मैं जूरी सदस्य के तौर पर आया था, लेकिन सिनेमा का विद्यार्थी बन गया': 57वें IFFI में 'गोल्डन पीकॉक' जूरी के अपने अनुभव पर आनंद एल. राय",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342801",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:26",
+      "ts": "2026-11-27T19:26:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342781": {
+      "title": "इफ्फी 2026 में फिल्मकारों ने ‘द केरल स्टोरी 2: गोज़ बियॉन्ड’ और ‘डेमोग्राफी इज़ डेस्टिनी’ की रचनात्मक यात्रा साझा की",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342781",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:50",
+      "ts": "2026-11-27T18:50:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342784": {
+      "title": "57वें इफ्फी में पुर्तगाली फिल्म ‘कम विद मी’ दोस्ती और सिनेमा के साझा अनुभव को दर्शाती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342784",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:41",
+      "ts": "2026-11-27T18:41:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342771": {
+      "title": "विंध्यगिरि (वाई-3024) (परियोजना 17ए के अंतर्गत स्वदेशी उन्नत युद्धक क्षमताओं से लैस युद्धपोत) को भारतीय नौसेना को सौंपा गया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342771",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "18:04",
+      "ts": "2026-11-27T18:04:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342788": {
+      "title": "डॉ. जितेंद्र सिंह ने लखनऊ स्थित सीएसआईआर-सीडीआरआई में बीएसएल-3 सुविधा का उद्घाटन किया; कहा- भारत नवाचार आधारित दवाओं की खोज और विकास का वैश्विक केंद्र बनने की दिशा में अग्रसर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342788",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:26",
+      "ts": "2026-11-27T17:26:00+05:30"
     }
   }
 }
