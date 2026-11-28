@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "19:25",
+  "updated": "20:10",
   "items": [
     {
       "title": "M 4.0 - 10 km WSW of Point MacKenzie, Alaska",
@@ -8,8 +8,17 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "19:13",
-      "ts": "2026-11-28T19:13:37+05:30"
+      "time": "19:55",
+      "ts": "2026-11-28T19:55:02+05:30"
+    },
+    {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज षष्ठपीठाधीश्वर परम पूज्य गोस्वामी 108 श्री द्वारकेशलालजी महाराजश्री के 60वें षष्ठीपूर्ति महोत्सव के अवसर पर वडोदरा में आयोजित 'विश्व कल्याण महोत्सव' को वीडियो कॉन्फ्रेंसिंग के माध्यम से संबोधित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343191",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:46",
+      "ts": "2026-11-28T19:46:00+05:30"
     },
     {
       "title": "M 6.7 - 62 km NNW of Yelizovo, Russia",
@@ -208,15 +217,6 @@
       "category": "Government",
       "time": "13:07",
       "ts": "2026-11-28T13:07:00+05:30"
-    },
-    {
-      "title": "भारत की राष्ट्रपति ने एझिमाला स्थित भारतीय नौसेना अकादमी में ऑटम टर्म 2026 की पासिंग आउट परेड का निरीक्षण किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342975",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "12:13",
-      "ts": "2026-11-28T12:13:00+05:30"
     },
     {
       "title": "Pharmacy shake-up to save patients repeat trips for medicines",
@@ -532,6 +532,15 @@
       "category": "Government",
       "time": "13:09",
       "ts": "2026-11-28T13:09:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343191": {
+      "title": "केन्द्रीय गृह एवं सहकारिता मंत्री श्री अमित शाह ने आज षष्ठपीठाधीश्वर परम पूज्य गोस्वामी 108 श्री द्वारकेशलालजी महाराजश्री के 60वें षष्ठीपूर्ति महोत्सव के अवसर पर वडोदरा में आयोजित 'विश्व कल्याण महोत्सव' को वीडियो कॉन्फ्रेंसिंग के माध्यम से संबोधित किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343191",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "19:46",
+      "ts": "2026-11-28T19:46:00+05:30"
     }
   }
 }
