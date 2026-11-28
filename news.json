@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "13:15",
+  "updated": "14:12",
   "items": [
     {
       "title": "M 4.0 - 10 km WSW of Point MacKenzie, Alaska",
@@ -8,8 +8,17 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "13:11",
-      "ts": "2026-11-28T13:11:55+05:30"
+      "time": "13:54",
+      "ts": "2026-11-28T13:54:34+05:30"
+    },
+    {
+      "title": "राष्ट्रीय वित्तीय रिपोर्टिंग प्राधिकरण और सोसाइटी ऑफ ऑडिटर्स, चेन्नई ने ऑडिट प्रोफेशनल्स के लिए संपर्क कार्यक्रम आयोजित किया; बेहतर वित्तीय रिपोर्टिंग पारिस्थितिकी बनाना और ऑडिट की गुणवत्ता में सुधार करना था कार्यक्रम का उद्देश्य",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342993",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:07",
+      "ts": "2026-11-28T13:07:00+05:30"
     },
     {
       "title": "भारत की राष्ट्रपति ने एझिमाला स्थित भारतीय नौसेना अकादमी में ऑटम टर्म 2026 की पासिंग आउट परेड का निरीक्षण किया",
@@ -54,7 +63,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
@@ -154,6 +163,15 @@
       "category": "Government",
       "time": "12:13",
       "ts": "2026-11-28T12:13:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342993": {
+      "title": "राष्ट्रीय वित्तीय रिपोर्टिंग प्राधिकरण और सोसाइटी ऑफ ऑडिटर्स, चेन्नई ने ऑडिट प्रोफेशनल्स के लिए संपर्क कार्यक्रम आयोजित किया; बेहतर वित्तीय रिपोर्टिंग पारिस्थितिकी बनाना और ऑडिट की गुणवत्ता में सुधार करना था कार्यक्रम का उद्देश्य",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342993",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "13:07",
+      "ts": "2026-11-28T13:07:00+05:30"
     }
   }
 }
