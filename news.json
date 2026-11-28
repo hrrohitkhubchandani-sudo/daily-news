@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "updated": "22:08",
+  "updated": "23:05",
   "items": [
     {
       "title": "M 4.0 - 10 km WSW of Point MacKenzie, Alaska",
@@ -8,8 +8,17 @@
       "source": "USGS: Significant earthquakes",
       "country": "World",
       "category": "Disasters",
-      "time": "21:59",
-      "ts": "2026-11-28T21:59:47+05:30"
+      "time": "22:56",
+      "ts": "2026-11-28T22:56:51+05:30"
+    },
+    {
+      "title": "M 6.7 - 62 km NNW of Yelizovo, Russia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue3p",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "22:51",
+      "ts": "2026-11-28T22:51:56+05:30"
     },
     {
       "title": "प्रस्फुटन से लेकर प्रकृति की आवाज़ और भारत के ढोल तक: सांस्कृतिक प्रस्तुतियों ने 57वें इफ्फी के समापन समारोह को जीवंत बना दिया",
@@ -28,15 +37,6 @@
       "category": "Government",
       "time": "20:54",
       "ts": "2026-11-28T20:54:00+05:30"
-    },
-    {
-      "title": "M 6.7 - 62 km NNW of Yelizovo, Russia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ue3p",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "20:53",
-      "ts": "2026-11-28T20:53:37+05:30"
     },
     {
       "title": "57वें IFFI के समापन समारोह में गोवा के फिल्म निर्माता आदित्य सुहास जंभाले सम्मानित",
@@ -192,6 +192,15 @@
       "ts": "2026-11-28T17:38:00+05:30"
     },
     {
+      "title": "सालाना पारिवारिक आय 5 लाख रुपये तक वाले अनुसूचित जाति और अनुसूचित जनजाति के मरीज संशोधित डॉ. अंबेडकर चिकित्सा सहायता योजना के तहत चिकित्सा सहायता के पात्र हैं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343291",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:34",
+      "ts": "2026-11-28T17:34:00+05:30"
+    },
+    {
       "title": "Joint statement on the Falkland Islands from the Foreign Secretary and Attorney General",
       "link": "https://www.gov.uk/government/news/joint-statement-on-the-falkland-islands-from-the-foreign-secretary-and-attorney-general",
       "source": "GOV.UK: News and communications",
@@ -201,22 +210,22 @@
       "ts": "2026-11-28T17:32:32+05:30"
     },
     {
-      "title": "Swimming the Strait of Hormuz: Lewis Pugh on war’s overlooked environmental toll",
-      "link": "https://news.un.org/feed/view/en/story/2026/11/1168881",
-      "source": "UN News: Climate change",
+      "title": "Tribunal rejects Argentina’s bid to halt oil drilling off Falkland Islands (Malvinas)",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168895",
+      "source": "UN News: Top stories",
       "country": "World",
-      "category": "Climate",
+      "category": "World",
       "time": "17:30",
       "ts": "2026-11-28T17:30:00+05:30"
     },
     {
-      "title": "प्रधानमंत्री ने उत्तराखंड के पौड़ी गढ़वाल जिले में हुई एक दुर्घटना में लोगों की मौत पर शोक व्यक्त किया",
-      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343129",
-      "source": "PIB, Government of India (Hindi)",
-      "country": "India",
-      "category": "Government",
-      "time": "17:15",
-      "ts": "2026-11-28T17:15:00+05:30"
+      "title": "Swimming the Strait of Hormuz: Lewis Pugh on war’s overlooked environmental toll",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168881",
+      "source": "UN News: Top stories",
+      "country": "World",
+      "category": "World",
+      "time": "17:30",
+      "ts": "2026-11-28T17:30:00+05:30"
     },
     {
       "title": "Curriculum overhaul to put reading at its heart",
@@ -269,7 +278,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 2,
       "note": ""
     },
     {
@@ -293,7 +302,7 @@
       "country": "World",
       "ok": true,
       "entries": 30,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -694,6 +703,15 @@
       "category": "Government",
       "time": "19:49",
       "ts": "2026-11-28T19:49:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343291": {
+      "title": "सालाना पारिवारिक आय 5 लाख रुपये तक वाले अनुसूचित जाति और अनुसूचित जनजाति के मरीज संशोधित डॉ. अंबेडकर चिकित्सा सहायता योजना के तहत चिकित्सा सहायता के पात्र हैं",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343291",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "17:34",
+      "ts": "2026-11-28T17:34:00+05:30"
     }
   }
 }
