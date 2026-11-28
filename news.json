@@ -1,7 +1,25 @@
 {
   "date": "2026-11-28",
-  "updated": "11:56",
+  "updated": "13:15",
   "items": [
+    {
+      "title": "M 4.0 - 10 km WSW of Point MacKenzie, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xnvqjt",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "13:11",
+      "ts": "2026-11-28T13:11:55+05:30"
+    },
+    {
+      "title": "भारत की राष्ट्रपति ने एझिमाला स्थित भारतीय नौसेना अकादमी में ऑटम टर्म 2026 की पासिंग आउट परेड का निरीक्षण किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342975",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:13",
+      "ts": "2026-11-28T12:13:00+05:30"
+    },
     {
       "title": "Pharmacy shake-up to save patients repeat trips for medicines",
       "link": "https://www.gov.uk/government/news/pharmacy-shake-up-to-save-patients-repeat-trips-for-medicines",
@@ -36,7 +54,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 0,
+      "today": 1,
       "note": ""
     },
     {
@@ -82,10 +100,10 @@
     {
       "name": "USGS: Significant earthquakes",
       "country": "World",
-      "ok": false,
-      "entries": 0,
-      "today": 0,
-      "note": "no entries returned (address may be wrong or blocked)"
+      "ok": true,
+      "entries": 1,
+      "today": 1,
+      "note": ""
     },
     {
       "name": "GOV.UK: News and communications",
@@ -127,6 +145,15 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342754": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342955": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342954": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342965": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342965": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342975": {
+      "title": "भारत की राष्ट्रपति ने एझिमाला स्थित भारतीय नौसेना अकादमी में ऑटम टर्म 2026 की पासिंग आउट परेड का निरीक्षण किया",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342975",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "12:13",
+      "ts": "2026-11-28T12:13:00+05:30"
+    }
   }
 }
