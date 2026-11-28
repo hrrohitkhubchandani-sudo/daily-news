@@ -1,7 +1,16 @@
 {
   "date": "2026-11-28",
-  "updated": "10:57",
+  "updated": "11:56",
   "items": [
+    {
+      "title": "Pharmacy shake-up to save patients repeat trips for medicines",
+      "link": "https://www.gov.uk/government/news/pharmacy-shake-up-to-save-patients-repeat-trips-for-medicines",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "11:30",
+      "ts": "2026-11-28T11:30:02+05:30"
+    },
     {
       "title": "Millions in water company fines to go to water clean-up projects across the country",
       "link": "https://www.gov.uk/government/news/millions-in-water-company-fines-to-go-to-water-clean-up-projects-across-the-country",
@@ -83,7 +92,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 2,
+      "today": 3,
       "note": ""
     },
     {
@@ -117,6 +126,7 @@
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342769": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342754": null,
     "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342955": null,
-    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342954": null
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342954": null,
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342965": null
   }
 }
