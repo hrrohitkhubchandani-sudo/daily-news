@@ -1,7 +1,16 @@
 {
   "date": "2026-11-28",
-  "updated": "05:12",
+  "updated": "06:21",
   "items": [
+    {
+      "title": "Millions in water company fines to go to water clean-up projects across the country",
+      "link": "https://www.gov.uk/government/news/millions-in-water-company-fines-to-go-to-water-clean-up-projects-across-the-country",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "05:31",
+      "ts": "2026-11-28T05:31:00+05:30"
+    },
     {
       "title": "Temporary disruption to some DWP online services",
       "link": "https://www.gov.uk/government/news/temporary-disruption-to-some-dwp-online-services",
@@ -74,7 +83,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 1,
+      "today": 2,
       "note": ""
     },
     {
