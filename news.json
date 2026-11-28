@@ -1,7 +1,25 @@
 {
   "date": "2026-11-28",
-  "updated": "17:10",
+  "updated": "18:16",
   "items": [
+    {
+      "title": "M 4.0 - 10 km WSW of Point MacKenzie, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xnvqjt",
+      "source": "USGS: Significant earthquakes",
+      "country": "World",
+      "category": "Disasters",
+      "time": "17:42",
+      "ts": "2026-11-28T17:42:50+05:30"
+    },
+    {
+      "title": "Joint statement on the Falkland Islands from the Foreign Secretary and Attorney General",
+      "link": "https://www.gov.uk/government/news/joint-statement-on-the-falkland-islands-from-the-foreign-secretary-and-attorney-general",
+      "source": "GOV.UK: News and communications",
+      "country": "United Kingdom",
+      "category": "Government",
+      "time": "17:32",
+      "ts": "2026-11-28T17:32:32+05:30"
+    },
     {
       "title": "जूट आयुक्त ने जूट बेलरों, स्टॉकिस्टों, व्यापारियों और जूट मिलों के लिए कच्चे जूट पर स्टॉक सीमा लगाई",
       "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343067",
@@ -12,15 +30,6 @@
       "ts": "2026-11-28T16:55:00+05:30"
     },
     {
-      "title": "M 4.0 - 10 km WSW of Point MacKenzie, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xnvqjt",
-      "source": "USGS: Significant earthquakes",
-      "country": "World",
-      "category": "Disasters",
-      "time": "16:30",
-      "ts": "2026-11-28T16:30:44+05:30"
-    },
-    {
       "title": "Curriculum overhaul to put reading at its heart",
       "link": "https://www.gov.uk/government/news/curriculum-overhaul-to-put-reading-at-its-heart",
       "source": "GOV.UK: News and communications",
@@ -28,6 +37,24 @@
       "category": "Government",
       "time": "16:11",
       "ts": "2026-11-28T16:11:27+05:30"
+    },
+    {
+      "title": "स्वदेशी अनुसंधान, नवाचार और किफायती उन्नत उपचार के माध्यम से भारत एक वैश्विक स्वास्थ्य सेवा शक्ति (ग्लोबल हेल्थकेयर पावरहाउस) के रूप में विकसित हो रहा है; डॉ. जितेंद्र सिंह ने क्लिनिकल मेडिसिन और तकनीक-आधारित तौर-तरीकों के बीच उचित संतुलन बनाए रखने का आह्वान किया।",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343093",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:51",
+      "ts": "2026-11-28T15:51:00+05:30"
+    },
+    {
+      "title": "परिवार क्या है और अपनेपन का असली अर्थ क्या है? 57वें इफ्फी की समापन फिल्म रिश्तों की गहराई को दर्शाती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343096",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:48",
+      "ts": "2026-11-28T15:48:00+05:30"
     },
     {
       "title": "उपराष्ट्रपति ने वाराणसी में काशी तमिल संगमम के पांचवें संस्करण का उद्घाटन किया",
@@ -46,6 +73,24 @@
       "category": "Government",
       "time": "15:27",
       "ts": "2026-11-28T15:27:00+05:30"
+    },
+    {
+      "title": "‘हनुमान अंश’ में नीम करोली बाबा की आध्यात्मिक यात्रा का चित्रण, दर्शकों को अपने भीतर झांकने का अवसर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343087",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:22",
+      "ts": "2026-11-28T15:22:00+05:30"
+    },
+    {
+      "title": "फिजी के रक्षा एवं पूर्व सैनिक मामलों के मंत्रालय के अधिकारियों के लिए डीएचटीआई के पहले अंतरराष्ट्रीय क्षमता निर्माण कार्यक्रम का पहला चरण सुवा में संपन्न हुआ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343086",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:17",
+      "ts": "2026-11-28T14:17:00+05:30"
     },
     {
       "title": "प्रधानमंत्री ने नारी शक्ति के सशक्तीकरण और महिलाओं के प्रतिनिधित्व को आगे बढ़ाने की अपनी दृढ़ प्रतिबद्धता दोहराई",
@@ -144,7 +189,7 @@
       "country": "India",
       "ok": true,
       "entries": 20,
-      "today": 10,
+      "today": 14,
       "note": ""
     },
     {
@@ -200,7 +245,7 @@
       "country": "United Kingdom",
       "ok": true,
       "entries": 20,
-      "today": 4,
+      "today": 5,
       "note": ""
     },
     {
@@ -325,6 +370,42 @@
       "category": "Government",
       "time": "13:11",
       "ts": "2026-11-28T13:11:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343093": {
+      "title": "स्वदेशी अनुसंधान, नवाचार और किफायती उन्नत उपचार के माध्यम से भारत एक वैश्विक स्वास्थ्य सेवा शक्ति (ग्लोबल हेल्थकेयर पावरहाउस) के रूप में विकसित हो रहा है; डॉ. जितेंद्र सिंह ने क्लिनिकल मेडिसिन और तकनीक-आधारित तौर-तरीकों के बीच उचित संतुलन बनाए रखने का आह्वान किया।",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343093",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:51",
+      "ts": "2026-11-28T15:51:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343096": {
+      "title": "परिवार क्या है और अपनेपन का असली अर्थ क्या है? 57वें इफ्फी की समापन फिल्म रिश्तों की गहराई को दर्शाती है",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343096",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:48",
+      "ts": "2026-11-28T15:48:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343087": {
+      "title": "‘हनुमान अंश’ में नीम करोली बाबा की आध्यात्मिक यात्रा का चित्रण, दर्शकों को अपने भीतर झांकने का अवसर",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343087",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "15:22",
+      "ts": "2026-11-28T15:22:00+05:30"
+    },
+    "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343086": {
+      "title": "फिजी के रक्षा एवं पूर्व सैनिक मामलों के मंत्रालय के अधिकारियों के लिए डीएचटीआई के पहले अंतरराष्ट्रीय क्षमता निर्माण कार्यक्रम का पहला चरण सुवा में संपन्न हुआ",
+      "link": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2343086",
+      "source": "PIB, Government of India (Hindi)",
+      "country": "India",
+      "category": "Government",
+      "time": "14:17",
+      "ts": "2026-11-28T14:17:00+05:30"
     }
   }
 }
